@@ -106,7 +106,7 @@ Mapa je samostatný projekt; skill ji používá volitelně. Funguje i bez skill
 | 3 | statické API (Pages), server MCP, sběr a odeslání bodů, automatická kontrola PR | hotovo lokálně |
 | 4 | zveřejnění na GitHubu, napojení skillu rodokmen, návrh správci skillu | čeká |
 | 5 | web, oslovení archivů (SOA Praha, SOA Plzeň) | |
-| 6 | verze 2: rejstřík nalezených jmen s ověřováním | |
+| 6 | verze 2: přepisy přečtených zápisů a rejstřík jmen s ověřováním – návrh [PREPISY.md](PREPISY.md) | návrh |
 
 ## 8. Otevřené otázky
 
