@@ -1,0 +1,75 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "11957",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/11957",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/11957/{scan}",
+ "signature": "Slabce 24",
+ "parish": "Slabce",
+ "district": "Rakovník",
+ "places": [
+  "Hřebečníky",
+  "Kostelík",
+  "Malé Slabce",
+  "Modřejovice",
+  "Novosedly",
+  "Slabce",
+  "Šlovice",
+  "Svinařov",
+  "Týřovice",
+  "Újezdec"
+ ],
+ "records": {
+  "N": "1854–1868"
+ },
+ "scans": 388,
+ "language": "čeština",
+ "order": "chronological",
+ "index": {
+  "volume": "soa-praha/11958",
+  "refers_to": "page"
+ },
+ "points": [
+  {
+   "scan": 50,
+   "type": "N",
+   "year": 1856,
+   "months": "II",
+   "page": "48",
+   "note": "jedna strana na snímek, strana = snímek − 2",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 98,
+   "type": "N",
+   "year": 1857,
+   "months": "V",
+   "page": "96",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 268,
+   "type": "N",
+   "year": 1863,
+   "months": "VIII",
+   "page": "265",
+   "note": "zde strana = snímek − 3",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 269,
+   "type": "N",
+   "year": 1863,
+   "months": "VIII–IX",
+   "page": "266",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-10"
+  }
+ ]
+}

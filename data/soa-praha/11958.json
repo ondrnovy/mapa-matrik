@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "11958",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/11958",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/11958/{scan}",
+ "signature": "Slabce 27",
+ "parish": "Slabce",
+ "district": "Rakovník",
+ "places": [
+  "Hřebečníky",
+  "Kostelík",
+  "Malé Slabce",
+  "Modřejovice",
+  "Novosedly",
+  "Slabce",
+  "Šlovice",
+  "Svinařov",
+  "Týřovice",
+  "Újezdec"
+ ],
+ "records": {
+  "iN": "1821–1865",
+  "iO": "1821–1865",
+  "iZ": "1821–1865"
+ },
+ "scans": 120,
+ "language": "latina",
+ "order": "mixed",
+ "points": [
+  {
+   "scan": 39,
+   "type": "iN",
+   "letters": "Ř",
+   "year": 1825,
+   "year_to": 1865,
+   "note": "pravá strana",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 40,
+   "type": "iN",
+   "letters": "Š",
+   "year": 1821,
+   "year_to": 1827,
+   "note": "pravá strana; v písmenu chronologicky",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 41,
+   "type": "iN",
+   "letters": "S–Š",
+   "year": 1828,
+   "year_to": 1842,
+   "note": "S a Š společně (starý pravopis ss = š)",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 42,
+   "type": "iN",
+   "letters": "S–Š",
+   "year": 1842,
+   "year_to": 1848,
+   "note": "levá strana; pravá strana další oddíl S (Sp-, Sv-) 1821–1834",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 43,
+   "type": "iN",
+   "letters": "S",
+   "year": 1837,
+   "year_to": 1857,
+   "note": "levá 1837–1849, pravá 1849–1857; odkazy od 1854 na stránky N Slabce 24",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 44,
+   "type": "iN",
+   "letters": "S",
+   "year": 1857,
+   "year_to": 1865,
+   "note": "levá strana S 1857–1865 (odkazy na str. Slabce 24); pravá Š 1848–1854",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-10"
+  }
+ ]
+}

@@ -1,0 +1,200 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "11954",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/11954",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/11954/{scan}",
+ "signature": "Slabce 29",
+ "parish": "Slabce",
+ "district": "Rakovník",
+ "places": [
+  "Hřebečníky",
+  "Kostelík",
+  "Malé Slabce",
+  "Modřejovice",
+  "Novosedly",
+  "Slabce",
+  "Šlovice",
+  "Svinařov",
+  "Újezdec"
+ ],
+ "records": {
+  "O": "1854–1887"
+ },
+ "scans": 294,
+ "language": "čeština",
+ "order": "chronological",
+ "points": [
+  {
+   "scan": 215,
+   "type": "O",
+   "year": 1876,
+   "months": "IV–VI",
+   "page": "214",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 221,
+   "type": "O",
+   "year": 1877,
+   "months": "IX–XI",
+   "page": "220",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 223,
+   "type": "O",
+   "year": 1877,
+   "months": "XI",
+   "page": "222",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 224,
+   "type": "O",
+   "year": 1877,
+   "year_to": 1878,
+   "months": "XI–I",
+   "page": "223",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 225,
+   "type": "O",
+   "year": 1878,
+   "months": "I–II",
+   "page": "224",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 226,
+   "type": "O",
+   "year": 1878,
+   "months": "II",
+   "page": "225",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 227,
+   "type": "O",
+   "year": 1878,
+   "months": "V–VII",
+   "page": "226",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 228,
+   "type": "O",
+   "year": 1878,
+   "months": "X–XI",
+   "page": "227",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 229,
+   "type": "O",
+   "year": 1878,
+   "months": "XI",
+   "page": "228",
+   "note": "konec roku 1878",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 230,
+   "type": "O",
+   "year": 1878,
+   "year_to": 1879,
+   "months": "XI–I",
+   "page": "229",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 231,
+   "type": "O",
+   "year": 1879,
+   "months": "II",
+   "page": "230",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 232,
+   "type": "O",
+   "year": 1879,
+   "months": "II",
+   "page": "231",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 233,
+   "type": "O",
+   "year": 1879,
+   "months": "II–V",
+   "page": "232",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 234,
+   "type": "O",
+   "year": 1879,
+   "months": "V–VI",
+   "page": "233",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 235,
+   "type": "O",
+   "year": 1879,
+   "months": "VI–VII",
+   "page": "234",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 236,
+   "type": "O",
+   "year": 1879,
+   "months": "VIII–IX",
+   "page": "235",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 237,
+   "type": "O",
+   "year": 1879,
+   "months": "X",
+   "page": "236",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 238,
+   "type": "O",
+   "year": 1879,
+   "year_to": 1880,
+   "months": "XI–II",
+   "page": "237",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 239,
+   "type": "O",
+   "year": 1880,
+   "months": "II",
+   "page": "238",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 240,
+   "type": "O",
+   "year": 1880,
+   "months": "V–VI",
+   "page": "239",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-10"
+  }
+ ]
+}
