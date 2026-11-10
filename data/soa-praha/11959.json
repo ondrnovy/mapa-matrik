@@ -1,0 +1,43 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "11959",
+ "url": "https://ebadatelna.soapraha.cz/d/11959/1",
+ "signature": "Slabce 26",
+ "parish": "Slabce",
+ "records": {
+  "iN": "1784–1821",
+  "iO": "1784–1821",
+  "iZ": "1784–1821"
+ },
+ "language": "němčina",
+ "district": "Rakovník",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/11959/{scan}",
+ "points": [
+  {
+   "scan": 34,
+   "type": "iN",
+   "year": 1784,
+   "year_to": 1821,
+   "letters": "Z–Ž",
+   "note": "konec rejstříku N; odkazy na strany knih jednotlivých vsí; tužkou 1816 u Zuska Franc",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 51,
+   "type": "iO",
+   "year": 1784,
+   "year_to": 1821,
+   "letters": "S–Z",
+   "note": "S, Š (Sch), T, U, W, Z; tužkou doplněné sňatky s roky",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-10"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "11966",
+ "url": "https://ebadatelna.soapraha.cz/d/11966/1",
+ "signature": "Slabce 16",
+ "parish": "Slabce",
+ "records": {
+  "N": "1784–1821",
+  "O": "1784–1821",
+  "Z": "1784–1821"
+ },
+ "places": [
+  "Slabce"
+ ],
+ "language": "němčina",
+ "order": "chronological",
+ "district": "Rakovník",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/11966/{scan}",
+ "points": [
+  {
+   "scan": 56,
+   "type": "O",
+   "year": 1800,
+   "year_to": 1802,
+   "page": "6–7",
+   "note": "Slabce (obec), německy, mikrofilm",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-10"
+  }
+ ]
+}

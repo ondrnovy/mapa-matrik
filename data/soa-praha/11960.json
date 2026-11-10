@@ -1,0 +1,70 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "11960",
+ "url": "https://ebadatelna.soapraha.cz/d/11960/1",
+ "signature": "Slabce (Újezdec)",
+ "parish": "Slabce",
+ "records": {
+  "N": "1784–1821",
+  "O": "1784–1821",
+  "Z": "1784–1821"
+ },
+ "places": [
+  "Újezdec"
+ ],
+ "language": "němčina",
+ "order": "chronological",
+ "district": "Rakovník",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/11960/{scan}",
+ "points": [
+  {
+   "scan": 3,
+   "type": "N",
+   "year": 1784,
+   "year_to": 1786,
+   "page": "1",
+   "note": "Újezdec (Klein Augezd), začátek knihy",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 20,
+   "type": "N",
+   "year": 1819,
+   "year_to": 1821,
+   "page": "34–35",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 30,
+   "type": "O",
+   "year": 1790,
+   "year_to": 1806,
+   "page": "2–3",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 31,
+   "type": "O",
+   "year": 1804,
+   "year_to": 1815,
+   "page": "4–5",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 32,
+   "type": "O",
+   "year": 1816,
+   "year_to": 1821,
+   "page": "6–7",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-10"
+  }
+ ]
+}

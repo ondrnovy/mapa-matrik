@@ -1,0 +1,64 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "11964",
+ "url": "https://ebadatelna.soapraha.cz/d/11964/1",
+ "signature": "Slabce 18",
+ "parish": "Slabce",
+ "records": {
+  "N": "1784–1821",
+  "O": "1784–1821",
+  "Z": "1784–1821"
+ },
+ "places": [
+  "Svinařov"
+ ],
+ "language": "němčina",
+ "order": "chronological",
+ "scans": 33,
+ "district": "Rakovník",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/11964/{scan}",
+ "points": [
+  {
+   "scan": 3,
+   "type": "N",
+   "year": 1784,
+   "year_to": 1786,
+   "page": "1",
+   "note": "začátek knihy",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 18,
+   "type": "N",
+   "year": 1820,
+   "year_to": 1821,
+   "page": "30–31",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 24,
+   "type": "Z",
+   "year": 1817,
+   "year_to": 1820,
+   "page": "10–11",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 28,
+   "type": "O",
+   "year": 1806,
+   "year_to": 1818,
+   "page": "fol. 18–19",
+   "note": "Svinařov, německy, mikrofilm",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-10"
+  }
+ ]
+}

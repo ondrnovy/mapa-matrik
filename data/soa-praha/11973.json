@@ -1,0 +1,154 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "11973",
+ "url": "https://ebadatelna.soapraha.cz/d/11973/1",
+ "signature": "Slabce 09",
+ "parish": "Slabce",
+ "records": {
+  "N": "1784–1821",
+  "O": "1784–1821",
+  "Z": "1784–1821"
+ },
+ "places": [
+  "Modřejovice"
+ ],
+ "language": "němčina",
+ "order": "chronological",
+ "scans": 61,
+ "district": "Rakovník",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/11973/{scan}",
+ "points": [
+  {
+   "scan": 12,
+   "type": "N",
+   "year": 1797,
+   "year_to": 1798,
+   "page": "18–19",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 13,
+   "type": "N",
+   "year": 1798,
+   "year_to": 1799,
+   "page": "20–21",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 14,
+   "type": "N",
+   "year": 1799,
+   "year_to": 1800,
+   "page": "22–23",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 15,
+   "type": "N",
+   "year": 1800,
+   "year_to": 1801,
+   "page": "24–25",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 16,
+   "type": "N",
+   "year": 1801,
+   "year_to": 1803,
+   "page": "26–27",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 32,
+   "type": "N",
+   "year": 1818,
+   "year_to": 1819,
+   "page": "58–59",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 34,
+   "type": "N",
+   "year": 1819,
+   "year_to": 1820,
+   "page": "60–61",
+   "note": "německy, mikrofilm",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 42,
+   "type": "Z",
+   "year": 1801,
+   "year_to": 1803,
+   "page": "10–11",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 51,
+   "type": "Z",
+   "year": 1821,
+   "note": "konec oddílu Z; pravá strana prázdná",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 53,
+   "type": "O",
+   "year": 1788,
+   "year_to": 1797,
+   "page": "2–3",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 54,
+   "type": "O",
+   "year": 1797,
+   "year_to": 1802,
+   "page": "4–5",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 55,
+   "type": "O",
+   "year": 1802,
+   "year_to": 1807,
+   "page": "str. 6–7",
+   "place": "Modřejovice",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 56,
+   "type": "O",
+   "year": 1808,
+   "year_to": 1812,
+   "page": "str. 8–9",
+   "place": "Modřejovice",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 57,
+   "type": "O",
+   "year": 1812,
+   "year_to": 1815,
+   "page": "str. 10–11",
+   "place": "Modřejovice",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 58,
+   "type": "O",
+   "year": 1816,
+   "year_to": 1820,
+   "page": "str. 12–13",
+   "place": "Modřejovice",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-10"
+  }
+ ]
+}
