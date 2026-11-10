@@ -17,9 +17,150 @@
  "order": "chronological",
  "points": [
   {
+   "scan": 3,
+   "type": "N",
+   "year": 1856,
+   "page": "1",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 6,
+   "type": "N",
+   "year": 1857,
+   "page": "4",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 9,
+   "type": "N",
+   "year": 1858,
+   "page": "7",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 12,
+   "type": "N",
+   "year": 1859,
+   "page": "10",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 15,
+   "type": "N",
+   "year": 1860,
+   "page": "13",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 18,
+   "type": "N",
+   "year": 1860,
+   "page": "16",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 21,
+   "type": "N",
+   "year": 1861,
+   "page": "19",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 24,
+   "type": "N",
+   "year": 1862,
+   "page": "22",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 27,
+   "type": "N",
+   "year": 1862,
+   "page": "25",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 30,
+   "type": "N",
+   "year": 1863,
+   "page": "28",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 33,
+   "type": "N",
+   "year": 1864,
+   "page": "31",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 36,
+   "type": "N",
+   "year": 1865,
+   "page": "34",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 39,
+   "type": "N",
+   "year": 1867,
+   "page": "37",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 42,
+   "type": "N",
+   "year": 1868,
+   "page": "40",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 45,
+   "type": "N",
+   "year": 1869,
+   "page": "43",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 48,
+   "type": "N",
+   "year": 1871,
+   "page": "46",
+   "year_to": 1872,
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 51,
+   "type": "N",
+   "year": 1873,
+   "page": "49",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 54,
+   "type": "N",
+   "year": 1875,
+   "page": "52",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 57,
+   "type": "N",
+   "year": 1877,
+   "page": "55",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 58,
    "type": "N",
    "year": 1879
+  },
+  {
+   "scan": 60,
+   "type": "N",
+   "year": 1879,
+   "page": "58",
+   "by": "ondrnovy"
   },
   {
    "scan": 61,
@@ -29,7 +170,9 @@
   }
  ],
  "sections": [],
- "notes": [],
+ "notes": [
+  "Kniha je stránkovaná po dvojstranách (číslo vpravo nahoře): snímek = strana + 2 po celé knize."
+ ],
  "sources": [
   {
    "by": "ondrnovy",

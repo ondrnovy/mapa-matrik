@@ -17,10 +17,38 @@
  "order": "chronological",
  "points": [
   {
+   "scan": 6,
+   "type": "O",
+   "year": 1860,
+   "page": "3",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 9,
+   "type": "O",
+   "year": 1862,
+   "page": "6",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 10,
    "type": "O",
    "year": 1862,
    "note": "přibližně"
+  },
+  {
+   "scan": 12,
+   "type": "O",
+   "year": 1862,
+   "page": "9",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 15,
+   "type": "O",
+   "year": 1864,
+   "page": "12",
+   "by": "ondrnovy"
   },
   {
    "scan": 16,
@@ -29,14 +57,93 @@
    "page": "13"
   },
   {
+   "scan": 18,
+   "type": "O",
+   "year": 1867,
+   "page": "15",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 21,
+   "type": "O",
+   "year": 1876,
+   "page": "18",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 22,
    "type": "O",
    "year": 1880,
    "note": "přibližně"
+  },
+  {
+   "scan": 24,
+   "type": "O",
+   "year": 1882,
+   "page": "21",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 27,
+   "type": "O",
+   "year": 1889,
+   "page": "24",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 30,
+   "type": "O",
+   "year": 1897,
+   "page": "27",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 33,
+   "type": "O",
+   "year": 1901,
+   "page": "30",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 36,
+   "type": "O",
+   "year": 1908,
+   "page": "33",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 39,
+   "type": "O",
+   "year": 1912,
+   "page": "36",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 42,
+   "type": "O",
+   "year": 1920,
+   "page": "39",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 45,
+   "type": "O",
+   "year": 1931,
+   "page": "42",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 48,
+   "type": "O",
+   "year": 1937,
+   "page": "45",
+   "by": "ondrnovy"
   }
  ],
  "sections": [],
- "notes": [],
+ "notes": [
+  "Kniha je stránkovaná po dvojstranách (číslo vpravo nahoře): snímek = strana + 3 po celé knize. Na jednu dvojstranu připadá až několik let (málo sňatků)."
+ ],
  "sources": [
   {
    "by": "ondrnovy",

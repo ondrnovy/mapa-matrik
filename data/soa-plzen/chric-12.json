@@ -23,9 +23,138 @@
  },
  "points": [
   {
+   "scan": 3,
+   "type": "N",
+   "year": 1848,
+   "page": "2",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 7,
+   "type": "N",
+   "year": 1851,
+   "page": "6",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 11,
+   "type": "N",
+   "year": 1853,
+   "page": "10",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 15,
+   "type": "N",
+   "year": 1854,
+   "page": "14",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 19,
+   "type": "N",
+   "year": 1856,
+   "page": "18",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 23,
+   "type": "N",
+   "year": 1857,
+   "page": "22",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 27,
+   "type": "N",
+   "year": 1859,
+   "page": "26",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 31,
+   "type": "N",
+   "year": 1861,
+   "page": "30",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 35,
+   "type": "N",
+   "year": 1863,
+   "page": "34",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 39,
+   "type": "N",
+   "year": 1865,
+   "page": "38",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 43,
+   "type": "N",
+   "year": 1866,
+   "page": "42",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 47,
+   "type": "N",
+   "year": 1869,
+   "page": "46",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 51,
+   "type": "N",
+   "year": 1871,
+   "page": "50",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 55,
+   "type": "N",
+   "year": 1873,
+   "page": "54",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 59,
+   "type": "N",
+   "year": 1874,
+   "page": "58",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 60,
    "type": "N",
-   "year": 1878
+   "year": 1874,
+   "year_to": 1875,
+   "note": "opraveno z 1878 podle snímku",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 63,
+   "type": "N",
+   "year": 1876,
+   "page": "62",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 67,
+   "type": "N",
+   "year": 1878,
+   "page": "66",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 71,
+   "type": "N",
+   "year": 1879,
+   "page": "70",
+   "by": "ondrnovy"
   },
   {
    "scan": 73,
@@ -41,6 +170,13 @@
    "year": 1880,
    "months": "VII–XII",
    "page": "73"
+  },
+  {
+   "scan": 75,
+   "type": "N",
+   "year": 1880,
+   "page": "74",
+   "by": "ondrnovy"
   },
   {
    "scan": 76,
@@ -59,6 +195,13 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 79,
+   "type": "N",
+   "year": 1882,
+   "page": "78",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 83,
    "type": "N",
    "year": 1883,
@@ -66,11 +209,33 @@
    "months": "V–I",
    "page": "82",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 87,
+   "type": "N",
+   "year": 1885,
+   "page": "86",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 91,
+   "type": "N",
+   "year": 1887,
+   "page": "90",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 95,
+   "type": "N",
+   "year": 1889,
+   "page": "94",
+   "by": "ondrnovy"
   }
  ],
  "sections": [],
  "notes": [
-  "Dvůr Březsko zapisován do knihy Slatiny."
+  "Dvůr Březsko zapisován do knihy Slatiny.",
+  "Kniha je stránkovaná po dvojstranách (číslo vpravo nahoře): snímek = strana + 1 po celé knize."
  ],
  "sources": [
   {
