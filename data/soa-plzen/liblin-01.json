@@ -8,7 +8,10 @@
  "parish": "Liblín",
  "district": "Rokycany",
  "places": [
-  "Bujesily"
+  "Liblín",
+  "Bujesily",
+  "Chockov",
+  "Olešná"
  ],
  "records": {
   "N": "1822–1843"
@@ -17,11 +20,212 @@
  "order": "by_village",
  "points": [
   {
+   "scan": 9,
+   "type": "N",
+   "year": 1822,
+   "page": "12",
+   "place": "Liblín",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 15,
+   "type": "N",
+   "year": 1824,
+   "page": "24",
+   "place": "Liblín",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 21,
+   "type": "N",
+   "year": 1825,
+   "page": "36",
+   "place": "Liblín",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 27,
+   "type": "N",
+   "year": 1827,
+   "page": "48",
+   "place": "Liblín",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 33,
+   "type": "N",
+   "year": 1828,
+   "page": "60",
+   "place": "Liblín",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 39,
+   "type": "N",
+   "year": 1830,
+   "page": "72",
+   "place": "Liblín",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 45,
+   "type": "N",
+   "year": 1831,
+   "page": "84",
+   "place": "Liblín",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 51,
+   "type": "N",
+   "year": 1832,
+   "page": "96",
+   "place": "Liblín",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 57,
+   "type": "N",
+   "year": 1834,
+   "page": "108",
+   "place": "Liblín",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 63,
+   "type": "N",
+   "year": 1835,
+   "page": "120",
+   "place": "Liblín",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 69,
+   "type": "N",
+   "year": 1837,
+   "page": "132",
+   "place": "Liblín",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 75,
+   "type": "N",
+   "year": 1838,
+   "page": "144",
+   "place": "Liblín",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 81,
+   "type": "N",
+   "year": 1839,
+   "page": "156",
+   "place": "Liblín",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 87,
+   "type": "N",
+   "year": 1840,
+   "page": "168",
+   "place": "Liblín",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 93,
+   "type": "N",
+   "year": 1841,
+   "page": "180",
+   "place": "Liblín",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 99,
+   "type": "N",
+   "year": 1842,
+   "page": "192",
+   "place": "Liblín",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 105,
+   "type": "N",
+   "year": 1842,
+   "page": "204",
+   "place": "Liblín",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 111,
+   "type": "N",
+   "year": 1843,
+   "page": "216",
+   "place": "Liblín",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 117,
+   "type": "N",
+   "year": 1843,
+   "page": "228",
+   "place": "Liblín",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 123,
+   "type": "N",
+   "year": 1843,
+   "page": "240",
+   "place": "Liblín",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 129,
+   "type": "N",
+   "year": 1823,
+   "page": "268",
+   "place": "Bujesily",
+   "note": "rok nejistý",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 135,
+   "type": "N",
+   "year": 1825,
+   "page": "280",
+   "place": "Bujesily",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 141,
+   "type": "N",
+   "year": 1827,
+   "page": "292",
+   "place": "Bujesily",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 143,
    "type": "N",
    "year": 1828,
    "place": "Bujesily",
    "note": "přibližně"
+  },
+  {
+   "scan": 147,
+   "type": "N",
+   "year": 1830,
+   "place": "Bujesily",
+   "note": "rok nejistý (1830/1831)",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 153,
+   "type": "N",
+   "year": 1834,
+   "page": "318",
+   "place": "Bujesily",
+   "by": "ondrnovy"
   },
   {
    "scan": 156,
@@ -36,6 +240,181 @@
    "year": 1838,
    "place": "Bujesily",
    "note": "přibližně"
+  },
+  {
+   "scan": 159,
+   "type": "N",
+   "year": 1838,
+   "page": "330",
+   "place": "Bujesily",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 165,
+   "type": "N",
+   "year": 1840,
+   "page": "342",
+   "place": "Bujesily",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 171,
+   "type": "N",
+   "year": 1842,
+   "page": "354",
+   "place": "Bujesily",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 177,
+   "type": "N",
+   "year": 1843,
+   "page": "366",
+   "place": "Bujesily",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 183,
+   "type": "N",
+   "place": "Chockov",
+   "page": "439",
+   "note": "začátek Chockova (kolem sn. 180), rok v hlavičce nevyplněn",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 189,
+   "type": "N",
+   "year": 1829,
+   "page": "451",
+   "place": "Chockov",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 195,
+   "type": "N",
+   "year": 1835,
+   "page": "463",
+   "place": "Chockov",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 201,
+   "type": "N",
+   "year": 1841,
+   "page": "475",
+   "place": "Chockov",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 207,
+   "type": "N",
+   "year": 1842,
+   "page": "487",
+   "place": "Chockov",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 213,
+   "type": "N",
+   "year": 1822,
+   "place": "Olešná",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 219,
+   "type": "N",
+   "year": 1824,
+   "page": "557",
+   "place": "Olešná",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 225,
+   "type": "N",
+   "year": 1826,
+   "page": "569",
+   "place": "Olešná",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 231,
+   "type": "N",
+   "year": 1829,
+   "page": "583",
+   "place": "Olešná",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 237,
+   "type": "N",
+   "year": 1831,
+   "page": "595",
+   "place": "Olešná",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 243,
+   "type": "N",
+   "year": 1834,
+   "page": "607",
+   "place": "Olešná",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 249,
+   "type": "N",
+   "year": 1836,
+   "page": "619",
+   "place": "Olešná",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 255,
+   "type": "N",
+   "year": 1839,
+   "page": "631",
+   "place": "Olešná",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 261,
+   "type": "N",
+   "year": 1841,
+   "page": "643",
+   "place": "Olešná",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 267,
+   "type": "N",
+   "year": 1842,
+   "page": "655",
+   "place": "Olešná",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 273,
+   "type": "N",
+   "year": 1842,
+   "page": "667",
+   "place": "Olešná",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 279,
+   "type": "N",
+   "year": 1842,
+   "page": "679",
+   "place": "Olešná",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 291,
+   "type": "N",
+   "place": "Olešná",
+   "page": "745",
+   "note": "od sem narození židů v Olešné (Nati Judaei), roky 1824–1841 bez přísného pořadí",
+   "by": "ondrnovy"
   }
  ],
  "sections": [
@@ -47,11 +426,28 @@
    "note": "str. 264–375"
   }
  ],
- "notes": [],
+ "notes": [
+  "Kniha je řazená po vsích, každá ves 1822–1843: Liblín sn. ~9–125, Bujesily ~127–178, Chockov ~180–210, Olešná ~211–285, na konci narození židů v Olešné (sn. ~291–). Číslo levé strany vlevo nahoře; v Liblíně strana = 2 × snímek − 6, dál jsou v číslování skoky (Bujesily 2 × snímek + 10 až + 12, Chockov + 73)."
+ ],
  "sources": [
   {
    "by": "ondrnovy",
    "date": "2026-11-10"
   }
- ]
+ ],
+ "aliases": {
+  "Liblín": [
+   "Liblin"
+  ],
+  "Bujesily": [
+   "Bujesil"
+  ],
+  "Chockov": [
+   "Kotzkow"
+  ],
+  "Olešná": [
+   "Woleschna",
+   "Volešná"
+  ]
+ }
 }
