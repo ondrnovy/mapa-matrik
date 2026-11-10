@@ -27,19 +27,321 @@
  },
  "points": [
   {
+   "scan": 8,
+   "type": "N",
+   "year": 1862,
+   "page": "5",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 13,
+   "type": "N",
+   "year": 1863,
+   "page": "10",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 18,
+   "type": "N",
+   "year": 1863,
+   "page": "15",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 23,
+   "type": "N",
+   "year": 1863,
+   "page": "20",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 28,
+   "type": "N",
+   "year": 1864,
+   "page": "25",
+   "note": "přelom let 1863/1864",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 33,
+   "type": "N",
+   "year": 1864,
+   "page": "30",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 38,
+   "type": "N",
+   "year": 1864,
+   "page": "35",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 43,
+   "type": "N",
+   "year": 1865,
+   "page": "40",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 48,
+   "type": "N",
+   "year": 1865,
+   "page": "45",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 53,
+   "type": "N",
+   "year": 1866,
+   "page": "50",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 58,
+   "type": "N",
+   "year": 1866,
+   "page": "55",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 63,
+   "type": "N",
+   "year": 1867,
+   "page": "60",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 68,
+   "type": "N",
+   "year": 1867,
+   "page": "65",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 73,
+   "type": "N",
+   "year": 1868,
+   "page": "70",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 78,
+   "type": "N",
+   "year": 1869,
+   "page": "75",
+   "note": "přelom let 1868/1869",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 83,
+   "type": "N",
+   "year": 1869,
+   "page": "80",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 88,
+   "type": "N",
+   "year": 1869,
+   "page": "85",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 93,
+   "type": "N",
+   "year": 1870,
+   "page": "90",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 98,
+   "type": "N",
+   "year": 1870,
+   "page": "95",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 103,
+   "type": "N",
+   "year": 1871,
+   "page": "100",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 108,
+   "type": "N",
+   "year": 1871,
+   "page": "105",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 113,
+   "type": "N",
+   "year": 1872,
+   "page": "110",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 118,
+   "type": "N",
+   "year": 1872,
+   "page": "115",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 123,
+   "type": "N",
+   "year": 1873,
+   "page": "120",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 128,
+   "type": "N",
+   "year": 1873,
+   "page": "125",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 133,
+   "type": "N",
+   "year": 1874,
+   "page": "130",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 138,
+   "type": "N",
+   "year": 1874,
+   "page": "135",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 143,
+   "type": "N",
+   "year": 1875,
+   "page": "140",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 148,
+   "type": "N",
+   "year": 1875,
+   "page": "145",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 153,
+   "type": "N",
+   "year": 1876,
+   "page": "150",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 157,
    "type": "N",
    "year": 1876,
    "page": "154"
   },
   {
+   "scan": 158,
+   "type": "N",
+   "year": 1876,
+   "page": "155",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 163,
+   "type": "N",
+   "year": 1876,
+   "page": "160",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 168,
+   "type": "N",
+   "year": 1877,
+   "page": "165",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 173,
+   "type": "N",
+   "year": 1877,
+   "page": "170",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 178,
+   "type": "N",
+   "year": 1878,
+   "page": "175",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 183,
+   "type": "N",
+   "year": 1878,
+   "page": "180",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 188,
+   "type": "N",
+   "year": 1878,
+   "page": "185",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 193,
+   "type": "N",
+   "year": 1879,
+   "page": "190",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 198,
+   "type": "N",
+   "year": 1879,
+   "page": "195",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 203,
+   "type": "iN",
+   "letters": "B",
+   "note": "rejstřík podle příjmení, odkazuje na stranu",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 208,
+   "type": "iN",
+   "letters": "J",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 212,
    "type": "iN",
    "letters": "N"
+  },
+  {
+   "scan": 213,
+   "type": "iN",
+   "letters": "P",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 218,
+   "type": "iN",
+   "letters": "T",
+   "by": "ondrnovy"
   }
  ],
  "sections": [],
- "notes": [],
+ "notes": [
+  "Kniha je stránkovaná po dvojstranách (číslo vpravo nahoře): snímek = strana + 3 po celé knize (sn. 8 = str. 5, sn. 198 = str. 195). Zápisy končí 1879 kolem sn. 200, pak rejstřík."
+ ],
  "sources": [
   {
    "by": "ondrnovy",

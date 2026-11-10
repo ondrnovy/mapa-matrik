@@ -22,6 +22,96 @@
  "order": "chronological",
  "points": [
   {
+   "scan": 8,
+   "type": "N",
+   "note": "na začátku dodatečně zapsaná starší narození (1814, 1816)",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 13,
+   "type": "N",
+   "year": 1830,
+   "page": "21",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 18,
+   "type": "N",
+   "year": 1831,
+   "page": "31",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 23,
+   "type": "N",
+   "year": 1832,
+   "page": "41",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 28,
+   "type": "N",
+   "year": 1833,
+   "page": "51",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 33,
+   "type": "N",
+   "year": 1834,
+   "page": "61",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 38,
+   "type": "N",
+   "year": 1834,
+   "page": "71",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 43,
+   "type": "N",
+   "year": 1835,
+   "page": "81",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 48,
+   "type": "N",
+   "year": 1836,
+   "page": "91",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 53,
+   "type": "N",
+   "year": 1836,
+   "page": "101",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 58,
+   "type": "N",
+   "year": 1837,
+   "page": "111",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 63,
+   "type": "N",
+   "year": 1838,
+   "page": "121",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 68,
+   "type": "N",
+   "year": 1839,
+   "page": "131",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 69,
    "type": "N",
    "year": 1839
@@ -37,10 +127,136 @@
    "scan": 71,
    "type": "N",
    "year": 1839
+  },
+  {
+   "scan": 73,
+   "type": "N",
+   "year": 1840,
+   "page": "141",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 78,
+   "type": "N",
+   "year": 1840,
+   "page": "151",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 83,
+   "type": "N",
+   "year": 1841,
+   "page": "161",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 88,
+   "type": "N",
+   "year": 1842,
+   "page": "171",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 93,
+   "type": "N",
+   "year": 1843,
+   "page": "181",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 98,
+   "type": "N",
+   "year": 1843,
+   "page": "191",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 103,
+   "type": "N",
+   "year": 1844,
+   "page": "201",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 108,
+   "type": "N",
+   "year": 1844,
+   "page": "211",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 113,
+   "type": "N",
+   "year": 1845,
+   "page": "221",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 118,
+   "type": "N",
+   "year": 1846,
+   "page": "231",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 123,
+   "type": "N",
+   "year": 1847,
+   "page": "241",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 128,
+   "type": "N",
+   "year": 1848,
+   "page": "251",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 133,
+   "type": "N",
+   "year": 1848,
+   "page": "261",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 138,
+   "type": "N",
+   "year": 1849,
+   "page": "271",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 143,
+   "type": "N",
+   "year": 1850,
+   "page": "281",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 148,
+   "type": "iN",
+   "letters": "B",
+   "note": "rejstřík podle příjmení, odkazuje na stranu",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 153,
+   "type": "iN",
+   "letters": "K",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 163,
+   "type": "iN",
+   "letters": "Z",
+   "by": "ondrnovy"
   }
  ],
  "sections": [],
- "notes": [],
+ "notes": [
+  "Kniha je stránkovaná po stranách, číslo vpravo nahoře: pravá strana = 2 × snímek − 5 (sn. 3 = str. 1, sn. 143 = str. 281). Rejstřík od sn. ~147."
+ ],
  "sources": [
   {
    "by": "ondrnovy",
