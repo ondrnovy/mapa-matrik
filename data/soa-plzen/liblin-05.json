@@ -23,6 +23,70 @@
  "district": "Rokycany",
  "points": [
   {
+   "scan": 3,
+   "type": "N",
+   "place": "Liblín",
+   "year": 1806,
+   "page": "1",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 7,
+   "type": "N",
+   "place": "Liblín",
+   "year": 1808,
+   "page": "8",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 11,
+   "type": "N",
+   "place": "Liblín",
+   "year": 1809,
+   "page": "16",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 15,
+   "type": "N",
+   "place": "Liblín",
+   "year": 1812,
+   "page": "24",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 19,
+   "type": "N",
+   "place": "Liblín",
+   "year": 1814,
+   "page": "32",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 23,
+   "type": "N",
+   "place": "Liblín",
+   "year": 1816,
+   "page": "40",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 27,
+   "type": "N",
+   "place": "Liblín",
+   "year": 1818,
+   "page": "49",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 31,
+   "type": "N",
+   "place": "Liblín",
+   "year": 1821,
+   "page": "57",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 33,
    "type": "N",
    "year": 1806,
@@ -30,6 +94,22 @@
    "months": "XI 1806 – VIII 1807",
    "page": "str. 61–62",
    "place": "Bujesily",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 39,
+   "type": "N",
+   "place": "Bujesily",
+   "year": 1811,
+   "page": "73",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 43,
+   "type": "N",
+   "place": "Bujesily",
+   "year": 1813,
+   "page": "81",
    "by": "ondrnovy"
   },
   {
@@ -49,6 +129,105 @@
    "page": "str. 91–92",
    "place": "Bujesily",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 51,
+   "type": "N",
+   "place": "Bujesily",
+   "year": 1819,
+   "page": "97",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 55,
+   "type": "N",
+   "place": "Liblín",
+   "note": "narození židů",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 59,
+   "type": "N",
+   "place": "Chockov",
+   "year": 1812,
+   "page": "133",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 63,
+   "type": "N",
+   "place": "Chockov",
+   "year": 1816,
+   "page": "141",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 67,
+   "type": "N",
+   "place": "Olešná",
+   "year": 1818,
+   "page": "149",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 71,
+   "type": "N",
+   "place": "Olešná",
+   "year": 1821,
+   "page": "157",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 79,
+   "type": "N",
+   "place": "Olešná",
+   "year": 1808,
+   "page": "173",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 83,
+   "type": "N",
+   "place": "Olešná",
+   "year": 1811,
+   "page": "181",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 87,
+   "type": "N",
+   "place": "Olešná",
+   "year": 1813,
+   "page": "189",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 91,
+   "type": "N",
+   "place": "Olešná",
+   "year": 1816,
+   "page": "197",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 95,
+   "type": "N",
+   "place": "Robčice",
+   "year": 1806,
+   "page": "205",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 99,
+   "type": "iN",
+   "letters": "C–F",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 103,
+   "type": "iN",
+   "letters": "N–P",
+   "by": "ondrnovy"
   }
  ],
  "sources": [
@@ -56,5 +235,8 @@
    "by": "ondrnovy",
    "date": "2026-11-10"
   }
+ ],
+ "notes": [
+  "Po vsích, každá 1806–1821: Liblín sn. 3–~33, Bujesily ~35–52, narození židů ~55, Chockov ~57–64, Olešná ~66–93, Robčice ~95, rejstřík ~99–105."
  ]
 }

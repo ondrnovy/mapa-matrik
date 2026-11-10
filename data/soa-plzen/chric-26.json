@@ -17,11 +17,60 @@
  "language": "čeština",
  "points": [
   {
+   "scan": 3,
+   "type": "O",
+   "year": 1861,
+   "page": "1",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 6,
+   "type": "O",
+   "year": 1863,
+   "page": "4",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 9,
+   "type": "O",
+   "year": 1866,
+   "page": "7",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 12,
+   "type": "O",
+   "year": 1869,
+   "page": "10",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 15,
+   "type": "O",
+   "year": 1870,
+   "page": "13",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 18,
+   "type": "O",
+   "year": 1873,
+   "page": "16",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 20,
    "type": "O",
    "year": 1875,
    "months": "VI–XI",
    "page": "18",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 21,
+   "type": "O",
+   "year": 1876,
+   "page": "19",
    "by": "ondrnovy"
   },
   {
@@ -49,6 +98,139 @@
    "months": "I–VIII",
    "page": "24",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 27,
+   "type": "O",
+   "year": 1881,
+   "page": "25",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 30,
+   "type": "O",
+   "year": 1883,
+   "page": "28",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 33,
+   "type": "O",
+   "year": 1885,
+   "page": "31",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 36,
+   "type": "O",
+   "year": 1888,
+   "page": "34",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 39,
+   "type": "O",
+   "year": 1892,
+   "page": "37",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 42,
+   "type": "O",
+   "year": 1895,
+   "page": "40",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 45,
+   "type": "O",
+   "year": 1898,
+   "page": "43",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 48,
+   "type": "O",
+   "year": 1901,
+   "page": "46",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 51,
+   "type": "O",
+   "year": 1904,
+   "page": "49",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 54,
+   "type": "O",
+   "year": 1907,
+   "page": "52",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 57,
+   "type": "O",
+   "year": 1910,
+   "page": "55",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 60,
+   "type": "O",
+   "year": 1912,
+   "page": "58",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 63,
+   "type": "O",
+   "year": 1917,
+   "page": "61",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 66,
+   "type": "O",
+   "year": 1920,
+   "page": "64",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 69,
+   "type": "O",
+   "year": 1924,
+   "page": "67",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 72,
+   "type": "O",
+   "year": 1933,
+   "page": "70",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 75,
+   "type": "O",
+   "year": 1941,
+   "page": "73",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 78,
+   "type": "O",
+   "year": 1946,
+   "page": "76",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 81,
+   "type": "O",
+   "year": 1949,
+   "page": "79",
+   "by": "ondrnovy"
   }
  ],
  "sources": [
@@ -56,5 +238,8 @@
    "by": "ondrnovy",
    "date": "2026-11-10"
   }
+ ],
+ "notes": [
+  "Snímek = strana + 2 po celé knize; zápisy končí 1949 na sn. 81, dál prázdné formuláře."
  ]
 }

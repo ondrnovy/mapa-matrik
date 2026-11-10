@@ -21,6 +21,80 @@
  "district": "Rokycany",
  "points": [
   {
+   "scan": 6,
+   "type": "O",
+   "place": "Hřešihlavy",
+   "year": 1800,
+   "page": "4",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 9,
+   "type": "O",
+   "place": "Hřešihlavy",
+   "year": 1815,
+   "page": "7",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 12,
+   "type": "O",
+   "place": "Hřešihlavy",
+   "year": 1824,
+   "page": "10",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 15,
+   "type": "O",
+   "place": "Hřešihlavy",
+   "year": 1835,
+   "page": "13",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 18,
+   "type": "O",
+   "place": "Hřešihlavy",
+   "year": 1844,
+   "page": "16",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 21,
+   "type": "O",
+   "place": "Třímany",
+   "year": 1789,
+   "page": "19",
+   "note": "ves podle pořadí v knize",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 24,
+   "type": "O",
+   "place": "Třímany",
+   "year": 1807,
+   "page": "22",
+   "note": "ves podle pořadí v knize",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 33,
+   "type": "O",
+   "place": "Třímany",
+   "year": 1840,
+   "page": "31",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 36,
+   "type": "O",
+   "place": "Třímany",
+   "year": 1849,
+   "page": "34",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 41,
    "type": "O",
    "year": 1791,
@@ -73,6 +147,53 @@
    "page": "fol. 51",
    "place": "Kladruby",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 48,
+   "type": "O",
+   "place": "Kladruby",
+   "year": 1816,
+   "page": "51",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 57,
+   "type": "O",
+   "place": "Kladruby",
+   "year": 1841,
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 60,
+   "type": "O",
+   "place": "Kladruby",
+   "year": 1847,
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 63,
+   "type": "O",
+   "place": "Vojenice",
+   "year": 1786,
+   "note": "ves podle pořadí v knize",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 66,
+   "type": "O",
+   "place": "Vojenice",
+   "year": 1818,
+   "page": "71",
+   "note": "ves podle pořadí v knize",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 69,
+   "type": "O",
+   "place": "Vojenice",
+   "year": 1844,
+   "page": "74",
+   "by": "ondrnovy"
   }
  ],
  "sources": [
@@ -80,5 +201,8 @@
    "by": "ondrnovy",
    "date": "2026-11-10"
   }
+ ],
+ "notes": [
+  "Po vsích: Hřešihlavy sn. ~3–19, Třímany ~20–37, Kladruby ~40–61, Vojenice ~62–71. Snímek = strana + 2 až + 3."
  ]
 }

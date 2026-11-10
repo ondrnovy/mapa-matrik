@@ -21,11 +21,60 @@
  "district": "Plzeň-sever",
  "points": [
   {
+   "scan": 7,
+   "type": "O",
+   "year": 1837,
+   "page": "5",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 8,
    "type": "O",
    "year": 1839,
    "year_to": 1840,
    "page": "fol. 5v–6",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 11,
+   "type": "O",
+   "year": 1841,
+   "page": "9",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 15,
+   "type": "O",
+   "year": 1849,
+   "page": "13",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 19,
+   "type": "N",
+   "year": 1833,
+   "page": "17",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 23,
+   "type": "N",
+   "year": 1836,
+   "page": "21",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 27,
+   "type": "N",
+   "year": 1838,
+   "page": "25",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 31,
+   "type": "N",
+   "year": 1840,
+   "page": "29",
    "by": "ondrnovy"
   },
   {
@@ -62,11 +111,116 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 39,
+   "type": "N",
+   "year": 1844,
+   "page": "37",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 40,
    "type": "N",
    "year": 1844,
    "months": "V–VII",
    "page": "fol. 37v–38",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 43,
+   "type": "N",
+   "year": 1845,
+   "page": "41",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 47,
+   "type": "N",
+   "year": 1846,
+   "page": "45",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 51,
+   "type": "N",
+   "year": 1849,
+   "page": "49",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 55,
+   "type": "N",
+   "year": 1851,
+   "page": "53",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 59,
+   "type": "N",
+   "year": 1853,
+   "page": "57",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 63,
+   "type": "N",
+   "year": 1855,
+   "page": "61",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 71,
+   "type": "Z",
+   "year": 1838,
+   "page": "69",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 75,
+   "type": "Z",
+   "year": 1844,
+   "page": "73",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 79,
+   "type": "Z",
+   "year": 1847,
+   "page": "77",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 83,
+   "type": "Z",
+   "year": 1853,
+   "page": "81",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 87,
+   "type": "Z",
+   "year": 1859,
+   "page": "85",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 91,
+   "type": "Z",
+   "year": 1861,
+   "page": "89",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 99,
+   "type": "Z",
+   "year": 1867,
+   "page": "97",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 103,
+   "type": "Z",
+   "year": 1875,
+   "page": "101",
    "by": "ondrnovy"
   }
  ],
@@ -75,5 +229,8 @@
    "by": "ondrnovy",
    "date": "2026-11-10"
   }
+ ],
+ "notes": [
+  "Oddíly: sňatky sn. ~4–17, narození ~17–65, zemřelí od ~68 do konce. Snímek = strana + 2."
  ]
 }

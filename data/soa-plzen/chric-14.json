@@ -24,6 +24,42 @@
  "order": "mixed",
  "points": [
   {
+   "scan": 15,
+   "type": "iN",
+   "letters": "C",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 19,
+   "type": "iN",
+   "letters": "E",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 23,
+   "type": "iN",
+   "letters": "F",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 39,
+   "type": "iN",
+   "letters": "K",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 43,
+   "type": "iN",
+   "letters": "K",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 47,
+   "type": "iN",
+   "letters": "K",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 64,
    "type": "iN",
    "letters": "P",
@@ -31,16 +67,65 @@
    "year_to": 1881
   },
   {
+   "scan": 67,
+   "type": "iN",
+   "letters": "P",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 70,
    "type": "iN",
    "letters": "R",
    "year": 1880,
    "year_to": 1908
+  },
+  {
+   "scan": 71,
+   "type": "iN",
+   "letters": "S–Š",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 83,
+   "type": "iN",
+   "letters": "S–Š",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 87,
+   "type": "iN",
+   "letters": "T",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 91,
+   "type": "iN",
+   "letters": "U",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 95,
+   "type": "iN",
+   "letters": "U",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 99,
+   "type": "iN",
+   "letters": "V",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 103,
+   "type": "iN",
+   "letters": "Z–Ž",
+   "by": "ondrnovy"
   }
  ],
  "sections": [],
  "notes": [
-  "Jeden rejstřík pro všechny knihy fary 1786–1910, uvnitř písmene po letech; sloupce narozených / oddaných / zemřelých."
+  "Jeden rejstřík pro všechny knihy fary 1786–1910, uvnitř písmene po letech; sloupce narozených / oddaných / zemřelých.",
+  "Společný rejstřík narozených, oddaných i zemřelých všech obcí (sloupce nat/cop/mort), podle písmen; u každého písmene starší latinská část (1780–1850) a novější česká (1856–1910)."
  ],
  "sources": [
   {

@@ -19,6 +19,34 @@
  "language": "čeština",
  "points": [
   {
+   "scan": 3,
+   "type": "O",
+   "year": 1845,
+   "page": "1",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 9,
+   "type": "O",
+   "year": 1864,
+   "page": "7",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 12,
+   "type": "O",
+   "year": 1867,
+   "page": "10",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 15,
+   "type": "O",
+   "year": 1874,
+   "page": "13",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 16,
    "type": "O",
    "year": 1875,
@@ -51,6 +79,97 @@
    "page": "fol. 18",
    "note": "Dolany, Hlince, Ptyč; 3 zápisy na snímek",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 21,
+   "type": "O",
+   "year": 1886,
+   "page": "19",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 24,
+   "type": "O",
+   "year": 1889,
+   "page": "22",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 27,
+   "type": "O",
+   "year": 1895,
+   "page": "25",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 30,
+   "type": "O",
+   "year": 1901,
+   "page": "28",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 33,
+   "type": "O",
+   "year": 1905,
+   "page": "31",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 36,
+   "type": "O",
+   "year": 1910,
+   "page": "34",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 39,
+   "type": "O",
+   "year": 1918,
+   "page": "37",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 42,
+   "type": "O",
+   "year": 1921,
+   "page": "40",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 45,
+   "type": "O",
+   "year": 1923,
+   "page": "43",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 48,
+   "type": "O",
+   "year": 1926,
+   "page": "46",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 51,
+   "type": "O",
+   "year": 1938,
+   "page": "49",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 54,
+   "type": "O",
+   "year": 1940,
+   "page": "50",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 57,
+   "type": "O",
+   "year": 1947,
+   "page": "53",
+   "by": "ondrnovy"
   }
  ],
  "sources": [
@@ -58,5 +177,8 @@
    "by": "ondrnovy",
    "date": "2026-11-10"
   }
+ ],
+ "notes": [
+  "Snímek = strana + 2 do sn. 51, od sn. 54 + 4 (skok v číslování)."
  ]
 }

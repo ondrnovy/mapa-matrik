@@ -20,11 +20,106 @@
  "language": "čeština",
  "points": [
   {
+   "scan": 6,
+   "type": "Z",
+   "year": 1841,
+   "page": "7",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 9,
+   "type": "Z",
+   "year": 1855,
+   "page": "13",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 12,
+   "type": "Z",
+   "year": 1865,
+   "page": "19",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 15,
+   "type": "Z",
+   "year": 1874,
+   "page": "25",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 16,
    "type": "Z",
    "year": 1876,
    "year_to": 1878,
    "page": "26–27",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 18,
+   "type": "Z",
+   "year": 1881,
+   "page": "31",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 21,
+   "type": "Z",
+   "year": 1885,
+   "page": "37",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 24,
+   "type": "Z",
+   "year": 1891,
+   "page": "43",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 27,
+   "type": "Z",
+   "year": 1899,
+   "page": "49",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 30,
+   "type": "Z",
+   "year": 1906,
+   "page": "55",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 33,
+   "type": "Z",
+   "year": 1914,
+   "page": "61",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 36,
+   "type": "Z",
+   "year": 1918,
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 39,
+   "type": "Z",
+   "year": 1931,
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 42,
+   "type": "Z",
+   "year": 1944,
+   "note": "formulář německy",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 45,
+   "type": "iZ",
+   "note": "rejstřík podle příjmení",
    "by": "ondrnovy"
   }
  ],
@@ -33,5 +128,8 @@
    "by": "ondrnovy",
    "date": "2026-11-10"
   }
+ ],
+ "notes": [
+  "Strany číslované po stranách: strana (levá) = 2 × snímek − 5 do sn. 33, dál nepravidelně. Zápisy končí kolem sn. 43, pak rejstřík."
  ]
 }

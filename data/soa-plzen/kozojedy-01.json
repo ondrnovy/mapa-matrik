@@ -23,6 +23,21 @@
  "district": "Plzeň-sever",
  "points": [
   {
+   "scan": 15,
+   "type": "N",
+   "year": 1784,
+   "page": "21",
+   "note": "začátek knihy narozených",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 18,
+   "type": "N",
+   "year": 1798,
+   "page": "24",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 21,
    "type": "N",
    "year": 1805,
@@ -47,11 +62,66 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 27,
+   "type": "N",
+   "year": 1812,
+   "page": "33",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 28,
    "type": "N",
    "year": 1813,
    "year_to": 1815,
    "page": "fol. 33v–34",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 30,
+   "type": "N",
+   "year": 1816,
+   "page": "36",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 33,
+   "type": "N",
+   "year": 1820,
+   "page": "39",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 36,
+   "type": "N",
+   "year": 1823,
+   "page": "42",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 45,
+   "type": "iN",
+   "letters": "A",
+   "note": "rejstřík narozených (sn. ~45–54)",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 57,
+   "type": "Z",
+   "note": "začátek knihy zemřelých",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 63,
+   "type": "Z",
+   "year": 1821,
+   "page": "78",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 66,
+   "type": "iZ",
+   "letters": "A–B",
+   "note": "rejstřík zemřelých",
    "by": "ondrnovy"
   }
  ],
@@ -60,5 +130,8 @@
    "by": "ondrnovy",
    "date": "2026-11-10"
   }
+ ],
+ "notes": [
+  "Pořadí v knize: sňatky (sn. ~3–8) a jejich rejstřík, narození od sn. 15 (1784) do ~43, rejstřík narozených ~45–54, zemřelí od sn. 57, rejstřík zemřelých od ~66."
  ]
 }

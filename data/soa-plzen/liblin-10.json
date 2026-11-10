@@ -21,6 +21,38 @@
  "district": "Rokycany",
  "points": [
   {
+   "scan": 3,
+   "type": "O",
+   "place": "Liblín",
+   "year": 1789,
+   "page": "1",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 5,
+   "type": "O",
+   "place": "Liblín",
+   "year": 1791,
+   "page": "2",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 7,
+   "type": "O",
+   "place": "Liblín",
+   "year": 1805,
+   "page": "6",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 13,
+   "type": "O",
+   "place": "Liblín",
+   "year": 1792,
+   "page": "22",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 14,
    "type": "O",
    "year": 1797,
@@ -37,6 +69,30 @@
    "page": "str. 26–27",
    "place": "Bujesily",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 17,
+   "type": "O",
+   "place": "Chockov",
+   "year": 1789,
+   "page": "40",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 21,
+   "type": "O",
+   "place": "Olešná",
+   "year": 1789,
+   "page": "56",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 23,
+   "type": "O",
+   "place": "Olešná",
+   "year": 1796,
+   "page": "60",
+   "by": "ondrnovy"
   }
  ],
  "sources": [
@@ -44,5 +100,8 @@
    "by": "ondrnovy",
    "date": "2026-11-10"
   }
+ ],
+ "notes": [
+  "Po vsích: Liblín sn. 3–~15, Bujesily ~16, Chockov ~17–20, Olešná ~21–25; mnoho prázdných stran (roky bez sňatků)."
  ]
 }
