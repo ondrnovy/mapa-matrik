@@ -1,0 +1,43 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "11972",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/11972",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/11972/{scan}",
+ "signature": "Slabce 10",
+ "parish": "Slabce",
+ "district": "Rakovník",
+ "places": [
+  "Modřejovice"
+ ],
+ "records": {
+  "N": "1821–1853",
+  "O": "1821–1854",
+  "Z": "1821–1853"
+ },
+ "scans": 149,
+ "language": "čeština",
+ "order": "chronological",
+ "index": {
+  "volume": "soa-praha/11958",
+  "refers_to": "page"
+ },
+ "points": [
+  {
+   "scan": 69,
+   "type": "N",
+   "year": 1846,
+   "months": "III–VIII",
+   "page": "67",
+   "note": "strana = snímek − 2",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-10"
+  }
+ ]
+}
