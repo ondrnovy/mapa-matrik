@@ -28,6 +28,14 @@
    "year": 1878
   },
   {
+   "scan": 73,
+   "type": "N",
+   "year": 1880,
+   "months": "III–VII",
+   "page": "72",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 74,
    "type": "N",
    "year": 1880,
@@ -40,6 +48,24 @@
    "year": 1881,
    "months": "III–VII",
    "page": "75"
+  },
+  {
+   "scan": 77,
+   "type": "N",
+   "year": 1881,
+   "year_to": 1882,
+   "months": "VIII–I",
+   "page": "76",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 83,
+   "type": "N",
+   "year": 1883,
+   "year_to": 1884,
+   "months": "V–I",
+   "page": "82",
+   "by": "ondrnovy"
   }
  ],
  "sections": [],
