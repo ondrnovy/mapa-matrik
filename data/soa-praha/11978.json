@@ -1,0 +1,153 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "11978",
+ "url": "https://ebadatelna.soapraha.cz/d/11978/1",
+ "signature": "Slabce 04",
+ "parish": "Slabce",
+ "records": {
+  "N": "1760–1784",
+  "O": "1760–1784",
+  "Z": "1760–1784",
+  "iN": "1760–1784",
+  "iO": "1760–1784",
+  "iZ": "1760–1784"
+ },
+ "district": "Rakovník",
+ "language": "latina, němčina",
+ "order": "chronological",
+ "places": [
+  "Hracholusky",
+  "Hřebečníky",
+  "Hvozd",
+  "Kostelík",
+  "Modřejovice",
+  "Novosedly",
+  "Sadlno",
+  "Slabce",
+  "Šlovice",
+  "Svinařov",
+  "Týřovice",
+  "Újezdec"
+ ],
+ "scan_url": "https://ebadatelna.soapraha.cz/d/11978/{scan}",
+ "scans": 228,
+ "points": [
+  {
+   "scan": 66,
+   "type": "N",
+   "months": "VI–VIII",
+   "page": "fol. 62v–63",
+   "note": "rok na snímku nevidět",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 75,
+   "type": "N",
+   "months": "VI–IX",
+   "page": "fol. 71v–72",
+   "note": "rok na snímku nevidět",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 76,
+   "type": "N",
+   "year": 1782,
+   "year_to": 1783,
+   "months": "IX 1782 – I 1783",
+   "page": "fol. 72v–73",
+   "note": "na fol. 73 začíná rok 1783",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 91,
+   "type": "iN",
+   "page": "fol. 87v–88",
+   "letters": "H–J",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 92,
+   "type": "iN",
+   "page": "fol. 89",
+   "letters": "K (fol. 1–31)",
+   "note": "rejstřík s vyznačenými roky: fol. 16 = 1765, fol. 29 = 1771",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 93,
+   "type": "iN",
+   "page": "fol. 89v–90",
+   "letters": "K (fol. 32–78), L",
+   "note": "roky v rejstříku: fol. 50 = 1778, fol. 75 = 1783",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 100,
+   "type": "iN",
+   "page": "fol. 96v–97",
+   "letters": "Ř",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 101,
+   "type": "iN",
+   "page": "fol. 98",
+   "letters": "S (fol. 1–73)",
+   "note": "roky v rejstříku: fol. 33 = 1773, fol. 73 = 1782",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 187,
+   "type": "iO",
+   "page": "fol. 211",
+   "letters": "J",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 188,
+   "type": "iO",
+   "page": "fol. 212",
+   "letters": "K (fol. 238–263)",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 192,
+   "type": "iO",
+   "page": "fol. 217",
+   "letters": "P",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 196,
+   "type": "iO",
+   "page": "fol. 222",
+   "letters": "Sch (Š)",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 215,
+   "type": "O",
+   "year": 1772,
+   "year_to": 1773,
+   "page": "fol. 251v–252",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 219,
+   "type": "O",
+   "year": 1776,
+   "year_to": 1777,
+   "page": "fol. 255v–256",
+   "note": "snímek ≈ folio − 37 v oddílu O",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-10"
+  }
+ ]
+}

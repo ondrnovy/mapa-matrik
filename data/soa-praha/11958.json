@@ -30,6 +30,33 @@
  "order": "mixed",
  "points": [
   {
+   "scan": 34,
+   "type": "iN",
+   "year": 1827,
+   "year_to": 1844,
+   "letters": "P",
+   "note": "levá P 1827–1835, pravá P 1835–1844",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 35,
+   "type": "iN",
+   "year": 1844,
+   "year_to": 1861,
+   "letters": "P",
+   "note": "levá P 1844–1852, pravá P 1852–1861 (od 1854 odkazy na knihu č. 15 / Slabce 24)",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 36,
+   "type": "iN",
+   "year": 1861,
+   "year_to": 1865,
+   "letters": "P",
+   "note": "levá strana, konec písmene P; pravá prázdná; odkazy na str. Slabce 24",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 39,
    "type": "iN",
    "letters": "Ř",
@@ -81,6 +108,51 @@
    "year": 1857,
    "year_to": 1865,
    "note": "levá strana S 1857–1865 (odkazy na str. Slabce 24); pravá Š 1848–1854",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 71,
+   "type": "iO",
+   "year": 1821,
+   "year_to": 1857,
+   "letters": "P",
+   "note": "pravá strana; levá prázdná; odkazy na strany knih jednotlivých vsí",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 73,
+   "type": "iO",
+   "year": 1821,
+   "year_to": 1864,
+   "letters": "S",
+   "note": "pravá S 1821–1854 (odkazy na strany knih vsí); levá konec R (?)",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 75,
+   "type": "iO",
+   "year": 1821,
+   "year_to": 1865,
+   "letters": "S–T",
+   "note": "levá konec S (do 1865), pravá další písmeno 1821–1864",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 78,
+   "type": "iO",
+   "year": 1821,
+   "year_to": 1864,
+   "letters": "V, Z–Ž",
+   "note": "levá V 1853–1863, pravá Z/Ž 1822–1864 (konec rejstříku oddaných)",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 80,
+   "type": "iZ",
+   "year": 1823,
+   "year_to": 1865,
+   "letters": "A",
+   "note": "začátek rejstříku zemřelých",
    "by": "ondrnovy"
   }
  ],

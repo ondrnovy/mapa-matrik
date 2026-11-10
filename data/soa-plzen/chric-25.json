@@ -1,0 +1,62 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal_id": "chric-25",
+ "portal": "portafontium",
+ "url": "https://www.portafontium.eu/register/soap-pn/chric-25",
+ "signature": "Chříč 25",
+ "parish": "Chříč",
+ "records": {
+  "O": "1845–1947"
+ },
+ "places": [
+  "Dolany",
+  "Hlince",
+  "Ptyč"
+ ],
+ "order": "chronological",
+ "scans": 57,
+ "language": "čeština",
+ "points": [
+  {
+   "scan": 16,
+   "type": "O",
+   "year": 1875,
+   "year_to": 1877,
+   "page": "fol. 14",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 17,
+   "type": "O",
+   "year": 1877,
+   "year_to": 1878,
+   "page": "fol. 15",
+   "note": "ne zcela chronologicky (1878, 1877, 1878)",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 18,
+   "type": "O",
+   "year": 1878,
+   "year_to": 1880,
+   "page": "fol. 16",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 20,
+   "type": "O",
+   "year": 1884,
+   "year_to": 1886,
+   "page": "fol. 18",
+   "note": "Dolany, Hlince, Ptyč; 3 zápisy na snímek",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-10"
+  }
+ ]
+}

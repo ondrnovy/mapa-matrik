@@ -1,0 +1,38 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal_id": "9696",
+ "portal": "ebadatelna",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/9696",
+ "signature": "Netvořice 47",
+ "parish": "Netvořice",
+ "records": {
+  "iN": "1880–1913"
+ },
+ "scans": 79,
+ "points": [
+  {
+   "scan": 66,
+   "type": "iN",
+   "year": 1880,
+   "year_to": 1909,
+   "letters": "Š–T",
+   "note": "levá konec Š (1905–1909), pravá T 1880–1896",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 67,
+   "type": "iN",
+   "year": 1896,
+   "year_to": 1913,
+   "letters": "T",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-10"
+  }
+ ]
+}

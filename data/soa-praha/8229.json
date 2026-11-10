@@ -24,6 +24,22 @@
  },
  "points": [
   {
+   "scan": 27,
+   "type": "O",
+   "year": 1862,
+   "months": "II–III",
+   "page": "fol. 25",
+   "note": "snímek ≈ folio + 2",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 133,
+   "type": "iO",
+   "page": "pag. VIII–IX",
+   "letters": "H, J",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 134,
    "type": "iO",
    "letters": "K"

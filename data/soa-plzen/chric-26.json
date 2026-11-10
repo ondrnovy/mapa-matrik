@@ -1,0 +1,60 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal_id": "chric-26",
+ "portal": "portafontium",
+ "url": "https://www.portafontium.eu/register/soap-pn/chric-26",
+ "signature": "Chříč 26",
+ "parish": "Chříč",
+ "records": {
+  "O": "1861–1949"
+ },
+ "places": [
+  "Chříč"
+ ],
+ "order": "chronological",
+ "scans": 85,
+ "language": "čeština",
+ "points": [
+  {
+   "scan": 20,
+   "type": "O",
+   "year": 1875,
+   "months": "VI–XI",
+   "page": "18",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 22,
+   "type": "O",
+   "year": 1876,
+   "year_to": 1877,
+   "months": "X–I",
+   "page": "20",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 24,
+   "type": "O",
+   "year": 1878,
+   "year_to": 1879,
+   "months": "VII–I",
+   "page": "22",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 26,
+   "type": "O",
+   "year": 1880,
+   "months": "I–VIII",
+   "page": "24",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-10"
+  }
+ ]
+}

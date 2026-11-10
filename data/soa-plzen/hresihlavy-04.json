@@ -1,0 +1,84 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "hresihlavy-04",
+ "url": "https://www.portafontium.eu/register/soap-pn/hresihlavy-04",
+ "signature": "Hřešihlavy 04",
+ "parish": "Hřešihlavy",
+ "records": {
+  "O": "1786–1849"
+ },
+ "places": [
+  "Hřešihlavy",
+  "Třímany",
+  "Kladruby",
+  "Vojenice"
+ ],
+ "language": "němčina",
+ "order": "by_village",
+ "scans": 72,
+ "district": "Rokycany",
+ "points": [
+  {
+   "scan": 41,
+   "type": "O",
+   "year": 1791,
+   "year_to": 1797,
+   "page": "fol. 45",
+   "place": "Kladruby",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 42,
+   "type": "O",
+   "year": 1797,
+   "year_to": 1802,
+   "page": "fol. 46",
+   "place": "Kladruby",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 43,
+   "type": "O",
+   "year": 1802,
+   "year_to": 1804,
+   "page": "fol. 47",
+   "place": "Kladruby",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 44,
+   "type": "O",
+   "year": 1804,
+   "year_to": 1806,
+   "page": "fol. 48",
+   "place": "Kladruby",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 45,
+   "type": "O",
+   "year": 1809,
+   "year_to": 1810,
+   "page": "fol. 49",
+   "place": "Kladruby",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 47,
+   "type": "O",
+   "year": 1812,
+   "year_to": 1815,
+   "page": "fol. 51",
+   "place": "Kladruby",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-10"
+  }
+ ]
+}

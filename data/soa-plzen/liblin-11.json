@@ -1,0 +1,99 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "liblin-11",
+ "url": "https://www.portafontium.eu/register/soap-pn/liblin-11",
+ "signature": "Liblín 11",
+ "parish": "Liblín",
+ "records": {
+  "O": "1806–1836",
+  "iO": "1806–1828"
+ },
+ "places": [
+  "Liblín",
+  "Bujesily",
+  "Chockov",
+  "Olešná"
+ ],
+ "language": "čeština",
+ "order": "by_village",
+ "scans": 71,
+ "district": "Rokycany",
+ "points": [
+  {
+   "scan": 25,
+   "type": "O",
+   "year": 1806,
+   "year_to": 1808,
+   "page": "str. 50–51",
+   "place": "Bujesily",
+   "note": "začátek oddílu Bujesily",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 26,
+   "type": "O",
+   "year": 1809,
+   "year_to": 1812,
+   "page": "str. 52–53",
+   "place": "Bujesily",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 33,
+   "type": "O",
+   "year": 1829,
+   "year_to": 1830,
+   "page": "str. 66–67",
+   "place": "Bujesily",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 34,
+   "type": "O",
+   "year": 1831,
+   "year_to": 1833,
+   "page": "str. 68–69",
+   "place": "Bujesily",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 35,
+   "type": "O",
+   "year": 1834,
+   "page": "str. 70–71",
+   "place": "Bujesily",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 36,
+   "type": "O",
+   "year": 1835,
+   "page": "str. 72–73",
+   "place": "Bujesily",
+   "note": "konec oddílu Bujesily",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 60,
+   "type": "iO",
+   "page": "str. 158–159",
+   "letters": "F",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 64,
+   "type": "iO",
+   "page": "str. 166–167",
+   "letters": "L–M",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-10"
+  }
+ ]
+}

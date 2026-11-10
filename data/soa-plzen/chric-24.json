@@ -1,0 +1,37 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal_id": "chric-24",
+ "portal": "portafontium",
+ "url": "https://www.portafontium.eu/register/soap-pn/chric-24",
+ "signature": "Chříč 24",
+ "parish": "Chříč",
+ "records": {
+  "Z": "1828–1946",
+  "iZ": "1828–1837"
+ },
+ "places": [
+  "Dolany",
+  "Hlince",
+  "Ptyč"
+ ],
+ "order": "chronological",
+ "scans": 50,
+ "language": "čeština",
+ "points": [
+  {
+   "scan": 16,
+   "type": "Z",
+   "year": 1876,
+   "year_to": 1878,
+   "page": "26–27",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-10"
+  }
+ ]
+}

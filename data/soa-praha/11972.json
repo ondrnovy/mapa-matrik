@@ -25,12 +25,39 @@
  },
  "points": [
   {
+   "scan": 68,
+   "type": "N",
+   "year": 1845,
+   "year_to": 1846,
+   "months": "X–III",
+   "page": "66",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 69,
    "type": "N",
    "year": 1846,
    "months": "III–VIII",
    "page": "67",
    "note": "strana = snímek − 2",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 94,
+   "type": "O",
+   "year": 1821,
+   "year_to": 1822,
+   "page": "fol. 1",
+   "note": "začátek oddílu O (Modřejovice)",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 110,
+   "type": "O",
+   "year": 1847,
+   "year_to": 1849,
+   "page": "17",
+   "note": "oddíl O; dvoustrana = jedna strana knihy (č. vlevo nahoře)",
    "by": "ondrnovy"
   }
  ],

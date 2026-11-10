@@ -1,0 +1,57 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal_id": "10254",
+ "portal": "ebadatelna",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/10254",
+ "signature": "Tachlovice 38",
+ "parish": "Tachlovice",
+ "records": {
+  "iO": "1784–1921"
+ },
+ "scans": 71,
+ "places": [
+  "Dobříč",
+  "Kuchař",
+  "Mezouň",
+  "Nučice",
+  "Tachlovice",
+  "Trněný Újezd",
+  "Vysoký Újezd"
+ ],
+ "points": [
+  {
+   "scan": 35,
+   "type": "iO",
+   "year": 1790,
+   "year_to": 1920,
+   "letters": "G–K, H",
+   "note": "levá G a K (dole), pravá H",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 38,
+   "type": "iO",
+   "year": 1801,
+   "year_to": 1921,
+   "letters": "N–O",
+   "note": "podle ženicha; O prázdné",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 40,
+   "type": "iO",
+   "year": 1788,
+   "year_to": 1921,
+   "letters": "S–T",
+   "note": "podle ženicha",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-10"
+  }
+ ]
+}

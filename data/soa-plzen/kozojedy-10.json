@@ -1,0 +1,79 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "kozojedy-10",
+ "url": "https://www.portafontium.eu/register/soap-pn/kozojedy-10",
+ "signature": "Kozojedy 10",
+ "parish": "Kozojedy",
+ "records": {
+  "O": "1832–1856",
+  "N": "1832–1854",
+  "Z": "1832–1886"
+ },
+ "places": [
+  "Bohy",
+  "Krašov"
+ ],
+ "language": "němčina, čeština",
+ "order": "chronological",
+ "scans": 105,
+ "district": "Plzeň-sever",
+ "points": [
+  {
+   "scan": 8,
+   "type": "O",
+   "year": 1839,
+   "year_to": 1840,
+   "page": "fol. 5v–6",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 35,
+   "type": "N",
+   "year": 1842,
+   "months": "IV–IX",
+   "page": "fol. 32v–33",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 36,
+   "type": "N",
+   "year": 1842,
+   "year_to": 1843,
+   "months": "XI 1842 – III 1843",
+   "page": "fol. 33v–34",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 37,
+   "type": "N",
+   "year": 1843,
+   "months": "IV–VII",
+   "page": "fol. 34v–35",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 38,
+   "type": "N",
+   "year": 1843,
+   "months": "VIII–XII",
+   "page": "fol. 35v–36",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 40,
+   "type": "N",
+   "year": 1844,
+   "months": "V–VII",
+   "page": "fol. 37v–38",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-10"
+  }
+ ]
+}

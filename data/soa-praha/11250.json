@@ -42,6 +42,24 @@
    "place": "Příčina"
   },
   {
+   "scan": 185,
+   "type": "N",
+   "year": 1837,
+   "months": "II–III",
+   "page": "fol. 190",
+   "place": "Příčina",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 186,
+   "type": "N",
+   "year": 1837,
+   "months": "IV–IX",
+   "page": "fol. 191",
+   "place": "Příčina",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 196,
    "type": "N",
    "year": 1842,
@@ -74,6 +92,20 @@
    "scan": 330,
    "type": "N",
    "place": "Řeřichy"
+  },
+  {
+   "scan": 360,
+   "type": "iN",
+   "letters": "K",
+   "note": "rejstřík silně vybledlý, nečitelný",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 365,
+   "type": "iN",
+   "letters": "N–O",
+   "note": "rejstřík silně vybledlý, nečitelný",
+   "by": "ondrnovy"
   }
  ],
  "sections": [],

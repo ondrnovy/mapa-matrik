@@ -25,6 +25,22 @@
  },
  "points": [
   {
+   "scan": 46,
+   "type": "N",
+   "year": 1840,
+   "months": "IV–VI",
+   "page": "fol. 44",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 47,
+   "type": "N",
+   "year": 1840,
+   "months": "VI–VII",
+   "page": "fol. 45",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 208,
    "type": "N",
    "year": 1866,
@@ -39,6 +55,18 @@
    "scan": 253,
    "type": "iN",
    "letters": "H"
+  },
+  {
+   "scan": 260,
+   "type": "iN",
+   "letters": "O–P",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 261,
+   "type": "iN",
+   "letters": "P (1855–1870)",
+   "by": "ondrnovy"
   }
  ],
  "sections": [],

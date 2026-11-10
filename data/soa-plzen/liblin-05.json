@@ -1,0 +1,60 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "liblin-05",
+ "url": "https://www.portafontium.eu/register/soap-pn/liblin-05",
+ "signature": "Liblín 05",
+ "parish": "Liblín",
+ "records": {
+  "N": "1806–1821",
+  "iN": "1806–1821"
+ },
+ "places": [
+  "Liblín",
+  "Bujesily",
+  "Chockov",
+  "Olešná",
+  "Robčice"
+ ],
+ "language": "čeština",
+ "order": "by_village",
+ "scans": 107,
+ "district": "Rokycany",
+ "points": [
+  {
+   "scan": 33,
+   "type": "N",
+   "year": 1806,
+   "year_to": 1807,
+   "months": "XI 1806 – VIII 1807",
+   "page": "str. 61–62",
+   "place": "Bujesily",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 47,
+   "type": "N",
+   "year": 1816,
+   "year_to": 1817,
+   "page": "str. 89–90",
+   "place": "Bujesily",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 48,
+   "type": "N",
+   "year": 1817,
+   "year_to": 1818,
+   "page": "str. 91–92",
+   "place": "Bujesily",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-10"
+  }
+ ]
+}

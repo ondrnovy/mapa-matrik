@@ -1,0 +1,67 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "8225",
+ "url": "https://ebadatelna.soapraha.cz/d/8225/1",
+ "signature": "Lužná 03",
+ "parish": "Lužná",
+ "records": {
+  "O": "1784–1846",
+  "iO": "1784–1846"
+ },
+ "places": [
+  "Lužná"
+ ],
+ "language": "němčina",
+ "order": "chronological",
+ "scans": 58,
+ "district": "Rakovník",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/8225/{scan}",
+ "points": [
+  {
+   "scan": 42,
+   "type": "O",
+   "year": 1841,
+   "year_to": 1842,
+   "page": "pag. 40–41",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 43,
+   "type": "O",
+   "year": 1842,
+   "page": "pag. 41v–42",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 44,
+   "type": "O",
+   "year": 1842,
+   "year_to": 1843,
+   "page": "pag. 42–43",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 45,
+   "type": "O",
+   "year": 1843,
+   "year_to": 1844,
+   "page": "pag. 43v–44",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 48,
+   "type": "O",
+   "year": 1845,
+   "page": "pag. 46–47",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-10"
+  }
+ ]
+}

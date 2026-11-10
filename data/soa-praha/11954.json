@@ -27,6 +27,424 @@
  "order": "chronological",
  "points": [
   {
+   "scan": 163,
+   "type": "O",
+   "year": 1869,
+   "months": "IX",
+   "page": "162",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 164,
+   "type": "O",
+   "year": 1869,
+   "months": "X",
+   "page": "163",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 165,
+   "type": "O",
+   "year": 1869,
+   "months": "X–XI",
+   "page": "164",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 166,
+   "type": "O",
+   "year": 1869,
+   "months": "XI",
+   "page": "165",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 167,
+   "type": "O",
+   "year": 1870,
+   "months": "I",
+   "page": "166",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 169,
+   "type": "O",
+   "year": 1870,
+   "months": "II–III",
+   "page": "168",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 170,
+   "type": "O",
+   "year": 1870,
+   "months": "V–VI",
+   "page": "169",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 171,
+   "type": "O",
+   "year": 1870,
+   "months": "VII",
+   "page": "170",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 172,
+   "type": "O",
+   "year": 1870,
+   "months": "VIII",
+   "page": "171",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 173,
+   "type": "O",
+   "year": 1870,
+   "months": "X",
+   "page": "172",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 174,
+   "type": "O",
+   "year": 1870,
+   "months": "X–XI",
+   "page": "173",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 175,
+   "type": "O",
+   "year": 1870,
+   "months": "XI",
+   "page": "174",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 176,
+   "type": "O",
+   "year": 1870,
+   "year_to": 1871,
+   "months": "XI–I",
+   "page": "175",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 177,
+   "type": "O",
+   "year": 1871,
+   "months": "I",
+   "page": "176",
+   "note": "první zápisy roku 1871",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 178,
+   "type": "O",
+   "year": 1871,
+   "months": "I",
+   "page": "177",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 179,
+   "type": "O",
+   "year": 1871,
+   "months": "II",
+   "page": "178",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 180,
+   "type": "O",
+   "year": 1871,
+   "months": "II",
+   "page": "179",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 181,
+   "type": "O",
+   "year": 1871,
+   "months": "II",
+   "page": "180",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 182,
+   "type": "O",
+   "year": 1871,
+   "months": "V",
+   "page": "181",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 183,
+   "type": "O",
+   "year": 1871,
+   "months": "V–VI",
+   "page": "182",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 184,
+   "type": "O",
+   "year": 1871,
+   "months": "VI",
+   "page": "183",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 185,
+   "type": "O",
+   "year": 1871,
+   "months": "VII",
+   "page": "184",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 186,
+   "type": "O",
+   "year": 1871,
+   "months": "VII–VIII",
+   "page": "185",
+   "note": "2 zápisy na snímek",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 187,
+   "type": "O",
+   "year": 1871,
+   "months": "IX",
+   "page": "186",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 188,
+   "type": "O",
+   "year": 1871,
+   "months": "X",
+   "page": "187",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 189,
+   "type": "O",
+   "year": 1871,
+   "months": "XI",
+   "page": "188",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 190,
+   "type": "O",
+   "year": 1871,
+   "months": "XI",
+   "page": "189",
+   "note": "2 zápisy na snímek",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 191,
+   "type": "O",
+   "year": 1871,
+   "year_to": 1872,
+   "months": "XI–II",
+   "page": "190",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 192,
+   "type": "O",
+   "year": 1872,
+   "months": "II–IV",
+   "page": "191",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 193,
+   "type": "O",
+   "year": 1872,
+   "months": "IV–VI",
+   "page": "192",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 194,
+   "type": "O",
+   "year": 1872,
+   "months": "VII–VIII",
+   "page": "193",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 195,
+   "type": "O",
+   "year": 1872,
+   "months": "VIII–XI",
+   "page": "194",
+   "note": "4 zápisy na snímek",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 196,
+   "type": "O",
+   "year": 1872,
+   "months": "XI",
+   "page": "195",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 197,
+   "type": "O",
+   "year": 1872,
+   "year_to": 1873,
+   "months": "XI–II",
+   "page": "196",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 198,
+   "type": "O",
+   "year": 1873,
+   "months": "II",
+   "page": "197",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 199,
+   "type": "O",
+   "year": 1873,
+   "months": "II",
+   "page": "198",
+   "note": "2 zápisy na snímek",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 200,
+   "type": "O",
+   "year": 1873,
+   "months": "V–VIII",
+   "page": "199",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 201,
+   "type": "O",
+   "year": 1873,
+   "months": "X–XI",
+   "page": "200",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 202,
+   "type": "O",
+   "year": 1874,
+   "months": "I–II",
+   "page": "201",
+   "note": "první zápisy roku 1874",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 203,
+   "type": "O",
+   "year": 1874,
+   "months": "II–V",
+   "page": "202",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 204,
+   "type": "O",
+   "year": 1874,
+   "months": "VI–VIII",
+   "page": "203",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 205,
+   "type": "O",
+   "year": 1874,
+   "months": "IX–X",
+   "page": "204",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 206,
+   "type": "O",
+   "year": 1874,
+   "months": "X",
+   "page": "205",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 207,
+   "type": "O",
+   "year": 1874,
+   "year_to": 1875,
+   "months": "XI–II",
+   "page": "206",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 208,
+   "type": "O",
+   "year": 1875,
+   "months": "II–IV",
+   "page": "207",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 209,
+   "type": "O",
+   "year": 1875,
+   "months": "IV–V",
+   "page": "208",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 210,
+   "type": "O",
+   "year": 1875,
+   "months": "VI–IX",
+   "page": "209",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 211,
+   "type": "O",
+   "year": 1875,
+   "months": "IX–XI",
+   "page": "210",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 212,
+   "type": "O",
+   "year": 1875,
+   "months": "XI",
+   "page": "211",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 213,
+   "type": "O",
+   "year": 1876,
+   "months": "I–II",
+   "page": "212",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 214,
+   "type": "O",
+   "year": 1876,
+   "months": "II",
+   "page": "213",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 215,
    "type": "O",
    "year": 1876,
@@ -35,11 +453,60 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 216,
+   "type": "O",
+   "year": 1876,
+   "months": "VII",
+   "page": "215",
+   "note": "3 zápisy na snímek (dvoustrana = jeden zápisový list)",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 217,
+   "type": "O",
+   "year": 1876,
+   "months": "VIII–XI",
+   "page": "216",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 218,
+   "type": "O",
+   "year": 1877,
+   "months": "I",
+   "page": "217",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 219,
+   "type": "O",
+   "year": 1877,
+   "months": "II",
+   "page": "218",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 220,
+   "type": "O",
+   "year": 1877,
+   "months": "II–VI",
+   "page": "219",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 221,
    "type": "O",
    "year": 1877,
    "months": "IX–XI",
    "page": "220",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 222,
+   "type": "O",
+   "year": 1877,
+   "months": "XI",
+   "page": "221",
    "by": "ondrnovy"
   },
   {
