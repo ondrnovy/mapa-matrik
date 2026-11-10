@@ -1,0 +1,251 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "8230",
+ "url": "https://ebadatelna.soapraha.cz/d/8230/1",
+ "signature": "Lužná 08",
+ "parish": "Lužná",
+ "records": {
+  "Z": "1880–1919"
+ },
+ "places": [
+  "Lužná"
+ ],
+ "language": "čeština",
+ "order": "chronological",
+ "scans": 135,
+ "district": "Rakovník",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/8230/{scan}",
+ "points": [
+  {
+   "scan": 28,
+   "type": "Z",
+   "year": 1889,
+   "months": "XI 1889 – II 1890",
+   "page": "str. 25",
+   "year_to": 1890,
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 29,
+   "type": "Z",
+   "year": 1890,
+   "months": "II–IV",
+   "page": "str. 26",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 30,
+   "type": "Z",
+   "year": 1890,
+   "months": "V 1890 – IV 1891",
+   "page": "str. 27",
+   "year_to": 1891,
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 31,
+   "type": "Z",
+   "year": 1891,
+   "months": "IV–X",
+   "page": "str. 28",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 32,
+   "type": "Z",
+   "year": 1891,
+   "months": "VIII–XI",
+   "page": "str. 29",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 33,
+   "type": "Z",
+   "year": 1891,
+   "months": "XI 1891 – II 1892",
+   "page": "str. 30",
+   "year_to": 1892,
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 34,
+   "type": "Z",
+   "year": 1892,
+   "months": "II–VII",
+   "page": "str. 31",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 35,
+   "type": "Z",
+   "year": 1892,
+   "months": "VII–XII",
+   "page": "str. 32",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 36,
+   "type": "Z",
+   "year": 1892,
+   "months": "XII 1892 – IV 1893",
+   "page": "str. 33",
+   "year_to": 1893,
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 37,
+   "type": "Z",
+   "year": 1893,
+   "months": "IV–X",
+   "page": "str. 34",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 38,
+   "type": "Z",
+   "year": 1893,
+   "months": "X–XI",
+   "page": "str. 35",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 39,
+   "type": "Z",
+   "year": 1893,
+   "months": "XII 1893 – I 1894",
+   "page": "str. 36",
+   "year_to": 1894,
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 40,
+   "type": "Z",
+   "year": 1894,
+   "months": "I–III",
+   "page": "str. 37",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 41,
+   "type": "Z",
+   "year": 1894,
+   "months": "IV–V",
+   "page": "str. 38",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 42,
+   "type": "Z",
+   "year": 1894,
+   "months": "VI–XI",
+   "page": "str. 39",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 43,
+   "type": "Z",
+   "year": 1894,
+   "months": "XI–XII",
+   "page": "str. 40",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 44,
+   "type": "Z",
+   "year": 1895,
+   "months": "I–III",
+   "page": "str. 41",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 45,
+   "type": "Z",
+   "year": 1895,
+   "months": "III–VI",
+   "page": "str. 42",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 46,
+   "type": "Z",
+   "year": 1895,
+   "months": "VI–X",
+   "page": "str. 43",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 47,
+   "type": "Z",
+   "year": 1895,
+   "months": "X 1895 – I 1896",
+   "page": "str. 44",
+   "year_to": 1896,
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 48,
+   "type": "Z",
+   "year": 1896,
+   "months": "I–IV",
+   "page": "str. 45",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 49,
+   "type": "Z",
+   "year": 1896,
+   "months": "IV–VI",
+   "page": "str. 46",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 50,
+   "type": "Z",
+   "year": 1896,
+   "months": "VII–X",
+   "page": "str. 47",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 51,
+   "type": "Z",
+   "year": 1896,
+   "months": "X–XII",
+   "page": "str. 48",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 52,
+   "type": "Z",
+   "year": 1896,
+   "months": "XII 1896 – III 1897",
+   "page": "str. 49",
+   "year_to": 1897,
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 53,
+   "type": "Z",
+   "year": 1897,
+   "months": "III–VII",
+   "page": "str. 50",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 54,
+   "type": "Z",
+   "year": 1897,
+   "months": "VIII–X",
+   "page": "str. 51",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-10"
+  }
+ ]
+}

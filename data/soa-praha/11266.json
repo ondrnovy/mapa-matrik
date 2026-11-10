@@ -26,6 +26,32 @@
  },
  "points": [
   {
+   "scan": 75,
+   "type": "N",
+   "year": 1886,
+   "year_to": 1887,
+   "months": "IX 1886 – I 1887",
+   "page": "str. 72",
+   "note": "v oddílu N snímek = strana + 3",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 76,
+   "type": "N",
+   "year": 1887,
+   "months": "III–IV",
+   "page": "str. 73",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 91,
+   "type": "N",
+   "year": 1890,
+   "months": "IV–V",
+   "page": "str. 88",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 120,
    "type": "O",
    "year": 1886,
@@ -95,6 +121,14 @@
    "scan": 220,
    "type": "iN",
    "letters": "L"
+  },
+  {
+   "scan": 220,
+   "type": "iN",
+   "page": "str. 14–15",
+   "letters": "K–L",
+   "note": "rejstřík N/O/Z dohromady (sloupce)",
+   "by": "ondrnovy"
   },
   {
    "scan": 229,
