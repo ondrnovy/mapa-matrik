@@ -21,6 +21,122 @@
  "order": "chronological",
  "points": [
   {
+   "scan": 8,
+   "type": "O",
+   "year": 1931,
+   "page": "5",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 13,
+   "type": "O",
+   "year": 1931,
+   "page": "10",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 18,
+   "type": "O",
+   "year": 1931,
+   "page": "15",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 28,
+   "type": "O",
+   "year": 1932,
+   "page": "25",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 33,
+   "type": "O",
+   "year": 1932,
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 38,
+   "type": "O",
+   "year": 1932,
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 43,
+   "type": "O",
+   "year": 1932,
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 53,
+   "type": "O",
+   "year": 1933,
+   "page": "51",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 58,
+   "type": "O",
+   "year": 1933,
+   "page": "56",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 63,
+   "type": "O",
+   "year": 1933,
+   "page": "61",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 68,
+   "type": "O",
+   "year": 1933,
+   "page": "66",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 73,
+   "type": "O",
+   "year": 1934,
+   "page": "71",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 78,
+   "type": "O",
+   "year": 1934,
+   "page": "76",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 83,
+   "type": "O",
+   "year": 1934,
+   "page": "81",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 88,
+   "type": "O",
+   "year": 1934,
+   "page": "86",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 93,
+   "type": "O",
+   "year": 1934,
+   "page": "91",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 98,
+   "type": "O",
+   "year": 1935,
+   "page": "96",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 101,
    "type": "O",
    "year": 1935,
@@ -28,9 +144,121 @@
    "note": "přibližně"
   },
   {
+   "scan": 103,
+   "type": "O",
+   "year": 1935,
+   "page": "102",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 105,
    "type": "O",
    "year": 1935
+  },
+  {
+   "scan": 108,
+   "type": "O",
+   "year": 1935,
+   "page": "107",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 113,
+   "type": "O",
+   "year": 1936,
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 118,
+   "type": "O",
+   "year": 1936,
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 123,
+   "type": "O",
+   "year": 1936,
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 128,
+   "type": "O",
+   "year": 1937,
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 133,
+   "type": "O",
+   "year": 1937,
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 138,
+   "type": "O",
+   "year": 1937,
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 143,
+   "type": "O",
+   "year": 1937,
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 148,
+   "type": "O",
+   "year": 1938,
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 153,
+   "type": "O",
+   "year": 1938,
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 158,
+   "type": "O",
+   "year": 1938,
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 163,
+   "type": "O",
+   "year": 1939,
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 168,
+   "type": "O",
+   "year": 1939,
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 173,
+   "type": "O",
+   "year": 1939,
+   "page": "172",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 178,
+   "type": "O",
+   "year": 1939,
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 183,
+   "type": "O",
+   "year": 1939,
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 193,
+   "type": "O",
+   "year": 1940,
+   "page": "192",
+   "by": "ondrnovy"
   },
   {
    "scan": 197,
@@ -39,15 +267,156 @@
    "months": "IV"
   },
   {
+   "scan": 198,
+   "type": "O",
+   "year": 1940,
+   "page": "197",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 203,
+   "type": "O",
+   "year": 1940,
+   "page": "202",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 208,
+   "type": "O",
+   "year": 1940,
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 213,
+   "type": "O",
+   "year": 1940,
+   "page": "212",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 218,
+   "type": "O",
+   "year": 1941,
+   "page": "217",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 223,
+   "type": "O",
+   "year": 1941,
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 228,
+   "type": "O",
+   "year": 1941,
+   "page": "227",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 233,
+   "type": "O",
+   "year": 1941,
+   "page": "232",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 238,
+   "type": "O",
+   "year": 1941,
+   "page": "237",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 243,
+   "type": "O",
+   "year": 1942,
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 248,
+   "type": "O",
+   "year": 1942,
+   "page": "247",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 253,
+   "type": "O",
+   "year": 1943,
+   "page": "252",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 258,
+   "type": "O",
+   "year": 1943,
+   "page": "257",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 260,
    "type": "O",
    "year": 1944,
    "note": "přibližně"
+  },
+  {
+   "scan": 263,
+   "note": "vložený list (dvojjazyčný zápis)",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 268,
+   "type": "O",
+   "year": 1944,
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 273,
+   "type": "O",
+   "year": 1944,
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 278,
+   "type": "O",
+   "year": 1945,
+   "page": "276",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 283,
+   "type": "O",
+   "year": 1945,
+   "page": "281",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 288,
+   "type": "O",
+   "year": 1946,
+   "page": "286",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 293,
+   "type": "O",
+   "year": 1946,
+   "page": "291",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 298,
+   "type": "O",
+   "year": 1947,
+   "page": "296",
+   "by": "ondrnovy"
   }
  ],
  "sections": [],
  "notes": [
-  "Civilní sňatky (bez vyznání); 2 zápisy na snímek; 1942–1944 německy."
+  "Civilní sňatky (bez vyznání); 2 zápisy na snímek; 1942–1944 německy.",
+  "Číslo listu je razítkem nahoře, stejné na obou stranách dvojstrany. Snímek = list + 3 do sn. 28, + 2 od sn. 53, + 1 od sn. 103, + 2 od sn. 278 (za vloženým listem u sn. 263). Pořadové číslo zápisu je ve tvaru číslo/rok (např. 9/31)."
  ],
  "sources": [
   {
