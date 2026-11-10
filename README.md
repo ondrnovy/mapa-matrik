@@ -84,3 +84,5 @@ knihy, **sloučí se sám**; když mění nebo maže existující data, sahá mi
 ## Licence
 
 Data: CC0 1.0 (volné dílo). Kód: MIT.
+
+<!-- zkušební PR pro ověření kontroly, nesloučit -->
