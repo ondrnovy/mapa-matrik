@@ -1,0 +1,16 @@
+name = "mapa-matrik-schranka"
+main = "src/index.js"
+compatibility_date = "2026-11-01"
+workers_dev = true
+
+[vars]
+REPO_MAPA = "ondrnovy/mapa-matrik"
+REPO_INDEXU = "pe-pan/matriky-index"
+FORK_INDEXU = "ondrnovy/matriky-index"
+
+# KV na denní limity (ip:<den>:<ip>, vse:<den>); id doplní `wrangler kv namespace create LIMITY` (README).
+[[kv_namespaces]]
+binding = "LIMITY"
+id = "DOPLNIT"
+
+# Tajemství (nepatří do gitu): `wrangler secret put GITHUB_TOKEN` – token účtu, pod kterým schránka zakládá PR.
