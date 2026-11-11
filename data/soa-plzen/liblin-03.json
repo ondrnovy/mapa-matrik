@@ -25,6 +25,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-11"
+  },
+  {
+   "by": "schranka",
+   "date": "2026-11-11"
   }
  ],
  "points": [
@@ -89,6 +93,12 @@
    "type": "O",
    "year": 1785,
    "by": "ondrnovy"
+  },
+  {
+   "scan": 71,
+   "type": "title",
+   "note": "vlevo konec oddaných (str. 432), vpravo titulní list matriky zemřelých",
+   "by": "schranka"
   },
   {
    "scan": 72,
