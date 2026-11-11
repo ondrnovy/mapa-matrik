@@ -1,0 +1,85 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "8223",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/8223",
+ "signature": "Lužná 01",
+ "parish": "Lužná",
+ "records": {
+  "N": "1784–1829"
+ },
+ "district": "Rakovník",
+ "order": "chronological",
+ "places": [
+  "Lužná"
+ ],
+ "scans": 102,
+ "scan_url": "https://ebadatelna.soapraha.cz/d/8223/{scan}",
+ "language": "německy",
+ "points": [
+  {
+   "scan": 37,
+   "type": "N",
+   "year": 1806,
+   "months": "VII–XII",
+   "page": "pag. 35–36",
+   "note": "negativ mikrofilmu",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 38,
+   "type": "N",
+   "year": 1807,
+   "months": "I–IV",
+   "page": "pag. 36v–37",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 39,
+   "type": "N",
+   "year": 1807,
+   "months": "V–X",
+   "page": "pag. 37v–38",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 40,
+   "type": "N",
+   "year": 1808,
+   "months": "I–IV",
+   "page": "pag. 38v–39",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 41,
+   "type": "N",
+   "year": 1808,
+   "months": "V–XI",
+   "page": "pag. 39v–40",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 48,
+   "type": "N",
+   "year": 1811,
+   "months": "III–V",
+   "page": "pag. 46–47",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 54,
+   "type": "N",
+   "year": 1813,
+   "year_to": 1814,
+   "page": "pag. 52–53",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-11"
+  }
+ ]
+}

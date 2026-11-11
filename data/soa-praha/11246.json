@@ -1,0 +1,55 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "11246",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/11246",
+ "signature": "Petrovice-RA 05",
+ "parish": "Petrovice",
+ "records": {
+  "N": "1747–1784",
+  "iN": "1747–1784",
+  "Z": "1758–1784",
+  "iZ": "1758–1784"
+ },
+ "district": "Rakovník",
+ "order": "mixed",
+ "scans": 273,
+ "scan_url": "https://ebadatelna.soapraha.cz/d/11246/{scan}",
+ "language": "česky, latinsky",
+ "points": [
+  {
+   "scan": 20,
+   "type": "N",
+   "year": 1751,
+   "year_to": 1752,
+   "page": "fol. 17v–18",
+   "note": "po vsích za sebou, česky",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 169,
+   "type": "iN",
+   "letters": "F–H",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 170,
+   "type": "iN",
+   "letters": "H–K",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 172,
+   "type": "iN",
+   "letters": "L–M",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-11"
+  }
+ ]
+}
