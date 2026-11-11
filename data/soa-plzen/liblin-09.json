@@ -1,0 +1,80 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "liblin-09",
+ "url": "https://www.portafontium.eu/register/soap-pn/liblin-09",
+ "signature": "Liblín 09",
+ "parish": "Liblín",
+ "district": "Rokycany",
+ "places": [
+  "Liblín",
+  "Bujesily",
+  "Chockov",
+  "Olešná"
+ ],
+ "records": {
+  "Z": "1853–1870"
+ },
+ "scans": 99,
+ "order": "by_village",
+ "sections": [],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-11"
+  }
+ ],
+ "points": [
+  {
+   "scan": 5,
+   "type": "Z",
+   "place": "Liblín",
+   "page": "3",
+   "note": "začátek oddílu vsi",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 50,
+   "type": "Z",
+   "place": "Bujesily",
+   "page": "48",
+   "note": "začátek oddílu vsi",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 65,
+   "type": "Z",
+   "place": "Chockov",
+   "page": "63",
+   "note": "začátek oddílu vsi",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 74,
+   "type": "Z",
+   "place": "Olešná",
+   "page": "72",
+   "note": "začátek oddílu vsi",
+   "by": "ondrnovy"
+  }
+ ],
+ "aliases": {
+  "Liblín": [
+   "Liblin"
+  ],
+  "Bujesily": [
+   "Bujesil"
+  ],
+  "Chockov": [
+   "Kotzkow"
+  ],
+  "Olešná": [
+   "Woleschna",
+   "Volešná"
+  ]
+ },
+ "notes": [
+  "Po vsích, každá 1853–1870: Liblín sn. ~3–48, Bujesily ~49–63, Chockov ~64–71, Olešná od ~72. Snímek = strana + 2 po celé knize."
+ ]
+}

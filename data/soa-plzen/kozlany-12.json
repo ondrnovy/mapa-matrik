@@ -1,0 +1,45 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "kozlany-12",
+ "url": "https://www.portafontium.eu/register/soap-pn/kozlany-12",
+ "signature": "Kožlany 12",
+ "parish": "Kožlany",
+ "district": "Plzeň-sever",
+ "places": [
+  "Kožlany",
+  "Hedčany"
+ ],
+ "records": {
+  "O": "1784–1801"
+ },
+ "scans": 32,
+ "order": "chronological",
+ "sections": [],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-11"
+  }
+ ],
+ "points": [
+  {
+   "scan": 2,
+   "type": "O",
+   "year": 1784,
+   "page": "1",
+   "note": "začátek knihy oddaných",
+   "by": "ondrnovy"
+  }
+ ],
+ "aliases": {
+  "Kožlany": [
+   "Koschlan"
+  ],
+  "Hedčany": [
+   "Hedčan",
+   "Hetzan"
+  ]
+ }
+}

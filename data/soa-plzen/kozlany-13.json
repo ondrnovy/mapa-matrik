@@ -1,0 +1,121 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "kozlany-13",
+ "url": "https://www.portafontium.eu/register/soap-pn/kozlany-13",
+ "signature": "Kožlany 13",
+ "parish": "Kožlany",
+ "district": "Plzeň-sever",
+ "places": [
+  "Kožlany",
+  "Hedčany",
+  "Strachovice"
+ ],
+ "records": {
+  "Z": "1784–1801"
+ },
+ "scans": 79,
+ "order": "by_village",
+ "sections": [],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-11"
+  }
+ ],
+ "points": [
+  {
+   "scan": 2,
+   "type": "Z",
+   "year": 1784,
+   "page": "1",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 5,
+   "type": "Z",
+   "year": 1785,
+   "page": "5",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 11,
+   "type": "Z",
+   "year": 1787,
+   "page": "11",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 17,
+   "type": "Z",
+   "year": 1790,
+   "page": "17",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 23,
+   "type": "Z",
+   "year": 1793,
+   "page": "23",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 32,
+   "type": "Z",
+   "year": 1797,
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 35,
+   "type": "Z",
+   "year": 1798,
+   "page": "35",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 38,
+   "type": "Z",
+   "year": 1799,
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 56,
+   "type": "Z",
+   "place": "Kožlany",
+   "year": 1799,
+   "note": "nadpis „Kozlan. Anno 1799“",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 62,
+   "type": "Z",
+   "place": "Kožlany",
+   "year": 1800,
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 74,
+   "type": "Z",
+   "year": 1784,
+   "page": "109",
+   "note": "další řada od 1784 (jiná ves)",
+   "by": "ondrnovy"
+  }
+ ],
+ "aliases": {
+  "Kožlany": [
+   "Koschlan"
+  ],
+  "Hedčany": [
+   "Hedčan",
+   "Hetzan"
+  ],
+  "Strachovice": [
+   "Strachowitz"
+  ]
+ },
+ "notes": [
+  "Zemřelí 1784–1801 ve více řadách: první do sn. ~40, druhá (Kožlany) ~41–66, od sn. ~68 další řady od 1784 – zřejmě Hedčany a Strachovice."
+ ]
+}

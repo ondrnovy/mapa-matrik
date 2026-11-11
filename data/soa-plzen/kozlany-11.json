@@ -1,0 +1,190 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "kozlany-11",
+ "url": "https://www.portafontium.eu/register/soap-pn/kozlany-11",
+ "signature": "Kožlany 11",
+ "parish": "Kožlany",
+ "district": "Plzeň-sever",
+ "places": [
+  "Kožlany",
+  "Hedčany",
+  "Strachovice"
+ ],
+ "records": {
+  "N": "1784–1803",
+  "iN": "1784–1803"
+ },
+ "scans": 141,
+ "order": "by_village",
+ "sections": [],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-11"
+  }
+ ],
+ "points": [
+  {
+   "scan": 2,
+   "type": "N",
+   "year": 1784,
+   "page": "2",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 11,
+   "type": "N",
+   "year": 1785,
+   "page": "11",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 17,
+   "type": "N",
+   "year": 1787,
+   "page": "17",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 26,
+   "type": "N",
+   "year": 1789,
+   "page": "26",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 29,
+   "type": "N",
+   "year": 1790,
+   "page": "29",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 32,
+   "type": "N",
+   "year": 1791,
+   "page": "32",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 38,
+   "type": "N",
+   "year": 1792,
+   "page": "38",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 41,
+   "type": "N",
+   "year": 1793,
+   "page": "41",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 44,
+   "type": "N",
+   "year": 1794,
+   "page": "44",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 47,
+   "type": "N",
+   "year": 1795,
+   "page": "47",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 53,
+   "type": "N",
+   "year": 1796,
+   "page": "53",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 59,
+   "type": "N",
+   "year": 1797,
+   "page": "59",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 62,
+   "type": "N",
+   "year": 1798,
+   "page": "62",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 68,
+   "type": "N",
+   "year": 1799,
+   "page": "68",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 74,
+   "type": "N",
+   "year": 1800,
+   "page": "74",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 77,
+   "type": "N",
+   "year": 1801,
+   "page": "77",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 86,
+   "type": "N",
+   "year": 1784,
+   "page": "101",
+   "note": "začíná další řada od 1784 (jiná ves)",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 101,
+   "type": "N",
+   "year": 1784,
+   "note": "začíná další řada od 1784 (jiná ves)",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 131,
+   "type": "iN",
+   "letters": "E–F",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 134,
+   "type": "iN",
+   "letters": "L–M",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 137,
+   "type": "iN",
+   "letters": "S",
+   "by": "ondrnovy"
+  }
+ ],
+ "aliases": {
+  "Kožlany": [
+   "Koschlan"
+  ],
+  "Hedčany": [
+   "Hedčan",
+   "Hetzan"
+  ],
+  "Strachovice": [
+   "Strachowitz"
+  ]
+ },
+ "notes": [
+  "První řada sn. 2–~80 (1784–1801, strana ≈ snímek), od sn. ~86 a ~101 další řady od 1784 – zřejmě Hedčany a Strachovice (vsi v hlavičce nečitelné). Rejstřík sn. ~129–141."
+ ]
+}
