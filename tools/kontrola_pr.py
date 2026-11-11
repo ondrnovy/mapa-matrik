@@ -15,6 +15,8 @@ from collections import Counter
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
 from kontrola import check
 
+SCHRANKA = ("schranka", "ondrnovy")   # body ze sběrné schránky (schranka/) zakládá v PR tento účet
+
 
 def git(*args):
     return subprocess.run(["git", *args], capture_output=True, text=True, check=True).stdout
@@ -63,7 +65,7 @@ def main(argv):
         if author:
             before = Counter(x.get("by") for x in old_points)
             for by, n in Counter(x.get("by") for x in new_points).items():
-                if by and by != author and n > before[by]:
+                if by and by != author and (by, author) != SCHRANKA and n > before[by]:
                     human.append(f"{path}: přibyly body za cizí účet by={by!r} (autor PR je {author})")
     for e in errors:
         print(f"CHYBA {e}")
