@@ -8,9 +8,9 @@ REPO_MAPA = "ondrnovy/mapa-matrik"
 REPO_INDEXU = "pe-pan/matriky-index"
 FORK_INDEXU = "ondrnovy/matriky-index"
 
-# KV na denní limity (ip:<den>:<ip>, vse:<den>); id doplní `wrangler kv namespace create LIMITY` (README).
+# KV na denní limity (ip:<den>:<ip>, vse:<den>), založené `wrangler kv namespace create LIMITY` (README).
 [[kv_namespaces]]
 binding = "LIMITY"
-id = "DOPLNIT"
+id = "c344f5dabd85463d96dd9a1c1580d5e3"
 
 # Tajemství (nepatří do gitu): `wrangler secret put GITHUB_TOKEN` – token účtu, pod kterým schránka zakládá PR.
