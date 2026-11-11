@@ -1,0 +1,45 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "sections": [],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-11"
+  }
+ ],
+ "points": [],
+ "portal_id": "hresihlavy-06",
+ "signature": "Hřešihlavy 06",
+ "parish": "Hřešihlavy",
+ "district": "Rokycany",
+ "places": [
+  "Hřešihlavy",
+  "Kladruby",
+  "Třímany",
+  "Vojenice"
+ ],
+ "aliases": {
+  "Hřešihlavy": [
+   "Herschichlau"
+  ],
+  "Kladruby": [
+   "Kladrub"
+  ],
+  "Třímany": [
+   "Triman"
+  ],
+  "Vojenice": [
+   "Wojenitz"
+  ]
+ },
+ "records": {
+  "iN": "1786–1840",
+  "iO": "1786–1840",
+  "iZ": "1786–1840"
+ },
+ "scans": 37,
+ "order": "mixed",
+ "url": "https://www.portafontium.eu/register/soap-pn/hresihlavy-06"
+}

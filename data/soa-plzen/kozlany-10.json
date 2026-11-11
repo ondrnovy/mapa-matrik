@@ -1,0 +1,189 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "kozlany-10",
+ "url": "https://www.portafontium.eu/register/soap-pn/kozlany-10",
+ "signature": "Kožlany 10",
+ "parish": "Kožlany",
+ "district": "Plzeň-sever",
+ "places": [
+  "Kožlany"
+ ],
+ "records": {
+  "N": "1850–1862"
+ },
+ "scans": 170,
+ "order": "chronological",
+ "sections": [],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-11"
+  }
+ ],
+ "points": [
+  {
+   "scan": 6,
+   "type": "N",
+   "year": 1851,
+   "page": "4",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 14,
+   "type": "N",
+   "year": 1851,
+   "page": "12",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 18,
+   "type": "N",
+   "year": 1852,
+   "page": "16",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 26,
+   "type": "N",
+   "year": 1853,
+   "page": "24",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 34,
+   "type": "N",
+   "year": 1853,
+   "page": "32",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 42,
+   "type": "N",
+   "year": 1854,
+   "page": "40",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 50,
+   "type": "N",
+   "year": 1854,
+   "page": "48",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 54,
+   "type": "N",
+   "year": 1855,
+   "page": "52",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 66,
+   "type": "N",
+   "year": 1856,
+   "page": "64",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 74,
+   "type": "N",
+   "year": 1856,
+   "page": "72",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 78,
+   "type": "N",
+   "year": 1857,
+   "page": "76",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 90,
+   "type": "N",
+   "year": 1857,
+   "page": "88",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 94,
+   "type": "N",
+   "year": 1858,
+   "page": "92",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 106,
+   "type": "N",
+   "year": 1858,
+   "page": "104",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 114,
+   "type": "N",
+   "year": 1859,
+   "page": "112",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 122,
+   "type": "N",
+   "year": 1859,
+   "page": "120",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 130,
+   "type": "N",
+   "year": 1860,
+   "page": "128",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 138,
+   "type": "N",
+   "year": 1860,
+   "page": "136",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 146,
+   "type": "N",
+   "year": 1861,
+   "page": "144",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 154,
+   "type": "N",
+   "year": 1861,
+   "page": "152",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 162,
+   "type": "N",
+   "year": 1862,
+   "page": "160",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 166,
+   "type": "N",
+   "year": 1862,
+   "page": "164",
+   "by": "ondrnovy"
+  }
+ ],
+ "aliases": {
+  "Kožlany": [
+   "Koschlan"
+  ]
+ },
+ "notes": [
+  "Snímek = strana + 2 po celé knize (číslo vpravo nahoře). Sn. 62 je přeškrtnutá prázdná strana."
+ ]
+}

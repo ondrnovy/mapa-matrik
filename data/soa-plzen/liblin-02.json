@@ -1,0 +1,47 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "sections": [],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-11"
+  }
+ ],
+ "points": [],
+ "portal_id": "liblin-02",
+ "signature": "Liblín 02",
+ "parish": "Liblín",
+ "district": "Rokycany",
+ "places": [
+  "Liblín",
+  "Bujesily",
+  "Chockov",
+  "Olešná"
+ ],
+ "aliases": {
+  "Liblín": [
+   "Liblin"
+  ],
+  "Bujesily": [
+   "Bujesil"
+  ],
+  "Chockov": [
+   "Kotzkow"
+  ],
+  "Olešná": [
+   "Woleschna",
+   "Volešná"
+  ]
+ },
+ "records": {
+  "N": "1753–1779",
+  "O": "1753–1779",
+  "Z": "1753–1779"
+ },
+ "scans": 215,
+ "language": "latina",
+ "order": "chronological",
+ "url": "https://www.portafontium.eu/register/soap-pn/liblin-02"
+}

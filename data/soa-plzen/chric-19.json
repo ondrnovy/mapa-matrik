@@ -1,0 +1,135 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "sections": [],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-11"
+  }
+ ],
+ "points": [
+  {
+   "scan": 6,
+   "type": "O",
+   "year": 1860,
+   "page": "4",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 9,
+   "type": "O",
+   "year": 1864,
+   "page": "7",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 12,
+   "type": "O",
+   "year": 1869,
+   "page": "10",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 15,
+   "type": "O",
+   "year": 1872,
+   "page": "13",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 18,
+   "type": "O",
+   "year": 1875,
+   "page": "16",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 21,
+   "type": "O",
+   "year": 1882,
+   "page": "19",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 24,
+   "type": "O",
+   "year": 1890,
+   "page": "22",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 27,
+   "type": "O",
+   "year": 1894,
+   "page": "25",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 30,
+   "type": "O",
+   "year": 1899,
+   "page": "28",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 33,
+   "type": "O",
+   "year": 1902,
+   "page": "31",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 36,
+   "type": "O",
+   "year": 1906,
+   "page": "34",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 39,
+   "type": "O",
+   "year": 1911,
+   "page": "37",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 42,
+   "type": "O",
+   "year": 1913,
+   "page": "40",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 45,
+   "type": "O",
+   "year": 1920,
+   "page": "43",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 48,
+   "type": "O",
+   "year": 1940,
+   "page": "46",
+   "by": "ondrnovy"
+  }
+ ],
+ "portal_id": "chric-19",
+ "signature": "Chříč 19",
+ "parish": "Chříč",
+ "district": "Plzeň-sever",
+ "places": [
+  "Slatina"
+ ],
+ "records": {
+  "O": "1855–1945"
+ },
+ "scans": 51,
+ "order": "chronological",
+ "url": "https://www.portafontium.eu/register/soap-pn/chric-19",
+ "notes": [
+  "Snímek = strana + 2 po celé knize; málo sňatků, na stranu připadá i několik let."
+ ]
+}

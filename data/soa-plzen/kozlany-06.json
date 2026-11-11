@@ -1,0 +1,252 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "kozlany-06",
+ "url": "https://www.portafontium.eu/register/soap-pn/kozlany-06",
+ "signature": "Kožlany 06",
+ "parish": "Kožlany",
+ "district": "Plzeň-sever",
+ "places": [
+  "Kožlany"
+ ],
+ "records": {
+  "N": "1801–1828",
+  "O": "1801–1838",
+  "Z": "1801–1839"
+ },
+ "scans": 173,
+ "order": "mixed",
+ "sections": [],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-11"
+  }
+ ],
+ "points": [
+  {
+   "scan": 14,
+   "type": "N",
+   "year": 1808,
+   "page": "22",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 30,
+   "type": "N",
+   "year": 1815,
+   "page": "54",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 34,
+   "type": "N",
+   "year": 1816,
+   "page": "62",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 42,
+   "type": "N",
+   "year": 1817,
+   "page": "78",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 46,
+   "type": "N",
+   "year": 1818,
+   "page": "86",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 50,
+   "type": "N",
+   "year": 1819,
+   "page": "94",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 54,
+   "type": "N",
+   "year": 1821,
+   "page": "102",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 58,
+   "type": "N",
+   "year": 1822,
+   "page": "110",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 62,
+   "type": "N",
+   "year": 1823,
+   "page": "118",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 66,
+   "type": "N",
+   "year": 1824,
+   "page": "126",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 70,
+   "type": "N",
+   "year": 1824,
+   "page": "134",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 74,
+   "type": "N",
+   "year": 1825,
+   "page": "142",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 78,
+   "type": "N",
+   "year": 1826,
+   "page": "150",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 82,
+   "type": "N",
+   "year": 1827,
+   "page": "158",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 86,
+   "type": "N",
+   "year": 1828,
+   "page": "166",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 94,
+   "type": "O",
+   "year": 1808,
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 98,
+   "type": "O",
+   "year": 1817,
+   "page": "190",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 102,
+   "type": "O",
+   "year": 1822,
+   "page": "198",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 110,
+   "type": "O",
+   "year": 1829,
+   "page": "214",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 118,
+   "type": "O",
+   "year": 1835,
+   "page": "230",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 122,
+   "type": "O",
+   "year": 1837,
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 126,
+   "type": "Z",
+   "year": 1806,
+   "page": "245",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 134,
+   "type": "Z",
+   "year": 1816,
+   "page": "261",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 142,
+   "type": "Z",
+   "year": 1821,
+   "page": "276",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 146,
+   "type": "Z",
+   "year": 1825,
+   "page": "284",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 150,
+   "type": "Z",
+   "year": 1828,
+   "page": "292",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 154,
+   "type": "Z",
+   "year": 1831,
+   "page": "300",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 158,
+   "type": "Z",
+   "year": 1833,
+   "page": "308",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 162,
+   "type": "Z",
+   "year": 1836,
+   "page": "316",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 166,
+   "type": "Z",
+   "year": 1838,
+   "page": "324",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 170,
+   "type": "N",
+   "page": "332",
+   "note": "matrika židů narozených v Kožlanech (od 1816), dál i zemřelí 1832–1834",
+   "by": "ondrnovy"
+  }
+ ],
+ "aliases": {
+  "Kožlany": [
+   "Koschlan"
+  ]
+ },
+ "notes": [
+  "Oddíly: narození sn. ~3–88 (1801–1828), sňatky ~91–122 (1801–1838), zemřelí ~123–169 (1801–1839), na konci matrika židů. Dvojstrana na snímek, pravá strana ≈ 2 × snímek − 6."
+ ]
+}

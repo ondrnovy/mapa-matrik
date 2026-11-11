@@ -1,0 +1,237 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "sections": [],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-11"
+  }
+ ],
+ "points": [
+  {
+   "scan": 8,
+   "type": "N",
+   "year": 1880,
+   "page": "5",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 13,
+   "type": "N",
+   "year": 1880,
+   "page": "10",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 18,
+   "type": "N",
+   "year": 1881,
+   "page": "15",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 23,
+   "type": "N",
+   "year": 1881,
+   "page": "20",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 28,
+   "type": "N",
+   "year": 1882,
+   "page": "25",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 33,
+   "type": "N",
+   "year": 1882,
+   "page": "30",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 38,
+   "type": "N",
+   "year": 1883,
+   "page": "35",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 43,
+   "type": "N",
+   "year": 1883,
+   "page": "40",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 48,
+   "type": "N",
+   "year": 1884,
+   "page": "45",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 53,
+   "type": "N",
+   "year": 1884,
+   "page": "50",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 58,
+   "type": "N",
+   "year": 1885,
+   "page": "55",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 63,
+   "type": "N",
+   "year": 1886,
+   "page": "60",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 68,
+   "type": "N",
+   "year": 1886,
+   "page": "65",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 73,
+   "type": "N",
+   "year": 1887,
+   "page": "70",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 78,
+   "type": "N",
+   "year": 1887,
+   "page": "75",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 83,
+   "type": "N",
+   "year": 1888,
+   "page": "80",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 88,
+   "type": "N",
+   "year": 1888,
+   "page": "85",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 93,
+   "type": "N",
+   "year": 1889,
+   "page": "90",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 98,
+   "type": "N",
+   "year": 1890,
+   "page": "95",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 103,
+   "type": "N",
+   "year": 1890,
+   "page": "100",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 108,
+   "type": "N",
+   "year": 1891,
+   "page": "105",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 113,
+   "type": "N",
+   "year": 1891,
+   "page": "110",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 118,
+   "type": "N",
+   "year": 1892,
+   "page": "115",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 128,
+   "type": "N",
+   "year": 1893,
+   "page": "125",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 133,
+   "type": "N",
+   "year": 1893,
+   "page": "130",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 138,
+   "type": "N",
+   "year": 1894,
+   "page": "135",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 143,
+   "type": "N",
+   "year": 1895,
+   "page": "140",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 158,
+   "type": "iN",
+   "letters": "K",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 163,
+   "type": "iN",
+   "letters": "S",
+   "by": "ondrnovy"
+  }
+ ],
+ "portal_id": "kozlany-15",
+ "signature": "Kožlany 15",
+ "parish": "Kožlany",
+ "district": "Plzeň-sever",
+ "places": [
+  "Kožlany"
+ ],
+ "aliases": {
+  "Kožlany": [
+   "Koschlan"
+  ]
+ },
+ "records": {
+  "N": "1879–1895",
+  "iN": "1879–1895"
+ },
+ "scans": 170,
+ "order": "chronological",
+ "url": "https://www.portafontium.eu/register/soap-pn/kozlany-15",
+ "notes": [
+  "Snímek = strana + 3 po celé knize (jedna strana na snímek). Zápisy končí v únoru 1895 kolem sn. 145, pak rejstřík podle příjmení (sn. ~150–167)."
+ ]
+}
