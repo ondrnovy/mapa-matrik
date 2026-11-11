@@ -1,0 +1,383 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "kozlany-18",
+ "url": "https://www.portafontium.eu/register/soap-pn/kozlany-18",
+ "signature": "Kožlany 18",
+ "parish": "Kožlany",
+ "district": "Plzeň-sever",
+ "places": [
+  "Kožlany"
+ ],
+ "records": {
+  "Z": "1840–1899",
+  "iZ": "1840–1899"
+ },
+ "scans": 262,
+ "order": "chronological",
+ "sections": [],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-11"
+  }
+ ],
+ "points": [
+  {
+   "scan": 7,
+   "type": "Z",
+   "year": 1841,
+   "page": "4",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 12,
+   "type": "Z",
+   "year": 1842,
+   "page": "14",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 17,
+   "type": "Z",
+   "year": 1844,
+   "page": "24",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 22,
+   "type": "Z",
+   "year": 1846,
+   "page": "34",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 27,
+   "type": "Z",
+   "year": 1849,
+   "page": "44",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 32,
+   "type": "Z",
+   "year": 1850,
+   "page": "54",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 37,
+   "type": "Z",
+   "year": 1851,
+   "page": "64",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 42,
+   "type": "Z",
+   "year": 1853,
+   "page": "74",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 47,
+   "type": "Z",
+   "year": 1856,
+   "page": "84",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 52,
+   "type": "Z",
+   "year": 1857,
+   "page": "94",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 57,
+   "type": "Z",
+   "year": 1859,
+   "page": "104",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 62,
+   "type": "Z",
+   "year": 1861,
+   "page": "114",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 67,
+   "type": "Z",
+   "year": 1862,
+   "page": "124",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 72,
+   "type": "Z",
+   "year": 1864,
+   "page": "134",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 77,
+   "type": "Z",
+   "year": 1865,
+   "page": "144",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 87,
+   "type": "Z",
+   "year": 1866,
+   "page": "164",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 92,
+   "type": "Z",
+   "year": 1867,
+   "page": "174",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 97,
+   "type": "Z",
+   "year": 1868,
+   "page": "184",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 102,
+   "type": "Z",
+   "year": 1869,
+   "page": "194",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 107,
+   "type": "Z",
+   "year": 1870,
+   "page": "204",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 112,
+   "type": "Z",
+   "year": 1872,
+   "page": "214",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 117,
+   "type": "Z",
+   "year": 1873,
+   "page": "224",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 122,
+   "type": "Z",
+   "year": 1874,
+   "page": "234",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 127,
+   "type": "Z",
+   "year": 1875,
+   "page": "244",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 132,
+   "type": "Z",
+   "year": 1876,
+   "page": "254",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 137,
+   "type": "Z",
+   "year": 1877,
+   "page": "264",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 142,
+   "type": "Z",
+   "year": 1878,
+   "page": "274",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 147,
+   "type": "Z",
+   "year": 1879,
+   "page": "284",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 152,
+   "type": "Z",
+   "year": 1880,
+   "page": "294",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 157,
+   "type": "Z",
+   "year": 1881,
+   "page": "304",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 162,
+   "type": "Z",
+   "year": 1882,
+   "page": "314",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 167,
+   "type": "Z",
+   "year": 1883,
+   "page": "324",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 172,
+   "type": "Z",
+   "year": 1884,
+   "page": "334",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 177,
+   "type": "Z",
+   "year": 1885,
+   "page": "344",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 182,
+   "type": "Z",
+   "year": 1886,
+   "page": "354",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 187,
+   "type": "Z",
+   "year": 1887,
+   "page": "364",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 192,
+   "type": "Z",
+   "year": 1888,
+   "page": "374",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 197,
+   "type": "Z",
+   "year": 1889,
+   "page": "384",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 202,
+   "type": "Z",
+   "year": 1890,
+   "page": "394",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 207,
+   "type": "Z",
+   "year": 1891,
+   "page": "404",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 212,
+   "type": "Z",
+   "year": 1892,
+   "page": "414",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 217,
+   "type": "Z",
+   "year": 1893,
+   "page": "424",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 222,
+   "type": "Z",
+   "year": 1894,
+   "page": "434",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 227,
+   "type": "Z",
+   "year": 1895,
+   "page": "444",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 232,
+   "type": "Z",
+   "year": 1896,
+   "page": "454",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 237,
+   "type": "Z",
+   "year": 1897,
+   "page": "464",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 242,
+   "type": "Z",
+   "year": 1899,
+   "page": "474",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 247,
+   "type": "iZ",
+   "letters": "Č–D",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 252,
+   "type": "iZ",
+   "letters": "L–M",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 257,
+   "type": "iZ",
+   "letters": "S–Š",
+   "by": "ondrnovy"
+  }
+ ],
+ "aliases": {
+  "Kožlany": [
+   "Koschlan"
+  ]
+ },
+ "notes": [
+  "Dvojstrana na snímek: levá strana = 2 × snímek − 10. Zápisy 1840–1899 do sn. ~243, pak rejstřík podle příjmení s čísly stran."
+ ]
+}

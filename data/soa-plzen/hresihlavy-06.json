@@ -9,7 +9,80 @@
    "date": "2026-11-11"
   }
  ],
- "points": [],
+ "points": [
+  {
+   "scan": 3,
+   "type": "iN",
+   "letters": "A–B",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 6,
+   "type": "iN",
+   "letters": "D–E",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 9,
+   "type": "iN",
+   "letters": "F–G",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 12,
+   "type": "iN",
+   "letters": "H",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 15,
+   "type": "iN",
+   "letters": "K",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 18,
+   "type": "iN",
+   "letters": "L",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 21,
+   "type": "iN",
+   "letters": "N–O",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 24,
+   "type": "iN",
+   "letters": "P",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 27,
+   "type": "iN",
+   "letters": "R",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 30,
+   "type": "iN",
+   "letters": "S",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 33,
+   "type": "iN",
+   "letters": "S–T",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 36,
+   "type": "iN",
+   "letters": "W–Z",
+   "by": "ondrnovy"
+  }
+ ],
  "portal_id": "hresihlavy-06",
  "signature": "Hřešihlavy 06",
  "parish": "Hřešihlavy",
@@ -41,5 +114,8 @@
  },
  "scans": 37,
  "order": "mixed",
- "url": "https://www.portafontium.eu/register/soap-pn/hresihlavy-06"
+ "url": "https://www.portafontium.eu/register/soap-pn/hresihlavy-06",
+ "notes": [
+  "Společný rejstřík: u každého písmene sloupce narození (knihy A 1786–1807, B 1807–1830, E od 1830), oddaní (D) a zemřelí (C), s číslem strany."
+ ]
 }

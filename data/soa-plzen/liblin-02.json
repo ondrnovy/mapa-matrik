@@ -9,7 +9,216 @@
    "date": "2026-11-11"
   }
  ],
- "points": [],
+ "points": [
+  {
+   "scan": 8,
+   "type": "N",
+   "year": 1754,
+   "page": "8",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 18,
+   "type": "N",
+   "year": 1758,
+   "page": "28",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 23,
+   "type": "N",
+   "year": 1759,
+   "page": "38",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 28,
+   "type": "N",
+   "year": 1760,
+   "page": "48",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 33,
+   "type": "N",
+   "year": 1761,
+   "page": "58",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 38,
+   "type": "N",
+   "year": 1762,
+   "page": "68",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 43,
+   "type": "N",
+   "year": 1763,
+   "page": "78",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 48,
+   "type": "N",
+   "year": 1764,
+   "page": "88",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 53,
+   "type": "N",
+   "year": 1765,
+   "page": "99",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 58,
+   "type": "N",
+   "year": 1767,
+   "page": "109",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 63,
+   "type": "N",
+   "year": 1768,
+   "page": "119",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 68,
+   "type": "N",
+   "year": 1769,
+   "page": "129",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 73,
+   "type": "N",
+   "year": 1771,
+   "page": "139",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 83,
+   "type": "N",
+   "year": 1774,
+   "page": "159",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 88,
+   "type": "N",
+   "year": 1776,
+   "page": "169",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 98,
+   "type": "N",
+   "year": 1778,
+   "page": "189",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 113,
+   "type": "Z",
+   "year": 1755,
+   "page": "6",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 118,
+   "type": "Z",
+   "year": 1758,
+   "page": "16",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 123,
+   "type": "Z",
+   "year": 1760,
+   "page": "26",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 128,
+   "type": "Z",
+   "year": 1762,
+   "page": "36",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 133,
+   "type": "Z",
+   "year": 1764,
+   "page": "47",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 138,
+   "type": "Z",
+   "year": 1766,
+   "page": "57",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 143,
+   "type": "Z",
+   "year": 1769,
+   "page": "67",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 148,
+   "type": "Z",
+   "year": 1770,
+   "page": "77",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 153,
+   "type": "Z",
+   "year": 1772,
+   "page": "87",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 158,
+   "type": "Z",
+   "year": 1773,
+   "page": "97",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 168,
+   "type": "Z",
+   "year": 1778,
+   "page": "117",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 173,
+   "type": "O",
+   "year": 1754,
+   "page": "6",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 183,
+   "type": "O",
+   "year": 1760,
+   "page": "25",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 208,
+   "note": "na pravé straně začíná samostatná matrika vojáků (Liber militiae)",
+   "by": "ondrnovy"
+  }
+ ],
  "portal_id": "liblin-02",
  "signature": "Liblín 02",
  "parish": "Liblín",
@@ -43,5 +252,8 @@
  "scans": 215,
  "language": "latina",
  "order": "chronological",
- "url": "https://www.portafontium.eu/register/soap-pn/liblin-02"
+ "url": "https://www.portafontium.eu/register/soap-pn/liblin-02",
+ "notes": [
+  "Oddíly: narození sn. ~5–109 (1753–1779), zemřelí ~110–170, oddaní ~171–208, pak matrika vojáků. Vsi jsou psané na okraji. Dvojstrana na snímek, každý oddíl má vlastní stránkování."
+ ]
 }
