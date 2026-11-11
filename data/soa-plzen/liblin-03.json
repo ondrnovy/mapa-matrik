@@ -1,0 +1,147 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "liblin-03",
+ "url": "https://www.portafontium.eu/register/soap-pn/liblin-03",
+ "signature": "Liblín 03",
+ "parish": "Liblín",
+ "district": "Rokycany",
+ "places": [
+  "Liblín",
+  "Bujesily",
+  "Chockov",
+  "Olešná"
+ ],
+ "records": {
+  "N": "1780–1788",
+  "O": "1780–1789",
+  "Z": "1780–1789"
+ },
+ "scans": 105,
+ "order": "mixed",
+ "sections": [],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-11"
+  }
+ ],
+ "points": [
+  {
+   "scan": 5,
+   "type": "N",
+   "year": 1780,
+   "page": "2",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 8,
+   "type": "N",
+   "year": 1781,
+   "page": "8",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 11,
+   "type": "N",
+   "year": 1782,
+   "page": "14",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 17,
+   "type": "N",
+   "year": 1783,
+   "page": "26",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 20,
+   "type": "N",
+   "year": 1784,
+   "page": "32",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 47,
+   "type": "N",
+   "year": 1788,
+   "note": "poslední strana narozených",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 50,
+   "type": "O",
+   "year": 1780,
+   "page": "289",
+   "note": "začátek oddaných (Copulati)",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 53,
+   "type": "O",
+   "year": 1782,
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 62,
+   "type": "O",
+   "year": 1785,
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 72,
+   "type": "Z",
+   "note": "začátek zemřelých (Mortuorum), sn. 71 vpravo titulní list",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 74,
+   "type": "Z",
+   "year": 1780,
+   "page": "436",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 77,
+   "type": "Z",
+   "year": 1782,
+   "page": "442",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 80,
+   "type": "Z",
+   "year": 1783,
+   "page": "448",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 83,
+   "type": "Z",
+   "year": 1784,
+   "page": "454",
+   "by": "ondrnovy"
+  }
+ ],
+ "aliases": {
+  "Liblín": [
+   "Liblin"
+  ],
+  "Bujesily": [
+   "Bujesil"
+  ],
+  "Chockov": [
+   "Kotzkow"
+  ],
+  "Olešná": [
+   "Woleschna",
+   "Volešná"
+  ]
+ },
+ "language": "latina",
+ "notes": [
+  "Oddíly: narození sn. ~4–47 (1780–1788), oddaní sn. 50–71 (od str. 289), zemřelí od sn. 72 (od str. ~434). Vsi se střídají, ves je napsaná u každého zápisu."
+ ]
+}

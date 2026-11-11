@@ -1,0 +1,79 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "liblin-04",
+ "url": "https://www.portafontium.eu/register/soap-pn/liblin-04",
+ "signature": "Liblín 04",
+ "parish": "Liblín",
+ "district": "Rokycany",
+ "places": [
+  "Liblín",
+  "Bujesily",
+  "Chockov",
+  "Olešná"
+ ],
+ "records": {
+  "N": "1853–1863"
+ },
+ "scans": 191,
+ "order": "by_village",
+ "sections": [],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-11"
+  }
+ ],
+ "points": [
+  {
+   "scan": 170,
+   "type": "N",
+   "place": "Olešná",
+   "year": 1860,
+   "page": "175",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 174,
+   "type": "N",
+   "place": "Olešná",
+   "year": 1861,
+   "page": "179",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 178,
+   "type": "N",
+   "place": "Olešná",
+   "year": 1862,
+   "page": "183",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 186,
+   "type": "N",
+   "page": "194",
+   "note": "oddíl „Z cizích osad“ (narození z jiných obcí)",
+   "by": "ondrnovy"
+  }
+ ],
+ "aliases": {
+  "Liblín": [
+   "Liblin"
+  ],
+  "Bujesily": [
+   "Bujesil"
+  ],
+  "Chockov": [
+   "Kotzkow"
+  ],
+  "Olešná": [
+   "Woleschna",
+   "Volešná"
+  ]
+ },
+ "notes": [
+  "Po vsích, každá 1853–1863; Olešná končí kolem sn. 183, pak narození z cizích osad. Začátky ostatních vsí zatím nezmapované."
+ ]
+}
