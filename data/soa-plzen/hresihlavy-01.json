@@ -1,0 +1,163 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "hresihlavy-01",
+ "url": "https://www.portafontium.eu/register/soap-pn/hresihlavy-01",
+ "signature": "Hřešihlavy 01",
+ "parish": "Hřešihlavy",
+ "district": "Rokycany",
+ "places": [
+  "Hřešihlavy",
+  "Třímany",
+  "Kladruby",
+  "Vojenice"
+ ],
+ "records": {
+  "N": "1786–1807"
+ },
+ "scans": 67,
+ "order": "by_village",
+ "sections": [],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-11"
+  }
+ ],
+ "points": [
+  {
+   "scan": 5,
+   "type": "N",
+   "year": 1787,
+   "page": "4",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 11,
+   "type": "N",
+   "year": 1796,
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 14,
+   "type": "N",
+   "year": 1799,
+   "page": "16",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 17,
+   "type": "N",
+   "year": 1802,
+   "page": "19",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 20,
+   "type": "N",
+   "year": 1806,
+   "page": "22",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 29,
+   "type": "N",
+   "year": 1800,
+   "page": "31",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 32,
+   "type": "N",
+   "year": 1802,
+   "page": "34",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 35,
+   "type": "N",
+   "year": 1804,
+   "page": "37",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 38,
+   "type": "N",
+   "year": 1806,
+   "page": "40",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 41,
+   "type": "N",
+   "year": 1788,
+   "page": "50",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 44,
+   "type": "N",
+   "year": 1791,
+   "page": "53",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 50,
+   "type": "N",
+   "year": 1798,
+   "page": "59",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 53,
+   "type": "N",
+   "year": 1800,
+   "page": "62",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 56,
+   "type": "N",
+   "year": 1803,
+   "page": "65",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 59,
+   "type": "N",
+   "year": 1805,
+   "page": "68",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 62,
+   "type": "N",
+   "year": 1788,
+   "page": "74",
+   "by": "ondrnovy"
+  }
+ ],
+ "aliases": {
+  "Hřešihlavy": [
+   "Herschichlau",
+   "Rzeschohlau"
+  ],
+  "Třímany": [
+   "Triman",
+   "Trzimann"
+  ],
+  "Kladruby": [
+   "Kladrub",
+   "Kradlub"
+  ],
+  "Vojenice": [
+   "Wojenitz",
+   "Wogenitz"
+  ]
+ },
+ "language": "němčina",
+ "notes": [
+  "Čtyři řady po ~1787–1806 bez nadpisu vsi (zřejmě po vsích jako v dalších knihách: Hřešihlavy, Třímany, Kladruby, Vojenice): sn. ~5–21, ~22–39, ~40–60, od ~61."
+ ]
+}

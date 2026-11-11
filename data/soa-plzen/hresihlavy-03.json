@@ -1,0 +1,237 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "hresihlavy-03",
+ "url": "https://www.portafontium.eu/register/soap-pn/hresihlavy-03",
+ "signature": "Hřešihlavy 03",
+ "parish": "Hřešihlavy",
+ "district": "Rokycany",
+ "places": [
+  "Hřešihlavy",
+  "Třímany",
+  "Kladruby",
+  "Vojenice"
+ ],
+ "records": {
+  "N": "1830–1849"
+ },
+ "scans": 113,
+ "order": "by_village",
+ "sections": [],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-11"
+  }
+ ],
+ "points": [
+  {
+   "scan": 5,
+   "type": "N",
+   "place": "Hřešihlavy",
+   "year": 1830,
+   "page": "2",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 11,
+   "type": "N",
+   "place": "Hřešihlavy",
+   "year": 1834,
+   "page": "8",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 17,
+   "type": "N",
+   "place": "Hřešihlavy",
+   "year": 1837,
+   "page": "14",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 23,
+   "type": "N",
+   "place": "Hřešihlavy",
+   "year": 1841,
+   "page": "20",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 32,
+   "type": "N",
+   "place": "Hřešihlavy",
+   "year": 1845,
+   "page": "29",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 38,
+   "type": "N",
+   "place": "Hřešihlavy",
+   "year": 1848,
+   "page": "35",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 41,
+   "type": "N",
+   "place": "Hřešihlavy",
+   "year": 1849,
+   "page": "38",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 44,
+   "type": "N",
+   "place": "Třímany",
+   "year": 1830,
+   "page": "41",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 47,
+   "type": "N",
+   "place": "Třímany",
+   "year": 1834,
+   "page": "44",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 50,
+   "type": "N",
+   "place": "Třímany",
+   "year": 1839,
+   "page": "47",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 53,
+   "type": "N",
+   "place": "Třímany",
+   "year": 1842,
+   "page": "50",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 56,
+   "type": "N",
+   "place": "Třímany",
+   "year": 1845,
+   "page": "53",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 62,
+   "type": "N",
+   "place": "Třímany",
+   "year": 1849,
+   "page": "59",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 65,
+   "type": "N",
+   "place": "Kladruby",
+   "year": 1831,
+   "page": "71",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 71,
+   "type": "N",
+   "place": "Kladruby",
+   "year": 1835,
+   "page": "77",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 77,
+   "type": "N",
+   "place": "Kladruby",
+   "year": 1840,
+   "page": "83",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 80,
+   "type": "N",
+   "place": "Kladruby",
+   "year": 1842,
+   "page": "86",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 86,
+   "type": "N",
+   "place": "Kladruby",
+   "year": 1845,
+   "page": "92",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 92,
+   "type": "N",
+   "place": "Kladruby",
+   "year": 1847,
+   "page": "98",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 95,
+   "type": "N",
+   "place": "Kladruby",
+   "year": 1849,
+   "page": "101",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 98,
+   "type": "N",
+   "place": "Vojenice",
+   "year": 1830,
+   "page": "112",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 101,
+   "type": "N",
+   "place": "Vojenice",
+   "year": 1841,
+   "page": "115",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 107,
+   "type": "N",
+   "place": "Hřešihlavy",
+   "year": 1832,
+   "page": "124",
+   "note": "narození židovské obce v Hřešihlavech",
+   "by": "ondrnovy"
+  }
+ ],
+ "aliases": {
+  "Hřešihlavy": [
+   "Herschichlau",
+   "Rzeschohlau"
+  ],
+  "Třímany": [
+   "Triman",
+   "Trzimann"
+  ],
+  "Kladruby": [
+   "Kladrub",
+   "Kradlub"
+  ],
+  "Vojenice": [
+   "Wojenitz",
+   "Wogenitz"
+  ]
+ },
+ "language": "němčina",
+ "notes": [
+  "Po vsích, každá 1830–1849: Hřešihlavy sn. 3–~42, Třímany ~43–63, Kladruby ~64–96, Vojenice ~97–104, pak narození židovské obce (od ~105)."
+ ]
+}

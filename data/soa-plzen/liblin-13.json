@@ -1,0 +1,267 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "liblin-13",
+ "url": "https://www.portafontium.eu/register/soap-pn/liblin-13",
+ "signature": "Liblín 13",
+ "parish": "Liblín",
+ "district": "Rokycany",
+ "places": [
+  "Liblín",
+  "Bujesily",
+  "Chockov",
+  "Olešná"
+ ],
+ "records": {
+  "O": "1851–1862",
+  "iO": "1851–1862"
+ },
+ "scans": 114,
+ "order": "by_village",
+ "sections": [],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-11"
+  }
+ ],
+ "points": [
+  {
+   "scan": 5,
+   "type": "O",
+   "place": "Liblín",
+   "year": 1852,
+   "page": "fol. 3",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 8,
+   "type": "O",
+   "place": "Liblín",
+   "year": 1853,
+   "page": "fol. 6",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 11,
+   "type": "O",
+   "place": "Liblín",
+   "year": 1854,
+   "page": "fol. 9",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 14,
+   "type": "O",
+   "place": "Liblín",
+   "year": 1855,
+   "page": "fol. 12",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 20,
+   "type": "O",
+   "place": "Liblín",
+   "year": 1856,
+   "page": "fol. 18",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 26,
+   "type": "O",
+   "place": "Liblín",
+   "year": 1857,
+   "page": "fol. 24",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 29,
+   "type": "O",
+   "place": "Liblín",
+   "year": 1858,
+   "page": "fol. 27",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 35,
+   "type": "O",
+   "place": "Liblín",
+   "year": 1859,
+   "page": "fol. 33",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 38,
+   "type": "O",
+   "place": "Liblín",
+   "year": 1860,
+   "page": "fol. 36",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 44,
+   "type": "O",
+   "place": "Liblín",
+   "year": 1861,
+   "page": "fol. 42",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 47,
+   "type": "O",
+   "place": "Bujesily",
+   "year": 1854,
+   "page": "fol. 45",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 50,
+   "type": "O",
+   "place": "Bujesily",
+   "year": 1855,
+   "page": "fol. 48",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 53,
+   "type": "O",
+   "place": "Bujesily",
+   "year": 1856,
+   "page": "fol. 51",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 56,
+   "type": "O",
+   "place": "Bujesily",
+   "year": 1858,
+   "page": "fol. 54",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 59,
+   "type": "O",
+   "place": "Bujesily",
+   "year": 1860,
+   "page": "fol. 57",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 62,
+   "type": "O",
+   "place": "Bujesily",
+   "year": 1862,
+   "page": "fol. 60",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 65,
+   "type": "O",
+   "place": "Chockov",
+   "year": 1857,
+   "page": "fol. 77",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 68,
+   "type": "O",
+   "place": "Chockov",
+   "year": 1861,
+   "page": "fol. 80",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 71,
+   "type": "O",
+   "place": "Olešná",
+   "year": 1852,
+   "page": "fol. 94",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 74,
+   "type": "O",
+   "place": "Olešná",
+   "year": 1854,
+   "page": "fol. 97",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 77,
+   "type": "O",
+   "place": "Olešná",
+   "year": 1856,
+   "page": "fol. 100",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 80,
+   "type": "O",
+   "place": "Olešná",
+   "year": 1858,
+   "page": "fol. 103",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 86,
+   "type": "O",
+   "place": "Olešná",
+   "year": 1859,
+   "page": "fol. 109",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 89,
+   "type": "O",
+   "place": "Olešná",
+   "year": 1860,
+   "page": "fol. 112",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 95,
+   "type": "O",
+   "place": "Olešná",
+   "year": 1862,
+   "page": "fol. 118",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 98,
+   "type": "iO",
+   "letters": "B",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 107,
+   "type": "iO",
+   "letters": "N–O",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 113,
+   "type": "iO",
+   "letters": "W",
+   "by": "ondrnovy"
+  }
+ ],
+ "aliases": {
+  "Liblín": [
+   "Liblin"
+  ],
+  "Bujesily": [
+   "Bujesil"
+  ],
+  "Chockov": [
+   "Kotzkow"
+  ],
+  "Olešná": [
+   "Woleschna",
+   "Volešná"
+  ]
+ },
+ "notes": [
+  "Po vsích, každá 1852–1862: Liblín sn. ~3–45 (fol. = snímek − 2), Bujesily ~45–63, Chockov ~64–70, Olešná ~70–96, rejstřík od ~97."
+ ]
+}

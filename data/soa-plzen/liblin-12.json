@@ -1,0 +1,243 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "liblin-12",
+ "url": "https://www.portafontium.eu/register/soap-pn/liblin-12",
+ "signature": "Liblín 12",
+ "parish": "Liblín",
+ "district": "Rokycany",
+ "places": [
+  "Liblín",
+  "Bujesily",
+  "Chockov",
+  "Olešná"
+ ],
+ "records": {
+  "O": "1836–1851",
+  "iO": "1836–1851"
+ },
+ "scans": 109,
+ "order": "by_village",
+ "sections": [],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-11"
+  }
+ ],
+ "points": [
+  {
+   "scan": 5,
+   "type": "O",
+   "place": "Liblín",
+   "year": 1840,
+   "page": "4",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 8,
+   "type": "O",
+   "place": "Liblín",
+   "year": 1842,
+   "page": "10",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 23,
+   "type": "O",
+   "place": "Liblín",
+   "year": 1846,
+   "page": "40",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 26,
+   "type": "O",
+   "place": "Liblín",
+   "year": 1848,
+   "page": "46",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 29,
+   "type": "O",
+   "place": "Liblín",
+   "year": 1850,
+   "page": "52",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 35,
+   "type": "O",
+   "place": "Liblín",
+   "year": 1851,
+   "page": "64",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 38,
+   "type": "O",
+   "place": "Bujesily",
+   "year": 1836,
+   "page": "70",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 41,
+   "type": "O",
+   "place": "Bujesily",
+   "year": 1841,
+   "page": "76",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 44,
+   "type": "O",
+   "place": "Bujesily",
+   "year": 1844,
+   "page": "82",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 47,
+   "type": "O",
+   "place": "Bujesily",
+   "year": 1845,
+   "page": "88",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 50,
+   "type": "O",
+   "place": "Bujesily",
+   "year": 1847,
+   "page": "94",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 53,
+   "type": "O",
+   "place": "Bujesily",
+   "year": 1850,
+   "page": "100",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 59,
+   "type": "O",
+   "place": "Chockov",
+   "year": 1836,
+   "page": "140",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 62,
+   "type": "O",
+   "place": "Chockov",
+   "year": 1848,
+   "page": "146",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 65,
+   "type": "O",
+   "place": "Chockov",
+   "year": 1849,
+   "page": "152",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 68,
+   "type": "O",
+   "place": "Chockov",
+   "year": 1851,
+   "page": "158",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 71,
+   "type": "O",
+   "place": "Olešná",
+   "year": 1837,
+   "page": "176",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 74,
+   "type": "O",
+   "place": "Olešná",
+   "year": 1842,
+   "page": "182",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 77,
+   "type": "O",
+   "place": "Olešná",
+   "year": 1843,
+   "page": "188",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 86,
+   "type": "O",
+   "place": "Olešná",
+   "year": 1847,
+   "page": "206",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 89,
+   "type": "O",
+   "place": "Olešná",
+   "year": 1849,
+   "page": "212",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 92,
+   "type": "O",
+   "place": "Olešná",
+   "year": 1850,
+   "page": "218",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 98,
+   "type": "iO",
+   "letters": "D–E",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 101,
+   "type": "iO",
+   "letters": "H–I",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 104,
+   "type": "iO",
+   "letters": "N–O",
+   "by": "ondrnovy"
+  }
+ ],
+ "aliases": {
+  "Liblín": [
+   "Liblin"
+  ],
+  "Bujesily": [
+   "Bujesil"
+  ],
+  "Chockov": [
+   "Kotzkow"
+  ],
+  "Olešná": [
+   "Woleschna",
+   "Volešná"
+  ]
+ },
+ "notes": [
+  "Po vsích, každá 1836–1851: Liblín sn. ~3–36, Bujesily ~37–57, Chockov ~58–69, Olešná ~70–95, rejstřík od ~96. Dvojstrana na snímek."
+ ]
+}
