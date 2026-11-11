@@ -1,0 +1,81 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "11244",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/11244",
+ "signature": "Petrovice-RA 03",
+ "parish": "Petrovice",
+ "records": {
+  "O": "1716–1784",
+  "iO": "1716–1784"
+ },
+ "district": "Rakovník",
+ "order": "chronological",
+ "scans": 110,
+ "scan_url": "https://ebadatelna.soapraha.cz/d/11244/{scan}",
+ "language": "latinsky",
+ "points": [
+  {
+   "scan": 86,
+   "type": "O",
+   "year": 1773,
+   "year_to": 1774,
+   "months": "IX 1773 – V 1774",
+   "page": "fol. 87v–88",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 87,
+   "type": "O",
+   "year": 1774,
+   "months": "V–XI",
+   "page": "fol. 88v–89",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 89,
+   "type": "O",
+   "year": 1775,
+   "year_to": 1776,
+   "page": "fol. 90v–91",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 101,
+   "type": "iO",
+   "letters": "F–H",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 102,
+   "type": "iO",
+   "letters": "H–L",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 103,
+   "type": "iO",
+   "letters": "K",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 104,
+   "type": "iO",
+   "letters": "K–M",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 107,
+   "type": "iO",
+   "letters": "S–T",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-11"
+  }
+ ]
+}

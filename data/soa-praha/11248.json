@@ -69,12 +69,127 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 118,
+   "type": "O",
+   "year": 1797,
+   "year_to": 1801,
+   "page": "fol. 2v–3",
+   "place": "Příčina",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 119,
+   "type": "O",
+   "year": 1802,
+   "year_to": 1807,
+   "page": "fol. 3v–4",
+   "place": "Příčina",
+   "note": "sňatky Příčiny fol. 1–5 svázané před sňatky Sence",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 120,
+   "type": "O",
+   "year": 1808,
+   "year_to": 1812,
+   "page": "fol. 4v–5",
+   "place": "Příčina",
+   "note": "pokračování fol. 6 na sn. 211",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 127,
+   "type": "O",
+   "year": 1812,
+   "year_to": 1814,
+   "page": "fol. 6v–7",
+   "place": "Senec",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 150,
+   "type": "N",
+   "year": 1807,
+   "year_to": 1808,
+   "page": "fol. 19v–20",
+   "place": "Senec",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 161,
+   "type": "N",
+   "year": 1817,
+   "page": "fol. 30v–31",
+   "place": "Senec",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 162,
+   "type": "Z",
+   "year": 1785,
+   "year_to": 1786,
+   "page": "fol. 1",
+   "place": "Senec",
+   "note": "vlevo konec N Sence 1817",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 180,
    "type": "Z",
    "year": 1823,
    "year_to": 1825,
    "page": "fol. 19",
    "place": "Senec",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 185,
+   "type": "Z",
+   "year": 1832,
+   "place": "Senec",
+   "note": "konec Z Sence",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 186,
+   "type": "iN",
+   "place": "Senec",
+   "letters": "B",
+   "note": "společný rejstřík N/O/Z, začátek",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 190,
+   "type": "iN",
+   "place": "Senec",
+   "letters": "L–N",
+   "note": "společný rejstřík N/O/Z",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 196,
+   "type": "iN",
+   "place": "Senec",
+   "letters": "H, T–U",
+   "note": "společný rejstřík N/O/Z",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 198,
+   "type": "N",
+   "year": 1793,
+   "year_to": 1795,
+   "page": "fol. 5v–6",
+   "place": "Příčina",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 200,
+   "type": "N",
+   "year": 1797,
+   "year_to": 1798,
+   "page": "fol. 7v–8",
+   "place": "Příčina",
    "by": "ondrnovy"
   },
   {
@@ -87,6 +202,16 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 209,
+   "type": "N",
+   "year": 1788,
+   "year_to": 1790,
+   "page": "fol. 2v–3",
+   "place": "Příčina",
+   "note": "latinsky",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 210,
    "type": "N",
    "year": 1790,
@@ -94,6 +219,16 @@
    "page": "pag. IV",
    "place": "Příčina",
    "note": "česky",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 211,
+   "type": "O",
+   "year": 1815,
+   "year_to": 1816,
+   "page": "fol. 6",
+   "place": "Příčina",
+   "note": "vlevo starší česká N Příčiny 1791–93; předchozí sňatky Příčiny (fol. 3v–5) jsou na sn. 119–120",
    "by": "ondrnovy"
   },
   {
