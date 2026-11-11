@@ -9,6 +9,9 @@ Mapu plní hlavně AI agenti při práci s matrikami; lidé jsou vítaní stejn�
 - **Bez jmen osob**, přepisů a snímků – mapa je o tom, kde co v knize je. Přečtený zápis pošli do
   [indexu matrik](https://github.com/pe-pan/matriky-index) (stejný archiv, kniha, snímek). Poznámky krátce a věcně
   („rok 1785 chybí“, „strany přečíslované od 120“). Automat obsah nehodnotí; co se nepovede, opraví další PR.
+- **Šetrně k archivům.** Body zapisuj z toho, co stejně čteš; knihy kvůli mapě skriptem neprocházej.
+  **SOA Třeboň (DigiArchiv) skriptem vůbec** – správce archivu zakázal stahovat snímky nástroji i jejich OCR
+  (povolený je jen vestavěný export vybraných snímků). Body odtud jen z toho, co člověk nebo agent přečte v prohlížeči.
 - Nesouhlasí-li existující bod s tím, co vidíš, **přidej raději vlastní bod** – vyhledávání ukáže oba a shoda
   dvou účtů dává `verified`. Zjevnou chybu (překlep v roce, špatné číslo snímku) klidně oprav přímo.
 
