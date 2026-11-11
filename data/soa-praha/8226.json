@@ -1,0 +1,95 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "8226",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/8226",
+ "signature": "Lužná 04",
+ "parish": "Lužná",
+ "records": {
+  "Z": "1784–1857",
+  "iZ": "1784–1857"
+ },
+ "places": [
+  "Lužná"
+ ],
+ "scans": 111,
+ "scan_url": "https://ebadatelna.soapraha.cz/d/8226/{scan}",
+ "district": "Rakovník",
+ "points": [
+  {
+   "scan": 36,
+   "type": "Z",
+   "year": 1817,
+   "year_to": 1818,
+   "page": "pag. 34–35",
+   "note": "snímek ≈ strana + 1",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 62,
+   "type": "Z",
+   "year": 1836,
+   "year_to": 1837,
+   "page": "pag. 60–61",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 68,
+   "type": "Z",
+   "year": 1840,
+   "year_to": 1841,
+   "page": "pag. 66–67",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 79,
+   "type": "Z",
+   "year": 1846,
+   "months": "I–VI",
+   "page": "pag. 77–78",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 95,
+   "type": "Z",
+   "year": 1856,
+   "months": "IV–XI",
+   "page": "pag. 93–94",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 96,
+   "type": "Z",
+   "year": 1856,
+   "year_to": 1857,
+   "months": "XII 1856 – V 1857",
+   "page": "pag. 94v–95",
+   "note": "poslední zápisy svazku",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 103,
+   "type": "iZ",
+   "year": 1784,
+   "year_to": 1857,
+   "letters": "H",
+   "note": "rejstřík zemřelých (jméno, rok, strana)",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 104,
+   "type": "iZ",
+   "year": 1784,
+   "year_to": 1857,
+   "letters": "J–K",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-11"
+  }
+ ]
+}
