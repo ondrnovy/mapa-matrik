@@ -20,6 +20,48 @@
  "scan_url": "https://ebadatelna.soapraha.cz/d/8225/{scan}",
  "points": [
   {
+   "scan": 11,
+   "type": "O",
+   "year": 1803,
+   "months": "II–XI",
+   "page": "pag. 9v–10",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 12,
+   "type": "O",
+   "year": 1804,
+   "months": "II–XI",
+   "page": "pag. 10v–11",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 13,
+   "type": "O",
+   "year": 1804,
+   "year_to": 1807,
+   "months": "XI 1804 – VII 1807",
+   "page": "pag. 11–12",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 14,
+   "type": "O",
+   "year": 1807,
+   "year_to": 1809,
+   "months": "XI 1807 – XI 1809",
+   "page": "pag. 12v–13",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 16,
+   "type": "O",
+   "year": 1811,
+   "year_to": 1814,
+   "page": "pag. 14–15",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 32,
    "type": "O",
    "year": 1832,
@@ -101,6 +143,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-10"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-11"
   }
  ]
 }
