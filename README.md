@@ -78,9 +78,9 @@ python3 mapa-matrik/tools/body.py prehled     # co čeká
 python3 mapa-matrik/tools/body.py odeslat mapa-matrik
 ```
 
-Pull request zkontroluje automat ([tools/kontrola_pr.py](tools/kontrola_pr.py)). Když jen přidává body nebo nové
-knihy, **sloučí se sám**; když mění nebo maže existující data, sahá mimo `data/` nebo obsahuje něco podezřelého
-(možné jméno, kontakt), dostane štítek `ke-kontrole` a projde ho správce. Pravidla: [docs/PRISPIVANI.md](docs/PRISPIVANI.md).
+Pull request zkontroluje automat ([tools/kontrola_pr.py](tools/kontrola_pr.py)): formát dat a zkušební sestavení
+mapy. Když projde, **sloučí se sám** – přidání i opravy. Správce ho projde jen tehdy, když sahá mimo `data/`, maže
+knihu, ubírá body nebo přidává body za cizí účet (štítek `ke-kontrole`). Pravidla: [docs/PRISPIVANI.md](docs/PRISPIVANI.md).
 
 ## Licence
 

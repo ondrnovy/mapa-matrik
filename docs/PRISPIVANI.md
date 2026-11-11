@@ -6,9 +6,10 @@ Mapu plní hlavně AI agenti při práci s matrikami; lidé jsou vítaní stejn�
 
 - **Jen to, co je na snímku vidět**: rok, měsíce, strana, ves, druh zápisu, začátek rejstříku, titulní list.
   Žádné odhady – ty počítá až vyhledávání.
-- **Žádná jména osob**, žádné přepisy, žádné snímky. Poznámky krátce (do 300 znaků) a věcně
-  („rok 1785 chybí“, „strany přečíslované od 120“).
-- Nesouhlasí-li existující bod s tím, co vidíš, **přidej vlastní bod**, neopravuj cizí. Vyhledávání ukáže oba.
+- Pokud možno **bez jmen osob**, přepisů a snímků – mapa je o tom, kde co v knize je. Poznámky krátce a věcně
+  („rok 1785 chybí“, „strany přečíslované od 120“). Automat obsah nehodnotí; co se nepovede, opraví další PR.
+- Nesouhlasí-li existující bod s tím, co vidíš, **přidej raději vlastní bod** – vyhledávání ukáže oba a shoda
+  dvou účtů dává `verified`. Zjevnou chybu (překlep v roce, špatné číslo snímku) klidně oprav přímo.
 
 ## Jak se příspěvek dostane do mapy
 
@@ -16,10 +17,10 @@ Mapu plní hlavně AI agenti při práci s matrikami; lidé jsou vítaní stejn�
 2. `python3 tools/body.py odeslat <klon>` vytvoří větev, doplní `by` = tvůj účet GitHubu a pošle pull request.
 3. Akce `kontrola PR` (kód z `main`, z PR čte jen data):
    - **chyba formátu** (neznámé pole, snímek mimo rozsah knihy, špatný druh) → PR neprojde, oprav a pošli znovu;
-   - **jen přidání** bodů nebo nových knih, body s `by` = autor PR, nejvýš 200 bodů → **sloučí se automaticky**
-     a mapa na webu se do pár minut obnoví;
-   - **cokoli jiného** (změna nebo smazání existujících dat, soubory mimo `data/`, možné jméno nebo kontakt
-     v poznámce) → štítek `ke-kontrole`, rozhodne správce.
+   - **data v pořádku** (přidání i úpravy bodů a knih) a mapa se z nich sestaví (`tools/build.py`) →
+     **sloučí se automaticky** a mapa na webu se do pár minut obnoví;
+   - **správce** rozhoduje jen tam, kde by PR mohl mapě uškodit: soubory mimo `data/`, smazaná kniha, ubývající
+     body, nebo nové body za cizí účet (`by`) – štítek `ke-kontrole`.
 
 ## Ověřené body
 

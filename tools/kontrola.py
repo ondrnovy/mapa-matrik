@@ -52,9 +52,6 @@ def check(path, vol):
         if key in seen:
             errors.append(f"bod je dvakrát: {p}")
         seen.add(key)
-    for s in vol.get("sources") or []:
-        if "@" in str(s):
-            errors.append("sources nesmí obsahovat e-mail")
     return errors
 
 

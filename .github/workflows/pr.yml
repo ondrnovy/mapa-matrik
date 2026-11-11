@@ -1,5 +1,5 @@
-# Kontrola pull requestu a automatické sloučení, když jen přidává body.
-# pull_request_target: běží s kódem z main, z PR se čtou jen data (git show), nic z PR se nespouští.
+# Kontrola pull requestu a automatické sloučení, když PR mění jen data a mapa se z nich sestaví.
+# pull_request_target: běží s kódem z main, z PR se berou jen soubory data/, nic z PR se nespouští.
 name: kontrola PR
 on:
   pull_request_target:
@@ -27,7 +27,15 @@ jobs:
         run: |
           set +e
           python3 tools/kontrola_pr.py "${{ github.event.pull_request.base.sha }}" pr "${{ github.event.pull_request.user.login }}" > vysledek.txt
-          echo "kod=$?" >> "$GITHUB_OUTPUT"
+          kod=$?
+          if [ "$kod" != 1 ]; then
+            git checkout pr -- data/
+            if ! python3 tools/build.py /tmp/site >> vysledek.txt 2>&1; then
+              echo "CHYBA mapa se z dat PR nesestaví (tools/build.py)" >> vysledek.txt
+              kod=1
+            fi
+          fi
+          echo "kod=$kod" >> "$GITHUB_OUTPUT"
           cat vysledek.txt
           { echo '```'; cat vysledek.txt; echo '```'; } >> "$GITHUB_STEP_SUMMARY"
       - name: Sloučit (jen přidání)
@@ -46,8 +54,14 @@ jobs:
         run: |
           gh label create ke-kontrole --repo "$GITHUB_REPOSITORY" --color FBCA04 --description "Potřebuje kontrolu správce" --force
           gh pr edit "$PR" --repo "$GITHUB_REPOSITORY" --add-label ke-kontrole
-          { echo 'Tento PR mění nebo maže existující data, nebo v něm je něco podezřelého. Projde ho správce.'; echo; echo '```'; cat vysledek.txt; echo '```'; } > komentar.md
+          { echo 'Tento PR sahá mimo data/, maže knihu nebo ubírá body. Projde ho správce.'; echo; echo '```'; cat vysledek.txt; echo '```'; } > komentar.md
           gh pr comment "$PR" --repo "$GITHUB_REPOSITORY" --body-file komentar.md
       - name: Chyba formátu
         if: steps.kontrola.outputs.kod == '1'
-        run: exit 1
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PR: ${{ github.event.pull_request.number }}
+        run: |
+          { echo 'Data v tomto PR mají chybu formátu, mapa by se z nich nesestavila. Oprav a pošli znovu.'; echo; echo '```'; cat vysledek.txt; echo '```'; } > komentar.md
+          gh pr comment "$PR" --repo "$GITHUB_REPOSITORY" --body-file komentar.md
+          exit 1
