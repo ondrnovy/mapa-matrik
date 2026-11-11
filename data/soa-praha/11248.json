@@ -1,0 +1,155 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "11248",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/11248",
+ "signature": "Petrovice-RA 07",
+ "parish": "Petrovice",
+ "records": {
+  "N": "1785–1830",
+  "O": "1785–1825",
+  "Z": "1785–1832",
+  "iN": "1785–1830",
+  "iO": "1785–1825",
+  "iZ": "1785–1832"
+ },
+ "district": "Rakovník",
+ "order": "by_village",
+ "places": [
+  "Příčina",
+  "Senec",
+  "Zavidov",
+  "Žďár"
+ ],
+ "scans": 260,
+ "scan_url": "https://ebadatelna.soapraha.cz/d/11248/{scan}",
+ "language": "německy, latinsky, česky",
+ "points": [
+  {
+   "scan": 10,
+   "type": "N",
+   "year": 1806,
+   "year_to": 1808,
+   "page": "fol. 3v–4",
+   "place": "Žďár",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 30,
+   "type": "iN",
+   "place": "Žďár",
+   "letters": "B–C",
+   "note": "společný rejstřík N/O/Z",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 32,
+   "type": "iN",
+   "place": "Žďár",
+   "letters": "H",
+   "note": "společný rejstřík N/O/Z (sloupce oddán, pokřtěn, zemřel)",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 33,
+   "type": "iN",
+   "place": "Žďár",
+   "letters": "J–K",
+   "note": "společný rejstřík N/O/Z",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 42,
+   "type": "O",
+   "year": 1789,
+   "year_to": 1793,
+   "page": "pag. 2",
+   "place": "Zavidov",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 180,
+   "type": "Z",
+   "year": 1823,
+   "year_to": 1825,
+   "page": "fol. 19",
+   "place": "Senec",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 205,
+   "type": "N",
+   "year": 1803,
+   "year_to": 1804,
+   "page": "fol. 12v–13",
+   "place": "Příčina",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 210,
+   "type": "N",
+   "year": 1790,
+   "year_to": 1791,
+   "page": "pag. IV",
+   "place": "Příčina",
+   "note": "česky",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 212,
+   "type": "O",
+   "year": 1817,
+   "year_to": 1819,
+   "page": "fol. 6v–7",
+   "place": "Příčina",
+   "note": "kniha není svázaná přísně po řadě – oddíly N/O/Z Příčiny se prolínají",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 220,
+   "type": "N",
+   "year": 1809,
+   "year_to": 1811,
+   "months": "XI 1809 – I 1811",
+   "page": "fol. 17v–18",
+   "place": "Příčina",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 221,
+   "type": "N",
+   "year": 1811,
+   "year_to": 1812,
+   "months": "II 1811 – IV 1812",
+   "page": "fol. 18v–19",
+   "place": "Příčina",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 230,
+   "type": "N",
+   "year": 1822,
+   "year_to": 1824,
+   "page": "fol. 27v–28",
+   "place": "Příčina",
+   "note": "česky",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 240,
+   "type": "Z",
+   "year": 1800,
+   "year_to": 1803,
+   "page": "fol. 6v–7",
+   "place": "Příčina",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-11"
+  }
+ ]
+}
