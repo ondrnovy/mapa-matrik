@@ -1,0 +1,67 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "11048",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/11048",
+ "signature": "Rakovník 04",
+ "parish": "Rakovník",
+ "records": {
+  "N": "1752–1785"
+ },
+ "places": [
+  "Hostokryje",
+  "Loučný mlýn",
+  "Lubná",
+  "Lužná",
+  "Nový Dům",
+  "Rakovník",
+  "Ryšín",
+  "Senomaty"
+ ],
+ "scans": 261,
+ "scan_url": "https://ebadatelna.soapraha.cz/d/11048/{scan}",
+ "district": "Rakovník",
+ "points": [
+  {
+   "scan": 200,
+   "type": "N",
+   "year": 1778,
+   "months": "II–V",
+   "page": "pag. 388–389",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 211,
+   "type": "N",
+   "year": 1781,
+   "months": "II–V",
+   "page": "pag. 410–411",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 226,
+   "type": "N",
+   "year": 1784,
+   "year_to": 1785,
+   "months": "XI 1784 – I 1785",
+   "page": "pag. 438–439",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 245,
+   "type": "N",
+   "year": 1761,
+   "year_to": 1763,
+   "page": "pag. 459–460",
+   "note": "dodatek: nemanželské děti",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-11"
+  }
+ ]
+}

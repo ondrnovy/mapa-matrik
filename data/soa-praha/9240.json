@@ -1,0 +1,104 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "9240",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/9240",
+ "signature": "Mutějovice 03",
+ "parish": "Mutějovice",
+ "records": {
+  "N": "1738–1784",
+  "O": "1745–1784",
+  "iN": "1738–1784",
+  "iO": "1745–1784"
+ },
+ "places": [
+  "Hředle",
+  "Kněževes",
+  "Krupá",
+  "Krušovice",
+  "Lišany",
+  "Lubná",
+  "Lužná",
+  "Milostín",
+  "Mutějovice",
+  "Nesuchyně",
+  "Povlčín"
+ ],
+ "scans": 207,
+ "scan_url": "https://ebadatelna.soapraha.cz/d/9240/{scan}",
+ "district": "Rakovník",
+ "language": "čeština, latina",
+ "points": [
+  {
+   "scan": 3,
+   "type": "N",
+   "year": 1738,
+   "note": "začátek N, česky, nadpisy po vsích",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 119,
+   "type": "N",
+   "year": 1774,
+   "months": "VIII–XII",
+   "page": "fol. 118v–119",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 147,
+   "type": "iN",
+   "year": 1738,
+   "year_to": 1784,
+   "letters": "H–K",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 148,
+   "type": "iN",
+   "year": 1738,
+   "year_to": 1784,
+   "letters": "K",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 149,
+   "type": "iN",
+   "year": 1738,
+   "year_to": 1784,
+   "letters": "K–M",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 150,
+   "type": "iN",
+   "year": 1738,
+   "year_to": 1784,
+   "letters": "N–P",
+   "note": "rejstřík křtů (příjmení, křestní jméno, rok, folio N 1–142)",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 195,
+   "type": "O",
+   "year": 1781,
+   "year_to": 1783,
+   "page": "fol. 378v–379",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 206,
+   "type": "iN",
+   "year": 1758,
+   "year_to": 1784,
+   "note": "rejstřík nemanželských křtů",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-11"
+  }
+ ]
+}

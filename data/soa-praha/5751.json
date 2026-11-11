@@ -1,0 +1,85 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "5751",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/5751",
+ "signature": "Hředle 01",
+ "parish": "Hředle",
+ "records": {
+  "N": "1754–1784",
+  "O": "1754–1784",
+  "Z": "1754–1784",
+  "iN": "1754–1784",
+  "iO": "1754–1784"
+ },
+ "places": [
+  "Hředle",
+  "Krupá",
+  "Krušovice",
+  "Lišany",
+  "Lužná"
+ ],
+ "scans": 174,
+ "scan_url": "https://ebadatelna.soapraha.cz/d/5751/{scan}",
+ "district": "Rakovník",
+ "language": "čeština, němčina, latina",
+ "points": [
+  {
+   "scan": 30,
+   "type": "N",
+   "year": 1767,
+   "months": "I–IV",
+   "page": "fol. 29v–30",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 57,
+   "type": "N",
+   "year": 1775,
+   "year_to": 1776,
+   "months": "XII 1775 – IV 1776",
+   "page": "fol. 56v–57",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 60,
+   "type": "N",
+   "year": 1777,
+   "months": "III–VIII",
+   "page": "fol. 59v–60",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 168,
+   "type": "iN",
+   "year": 1754,
+   "year_to": 1784,
+   "letters": "A–C",
+   "note": "abecední rejstřík křtů (jméno, rok, folio)",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 169,
+   "type": "iN",
+   "year": 1754,
+   "year_to": 1784,
+   "letters": "C–H",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 170,
+   "type": "iN",
+   "year": 1754,
+   "year_to": 1784,
+   "letters": "J–K",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-11"
+  }
+ ]
+}
