@@ -20,6 +20,38 @@
  "scan_url": "https://ebadatelna.soapraha.cz/d/8225/{scan}",
  "points": [
   {
+   "scan": 32,
+   "type": "O",
+   "year": 1832,
+   "year_to": 1833,
+   "page": "pag. 30–31",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 33,
+   "type": "O",
+   "year": 1833,
+   "year_to": 1834,
+   "page": "pag. 31v–32",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 34,
+   "type": "O",
+   "year": 1834,
+   "year_to": 1836,
+   "page": "pag. 32v–33",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 35,
+   "type": "O",
+   "year": 1836,
+   "year_to": 1837,
+   "page": "pag. 33v–34",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 42,
    "type": "O",
    "year": 1841,
@@ -55,6 +87,13 @@
    "type": "O",
    "year": 1845,
    "page": "pag. 46–47",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 53,
+   "type": "iO",
+   "letters": "H–K",
+   "note": "rejstřík ženichů neúplný",
    "by": "ondrnovy"
   }
  ],
