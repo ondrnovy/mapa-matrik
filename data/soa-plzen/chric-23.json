@@ -1,0 +1,170 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "chric-23",
+ "url": "https://www.portafontium.eu/register/soap-pn/chric-23",
+ "signature": "Chříč 23",
+ "parish": "Chříč",
+ "district": "Plzeň-sever",
+ "places": [
+  "Dolany",
+  "Dubensko",
+  "Dubjanský Dvůr",
+  "Marek",
+  "Rybárna pod Dubjany",
+  "Studená"
+ ],
+ "records": {
+  "O": "1839–1946"
+ },
+ "scans": 58,
+ "order": "chronological",
+ "sections": [],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-11"
+  }
+ ],
+ "points": [
+  {
+   "scan": 5,
+   "type": "O",
+   "year": 1843,
+   "page": "3",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 8,
+   "type": "O",
+   "year": 1848,
+   "page": "6",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 11,
+   "type": "O",
+   "year": 1853,
+   "page": "9",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 17,
+   "type": "O",
+   "year": 1861,
+   "page": "15",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 20,
+   "type": "O",
+   "year": 1865,
+   "page": "18",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 23,
+   "type": "O",
+   "year": 1868,
+   "page": "21",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 26,
+   "type": "O",
+   "year": 1871,
+   "page": "24",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 29,
+   "type": "O",
+   "year": 1874,
+   "page": "27",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 32,
+   "type": "O",
+   "year": 1879,
+   "page": "30",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 35,
+   "type": "O",
+   "year": 1883,
+   "page": "33",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 38,
+   "type": "O",
+   "year": 1890,
+   "page": "36",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 41,
+   "type": "O",
+   "year": 1898,
+   "page": "39",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 44,
+   "type": "O",
+   "year": 1902,
+   "page": "42",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 47,
+   "type": "O",
+   "year": 1909,
+   "page": "45",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 50,
+   "type": "O",
+   "year": 1920,
+   "page": "48",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 53,
+   "type": "O",
+   "year": 1935,
+   "page": "51",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 56,
+   "type": "O",
+   "year": 1945,
+   "page": "54",
+   "by": "ondrnovy"
+  }
+ ],
+ "aliases": {
+  "Dolany": [
+   "Dolany u Plzně",
+   "Dolan",
+   "Dollan"
+  ],
+  "Dubjanský Dvůr": [
+   "Dubjany"
+  ],
+  "Marek": [
+   "U Marka"
+  ],
+  "Studená": [
+   "Studena"
+  ]
+ },
+ "notes": [
+  "Všechny obce v jedné řadě. Snímek = strana + 2 po celé knize."
+ ]
+}

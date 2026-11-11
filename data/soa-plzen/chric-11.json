@@ -1,0 +1,246 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "chric-11",
+ "url": "https://www.portafontium.eu/register/soap-pn/chric-11",
+ "signature": "Chříč 11",
+ "parish": "Chříč",
+ "district": "Plzeň-sever",
+ "places": [
+  "Hlince"
+ ],
+ "records": {
+  "N": "1846–1894"
+ },
+ "scans": 99,
+ "order": "chronological",
+ "sections": [],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-11"
+  }
+ ],
+ "points": [
+  {
+   "scan": 2,
+   "type": "N",
+   "year": 1846,
+   "page": "1",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 5,
+   "type": "N",
+   "year": 1848,
+   "page": "4",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 11,
+   "type": "N",
+   "year": 1852,
+   "page": "10",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 14,
+   "type": "N",
+   "year": 1854,
+   "page": "13",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 17,
+   "type": "N",
+   "year": 1856,
+   "page": "16",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 20,
+   "type": "N",
+   "year": 1857,
+   "page": "19",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 23,
+   "type": "N",
+   "year": 1858,
+   "page": "22",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 26,
+   "type": "N",
+   "year": 1860,
+   "page": "25",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 29,
+   "type": "N",
+   "year": 1862,
+   "page": "28",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 32,
+   "type": "N",
+   "year": 1863,
+   "page": "31",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 35,
+   "type": "N",
+   "year": 1864,
+   "page": "34",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 38,
+   "type": "N",
+   "year": 1865,
+   "page": "37",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 41,
+   "type": "N",
+   "year": 1866,
+   "page": "40",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 44,
+   "type": "N",
+   "year": 1867,
+   "page": "43",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 47,
+   "type": "N",
+   "year": 1868,
+   "page": "46",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 50,
+   "type": "N",
+   "year": 1871,
+   "page": "49",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 53,
+   "type": "N",
+   "year": 1872,
+   "page": "52",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 56,
+   "type": "N",
+   "year": 1874,
+   "page": "55",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 59,
+   "type": "N",
+   "year": 1876,
+   "page": "58",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 62,
+   "type": "N",
+   "year": 1877,
+   "page": "61",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 65,
+   "type": "N",
+   "year": 1879,
+   "page": "64",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 68,
+   "type": "N",
+   "year": 1881,
+   "page": "67",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 74,
+   "type": "N",
+   "year": 1883,
+   "page": "73",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 77,
+   "type": "N",
+   "year": 1885,
+   "page": "76",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 80,
+   "type": "N",
+   "year": 1886,
+   "page": "79",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 83,
+   "type": "N",
+   "year": 1887,
+   "page": "82",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 86,
+   "type": "N",
+   "year": 1888,
+   "page": "85",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 89,
+   "type": "N",
+   "year": 1890,
+   "page": "88",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 92,
+   "type": "N",
+   "year": 1891,
+   "page": "91",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 95,
+   "type": "N",
+   "year": 1893,
+   "page": "94",
+   "by": "ondrnovy"
+  }
+ ],
+ "aliases": {
+  "Hlince": [
+   "Hlintsch",
+   "Hlintz"
+  ]
+ },
+ "notes": [
+  "Snímek = strana + 1 po celé knize."
+ ]
+}

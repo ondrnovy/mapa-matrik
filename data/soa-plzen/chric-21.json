@@ -1,0 +1,127 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "chric-21",
+ "url": "https://www.portafontium.eu/register/soap-pn/chric-21",
+ "signature": "Chříč 21",
+ "parish": "Chříč",
+ "district": "Plzeň-sever",
+ "places": [
+  "Dolany",
+  "Studená",
+  "Dubensko"
+ ],
+ "records": {
+  "Z": "1828–1945",
+  "iZ": "1828–1945"
+ },
+ "scans": 44,
+ "order": "chronological",
+ "sections": [],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-11"
+  }
+ ],
+ "points": [
+  {
+   "scan": 5,
+   "type": "Z",
+   "year": 1834,
+   "page": "4",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 8,
+   "type": "Z",
+   "year": 1845,
+   "page": "10",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 11,
+   "type": "Z",
+   "year": 1855,
+   "page": "16",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 14,
+   "type": "Z",
+   "year": 1863,
+   "page": "22",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 17,
+   "type": "Z",
+   "year": 1867,
+   "page": "28",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 20,
+   "type": "Z",
+   "year": 1872,
+   "page": "34",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 23,
+   "type": "Z",
+   "year": 1878,
+   "page": "40",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 26,
+   "type": "Z",
+   "year": 1883,
+   "page": "46",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 29,
+   "type": "Z",
+   "year": 1896,
+   "page": "52",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 32,
+   "type": "Z",
+   "year": 1909,
+   "page": "58",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 35,
+   "type": "Z",
+   "year": 1919,
+   "page": "64",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 38,
+   "type": "iZ",
+   "letters": "C–E",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 41,
+   "type": "iZ",
+   "letters": "P–R",
+   "by": "ondrnovy"
+  }
+ ],
+ "aliases": {
+  "Studená": [
+   "Studena"
+  ]
+ },
+ "notes": [
+  "Studená a Dolany v jedné řadě. Dvojstrana na snímek: levá strana = 2 × snímek − 6. Rejstřík od sn. ~36."
+ ]
+}

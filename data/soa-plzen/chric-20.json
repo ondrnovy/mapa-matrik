@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "chric-20",
+ "url": "https://www.portafontium.eu/register/soap-pn/chric-20",
+ "signature": "Chříč 20",
+ "parish": "Chříč",
+ "district": "Plzeň-sever",
+ "places": [
+  "Slatina"
+ ],
+ "records": {
+  "Z": "1845–1945"
+ },
+ "scans": 38,
+ "order": "chronological",
+ "sections": [],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-11"
+  }
+ ],
+ "points": [
+  {
+   "scan": 5,
+   "type": "Z",
+   "year": 1850,
+   "page": "4",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 11,
+   "type": "Z",
+   "year": 1866,
+   "page": "16",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 14,
+   "type": "Z",
+   "year": 1872,
+   "page": "22",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 17,
+   "type": "Z",
+   "year": 1878,
+   "page": "28",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 20,
+   "type": "Z",
+   "year": 1881,
+   "page": "34",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 23,
+   "type": "Z",
+   "year": 1886,
+   "page": "40",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 26,
+   "type": "Z",
+   "year": 1897,
+   "page": "46",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 29,
+   "type": "Z",
+   "year": 1908,
+   "page": "52",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 32,
+   "type": "Z",
+   "year": 1915,
+   "page": "58",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 35,
+   "type": "Z",
+   "year": 1920,
+   "page": "64",
+   "by": "ondrnovy"
+  }
+ ],
+ "language": "němčina",
+ "notes": [
+  "Dvojstrana na snímek: levá strana = 2 × snímek − 6. Málo úmrtí, na snímek připadá několik let."
+ ]
+}

@@ -1,0 +1,162 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "chric-05",
+ "url": "https://www.portafontium.eu/register/soap-pn/chric-05",
+ "signature": "Chříč 05",
+ "parish": "Chříč",
+ "district": "Plzeň-sever",
+ "places": [
+  "Hlince"
+ ],
+ "records": {
+  "N": "1808–1845"
+ },
+ "scans": 65,
+ "order": "chronological",
+ "sections": [],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-11"
+  }
+ ],
+ "points": [
+  {
+   "scan": 5,
+   "type": "N",
+   "year": 1809,
+   "page": "147",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 8,
+   "type": "N",
+   "year": 1812,
+   "page": "150",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 11,
+   "type": "N",
+   "year": 1814,
+   "page": "153",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 17,
+   "type": "N",
+   "year": 1818,
+   "page": "159",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 20,
+   "type": "N",
+   "year": 1820,
+   "page": "162",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 26,
+   "type": "N",
+   "year": 1822,
+   "page": "168",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 29,
+   "type": "N",
+   "year": 1824,
+   "page": "171",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 32,
+   "type": "N",
+   "year": 1826,
+   "page": "174",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 35,
+   "type": "N",
+   "year": 1827,
+   "page": "177",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 38,
+   "type": "N",
+   "year": 1829,
+   "page": "180",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 41,
+   "type": "N",
+   "year": 1832,
+   "page": "183",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 44,
+   "type": "N",
+   "year": 1833,
+   "page": "186",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 47,
+   "type": "N",
+   "year": 1836,
+   "page": "189",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 50,
+   "type": "N",
+   "year": 1838,
+   "page": "192",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 53,
+   "type": "N",
+   "year": 1839,
+   "page": "195",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 56,
+   "type": "N",
+   "year": 1841,
+   "page": "198",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 59,
+   "type": "N",
+   "year": 1842,
+   "page": "201",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 62,
+   "type": "N",
+   "year": 1844,
+   "page": "204",
+   "by": "ondrnovy"
+  }
+ ],
+ "aliases": {
+  "Hlince": [
+   "Hlintsch",
+   "Hlintz"
+  ]
+ },
+ "notes": [
+  "Stránkování navazuje na starší svazek: strana = snímek + 142 po celé knize."
+ ]
+}

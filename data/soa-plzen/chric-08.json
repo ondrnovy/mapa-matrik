@@ -1,0 +1,149 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "chric-08",
+ "url": "https://www.portafontium.eu/register/soap-pn/chric-08",
+ "signature": "Chříč 08",
+ "parish": "Chříč",
+ "district": "Plzeň-sever",
+ "places": [
+  "Slatina"
+ ],
+ "records": {
+  "N": "1815–1848"
+ },
+ "scans": 65,
+ "order": "chronological",
+ "sections": [],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-11"
+  }
+ ],
+ "points": [
+  {
+   "scan": 5,
+   "type": "N",
+   "year": 1817,
+   "page": "462",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 8,
+   "type": "N",
+   "year": 1819,
+   "page": "465",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 11,
+   "type": "N",
+   "year": 1821,
+   "page": "468",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 20,
+   "type": "N",
+   "year": 1826,
+   "page": "477",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 26,
+   "type": "N",
+   "year": 1828,
+   "page": "483",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 29,
+   "type": "N",
+   "year": 1830,
+   "page": "486",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 32,
+   "type": "N",
+   "year": 1831,
+   "page": "489",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 35,
+   "type": "N",
+   "year": 1833,
+   "page": "492",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 38,
+   "type": "N",
+   "year": 1835,
+   "page": "495",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 41,
+   "type": "N",
+   "year": 1838,
+   "page": "498",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 44,
+   "type": "N",
+   "year": 1839,
+   "page": "501",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 47,
+   "type": "N",
+   "year": 1840,
+   "page": "504",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 50,
+   "type": "N",
+   "year": 1841,
+   "page": "507",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 53,
+   "type": "N",
+   "year": 1842,
+   "page": "510",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 56,
+   "type": "N",
+   "year": 1844,
+   "page": "513",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 59,
+   "type": "N",
+   "year": 1846,
+   "page": "516",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 62,
+   "type": "N",
+   "year": 1847,
+   "page": "519",
+   "by": "ondrnovy"
+  }
+ ],
+ "notes": [
+  "Stránkování navazuje na starší svazek: strana = snímek + 457 po celé knize."
+ ]
+}
