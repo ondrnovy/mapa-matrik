@@ -23,14 +23,26 @@ nevěsty, Krakov = snímky 105–110“. Další hledání jde rovnou na správn
 
 ## Co v ní je a co ne
 
+Mapa říká, **kde** co v knize najít, ne **co** tam stojí.
+
 | je | není |
 |---|---|
 | signatura, fara, obce, roky, počet snímků, odkaz na portál | snímky (patří archivu) |
-| orientační body: snímek → rok, měsíce, strana, ves, druh zápisu | přepisy celých stran |
+| orientační body: snímek → rok, měsíce, strana, ves, druh zápisu | jména osob, přepisy zápisů a stran, strojový text (OCR) – to patří do [indexu matrik](https://github.com/pe-pan/matriky-index) |
 | uspořádání knihy, kde je rejstřík, oddíly po vsích | údaje o žijících lidech |
-| zvláštnosti (chyby rejstříku, zakrytá místa, přečíslování) | |
+| zvláštnosti (chyby rejstříku, zakrytá místa, přečíslování, vložené lístky) | výklady, kdo je kdo (patří do rodokmenu) |
 
 Formát: [docs/FORMAT.md](docs/FORMAT.md). Celý návrh včetně dalších kroků: [docs/NAVRH.md](docs/NAVRH.md).
+
+### Mapa matrik a index matrik
+
+Obsah zápisů sdílí samostatný projekt **[pe-pan/matriky-index](https://github.com/pe-pan/matriky-index)**:
+strojový text z PERO OCR, opravy čtení a zápisy přečtené očima (se jmény, jen zákonně veřejné). Oba projekty
+označují knihu stejně – archiv, kniha, snímek (`soa-plzen/kozlany-22` zde = `portafontium/kozlany-22` tam,
+eBadatelna má v obou stejné číslo knihy), takže se dají propojit.
+
+Doporučený postup agenta: **zeptej se mapy** (který snímek) → otevři snímek → **bod do mapy** (snímek → rok, ves,
+strana) → **zápis do indexu** (jména, data). Nikdo pak nečte stejný snímek dvakrát.
 
 ## Použití
 

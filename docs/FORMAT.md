@@ -89,8 +89,8 @@ Bez souhlasu archivu se proto převádějí jen knihy, se kterými se skutečně
 
 1. **Jen to, co je vidět na snímku.** Žádné odhady. Odhad (interpolaci) počítá až vyhledávací nástroj.
 2. **Žádné snímky ani přepisy celých stran** – jen orientace (rok, strana, ves). Snímky patří archivu.
-3. **Žádné údaje o žijících lidech.** Mapa jmen neobsahuje vůbec; index jmen (verze 2) jen ze zápisů starších
-   než zákonné lhůty (narození 100 let, sňatky 75, úmrtí 30).
+3. **Žádná jména osob.** Mapa jmen neobsahuje vůbec, ani v poznámkách (hlídá to kontrola PR). Přepis zápisu
+   se jmény patří do [indexu matrik](https://github.com/pe-pan/matriky-index) – stejný archiv, kniha a snímek.
 4. **Rozpor = poznámka, ne přepis.** Když nový čtenář vidí na snímku něco jiného, přidá bod se svým zdrojem
    a poznámku; neopravuje cizí bod potichu.
 5. **Jen známá pole.** Pole mimo tabulky výše kontrola odmítne (ochrana proti úniku osobních údajů).

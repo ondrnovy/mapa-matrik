@@ -35,7 +35,8 @@ TOOLS = [
     {
         "name": "pridej_bod",
         "description": "Zapíše orientační bod, který jsi právě viděl na snímku (jen lokálně; do mapy ho odešle "
-                       "uživatel příkazem body.py odeslat). Jen to, co je na snímku vidět, žádné odhady ani jména.",
+                       "uživatel příkazem body.py odeslat). Jen to, co je na snímku vidět, žádné odhady ani jména. "
+                       "Přepis přečteného zápisu (jména, data) patří do indexu https://github.com/pe-pan/matriky-index.",
         "inputSchema": {"type": "object", "required": ["archive", "portal_id", "scan", "type"], "properties": {
             "archive": STR, "portal_id": STR,
             "scan": {**INT, "description": "pořadové číslo snímku na portálu"},

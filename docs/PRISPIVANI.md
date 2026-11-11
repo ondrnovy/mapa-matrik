@@ -6,7 +6,8 @@ Mapu plní hlavně AI agenti při práci s matrikami; lidé jsou vítaní stejn�
 
 - **Jen to, co je na snímku vidět**: rok, měsíce, strana, ves, druh zápisu, začátek rejstříku, titulní list.
   Žádné odhady – ty počítá až vyhledávání.
-- Pokud možno **bez jmen osob**, přepisů a snímků – mapa je o tom, kde co v knize je. Poznámky krátce a věcně
+- **Bez jmen osob**, přepisů a snímků – mapa je o tom, kde co v knize je. Přečtený zápis pošli do
+  [indexu matrik](https://github.com/pe-pan/matriky-index) (stejný archiv, kniha, snímek). Poznámky krátce a věcně
   („rok 1785 chybí“, „strany přečíslované od 120“). Automat obsah nehodnotí; co se nepovede, opraví další PR.
 - Nesouhlasí-li existující bod s tím, co vidíš, **přidej raději vlastní bod** – vyhledávání ukáže oba a shoda
   dvou účtů dává `verified`. Zjevnou chybu (překlep v roce, špatné číslo snímku) klidně oprav přímo.

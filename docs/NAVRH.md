@@ -38,7 +38,8 @@ strana / ves / druh zápisu“, uspořádání knihy a polohu rejstříku. Nást
 agenti body i zapisují. Lidé až přes web nad stejnými daty. (Rozdíl proti matriky.online, který je pro lidi:
 HTML bez API, odkazy s omezenou platností, past na roboty.)
 
-Mimo rozsah verze 1: snímky, přepisy, rejstřík jmen (to je verze 2).
+Mimo rozsah: snímky, přepisy zápisů a rejstřík jmen. Obsah zápisů (OCR, přepisy, jména) sdílí samostatný projekt
+[pe-pan/matriky-index](https://github.com/pe-pan/matriky-index); Mapa matrik ho doplňuje navigací v knize.
 
 ## 3. Oblast
 
@@ -62,8 +63,10 @@ Licence dat **CC0** (fakta o uspořádání knih; nejvolnější pro opakované 
 
 - Snímky ani přepisy se nesdílejí – jen metadata o uspořádání knihy a odkaz na snímek u archivu.
   Před zveřejněním projít podmínky užití jednotlivých portálů a případně archivy oslovit (projekt jim šetří servery).
-- Verze 1 neobsahuje žádná jména osob. Verze 2 (rejstřík jmen) jen ze zápisů, které jsou ze zákona veřejně
-  přístupné (narození 100 let, sňatky 75 let, úmrtí 30 let), s odkazem na snímek.
+- Mapa neobsahuje žádná jména osob, a proto ani osobní údaje. Jména a přepisy (jen zákonně veřejné zápisy)
+  patří do [indexu matrik](https://github.com/pe-pan/matriky-index).
+- Z katalogů archivů (databáze chráněné zvláštním právem pořizovatele) se přebírá jen popis knih, se kterými se
+  skutečně pracuje; celý katalog jen se souhlasem archivu.
 
 ## 5. Úrovně a nástroje
 
@@ -73,7 +76,7 @@ Tři úrovně ve stejných datech, plněné postupně tím, co agenti stejně ot
 |---|---|---|---|
 | 1. rozcestník | které knihy pokrývají obec a rok? | pole svazku (`parish`, `places`, `aliases`, `records`) → `v1/obce/<obec>.json` | roste s každou otevřenou knihou (`pridej_svazek`, u Porta fontium `katalog_pf.py`); celý katalog archivu jen s jeho souhlasem |
 | 2. mapa svazku | který snímek otevřít? | `points`, `sections`, `index` | jádro, verze 1 |
-| 3. rejstřík jmen | kde je konkrétní člověk? | samostatné soubory, jen zákonně veřejné zápisy | verze 2 |
+| 3. obsah zápisů, jména | kde je konkrétní člověk? co v zápisu stojí? | mimo mapu: [matriky-index](https://github.com/pe-pan/matriky-index) (OCR, přepisy), propojení přes archiv + kniha + snímek | jiný projekt |
 
 Architektura (bez vlastního serveru):
 
@@ -83,7 +86,7 @@ Architektura (bez vlastního serveru):
 - **zápis = pull request** (`tools/body.py odeslat`) s automatickou kontrolou a sloučením (`tools/kontrola_pr.py`,
   akce `kontrola PR`), viz [PRISPIVANI.md](PRISPIVANI.md).
 
-Server s dynamickým API (např. vyhledávání jmen v úrovni 3, nebo zápis bez účtu GitHubu) jde později postavit
+Server s dynamickým API (např. zápis bez účtu GitHubu) jde později postavit
 **před** stejná data – nic z výše uvedeného se tím nemění.
 
 ## 6. Napojení na skill „rodokmen“
@@ -106,7 +109,7 @@ Mapa je samostatný projekt; skill ji používá volitelně. Funguje i bez skill
 | 3 | statické API (Pages), server MCP, sběr a odeslání bodů, automatická kontrola PR | hotovo lokálně |
 | 4 | zveřejnění na GitHubu, napojení skillu rodokmen, návrh správci skillu | čeká |
 | 5 | web, oslovení archivů (SOA Praha, SOA Plzeň) | |
-| 6 | verze 2: rejstřík nalezených jmen s ověřováním | |
+| 6 | propojení s [matriky-index](https://github.com/pe-pan/matriky-index): odkazy mezi knihami, body z jejich OCR celých knih | návrh správci |
 
 ## 8. Otevřené otázky
 
