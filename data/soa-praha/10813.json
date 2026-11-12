@@ -1,0 +1,131 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "10813",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/10813",
+ "signature": "Panoší Újezd 02",
+ "parish": "Panoší Újezd",
+ "records": {
+  "N": "1697–1741",
+  "O": "1697–1760",
+  "Z": "1697–1747"
+ },
+ "scans": 266,
+ "scan_url": "https://ebadatelna.soapraha.cz/d/10813/{scan}",
+ "district": "Rakovník",
+ "language": "latina",
+ "points": [
+  {
+   "scan": 150,
+   "type": "O",
+   "year": 1735,
+   "year_to": 1736,
+   "months": "VII 1735 – VIII 1736",
+   "page": "pag. 281–282",
+   "note": "tabulka",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 151,
+   "type": "O",
+   "year": 1736,
+   "year_to": 1737,
+   "months": "X 1736 – X 1737",
+   "page": "pag. 283–284",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 152,
+   "type": "O",
+   "year": 1737,
+   "year_to": 1738,
+   "months": "XI 1737 – VI 1738",
+   "page": "pag. 285–286",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 153,
+   "type": "O",
+   "year": 1738,
+   "year_to": 1739,
+   "months": "X 1738 – IV 1739",
+   "page": "pag. 287, 289",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 154,
+   "type": "O",
+   "year": 1739,
+   "year_to": 1740,
+   "months": "IV 1739 – XI 1740 (?)",
+   "page": "pag. 290–291",
+   "note": "souvislý text, rok na stránce neuveden",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 155,
+   "type": "O",
+   "year": 1739,
+   "year_to": 1740,
+   "months": "XI 1739 – XI 1740",
+   "page": "pag. 292–293",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 156,
+   "type": "O",
+   "year": 1740,
+   "year_to": 1741,
+   "months": "XI 1740 – XI 1741",
+   "page": "pag. 294–295",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 170,
+   "type": "O",
+   "year": 1748,
+   "year_to": 1749,
+   "page": "pag. 322–323",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 176,
+   "type": "O",
+   "months": "V–XI",
+   "page": "pag. 345–346",
+   "note": "rok na snímku neuveden (po 1749)",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 178,
+   "type": "O",
+   "months": "VII–XI",
+   "page": "pag. 349–350",
+   "note": "rok na snímku neuveden (po 1749)",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 180,
+   "type": "O",
+   "months": "VI–XI",
+   "page": "pag. 353–354",
+   "note": "rok na snímku neuveden",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 250,
+   "type": "Z",
+   "year": 1744,
+   "year_to": 1745,
+   "page": "pag. 492–493",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-12"
+  }
+ ]
+}
