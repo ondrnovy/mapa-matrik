@@ -35,6 +35,10 @@
   {
    "by": "schranka",
    "date": "2026-11-11"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-12"
   }
  ],
  "points": [
@@ -53,10 +57,26 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 9,
+   "type": "N",
+   "year": 1781,
+   "months": "V–X",
+   "page": "10–11",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 11,
    "type": "N",
    "year": 1782,
    "page": "14",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 12,
+   "type": "N",
+   "year": 1782,
+   "months": "V–VII",
+   "page": "16–17",
    "by": "ondrnovy"
   },
   {

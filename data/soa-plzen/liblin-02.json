@@ -7,6 +7,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-11"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-12"
   }
  ],
  "points": [
@@ -113,6 +117,22 @@
    "type": "N",
    "year": 1776,
    "page": "169",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 92,
+   "type": "N",
+   "year": 1777,
+   "months": "I–III",
+   "page": "177–178",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 95,
+   "type": "N",
+   "year": 1777,
+   "year_to": 1778,
+   "page": "183–184",
    "by": "ondrnovy"
   },
   {
