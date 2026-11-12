@@ -81,6 +81,24 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 80,
+   "type": "Z",
+   "year": 1846,
+   "year_to": 1847,
+   "months": "VI 1846 – I 1847",
+   "page": "pag. 78–79",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 83,
+   "type": "Z",
+   "year": 1848,
+   "year_to": 1849,
+   "months": "V 1848 – V 1849",
+   "page": "pag. 81–82",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 95,
    "type": "Z",
    "year": 1856,
@@ -133,6 +151,18 @@
    "year": 1784,
    "year_to": 1857,
    "letters": "J–K",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 106,
+   "type": "iZ",
+   "letters": "N, O, P",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 107,
+   "type": "iZ",
+   "letters": "R, S",
    "by": "ondrnovy"
   }
  ],
