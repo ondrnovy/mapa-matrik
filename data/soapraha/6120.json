@@ -1,0 +1,70 @@
+{
+ "schema": 1,
+ "archive": "soapraha",
+ "portal": "ebadatelna",
+ "portal_id": "6120",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/6120",
+ "signature": "Kaňk 02",
+ "parish": "Kaňk",
+ "records": {
+  "N": "1784–1852"
+ },
+ "district": "Kutná Hora",
+ "language": "čeština",
+ "order": "chronological",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/6120/{scan}",
+ "points": [
+  {
+   "scan": 57,
+   "type": "N",
+   "year": 1812,
+   "months": "I–VI",
+   "page": "108–109",
+   "note": "negativ, místy vybledlé",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 58,
+   "type": "N",
+   "year": 1812,
+   "year_to": 1813,
+   "months": "VIII 1812 – II 1813",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 59,
+   "type": "N",
+   "year": 1813,
+   "months": "II–V",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 61,
+   "type": "N",
+   "year": 1813,
+   "year_to": 1814,
+   "months": "X 1813 – II 1814",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 62,
+   "type": "N",
+   "year": 1814,
+   "months": "II–V",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 63,
+   "type": "N",
+   "year": 1814,
+   "months": "V–VI",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-12"
+  }
+ ]
+}

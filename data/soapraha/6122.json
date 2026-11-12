@@ -1,0 +1,80 @@
+{
+ "schema": 1,
+ "archive": "soapraha",
+ "portal": "ebadatelna",
+ "portal_id": "6122",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/6122",
+ "signature": "Kaňk 04",
+ "parish": "Kaňk",
+ "records": {
+  "O": "1784–1868"
+ },
+ "district": "Kutná Hora",
+ "language": "čeština",
+ "order": "chronological",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/6122/{scan}",
+ "points": [
+  {
+   "scan": 37,
+   "type": "O",
+   "year": 1837,
+   "months": "II",
+   "page": "68–69",
+   "note": "negativ",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 38,
+   "type": "O",
+   "year": 1837,
+   "year_to": 1838,
+   "page": "70–71",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 39,
+   "type": "O",
+   "year": 1838,
+   "months": "V–XI",
+   "page": "72–73",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 40,
+   "type": "O",
+   "year": 1839,
+   "page": "74–75",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 42,
+   "type": "O",
+   "year": 1840,
+   "year_to": 1841,
+   "page": "78–79",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 60,
+   "type": "O",
+   "year": 1847,
+   "year_to": 1848,
+   "page": "114–115",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 100,
+   "type": "O",
+   "year": 1866,
+   "year_to": 1867,
+   "page": "194–195",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-12"
+  }
+ ]
+}
