@@ -18,6 +18,13 @@
  "scan_url": "https://ebadatelna.soapraha.cz/d/11979/{scan}",
  "points": [
   {
+   "scan": 19,
+   "type": "N",
+   "page": "fol. 15v–16",
+   "note": "česky",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 22,
    "type": "N",
    "page": "fol. 13v–14",
