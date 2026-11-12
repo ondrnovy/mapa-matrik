@@ -41,6 +41,15 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 32,
+   "type": "N",
+   "year": 1767,
+   "year_to": 1768,
+   "months": "VIII 1767 – I 1768",
+   "page": "fol. 31v–32",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 55,
    "type": "N",
    "year": 1775,
@@ -207,6 +216,13 @@
    "year": 1754,
    "year_to": 1784,
    "letters": "C–H",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 169,
+   "type": "iN",
+   "letters": "C, D, E, F, G, H",
+   "note": "rejstřík: jméno, rok, folio",
    "by": "ondrnovy"
   },
   {
