@@ -1,0 +1,49 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "12266",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/12266",
+ "signature": "Smečno 04",
+ "parish": "Smečno",
+ "records": {
+  "N": "1739–1755"
+ },
+ "district": "Kladno",
+ "language": "čeština",
+ "order": "chronological",
+ "scans": 204,
+ "scan_url": "https://ebadatelna.soapraha.cz/d/12266/{scan}",
+ "points": [
+  {
+   "scan": 20,
+   "type": "N",
+   "year": 1739,
+   "months": "V–VI",
+   "page": "pag. 30–31",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 194,
+   "type": "N",
+   "year": 1755,
+   "months": "IV",
+   "page": "pag. 379–380",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 200,
+   "type": "N",
+   "year": 1755,
+   "months": "VIII–IX",
+   "page": "pag. 392–393",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-12"
+  }
+ ]
+}
