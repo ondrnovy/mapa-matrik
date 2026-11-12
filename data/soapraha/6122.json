@@ -15,6 +15,29 @@
  "scan_url": "https://ebadatelna.soapraha.cz/d/6122/{scan}",
  "points": [
   {
+   "scan": 17,
+   "type": "O",
+   "year": 1808,
+   "year_to": 1809,
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 18,
+   "type": "O",
+   "year": 1810,
+   "year_to": 1811,
+   "page": "30–31",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 19,
+   "type": "O",
+   "year": 1812,
+   "year_to": 1814,
+   "page": "32–33",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 37,
    "type": "O",
    "year": 1837,
