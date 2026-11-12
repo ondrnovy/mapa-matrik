@@ -1,0 +1,69 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "kozojedy-28",
+ "url": "https://www.portafontium.eu/register/soap-pn/kozojedy-28",
+ "signature": "Kozojedy 28",
+ "parish": "Kozojedy",
+ "records": {
+  "Z": "1882–1948"
+ },
+ "places": [
+  "Bohy",
+  "Brodeslavy",
+  "Rakolusky"
+ ],
+ "place_codes": {
+  "Bohy": 71901,
+  "Brodeslavy": 71927,
+  "Rakolusky": 71943
+ },
+ "language": "čeština",
+ "order": "chronological",
+ "scans": 30,
+ "points": [
+  {
+   "scan": 5,
+   "type": "Z",
+   "year": 1883,
+   "year_to": 1886,
+   "page": "1–2",
+   "place": "Bohy",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 8,
+   "type": "Z",
+   "year": 1892,
+   "year_to": 1895,
+   "page": "5",
+   "place": "Bohy",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 12,
+   "type": "Z",
+   "year": 1902,
+   "year_to": 1903,
+   "page": "8",
+   "place": "Bohy",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 13,
+   "type": "Z",
+   "year": 1906,
+   "year_to": 1908,
+   "page": "10",
+   "place": "Bohy",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-12"
+  }
+ ]
+}
