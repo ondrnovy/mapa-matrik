@@ -1,0 +1,77 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "11979",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/11979",
+ "signature": "Slabce 03",
+ "parish": "Slabce",
+ "records": {
+  "N": "1732–1760",
+  "O": "1732–1760",
+  "Z": "1732–1760"
+ },
+ "language": "čeština",
+ "order": "chronological",
+ "scans": 131,
+ "district": "Rakovník",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/11979/{scan}",
+ "points": [
+  {
+   "scan": 22,
+   "type": "N",
+   "page": "fol. 13v–14",
+   "note": "negativ mikrofilmu",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 27,
+   "type": "N",
+   "year": 1740,
+   "year_to": 1741,
+   "months": "VIII 1740 – II 1741",
+   "page": "fol. 18v–19",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 29,
+   "type": "N",
+   "year": 1741,
+   "year_to": 1742,
+   "months": "IX 1741 – I 1742",
+   "page": "fol. 25v–26",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 30,
+   "type": "N",
+   "year": 1742,
+   "months": "I–IV",
+   "page": "fol. 26v–27",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 34,
+   "type": "N",
+   "year": 1743,
+   "year_to": 1744,
+   "months": "VIII 1743 – II 1744",
+   "page": "fol. 30v–31",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 43,
+   "type": "N",
+   "year": 1746,
+   "months": "II–IX",
+   "page": "fol. 39v–40",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-12"
+  }
+ ]
+}

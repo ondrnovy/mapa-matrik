@@ -1,0 +1,39 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "11982",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/11982",
+ "signature": "Slabce 25",
+ "parish": "Slabce",
+ "records": {
+  "iN": "1732–1760",
+  "iO": "1732–1760",
+  "iZ": "1732–1760"
+ },
+ "language": "čeština",
+ "scans": 65,
+ "district": "Rakovník",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/11982/{scan}",
+ "points": [
+  {
+   "scan": 20,
+   "type": "iN",
+   "letters": "S (Sch, Š)",
+   "note": "rejstřík: jméno, folio",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 21,
+   "type": "iN",
+   "letters": "S (pokr.), T",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-12"
+  }
+ ]
+}
