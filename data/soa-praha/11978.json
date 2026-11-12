@@ -48,6 +48,23 @@
  "scans": 228,
  "points": [
   {
+   "scan": 28,
+   "type": "N",
+   "year": 1769,
+   "months": "IV–VIII",
+   "page": "fol. 24v–25",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 29,
+   "type": "N",
+   "year": 1769,
+   "year_to": 1770,
+   "months": "VIII 1769 – I 1770",
+   "page": "fol. 25v–26",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 66,
    "type": "N",
    "months": "VI–VIII",
@@ -161,6 +178,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-10"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-12"
   }
  ]
 }
