@@ -1,0 +1,74 @@
+{
+ "schema": 1,
+ "archive": "soapraha",
+ "portal": "ebadatelna",
+ "portal_id": "10255",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/10255",
+ "signature": "Tachlovice 39",
+ "parish": "Tachlovice",
+ "records": {
+  "iZ": "1784–1886",
+  "iN": "1858–1884",
+  "iO": "1859–1921"
+ },
+ "places": [
+  "Tachlovice",
+  "Nučice",
+  "Vysoký Újezd",
+  "Mezouň",
+  "Dobříč",
+  "Kuchař",
+  "Trněný Újezd",
+  "Chýnice"
+ ],
+ "place_codes": {
+  "Tachlovice": 164828,
+  "Nučice": 108065,
+  "Dobříč": 27766,
+  "Chýnice": 52990
+ },
+ "district": "Praha-západ",
+ "order": "by_village",
+ "scans": 131,
+ "scan_url": "https://ebadatelna.soapraha.cz/d/10255/{scan}",
+ "points": [
+  {
+   "scan": 45,
+   "type": "iZ",
+   "page": "43v–44",
+   "place": "Vysoký Újezd",
+   "letters": "M–N",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 46,
+   "type": "iZ",
+   "page": "44v–45",
+   "place": "Vysoký Újezd",
+   "letters": "O–P",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 47,
+   "type": "iZ",
+   "page": "45v–46",
+   "place": "Vysoký Újezd",
+   "letters": "R–S",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 48,
+   "type": "iZ",
+   "page": "46v–47",
+   "place": "Vysoký Újezd",
+   "letters": "T",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-12"
+  }
+ ]
+}

@@ -24,6 +24,15 @@
  "scan_url": "https://ebadatelna.soapraha.cz/d/10237/{scan}",
  "points": [
   {
+   "scan": 247,
+   "type": "Z",
+   "year": 1819,
+   "months": "V–XII",
+   "page": "5",
+   "place": "Vysoký Újezd",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 283,
    "type": "Z",
    "year": 1853,
@@ -254,6 +263,15 @@
    "year": 1869,
    "months": "VII–XII",
    "place": "Vysoký Újezd",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 329,
+   "type": "Z",
+   "year": 1878,
+   "months": "I–III",
+   "place": "Vysoký Újezd",
+   "note": "konec knihy zemřelých",
    "by": "ondrnovy"
   }
  ],
