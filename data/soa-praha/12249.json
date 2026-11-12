@@ -1,0 +1,51 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "12249",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/12249",
+ "signature": "Smečno 51",
+ "parish": "Smečno",
+ "records": {
+  "iN": "1784–1815",
+  "iO": "1784–1874",
+  "iZ": "1784–1874"
+ },
+ "district": "Kladno",
+ "language": "čeština, němčina",
+ "scans": 150,
+ "scan_url": "https://ebadatelna.soapraha.cz/d/12249/{scan}",
+ "points": [
+  {
+   "scan": 50,
+   "type": "iO",
+   "letters": "E",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 53,
+   "type": "iO",
+   "letters": "G",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 54,
+   "type": "iO",
+   "letters": "H",
+   "note": "odkaz: číslo knihy (I/II/III), strana",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 60,
+   "type": "iO",
+   "letters": "L",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-12"
+  }
+ ]
+}
