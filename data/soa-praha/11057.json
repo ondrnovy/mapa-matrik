@@ -1,0 +1,77 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "11057",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/11057",
+ "signature": "Rakovník 13",
+ "parish": "Rakovník",
+ "records": {
+  "O": "1785–1820"
+ },
+ "places": [
+  "Rakovník"
+ ],
+ "district": "Rakovník",
+ "language": "němčina",
+ "order": "chronological",
+ "scans": 75,
+ "scan_url": "https://ebadatelna.soapraha.cz/d/11057/{scan}",
+ "points": [
+  {
+   "scan": 30,
+   "type": "O",
+   "year": 1806,
+   "months": "X–XI",
+   "page": "pag. 54–55",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 31,
+   "type": "O",
+   "year": 1807,
+   "months": "I–II",
+   "page": "pag. 56–57",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 33,
+   "type": "O",
+   "year": 1807,
+   "year_to": 1808,
+   "months": "X 1807 – I 1808",
+   "page": "pag. 60–61",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 34,
+   "type": "O",
+   "year": 1808,
+   "months": "II–XI",
+   "page": "pag. 62–63",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 35,
+   "type": "O",
+   "year": 1809,
+   "months": "II–XI",
+   "page": "pag. 64–65",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 40,
+   "type": "O",
+   "year": 1810,
+   "year_to": 1811,
+   "page": "pag. 74–75",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-12"
+  }
+ ]
+}
