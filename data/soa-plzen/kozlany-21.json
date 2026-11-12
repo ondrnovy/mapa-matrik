@@ -96,10 +96,50 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 36,
+   "type": "O",
+   "year": 1901,
+   "months": "II–IV",
+   "page": "34",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 37,
+   "type": "O",
+   "year": 1901,
+   "months": "IV–X",
+   "page": "35",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 38,
+   "type": "O",
+   "year": 1901,
+   "months": "X–XI",
+   "page": "36",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 39,
    "type": "O",
    "year": 1902,
    "page": "37",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 41,
+   "type": "O",
+   "year": 1902,
+   "months": "VIII",
+   "page": "39",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 42,
+   "type": "O",
+   "year": 1902,
+   "months": "VIII–XI",
+   "page": "40",
    "by": "ondrnovy"
   },
   {
@@ -347,6 +387,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-10"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-12"
   }
  ]
 }
