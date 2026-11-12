@@ -36,6 +36,14 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 100,
+   "type": "O",
+   "year": 1880,
+   "months": "I",
+   "page": "fol. 98",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 133,
    "type": "iO",
    "page": "pag. VIII–IX",
@@ -59,6 +67,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-10"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-12"
   }
  ]
 }

@@ -39,11 +39,49 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 17,
+   "type": "Z",
+   "year": 1865,
+   "months": "V–IX",
+   "page": "fol. 15",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 57,
+   "type": "Z",
+   "year": 1875,
+   "months": "II–V",
+   "page": "fol. 55",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 63,
+   "type": "Z",
+   "year": 1876,
+   "year_to": 1877,
+   "months": "X 1876 – IV 1877",
+   "page": "fol. 61",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 81,
    "type": "iZ",
    "year": 1858,
    "year_to": 1878,
    "letters": "G–H",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 84,
+   "type": "iZ",
+   "letters": "O, P",
+   "note": "rejstřík: jméno, rok, folio",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 85,
+   "type": "iZ",
+   "letters": "Q, R, S",
    "by": "ondrnovy"
   },
   {
@@ -60,5 +98,6 @@
    "by": "ondrnovy",
    "date": "2026-11-12"
   }
- ]
+ ],
+ "order": "chronological"
 }
