@@ -17,6 +17,18 @@
  "scan_url": "https://ebadatelna.soapraha.cz/d/11982/{scan}",
  "points": [
   {
+   "scan": 14,
+   "type": "iN",
+   "letters": "M",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 15,
+   "type": "iN",
+   "letters": "M (konec), N, O",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 20,
    "type": "iN",
    "letters": "S (Sch, Š)",
