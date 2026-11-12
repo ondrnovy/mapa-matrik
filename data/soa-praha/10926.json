@@ -47,6 +47,32 @@
  "language": "latina",
  "points": [
   {
+   "scan": 8,
+   "type": "N",
+   "year": 1742,
+   "months": "V–VII",
+   "page": "pag. 10–11",
+   "note": "tabulka",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 9,
+   "type": "N",
+   "year": 1742,
+   "months": "VII–IX",
+   "page": "pag. 12–13",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 10,
+   "type": "N",
+   "year": 1742,
+   "months": "VIII–X",
+   "page": "pag. 14–15",
+   "note": "tabulka (dítě, rodiče, kmotři, ves)",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 11,
    "type": "N",
    "year": 1742,
@@ -102,6 +128,55 @@
    "year": 1744,
    "months": "IV–V",
    "page": "pag. 28–29",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 18,
+   "type": "N",
+   "year": 1744,
+   "months": "V–VII",
+   "page": "pag. 30–31",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 19,
+   "type": "N",
+   "year": 1744,
+   "months": "VIII–IX",
+   "page": "pag. 32–33",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 20,
+   "type": "N",
+   "year": 1744,
+   "months": "IX–X",
+   "page": "pag. 34–35",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 21,
+   "type": "N",
+   "year": 1744,
+   "months": "X–XII",
+   "page": "pag. 36–37",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 22,
+   "type": "N",
+   "year": 1744,
+   "year_to": 1745,
+   "months": "XII 1744 – II 1745",
+   "page": "pag. 38–39",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 23,
+   "type": "N",
+   "year": 1745,
+   "months": "II–IV",
+   "page": "pag. 40–41",
    "by": "ondrnovy"
   }
  ],
