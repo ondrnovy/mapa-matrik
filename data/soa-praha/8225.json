@@ -23,6 +23,23 @@
  "scan_url": "https://ebadatelna.soapraha.cz/d/8225/{scan}",
  "points": [
   {
+   "scan": 8,
+   "type": "O",
+   "year": 1797,
+   "year_to": 1798,
+   "page": "pag. 7 a levá strana",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 9,
+   "type": "O",
+   "year": 1799,
+   "year_to": 1800,
+   "months": "IV 1799 – II 1800",
+   "page": "pag. 8 a levá strana",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 11,
    "type": "O",
    "year": 1803,
@@ -141,6 +158,13 @@
    "months": "II–XI",
    "page": "pag. 47–48",
    "note": "od 1846 česky",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 52,
+   "type": "iO",
+   "letters": "C–F",
+   "note": "rejstřík ženichů: rok, list",
    "by": "ondrnovy"
   },
   {
