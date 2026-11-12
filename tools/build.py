@@ -11,7 +11,7 @@ import shutil
 import sys
 
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
-from mapa import load, mark_verified, place_info, place_names, slug
+from mapa import kind_of, load, mark_verified, place_info, place_names, slug
 
 PAGE = """<!doctype html>
 <html lang="cs"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
@@ -20,7 +20,8 @@ PAGE = """<!doctype html>
 code{background:#f2f2f2;padding:0 .2em}@media (prefers-color-scheme: dark){body{background:#151515;color:#ddd}code{background:#2a2a2a}}</style>
 </head><body>
 <h1>Mapa matrik</h1>
-<p>Otevřená mapa naskenovaných matričních knih: který snímek je který rok, ves a strana. Data pro AI agenty i lidi.</p>
+<p>Otevřená mapa naskenovaných matričních knih: který snímek je který rok, ves a strana. Nově i další knihy
+(sčítání lidu, kroniky, pozemkové knihy): který snímek je které číslo domu nebo rok. Data pro AI agenty i lidi.</p>
 <ul>
 <li><code>v1/index.json</code> – přehled a seznam obcí</li>
 <li><code>v1/obce/&lt;obec&gt;.json</code> – knihy pro obec (malá písmena bez diakritiky, mezery jako pomlčky, např. <code>v1/obce/krakov.json</code>)</li>
@@ -42,6 +43,7 @@ def main(argv):
     places = {}
     codes = {}
     archives = {}
+    kinds = {}
     volumes = points = 0
     for path, vol in load():
         mark_verified(vol)
@@ -52,8 +54,9 @@ def main(argv):
         volumes += 1
         points += len(vol.get("points") or [])
         archives[vol["archive"]] = archives.get(vol["archive"], 0) + 1
-        ref = {k: vol[k] for k in ("archive", "portal_id", "signature", "parish", "district", "records", "order",
-                                   "scans") if vol.get(k) is not None}
+        ref = {k: vol[k] for k in ("kind", "archive", "portal_id", "signature", "parish", "district", "records",
+                                   "years", "order", "scans") if vol.get(k) is not None}
+        kinds[kind_of(vol)] = kinds.get(kind_of(vol), 0) + 1
         ref["points"] = len(vol.get("points") or [])
         ref["path"] = rel
         for key in dict.fromkeys(slug(p) for p in place_names(vol)):
@@ -74,7 +77,7 @@ def main(argv):
         target.parent.mkdir(parents=True, exist_ok=True)
         target.write_text(json.dumps(entry["volumes"], ensure_ascii=False, indent=1), encoding="utf-8")
     built = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%MZ")
-    index = {"schema": 1, "built": built, "volumes": volumes, "points": points, "archives": archives,
+    index = {"schema": 1, "built": built, "volumes": volumes, "points": points, "archives": archives, "kinds": kinds,
              "places": {k: e["name"] for k, e in sorted(places.items())},
              "codes": {str(k): {f: e[f] for f in ("name", "obec", "okres") if f in e} for k, e in sorted(codes.items())}}
     (v1 / "index.json").write_text(json.dumps(index, ensure_ascii=False, indent=1), encoding="utf-8")

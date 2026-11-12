@@ -21,7 +21,7 @@ from mapa import POINT_KEYS, TYPES
 STORE = pathlib.Path(os.environ.get("MAPA_MATRIK_BODY",
                                     pathlib.Path.home() / ".local" / "share" / "mapa-matrik" / "body.jsonl"))
 UPSTREAM = "ondrnovy/mapa-matrik"
-VOLUME_REQUIRED = ("archive", "portal", "portal_id", "url", "signature", "parish", "records")
+VOLUME_REQUIRED = ("archive", "portal", "portal_id", "url", "signature", "parish")
 
 
 def today():
@@ -49,7 +49,8 @@ def add_point(archive, portal_id, point):
 
 
 def add_volume(meta):
-    missing = [k for k in VOLUME_REQUIRED if not meta.get(k)]
+    extra = ("records",) if (meta.get("kind") or "register") == "register" else ("years",)
+    missing = [k for k in VOLUME_REQUIRED + extra if not meta.get(k)]
     if missing:
         raise ValueError(f"chybí pole svazku: {missing}")
     meta = {k: v for k, v in meta.items() if v not in (None, "", [])}

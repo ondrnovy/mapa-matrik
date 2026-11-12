@@ -5,9 +5,11 @@ import re
 
 DATA = pathlib.Path(__file__).resolve().parent.parent / "data"
 TYPES = {"N", "O", "Z", "iN", "iO", "iZ", "title", "blank"}
-POINT_KEYS = {"scan", "type", "year", "year_to", "months", "page", "place", "letters", "note", "by"}
-VOLUME_KEYS = {"schema", "archive", "portal", "portal_id", "url", "scan_url", "signature", "parish", "district",
-               "places", "place_codes", "aliases", "records", "scans", "language", "order", "index", "points", "sections", "notes", "sources"}
+KINDS = {"register": "matrika", "census": "sčítání lidu", "chronicle": "kronika", "land_book": "pozemková kniha"}
+POINT_KEYS = {"scan", "type", "year", "year_to", "months", "page", "place", "letters", "house", "topic", "note", "by"}
+VOLUME_KEYS = {"schema", "kind", "archive", "portal", "portal_id", "url", "scan_url", "signature", "parish", "district",
+               "places", "place_codes", "aliases", "records", "years", "scans", "language", "order", "index", "points",
+               "sections", "notes", "sources"}
 WEB = "https://ondrnovy.github.io/mapa-matrik/v1"
 RUIAN = pathlib.Path(__file__).resolve().parent.parent / "ciselniky" / "ruian_casti_obci.tsv"
 _ruian = None
@@ -17,6 +19,10 @@ def load():
     for path in sorted(DATA.glob("*/*.json")):
         with open(path, encoding="utf-8") as f:
             yield path, json.load(f)
+
+
+def kind_of(vol):
+    return vol.get("kind") or "register"
 
 
 def years(text):
@@ -51,10 +57,10 @@ def mark_verified(vol):
     """Bod je ověřený, když stejný snímek, druh, rok a ves zapsali aspoň dva různí přispěvatelé."""
     groups = {}
     for p in vol.get("points") or []:
-        key = (p.get("scan"), p.get("type"), p.get("year"), p.get("place"))
+        key = (p.get("scan"), p.get("type"), p.get("year"), p.get("place"), p.get("house"))
         groups.setdefault(key, set()).add(point_by(vol, p))
     for p in vol.get("points") or []:
-        key = (p.get("scan"), p.get("type"), p.get("year"), p.get("place"))
+        key = (p.get("scan"), p.get("type"), p.get("year"), p.get("place"), p.get("house"))
         p["verified"] = len(groups[key]) >= 2
     return vol
 
@@ -111,6 +117,8 @@ def in_district(vol, place, okres):
 
 
 def covers(vol, place, year, kind):
+    if kind_of(vol) != "register":
+        return False
     if place and norm(place) not in [norm(p) for p in place_names(vol)]:
         return False
     for k, span in (vol.get("records") or {}).items():
@@ -188,6 +196,86 @@ def report(volumes, place, year, kind):
             out.append(f"  kniha: {vol['url']}")
         for n in vol.get("notes") or []:
             out.append(f"  pozn.: {n}")
+    other = sorted({f"{KINDS[kind_of(v)]} {v.get('years', '?')}" for v in volumes if kind_of(v) != "register"})
+    hint = f"\nDalší prameny k obci v mapě: {', '.join(other)} (najdi_pramen)" if other else ""
     if not any(line.startswith("\n") for line in out):
-        return f"Žádná kniha v mapě nepokrývá {asked} {year} {kind or ''}. (Mapa je zatím malá – přidej ji.)"
+        return f"Žádná kniha v mapě nepokrývá {asked} {year} {kind or ''}. (Mapa je zatím malá – přidej ji.){hint}"
+    return "\n".join(out).lstrip("\n") + hint
+
+
+def house_range(text):
+    """'74' -> (74, 74), '70–79' -> (70, 79)."""
+    nums = [int(n) for n in re.findall(r"\d+", str(text or ""))]
+    return (min(nums), max(nums)) if nums else None
+
+
+def estimate_house(pts, house):
+    """Snímek pro číslo domu: přímo z bodu, nebo odhad mezi nejbližšími body (knihy bývají seřazené podle čp.)."""
+    ranged = [(house_range(p.get("house")), p) for p in pts]
+    ranged = [(r, p) for r, p in ranged if r]
+    exact = [p for r, p in ranged if r[0] <= house <= r[1]]
+    if exact:
+        return min(p["scan"] for p in exact), max(p["scan"] for p in exact), "přímo z bodu"
+    before = [(r, p) for r, p in ranged if r[1] < house]
+    after = [(r, p) for r, p in ranged if r[0] > house]
+    if before and after:
+        ra, a = max(before, key=lambda x: (x[0][1], x[1]["scan"]))
+        rb, b = min(after, key=lambda x: (x[0][0], x[1]["scan"]))
+        s = a["scan"] + (house - ra[1]) * (b["scan"] - a["scan"]) / (rb[0] - ra[1])
+        return (round(s), round(s),
+                f"odhad mezi sn. {a['scan']} (čp. {a['house']}) a sn. {b['scan']} (čp. {b['house']})")
+    return None
+
+
+def report_sources(volumes, place, year=None, house=None, kind=None):
+    """Text odpovědi pro další prameny obce (sčítání lidu, kroniky, pozemkové knihy): podle čísla domu nebo roku."""
+    out = []
+    asked = place
+    for vol in volumes:
+        k = kind_of(vol)
+        if k == "register" or (kind and k != kind):
+            continue
+        place = resolve_place(vol, asked)
+        info = place_info(vol, place) if place else {}
+        where = f"; {info['name']}, okres {info['okres']}" if info.get("okres") else ""
+        out.append(f"\n{vol['signature']} – {KINDS[k]} {vol.get('years', '?')} "
+                   f"({vol['archive']}, {vol['portal']} {vol['portal_id']}{where})")
+        out.append(f"  snímků: {vol.get('scans', '?')}")
+        pts = vol.get("points") or []
+        local = [p for p in pts if place and norm(p.get("place")) == norm(place)]
+        if local:
+            pts = local
+        if year and k != "chronicle" and any(p.get("year") == year for p in pts):
+            pts = [p for p in pts if p.get("year") == year]
+        if not pts:
+            out.append("  orientační body zatím nejsou – po přečtení snímku zapiš bod (čp., rok, téma)")
+        est = None
+        if house is not None:
+            near = sorted((p for p in pts if house_range(p.get("house"))),
+                          key=lambda p: min(abs(house - n) for n in house_range(p["house"])))[:4]
+            est = estimate_house(pts, house)
+        elif year:
+            dated = [p for p in pts if p.get("year")]
+            near = sorted(dated, key=lambda p: abs(p["year"] - year))[:4]
+            est = estimate(dated, year)
+        else:
+            near = pts[:8]
+        for p in sorted(near, key=lambda p: p["scan"]):
+            extra = " ".join(f"{key}={v}" for key, v in p.items() if key not in ("scan", "verified", "by"))
+            mark = " ✓ověřený" if p.get("verified") else ""
+            out.append(f"  bod: sn. {p['scan']} {extra}{mark}")
+        topics = [p for p in pts if p.get("topic") and p not in near]
+        for p in topics[:6]:
+            out.append(f"  téma: sn. {p['scan']} {p['topic']}" + (f" ({p['year']})" if p.get("year") else ""))
+        if est:
+            lo, hi, how = est
+            label = f"sn. {lo}" if lo == hi else f"sn. {lo}–{hi}"
+            out.append(f"  → začni na {label} ({how}): {scan_link(vol, lo)}")
+        else:
+            out.append(f"  kniha: {vol['url']}")
+        for n in vol.get("notes") or []:
+            out.append(f"  pozn.: {n}")
+    if not out:
+        what = KINDS.get(kind, "sčítání lidu, kronika ani pozemková kniha")
+        return f"Pro {asked} v mapě není {what}. (Mapa je zatím malá – přidej ji.)"
     return "\n".join(out).lstrip("\n")

@@ -2,7 +2,10 @@
 
 Otevřená **mapa naskenovaných matričních knih** českých archivů: který snímek je který rok, ves a strana,
 kde je rejstřík a jak je kniha uspořádaná. Vždy s odkazem na originál u archivu. Pro lidi i pro AI agenty,
-kteří dělají rodokmeny.
+kteří dělají rodokmeny nebo dějiny domů a obcí.
+
+Vedle matrik mapuje i **další knihy** se stejným problémem: **sčítání lidu** a **pozemkové knihy** (který snímek je
+které číslo domu) a **kroniky** obcí a škol (který snímek je který rok, kde je seznam domů nebo válka).
 
 **Hlavní přínos: rychlejší hledání, méně tokenů a menší zátěž archivů.** Agent (nebo člověk) neotvírá desítky snímků, aby našel
 správný rok nebo ves – zeptá se mapy a otevře rovnou ten správný. Každý snímek je pro AI drahý obrázek ve vysokém
@@ -28,7 +31,7 @@ Mapa říká, **kde** co v knize najít, ne **co** tam stojí.
 | je | není |
 |---|---|
 | signatura, fara, obce, roky, počet snímků, odkaz na portál | snímky (patří archivu) |
-| orientační body: snímek → rok, měsíce, strana, ves, druh zápisu | jména osob, přepisy zápisů a stran, strojový text (OCR) – to patří do [indexu matrik](https://github.com/pe-pan/matriky-index) |
+| orientační body: snímek → rok, měsíce, strana, ves, druh zápisu; u dalších knih číslo domu nebo téma | jména osob, přepisy zápisů a stran, strojový text (OCR) – to patří do [indexu matrik](https://github.com/pe-pan/matriky-index) |
 | uspořádání knihy, kde je rejstřík, oddíly po vsích | údaje o žijících lidech |
 | zvláštnosti (chyby rejstříku, zakrytá místa, přečíslování, vložené lístky) | výklady, kdo je kdo (patří do rodokmenu) |
 
@@ -66,7 +69,8 @@ git clone https://github.com/ondrnovy/mapa-matrik
 claude mcp add mapa-matrik -- python3 "$PWD/mapa-matrik/tools/mcp_server.py"
 ```
 
-Nástroje: `najdi_svazek(obec, rok, druh)`, `svazek(archive, portal_id)`, `pridej_bod(…)`, `pridej_svazek(…)`,
+Nástroje: `najdi_svazek(obec, rok, druh)`, `najdi_pramen(obec, cp, rok, druh)` (sčítání, kroniky, pozemkové
+knihy), `svazek(archive, portal_id)`, `pridej_bod(…)`, `pridej_svazek(…)`,
 `moje_body()`. Jen standardní knihovna Pythonu 3.9+, nic dalšího se neinstaluje. Body se ukládají lokálně;
 do mapy je odešle uživatel (viz Jak přispět).
 
@@ -75,6 +79,8 @@ do mapy je odešle uživatel (viz Jak přispět).
 ```bash
 python3 tools/najdi.py Krakov 1787 N         # místní data
 python3 tools/najdi.py Krakov 1787 N --web   # zveřejněná mapa
+python3 tools/najdi.py Kožlany --cp=74       # sčítání a pozemkové knihy: dům čp. 74
+python3 tools/najdi.py Kožlany 1866 --druh=chronicle   # kroniky: rok 1866
 python3 tools/kontrola.py                    # kontrola dat
 ```
 

@@ -3,9 +3,9 @@ import pathlib
 import sys
 
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
-from mapa import POINT_KEYS, TYPES, VOLUME_KEYS, load, norm, ruian, years
+from mapa import KINDS, POINT_KEYS, TYPES, VOLUME_KEYS, kind_of, load, norm, ruian, years
 
-REQUIRED = ["schema", "archive", "portal", "portal_id", "url", "signature", "parish", "records", "points", "sources"]
+REQUIRED = ["schema", "archive", "portal", "portal_id", "url", "signature", "parish", "points", "sources"]
 ORDERS = {"chronological", "by_village", "by_village_bride", "mixed"}
 
 
@@ -22,6 +22,15 @@ def check(path, vol):
         errors.append(f"název souboru {path.stem} ≠ portal_id {vol.get('portal_id')}")
     if path.parent.name != vol.get("archive"):
         errors.append(f"složka {path.parent.name} ≠ archive {vol.get('archive')}")
+    vkind = kind_of(vol)
+    if vkind not in KINDS:
+        errors.append(f"neznámé kind {vkind} (jen {', '.join(sorted(KINDS))})")
+    if vkind == "register" and "records" not in vol:
+        errors.append("chybí pole records")
+    if vkind != "register" and vol.get("records"):
+        errors.append("records patří jen matrikám; u jiných knih roky do years")
+    if vkind != "register" and not years(vol.get("years")):
+        errors.append("chybí nebo je špatně years (např. \"1921\" nebo \"1877–1970\")")
     if vol.get("order") and vol["order"] not in ORDERS:
         errors.append(f"neznámé order {vol['order']}")
     aliases = vol.get("aliases") or {}
@@ -59,9 +68,14 @@ def check(path, vol):
             errors.append(f"bod s neznámým polem {key}: {p}")
         if p.get("type") and p["type"] not in TYPES:
             errors.append(f"bod s neznámým typem: {p}")
+        if vkind != "register" and p.get("type") not in (None, "title", "blank"):
+            errors.append(f"bod mimo matriku smí mít type jen title nebo blank: {p}")
+        for key, size in (("house", 20), ("topic", 80)):
+            if key in p and (not isinstance(p[key], str) or not p[key].strip() or len(p[key]) > size):
+                errors.append(f"{key} musí být krátký text (nejvýš {size} znaků): {p}")
         if p.get("year_to") and p.get("year") and p["year_to"] < p["year"]:
             errors.append(f"year_to < year: {p}")
-        key = (s, p.get("type"), p.get("year"), p.get("place"), p.get("by"))
+        key = (s, p.get("type"), p.get("year"), p.get("place"), p.get("house"), p.get("topic"), p.get("by"))
         if key in seen:
             errors.append(f"bod je dvakrát: {p}")
         seen.add(key)

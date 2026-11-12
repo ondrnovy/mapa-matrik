@@ -10,7 +10,7 @@ import sys
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
 import body
 from klient import source
-from mapa import report
+from mapa import report, report_sources
 
 STR = {"type": "string"}
 INT = {"type": "integer"}
@@ -27,6 +27,19 @@ TOOLS = [
             "druh": {**STR, "enum": ["N", "O", "Z"], "description": "N narození, O oddaní, Z zemřelí"}}},
     },
     {
+        "name": "najdi_pramen",
+        "description": "Další knihy obce mimo matriky: sčítání lidu a pozemkové knihy (který snímek je které číslo "
+                       "domu), kroniky obcí a škol (který snímek je který rok, témata jako seznam domů nebo válka). "
+                       "Vrací knihy, orientační body a odhad snímku. Pro dům zadej cp, pro kroniku rok.",
+        "inputSchema": {"type": "object", "required": ["obec"], "properties": {
+            "obec": {**STR, "description": "obec, např. Kožlany, nebo kód části obce RÚIAN"},
+            "okres": {**STR, "description": "okres – u obcí, kterých je v ČR víc se stejným názvem"},
+            "druh": {**STR, "enum": ["census", "chronicle", "land_book"],
+                     "description": "census sčítání lidu, chronicle kronika, land_book pozemková kniha; bez něj vše"},
+            "cp": {**INT, "description": "číslo popisné domu"},
+            "rok": {**INT, "description": "rok (u kroniky rok událostí, u sčítání rok sčítání)"}}},
+    },
+    {
         "name": "svazek",
         "description": "Celá mapa jedné knihy (JSON): uspořádání, rejstřík, oddíly, všechny orientační body.",
         "inputSchema": {"type": "object", "required": ["archive", "portal_id"], "properties": {
@@ -38,23 +51,29 @@ TOOLS = [
         "description": "Zapíše orientační bod, který jsi právě viděl na snímku (jen lokálně; do mapy ho odešle "
                        "uživatel příkazem body.py odeslat). Jen to, co je na snímku vidět, žádné odhady ani jména. "
                        "Přepis přečteného zápisu (jména, data) patří do indexu https://github.com/pe-pan/matriky-index.",
-        "inputSchema": {"type": "object", "required": ["archive", "portal_id", "scan", "type"], "properties": {
+        "inputSchema": {"type": "object", "required": ["archive", "portal_id", "scan"], "properties": {
             "archive": STR, "portal_id": STR,
             "scan": {**INT, "description": "pořadové číslo snímku na portálu"},
-            "type": {**STR, "enum": ["N", "O", "Z", "iN", "iO", "iZ", "title", "blank"]},
+            "type": {**STR, "enum": ["N", "O", "Z", "iN", "iO", "iZ", "title", "blank"],
+                     "description": "u matrik povinné; u sčítání, kroniky a pozemkové knihy jen title nebo blank"},
             "year": INT, "year_to": INT,
             "months": {**STR, "description": "např. I–IV"},
             "page": {**STR, "description": "strana nebo folio, jak je v knize"},
             "place": {**STR, "description": "ves, je-li kniha po vsích"},
             "letters": {**STR, "description": "u rejstříku písmena, např. L–M"},
+            "house": {**STR, "description": "číslo popisné (sčítání, pozemková kniha), např. 74 nebo 70–79"},
+            "topic": {**STR, "description": "u kroniky krátké téma, např. seznam domů, válka 1914–1918, požár"},
             "note": {**STR, "description": "krátce, bez jmen osob"}}},
     },
     {
         "name": "pridej_svazek",
-        "description": "Údaje o knize, která v mapě ještě není (aby k ní šlo přidat body). Jen lokálně.",
+        "description": "Údaje o knize, která v mapě ještě není (aby k ní šlo přidat body): matrika, sčítání lidu, "
+                       "kronika nebo pozemková kniha. Jen lokálně.",
         "inputSchema": {"type": "object",
-                        "required": ["archive", "portal", "portal_id", "url", "signature", "parish", "records"],
+                        "required": ["archive", "portal", "portal_id", "url", "signature", "parish"],
                         "properties": {
+                            "kind": {**STR, "enum": ["register", "census", "chronicle", "land_book"],
+                                     "description": "druh knihy; bez něj matrika"},
                             "archive": STR, "portal": {**STR, "description": "ebadatelna, portafontium, aron, …"},
                             "portal_id": STR, "url": STR,
                             "scan_url": {**STR, "description": "šablona adresy snímku s {scan}"},
@@ -62,7 +81,8 @@ TOOLS = [
                             "places": {"type": "array", "items": STR},
                             "place_codes": {"type": "object", "description": "kódy částí obcí RÚIAN {obec: kód}, "
                                             "např. {\"Kožlany\": 72061}; najde je tools/ruian.py hledej"},
-                            "records": {"type": "object", "description": "např. {\"N\": \"1778–1817\"}"},
+                            "records": {"type": "object", "description": "u matrik povinné, např. {\"N\": \"1778–1817\"}"},
+                            "years": {**STR, "description": "u jiných knih povinné: roky knihy, např. 1921 nebo 1877–1970"},
                             "scans": INT, "language": STR,
                             "order": {**STR, "enum": ["chronological", "by_village", "by_village_bride", "mixed"]}}},
     },
@@ -77,11 +97,15 @@ TOOLS = [
 def call(name, args, src):
     if name == "najdi_svazek":
         return report(src.volumes(args["obec"], args.get("okres")), args["obec"], int(args["rok"]), args.get("druh"))
+    if name == "najdi_pramen":
+        return report_sources(src.volumes(args["obec"], args.get("okres")), args["obec"], args.get("rok"),
+                              args.get("cp"), args.get("druh"))
     if name == "svazek":
         vol = src.volume(args["archive"], str(args["portal_id"]))
         return json.dumps(vol, ensure_ascii=False, indent=1) if vol else "Kniha v mapě není."
     if name == "pridej_bod":
-        point = {k: args.get(k) for k in ("scan", "type", "year", "year_to", "months", "page", "place", "letters", "note")}
+        point = {k: args.get(k) for k in ("scan", "type", "year", "year_to", "months", "page", "place", "letters",
+                                          "house", "topic", "note")}
         return "Uloženo lokálně: " + json.dumps(body.add_point(args["archive"], args["portal_id"], point), ensure_ascii=False)
     if name == "pridej_svazek":
         return "Uloženo lokálně: " + json.dumps(body.add_volume(args), ensure_ascii=False)

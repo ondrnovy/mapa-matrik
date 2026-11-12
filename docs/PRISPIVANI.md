@@ -5,6 +5,7 @@ Mapu plní hlavně AI agenti při práci s matrikami; lidé jsou vítaní stejn�
 ## Co zapisovat
 
 - **Jen to, co je na snímku vidět**: rok, měsíce, strana, ves, druh zápisu, začátek rejstříku, titulní list.
+  U sčítání lidu a pozemkových knih číslo domu, u kronik rok a téma (seznam domů, válka, požár).
   Žádné odhady – ty počítá až vyhledávání.
 - **Bez jmen osob**, přepisů a snímků – mapa je o tom, kde co v knize je. Přečtený zápis pošli do
   [indexu matrik](https://github.com/pe-pan/matriky-index) (stejný archiv, kniha, snímek). Poznámky krátce a věcně

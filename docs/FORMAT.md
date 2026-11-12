@@ -35,6 +35,7 @@ Klíče jsou anglicky (aby je snadno četly nástroje odkudkoli), hodnoty česky
 | pole | povinné | význam |
 |---|---|---|
 | `schema` | ano | verze formátu (teď 1) |
+| `kind` | ne | druh knihy: `register` matrika (výchozí, pole se vynechává), `census` sčítání lidu, `chronicle` kronika obce nebo školy, `land_book` pozemková (gruntovní) kniha – viz [Další knihy](#další-knihy-sčítání-kroniky-pozemkové-knihy) |
 | `archive` | ano | zkratka archivu: `soa-praha`, `soa-plzen`, `soa-litomerice`, `soa-trebon`, `soa-zamrsk`, `za-opava`, `mza-brno`, `ahmp`, … |
 | `portal` | ano | `ebadatelna`, `portafontium`, `aron`, `actapublica`, `vademecum`, `matricula`, … |
 | `portal_id` | ano | identifikátor knihy na portálu (eBadatelna `matrikaId`, Porta fontium část adresy, např. `chric-12`) |
@@ -45,7 +46,8 @@ Klíče jsou anglicky (aby je snadno četly nástroje odkudkoli), hodnoty česky
 | `places` | ne | obce, které kniha pokrývá (dnešní český název) |
 | `place_codes` | ne | kód části obce z [RÚIAN](https://cuzk.gov.cz/ruian/) ke každé obci: `{"Kožlany": 72061}`; klíč musí být v `places`. Rozliší stejnojmenné obce (Petrovic je v ČR 25). Kandidáty s obcí a okresem vypíše `python3 tools/ruian.py hledej Petrovice`; jednoznačné kódy doplní `body.py odeslat` sám. Zaniklé vsi, mlýny a samoty kód nemají – vynech je |
 | `aliases` | ne | jiné názvy obcí (německé, historické, jak je píše kniha): `{"Kožlany": ["Koschlan", "Kozlany"]}`; klíč musí být v `places`. Rozcestník najde knihu i podle nich |
-| `records` | ano | druhy zápisů a roky: `N` narození, `O` oddaní, `Z` zemřelí, `iN` `iO` `iZ` rejstříky |
+| `records` | ano (matriky) | druhy zápisů a roky: `N` narození, `O` oddaní, `Z` zemřelí, `iN` `iO` `iZ` rejstříky |
+| `years` | ano (jiné knihy) | roky knihy mimo matriky: `"1921"`, `"1877–1970"` |
 | `scans` | ne | počet snímků |
 | `language` | ne | jazyk zápisů |
 | `order` | ne | `chronological` (po letech), `by_village` (oddíly po vsích), `by_village_bride` (oddaní podle vsi nevěsty), `mixed` |
@@ -69,11 +71,35 @@ Co čtenář na snímku skutečně viděl:
 | `page` | strana / folio, jak je v knize napsané (text, např. `"116–117"` nebo `"fol. 176"`) |
 | `place` | ves, když je kniha po vsích |
 | `letters` | u rejstříku písmena, např. `"L–M"` |
+| `house` | číslo popisné (sčítání, pozemková kniha), text: `"74"`, `"70–79"` |
+| `topic` | u kroniky krátké téma: `"seznam domů"`, `"válka 1914–1918"`, `"požár"` (nejvýš 80 znaků) |
 | `note` | cokoli dalšího |
 | `by` | kdo bod zapsal (účet GitHubu; doplní `body.py`, kontrola PR ho ověří proti autorovi PR) |
 
-Ve zveřejněných souborech (`v1/svazky/…`) má každý bod navíc `verified`: `true`, když stejný snímek, druh, rok a ves
-zapsali aspoň dva různí přispěvatelé. U starších bodů bez `by` se počítá první zdroj ze `sources`.
+Ve zveřejněných souborech (`v1/svazky/…`) má každý bod navíc `verified`: `true`, když stejný snímek, druh, rok, ves
+a číslo domu zapsali aspoň dva různí přispěvatelé. U starších bodů bez `by` se počítá první zdroj ze `sources`.
+
+## Další knihy (sčítání, kroniky, pozemkové knihy)
+
+Stejný problém jako u matrik: kniha má stovky snímků a hledá se jeden dům nebo rok. Formát je stejný, jen:
+
+- svazek má `kind` a místo `records` pole `years`;
+- bod u **sčítání lidu** a **pozemkové knihy** nese `house` (čp. na snímku), u sčítání s více ročníky v jedné
+  knize i `year`; arch domácnosti = jeden bod na první snímek domu;
+- bod u **kroniky** nese `year` (o kterém roce se píše – i zpětné kapitoly o starší historii obce) a/nebo `topic`;
+- `type` u nich jen `title` nebo `blank` (druhy zápisů N/O/Z jsou jen matriční).
+
+```json
+{"schema": 1, "kind": "census", "archive": "soa-plzen", "portal": "portafontium", "portal_id": "…",
+ "url": "…", "signature": "Sčítání lidu 1921, Kožlany", "parish": "Kožlany", "places": ["Kožlany"],
+ "years": "1921", "points": [{"scan": 12, "house": "1"}, {"scan": 140, "house": "74"}], "sources": […]}
+```
+
+`parish` je u nich původce knihy (obec, škola, úřad). **Žádná jména ani zde**: archy sčítání a pozemkové knihy
+jsou plné jmen, do mapy jde jen číslo domu. Přepisy patří do indexu, ne do mapy.
+
+Hledání: `najdi_pramen(obec, cp)` odhadne snímek podle čísla domu (archy i listy gruntů bývají seřazené podle čp.),
+`najdi_pramen(obec, rok, druh="chronicle")` podle roku; `najdi_svazek` u obce upozorní, že další knihy v mapě jsou.
 
 ## Svazky z katalogu archivu
 
