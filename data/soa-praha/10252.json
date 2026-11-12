@@ -30,6 +30,38 @@
  "scan_url": "https://ebadatelna.soapraha.cz/d/10252/{scan}",
  "points": [
   {
+   "scan": 68,
+   "type": "iN",
+   "page": "str. 72",
+   "place": "Vysoký Újezd",
+   "letters": "C, Ch",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 71,
+   "type": "iN",
+   "page": "str. 75",
+   "place": "Vysoký Újezd",
+   "letters": "E",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 72,
+   "type": "iN",
+   "page": "str. 76",
+   "place": "Vysoký Újezd",
+   "letters": "F",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 87,
+   "type": "iN",
+   "page": "str. 92",
+   "place": "Vysoký Újezd",
+   "letters": "P",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 90,
    "type": "iN",
    "page": "str. 94–95",
