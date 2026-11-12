@@ -1,0 +1,54 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "10251",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/10251",
+ "signature": "Nové Strašecí 03",
+ "parish": "Nové Strašecí",
+ "records": {
+  "N": "1721–1745",
+  "O": "1721–1745",
+  "Z": "1721–1744",
+  "iN": "1721–1745",
+  "iO": "1721–1745",
+  "iZ": "1721–1744"
+ },
+ "district": "Rakovník",
+ "language": "čeština, latina",
+ "scans": 253,
+ "scan_url": "https://ebadatelna.soapraha.cz/d/10251/{scan}",
+ "points": [
+  {
+   "scan": 234,
+   "type": "iN",
+   "letters": "A, B",
+   "note": "Registrum křtěných: rok, jméno, folio",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 235,
+   "type": "iN",
+   "letters": "C, Č, D, E",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 237,
+   "type": "iN",
+   "letters": "H, I, J, K",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 240,
+   "type": "iN",
+   "letters": "N, O, P, R",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-12"
+  }
+ ]
+}
