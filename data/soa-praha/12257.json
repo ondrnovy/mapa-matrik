@@ -1,0 +1,62 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "12257",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/12257",
+ "signature": "Smečno 23",
+ "parish": "Smečno",
+ "records": {
+  "O": "1757–1784",
+  "iO": "1757–1784"
+ },
+ "district": "Kladno",
+ "language": "latina",
+ "order": "chronological",
+ "scans": 126,
+ "scan_url": "https://ebadatelna.soapraha.cz/d/12257/{scan}",
+ "points": [
+  {
+   "scan": 77,
+   "type": "O",
+   "year": 1779,
+   "months": "I–II",
+   "page": "pag. 147–148",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 78,
+   "type": "O",
+   "year": 1779,
+   "months": "II–IX",
+   "page": "pag. 149–150",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 101,
+   "type": "O",
+   "year": 1783,
+   "page": "pag. 193–194",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 115,
+   "type": "iO",
+   "letters": "L",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 117,
+   "type": "iO",
+   "letters": "N",
+   "note": "rejstřík: ženich s nevěstou, strana",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-12"
+  }
+ ]
+}
