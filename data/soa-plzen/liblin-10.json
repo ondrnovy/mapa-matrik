@@ -51,6 +51,26 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 12,
+   "type": "O",
+   "year": 1789,
+   "year_to": 1791,
+   "page": "str. 21",
+   "place": "Bujesily",
+   "note": "záhlaví „Dorf Bugesil“ – začátek oddílu Bujesily (str. 20 prázdná); 1790 bez sňatků",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 13,
+   "type": "O",
+   "year": 1792,
+   "year_to": 1797,
+   "page": "str. 22–23",
+   "place": "Bujesily",
+   "note": "oddíl Bujesily (ne Liblín); 1796 bez sňatků",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 13,
    "type": "O",
    "place": "Liblín",
@@ -74,6 +94,15 @@
    "year_to": 1804,
    "page": "str. 26–27",
    "place": "Bujesily",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 16,
+   "type": "O",
+   "year": 1805,
+   "page": "str. 28–29",
+   "place": "Bujesily",
+   "note": "konec oddílu Bujesily, pokračování v knize Litt. D; str. 29 prázdná",
    "by": "ondrnovy"
   },
   {
@@ -105,6 +134,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-10"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-12"
   }
  ],
  "notes": [
