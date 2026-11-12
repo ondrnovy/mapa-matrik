@@ -95,6 +95,10 @@ Stejný problém jako u matrik: kniha má stovky snímků a hledá se jeden dům
  "years": "1921", "points": [{"scan": 12, "house": "1"}, {"scan": 140, "house": "74"}], "sources": […]}
 ```
 
+Kde to archiv už řeší sám, body nepiš: **Porta fontium (SOA Plzeň) má sčítání lidu rozdělené po domech** –
+každé číslo popisné má vlastní stránku a seznam domů („Nr. 303“, `census/soap-ps/<rok>/okres-<okres>`), mapa by
+nic nepřidala. Mapa se hodí tam, kde je sčítání jedna dlouhá kniha za obec.
+
 `parish` je u nich původce knihy (obec, škola, úřad). **Žádná jména ani zde**: archy sčítání a pozemkové knihy
 jsou plné jmen, do mapy jde jen číslo domu. Přepisy patří do indexu, ne do mapy.
 
