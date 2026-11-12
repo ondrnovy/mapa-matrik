@@ -58,6 +58,23 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 68,
+   "type": "N",
+   "year": 1780,
+   "year_to": 1781,
+   "months": "X 1780 – II 1781",
+   "page": "fol. 67v–68",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 69,
+   "type": "N",
+   "year": 1781,
+   "months": "III–VII",
+   "page": "fol. 68v–69",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 89,
    "type": "O",
    "year": 1766,
@@ -114,6 +131,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-11"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-12"
   }
  ]
 }
