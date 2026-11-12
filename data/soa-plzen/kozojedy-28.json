@@ -58,6 +58,24 @@
    "page": "10",
    "place": "Bohy",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 15,
+   "type": "Z",
+   "year": 1911,
+   "year_to": 1913,
+   "page": "12",
+   "place": "Bohy",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 17,
+   "type": "Z",
+   "year": 1915,
+   "year_to": 1919,
+   "page": "14",
+   "place": "Bohy",
+   "by": "ondrnovy"
   }
  ],
  "sources": [
