@@ -150,6 +150,22 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 70,
+   "type": "N",
+   "year": 1781,
+   "months": "VII–XII",
+   "page": "fol. 69v–70",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 71,
+   "type": "N",
+   "year": 1782,
+   "months": "I–IV",
+   "page": "fol. 70v–71",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 89,
    "type": "O",
    "year": 1766,
@@ -199,6 +215,12 @@
    "year": 1754,
    "year_to": 1784,
    "letters": "J–K",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 171,
+   "type": "iN",
+   "letters": "L–R",
    "by": "ondrnovy"
   }
  ],

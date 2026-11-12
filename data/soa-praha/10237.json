@@ -96,6 +96,28 @@
    "months": "I 1844 – I 1845",
    "page": "fol. 18",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 280,
+   "type": "Z",
+   "year": 1851,
+   "page": "fol. 37v–38",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 290,
+   "type": "Z",
+   "year": 1858,
+   "page": "fol. 47v–48",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 325,
+   "type": "Z",
+   "year": 1875,
+   "year_to": 1876,
+   "page": "fol. 82v–83",
+   "by": "ondrnovy"
   }
  ],
  "sources": [
