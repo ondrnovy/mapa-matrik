@@ -1,0 +1,59 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "11050",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/11050",
+ "signature": "Rakovník 06",
+ "parish": "Rakovník",
+ "records": {
+  "N": "1804–1820",
+  "iN": "1804–1820"
+ },
+ "places": [
+  "Rakovník"
+ ],
+ "district": "Rakovník",
+ "language": "němčina",
+ "order": "chronological",
+ "scans": 178,
+ "scan_url": "https://ebadatelna.soapraha.cz/d/11050/{scan}",
+ "points": [
+  {
+   "scan": 47,
+   "type": "N",
+   "year": 1809,
+   "months": "IX–XI",
+   "page": "fol. 45",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 48,
+   "type": "N",
+   "year": 1809,
+   "year_to": 1810,
+   "months": "XI 1809 – I 1810",
+   "page": "fol. 46",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 162,
+   "type": "iN",
+   "letters": "F",
+   "note": "rejstřík po letech: rok, jméno, folio",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 164,
+   "type": "iN",
+   "letters": "H",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-12"
+  }
+ ]
+}
