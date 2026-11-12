@@ -66,6 +66,39 @@
    "months": "II–IX",
    "page": "fol. 39v–40",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 49,
+   "type": "N",
+   "year": 1748,
+   "months": "I–V",
+   "page": "fol. 45v–46",
+   "note": "od ~1747 latinsky",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 123,
+   "type": "O",
+   "year": 1749,
+   "year_to": 1750,
+   "months": "XI 1749 – XI 1750",
+   "page": "fol. 125v–126",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 124,
+   "type": "O",
+   "year": 1751,
+   "year_to": 1752,
+   "page": "fol. 126v–127",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 128,
+   "type": "O",
+   "year": 1757,
+   "page": "fol. 130v–131",
+   "by": "ondrnovy"
   }
  ],
  "sources": [

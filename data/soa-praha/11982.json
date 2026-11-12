@@ -28,6 +28,25 @@
    "type": "iN",
    "letters": "S (pokr.), T",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 45,
+   "type": "iZ",
+   "letters": "V (W)",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 54,
+   "type": "iO",
+   "letters": "H",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 62,
+   "type": "iO",
+   "letters": "S (Sch, Š), T",
+   "note": "rejstřík ženichů: jméno, folio",
+   "by": "ondrnovy"
   }
  ],
  "sources": [
