@@ -285,12 +285,52 @@
    "page": "fol. 6v–7",
    "place": "Příčina",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 243,
+   "type": "Z",
+   "year": 1808,
+   "year_to": 1810,
+   "page": "fol. 9v–10",
+   "place": "Příčina",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 244,
+   "type": "Z",
+   "year": 1811,
+   "year_to": 1812,
+   "page": "fol. 10v–11",
+   "place": "Příčina",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 256,
+   "type": "iN",
+   "page": "26v–27",
+   "place": "Příčina",
+   "letters": "M–P, R",
+   "note": "společný rejstřík N/O/Z Příčiny, negativ mikrofilmu",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 258,
+   "type": "iN",
+   "page": "28",
+   "place": "Příčina",
+   "letters": "U–W",
+   "note": "společný rejstřík N/O/Z (sloupce oddán, pokřtěn, zemřel), negativ mikrofilmu",
+   "by": "ondrnovy"
   }
  ],
  "sources": [
   {
    "by": "ondrnovy",
    "date": "2026-11-11"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-12"
   }
  ]
 }
