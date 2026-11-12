@@ -30,12 +30,32 @@
    "page": "6–7",
    "note": "Slabce (obec), německy, mikrofilm",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 59,
+   "type": "O",
+   "year": 1812,
+   "year_to": 1814,
+   "page": "pag. 12–13 (fol. 36)",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 60,
+   "type": "O",
+   "year": 1815,
+   "year_to": 1817,
+   "page": "pag. 14–15 (fol. 37)",
+   "by": "ondrnovy"
   }
  ],
  "sources": [
   {
    "by": "ondrnovy",
    "date": "2026-11-10"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-12"
   }
  ]
 }
