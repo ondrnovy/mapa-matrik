@@ -55,6 +55,47 @@
    "months": "II–V",
    "page": "fol. 108 (přepsáno ze 107)",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 160,
+   "type": "O",
+   "year": 1837,
+   "year_to": 1838,
+   "page": "fol. 13",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 162,
+   "type": "O",
+   "year": 1841,
+   "months": "II–VI",
+   "page": "fol. 15",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 163,
+   "type": "O",
+   "year": 1842,
+   "months": "VII–IX",
+   "page": "fol. 16",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 164,
+   "type": "O",
+   "year": 1843,
+   "months": "II–XI",
+   "page": "fol. 17",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 165,
+   "type": "O",
+   "year": 1844,
+   "year_to": 1845,
+   "months": "I 1844 – I 1845",
+   "page": "fol. 18",
+   "by": "ondrnovy"
   }
  ],
  "sources": [
