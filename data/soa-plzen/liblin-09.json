@@ -29,6 +29,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-11"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-12"
   }
  ],
  "points": [
@@ -46,6 +50,42 @@
    "place": "Bujesily",
    "page": "48",
    "note": "začátek oddílu vsi",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 50,
+   "type": "Z",
+   "year": 1853,
+   "year_to": 1854,
+   "page": "48",
+   "place": "Bujesily",
+   "note": "začátek oddílu Bujesily",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 54,
+   "type": "Z",
+   "year": 1856,
+   "year_to": 1857,
+   "page": "52",
+   "place": "Bujesily",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 58,
+   "type": "Z",
+   "year": 1860,
+   "page": "56",
+   "place": "Bujesily",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 63,
+   "type": "Z",
+   "year": 1864,
+   "year_to": 1866,
+   "page": "61",
+   "place": "Bujesily",
    "by": "ondrnovy"
   },
   {
