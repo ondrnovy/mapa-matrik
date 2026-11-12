@@ -22,6 +22,37 @@
  "scan_url": "https://ebadatelna.soapraha.cz/d/8230/{scan}",
  "points": [
   {
+   "scan": 4,
+   "type": "Z",
+   "year": 1880,
+   "months": "I–III",
+   "page": "1",
+   "note": "začátek zápisů; sn. 3 = úřední ověření 1879",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 9,
+   "type": "Z",
+   "year": 1880,
+   "year_to": 1881,
+   "months": "XII 1880 – II 1881",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 12,
+   "type": "Z",
+   "year": 1881,
+   "months": "IX–XI",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 13,
+   "type": "Z",
+   "year": 1882,
+   "months": "I–VI",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 28,
    "type": "Z",
    "year": 1889,
@@ -249,6 +280,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-10"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-12"
   }
  ]
 }
