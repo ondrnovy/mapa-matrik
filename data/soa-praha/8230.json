@@ -310,6 +310,40 @@
    "year_to": 1900,
    "note": "rok odhadem",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 63,
+   "type": "Z",
+   "year": 1900,
+   "year_to": 1901,
+   "months": "X 1900 – II 1901",
+   "page": "str. 60",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 64,
+   "type": "Z",
+   "year": 1901,
+   "months": "III–V",
+   "page": "str. 61",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 65,
+   "type": "Z",
+   "year": 1901,
+   "year_to": 1902,
+   "months": "VI 1901 – III 1902",
+   "page": "str. 62",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 66,
+   "type": "Z",
+   "year": 1902,
+   "months": "IV–VIII",
+   "page": "str. 63",
+   "by": "ondrnovy"
   }
  ],
  "sources": [
