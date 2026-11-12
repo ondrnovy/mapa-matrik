@@ -1,0 +1,83 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "6370",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/6370",
+ "signature": "Kladno 04",
+ "parish": "Kladno",
+ "records": {
+  "N": "1784–1813"
+ },
+ "scans": 174,
+ "scan_url": "https://ebadatelna.soapraha.cz/d/6370/{scan}",
+ "language": "czech",
+ "district": "Kladno",
+ "order": "chronological",
+ "points": [
+  {
+   "scan": 13,
+   "type": "N",
+   "year": 1787,
+   "year_to": 1788,
+   "months": "XII–VI",
+   "page": "20–21",
+   "place": "Kladno",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 18,
+   "type": "N",
+   "year": 1789,
+   "year_to": 1790,
+   "months": "XII–V",
+   "page": "30–31",
+   "place": "Kladno",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 19,
+   "type": "N",
+   "year": 1790,
+   "months": "V–XII",
+   "page": "32–33",
+   "place": "Kladno",
+   "note": "kanonická vizitace 19. 10. 1790",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 20,
+   "type": "N",
+   "year": 1791,
+   "months": "I–V",
+   "page": "34–35",
+   "place": "Kladno",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 21,
+   "type": "N",
+   "year": 1791,
+   "months": "VI–XII",
+   "page": "36–37",
+   "place": "Kladno",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 42,
+   "type": "N",
+   "year": 1799,
+   "year_to": 1800,
+   "months": "X–I",
+   "page": "78–79",
+   "place": "Kladno",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-12"
+  }
+ ]
+}

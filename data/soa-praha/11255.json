@@ -1,0 +1,82 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "11255",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/11255",
+ "signature": "Petrovice-RA 14",
+ "parish": "Petrovice (Rakovník)",
+ "records": {
+  "Z": "1832–1865"
+ },
+ "scans": 133,
+ "scan_url": "https://ebadatelna.soapraha.cz/d/11255/{scan}",
+ "district": "Rakovník",
+ "points": [
+  {
+   "scan": 5,
+   "type": "Z",
+   "year": 1834,
+   "year_to": 1835,
+   "months": "I–XII",
+   "page": "2v–3",
+   "place": "Příčina",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 6,
+   "type": "Z",
+   "year": 1835,
+   "year_to": 1837,
+   "months": "X–V",
+   "page": "3v–4",
+   "place": "Příčina",
+   "note": "snímek = folio + 2",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 9,
+   "type": "Z",
+   "year": 1842,
+   "year_to": 1844,
+   "months": "VI–XI",
+   "page": "6v–7",
+   "place": "Příčina",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 112,
+   "type": "iZ",
+   "page": "20–21",
+   "letters": "F–G",
+   "note": "prázdné",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 113,
+   "type": "iZ",
+   "year": 1832,
+   "year_to": 1849,
+   "page": "22",
+   "letters": "H",
+   "note": "rejstřík celé fary: čp., datum, folio (folia po vsích)",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 120,
+   "type": "iZ",
+   "year": 1857,
+   "year_to": 1865,
+   "page": "41–42",
+   "letters": "M",
+   "note": "konec rejstříku M (1857–1865)",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-12"
+  }
+ ]
+}
