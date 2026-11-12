@@ -17,6 +17,25 @@
  "scan_url": "https://ebadatelna.soapraha.cz/d/12249/{scan}",
  "points": [
   {
+   "scan": 26,
+   "type": "iN",
+   "letters": "N",
+   "note": "rejstřík narozených: rok, jméno, kniha, strana",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 27,
+   "type": "iN",
+   "letters": "N (pokr.)",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 28,
+   "type": "iN",
+   "letters": "O",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 50,
    "type": "iO",
    "letters": "E",
