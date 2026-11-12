@@ -135,10 +135,26 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 49,
+   "type": "O",
+   "year": 1846,
+   "months": "II–XI",
+   "page": "pag. 47–48",
+   "note": "od 1846 česky",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 53,
    "type": "iO",
    "letters": "H–K",
    "note": "rejstřík ženichů neúplný",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 55,
+   "type": "iO",
+   "letters": "P, R",
+   "note": "rejstřík ženichů (rok, folio)",
    "by": "ondrnovy"
   }
  ],
@@ -150,6 +166,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-11"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-12"
   }
  ]
 }

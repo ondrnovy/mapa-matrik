@@ -71,6 +71,14 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 53,
+   "type": "N",
+   "year": 1813,
+   "months": "I–VII",
+   "page": "pag. 51–52",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 54,
    "type": "N",
    "year": 1813,
@@ -83,6 +91,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-11"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-12"
   }
  ]
 }
