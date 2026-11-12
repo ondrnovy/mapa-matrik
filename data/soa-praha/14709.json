@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "14709",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/14709",
+ "signature": "Beroun 57",
+ "parish": "Beroun",
+ "records": {
+  "O": "1940"
+ },
+ "points": [
+  {
+   "scan": 154,
+   "type": "O",
+   "year": 1940,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-12"
+  }
+ ],
+ "scans": 313
+}

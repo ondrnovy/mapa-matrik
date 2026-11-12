@@ -1,0 +1,45 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "14167",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/14167",
+ "signature": "Beroun 56",
+ "parish": "Beroun",
+ "records": {
+  "Z": "1925–1933"
+ },
+ "points": [
+  {
+   "scan": 26,
+   "type": "Z",
+   "year": 1925,
+   "by": "schranka"
+  },
+  {
+   "scan": 68,
+   "type": "Z",
+   "year": 1928,
+   "by": "schranka"
+  },
+  {
+   "scan": 128,
+   "type": "Z",
+   "year": 1931,
+   "by": "schranka"
+  },
+  {
+   "scan": 195,
+   "type": "Z",
+   "year": 1933,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-12"
+  }
+ ],
+ "scans": 311
+}

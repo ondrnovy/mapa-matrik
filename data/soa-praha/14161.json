@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "14161",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/14161",
+ "signature": "Beroun 52",
+ "parish": "Beroun",
+ "records": {
+  "N": "1902"
+ },
+ "points": [
+  {
+   "scan": 174,
+   "type": "N",
+   "year": 1902,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-12"
+  }
+ ],
+ "scans": 408
+}

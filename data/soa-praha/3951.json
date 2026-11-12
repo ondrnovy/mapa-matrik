@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "3951",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/3951",
+ "signature": "Beroun 49",
+ "parish": "Beroun",
+ "records": {
+  "Z": "1899"
+ },
+ "points": [
+  {
+   "scan": 181,
+   "type": "Z",
+   "year": 1899,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-12"
+  }
+ ],
+ "scans": 325
+}

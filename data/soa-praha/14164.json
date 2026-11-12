@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "14164",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/14164",
+ "signature": "Beroun 53",
+ "parish": "Beroun",
+ "records": {
+  "N": "1907"
+ },
+ "points": [
+  {
+   "scan": 164,
+   "type": "N",
+   "year": 1907,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-12"
+  }
+ ],
+ "scans": 412
+}
