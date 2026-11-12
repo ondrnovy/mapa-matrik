@@ -153,6 +153,13 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 107,
+   "type": "Z",
+   "year": 1941,
+   "year_to": 1942,
+   "by": "ondrnovy"
+  },
+  {
    "scan": 111,
    "type": "Z",
    "year": 1943,
@@ -169,10 +176,24 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 117,
+   "type": "Z",
+   "year": 1946,
+   "year_to": 1947,
+   "by": "ondrnovy"
+  },
+  {
    "scan": 119,
    "type": "Z",
    "year": 1947,
    "page": "fol. 116",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 121,
+   "type": "Z",
+   "year": 1948,
+   "year_to": 1949,
    "by": "ondrnovy"
   },
   {
@@ -206,6 +227,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-10"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-12"
   }
  ]
 }
