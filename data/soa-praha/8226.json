@@ -21,6 +21,15 @@
  "district": "Rakovník",
  "points": [
   {
+   "scan": 16,
+   "type": "Z",
+   "year": 1799,
+   "year_to": 1800,
+   "months": "VII 1799 – XII 1800",
+   "page": "pag. 15 a levá strana",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 36,
    "type": "Z",
    "year": 1817,
@@ -30,11 +39,29 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 38,
+   "type": "Z",
+   "year": 1819,
+   "year_to": 1820,
+   "months": "V 1819 – III 1820",
+   "page": "pag. 37 a levá strana",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 62,
    "type": "Z",
    "year": 1836,
    "year_to": 1837,
    "page": "pag. 60–61",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 63,
+   "type": "Z",
+   "year": 1837,
+   "year_to": 1838,
+   "months": "III 1837 – II 1838",
+   "page": "pag. 61–62",
    "by": "ondrnovy"
   },
   {
@@ -72,6 +99,26 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 100,
+   "type": "iZ",
+   "letters": "B–C",
+   "note": "rejstřík: jméno, rok, strana",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 101,
+   "type": "iZ",
+   "letters": "D",
+   "note": "nahoře vlevo dopsaný konec C",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 102,
+   "type": "iZ",
+   "letters": "E–G",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 103,
    "type": "iZ",
    "year": 1784,
@@ -93,6 +140,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-11"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-12"
   }
  ]
 }
