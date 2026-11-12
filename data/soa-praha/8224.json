@@ -44,6 +44,14 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 101,
+   "type": "N",
+   "year": 1848,
+   "months": "IX–XI",
+   "page": "fol. 99",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 208,
    "type": "N",
    "year": 1866,
@@ -78,6 +86,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-10"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-12"
   }
  ]
 }
