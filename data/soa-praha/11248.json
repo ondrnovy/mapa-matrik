@@ -22,6 +22,12 @@
   "Zavidov",
   "Žďár"
  ],
+ "place_codes": {
+  "Příčina": 135828,
+  "Senec": 147419,
+  "Zavidov": 191248,
+  "Žďár": 195081
+ },
  "scans": 260,
  "scan_url": "https://ebadatelna.soapraha.cz/d/11248/{scan}",
  "language": "německy, latinsky, česky",

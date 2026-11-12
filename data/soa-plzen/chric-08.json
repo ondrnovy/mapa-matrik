@@ -10,6 +10,9 @@
  "places": [
   "Slatina"
  ],
+ "place_codes": {
+  "Slatina": 54577
+ },
  "records": {
   "N": "1815–1848"
  },

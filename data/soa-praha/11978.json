@@ -31,6 +31,19 @@
   "Týřovice",
   "Újezdec"
  ],
+ "place_codes": {
+  "Hracholusky": 47597,
+  "Hřebečníky": 48909,
+  "Hvozd": 50199,
+  "Kostelík": 97918,
+  "Modřejovice": 97926,
+  "Novosedly": 106887,
+  "Slabce": 149250,
+  "Šlovice": 48917,
+  "Svinařov": 160814,
+  "Týřovice": 48925,
+  "Újezdec": 174025
+ },
  "scan_url": "https://ebadatelna.soapraha.cz/d/11978/{scan}",
  "scans": 228,
  "points": [

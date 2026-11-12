@@ -9,7 +9,7 @@ import time
 import urllib.error
 import urllib.request
 
-from mapa import load, mark_verified, place_names, slug, WEB
+from mapa import in_district, load, mark_verified, norm, place_names, slug, WEB
 
 CACHE = pathlib.Path(os.environ.get("MAPA_MATRIK_CACHE", pathlib.Path.home() / ".cache" / "mapa-matrik" / "web"))
 TTL = 24 * 3600
@@ -18,11 +18,14 @@ TTL = 24 * 3600
 class Local:
     name = "místní data"
 
-    def volumes(self, place):
+    def volumes(self, place, okres=None):
+        """Knihy obce (název, jiný název, nebo kód části obce RÚIAN), volitelně jen v okrese."""
         vols = [mark_verified(v) for _, v in load()]
-        if place:
+        if str(place or "").isdigit():
+            vols = [v for v in vols if int(place) in (v.get("place_codes") or {}).values()]
+        elif place:
             vols = [v for v in vols if slug(place) in [slug(p) for p in place_names(v)]]
-        return vols
+        return [v for v in vols if in_district(v, place, okres)]
 
     def volume(self, archive, portal_id):
         for path, vol in load():
@@ -56,8 +59,11 @@ class Web:
         cached.write_text(body, encoding="utf-8")
         return json.loads(body)
 
-    def volumes(self, place):
-        refs = self.get(f"obce/{slug(place)}.json") or []
+    def volumes(self, place, okres=None):
+        path = f"obce/kod/{place}.json" if str(place).isdigit() else f"obce/{slug(place)}.json"
+        refs = self.get(path) or []
+        if okres:
+            refs = [r for r in refs if norm((r.get("place") or {}).get("okres") or r.get("district")) == norm(okres)]
         return [v for v in (self.get(r["path"]) for r in refs) if v]
 
     def volume(self, archive, portal_id):

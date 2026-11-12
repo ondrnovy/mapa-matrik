@@ -15,6 +15,10 @@
   "Rybárna pod Dubjany",
   "Studená"
  ],
+ "place_codes": {
+  "Dolany": 28398,
+  "Studená": 54585
+ },
  "records": {
   "O": "1839–1946"
  },

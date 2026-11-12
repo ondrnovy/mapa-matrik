@@ -19,6 +19,15 @@
   "Trněný Újezd",
   "Vysoký Újezd"
  ],
+ "place_codes": {
+  "Dobříč": 27766,
+  "Kuchař": 76945,
+  "Mezouň": 93866,
+  "Nučice": 108065,
+  "Tachlovice": 164828,
+  "Trněný Újezd": 168327,
+  "Vysoký Újezd": 188441
+ },
  "points": [
   {
    "scan": 35,

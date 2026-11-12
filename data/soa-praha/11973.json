@@ -14,6 +14,9 @@
  "places": [
   "Modřejovice"
  ],
+ "place_codes": {
+  "Modřejovice": 97926
+ },
  "language": "němčina",
  "order": "chronological",
  "scans": 61,

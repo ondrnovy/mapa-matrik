@@ -15,6 +15,12 @@
   "Kladruby",
   "Vojenice"
  ],
+ "place_codes": {
+  "Hřešihlavy": 48976,
+  "Třímany": 170887,
+  "Kladruby": 65340,
+  "Vojenice": 415791
+ },
  "language": "němčina",
  "order": "by_village",
  "scans": 72,

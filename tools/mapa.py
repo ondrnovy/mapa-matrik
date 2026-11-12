@@ -7,8 +7,10 @@ DATA = pathlib.Path(__file__).resolve().parent.parent / "data"
 TYPES = {"N", "O", "Z", "iN", "iO", "iZ", "title", "blank"}
 POINT_KEYS = {"scan", "type", "year", "year_to", "months", "page", "place", "letters", "note", "by"}
 VOLUME_KEYS = {"schema", "archive", "portal", "portal_id", "url", "scan_url", "signature", "parish", "district",
-               "places", "aliases", "records", "scans", "language", "order", "index", "points", "sections", "notes", "sources"}
+               "places", "place_codes", "aliases", "records", "scans", "language", "order", "index", "points", "sections", "notes", "sources"}
 WEB = "https://ondrnovy.github.io/mapa-matrik/v1"
+RUIAN = pathlib.Path(__file__).resolve().parent.parent / "ciselniky" / "ruian_casti_obci.tsv"
+_ruian = None
 
 
 def load():
@@ -65,6 +67,49 @@ def place_names(vol):
     return names
 
 
+def ruian():
+    """Části obcí z RÚIAN: {kód: {kod, nazev, obec, obec_kod, okres}} (ciselniky/ruian_casti_obci.tsv)."""
+    global _ruian
+    if _ruian is None:
+        _ruian = {}
+        if RUIAN.exists():
+            lines = RUIAN.read_text(encoding="utf-8").splitlines()
+            head = lines[0].split("\t")
+            for line in lines[1:]:
+                row = dict(zip(head, line.split("\t")))
+                row["kod"], row["obec_kod"] = int(row["kod"]), int(row["obec_kod"])
+                _ruian[row["kod"]] = row
+    return _ruian
+
+
+def place_info(vol, name):
+    """Obec knihy podle názvu nebo jiného názvu: {name, kod, obec, okres}; bez kódu okres knihy."""
+    own = next((p for p in vol.get("places") or [] if norm(p) == norm(name)), None)
+    if own is None:
+        own = next((p for p, alts in (vol.get("aliases") or {}).items() if norm(name) in map(norm, alts)), name)
+    info = {"name": own}
+    code = (vol.get("place_codes") or {}).get(own)
+    row = ruian().get(code)
+    if row:
+        info.update(kod=code, obec=row["obec"], okres=row["okres"])
+    elif code:
+        info["kod"] = code
+    if "okres" not in info and vol.get("district"):
+        info["okres"] = vol["district"]
+    return info
+
+
+def resolve_place(vol, place):
+    """Kód RÚIAN (číslo) → název obce v knize; jinak název beze změny."""
+    if str(place or "").isdigit():
+        return next((p for p, c in (vol.get("place_codes") or {}).items() if c == int(place)), place)
+    return place
+
+
+def in_district(vol, place, okres):
+    return not okres or norm(place_info(vol, resolve_place(vol, place)).get("okres")) == norm(okres)
+
+
 def covers(vol, place, year, kind):
     if place and norm(place) not in [norm(p) for p in place_names(vol)]:
         return False
@@ -104,11 +149,19 @@ def estimate(pts, year):
 def report(volumes, place, year, kind):
     """Text odpovědi na „kde hledat obec, rok, druh“ nad seznamem svazků."""
     out = []
+    asked = place
+    districts = sorted({place_info(v, resolve_place(v, place)).get("okres") or "?" for v in volumes})
+    if place and len(districts) > 1:
+        out.append(f"⚠ {place} je v mapě ve více okresech ({', '.join(districts)}) – u každé knihy je okres; "
+                   f"upřesni okres nebo hledej podle kódu RÚIAN")
     for vol in volumes:
+        place = resolve_place(vol, asked)
         if not covers(vol, place, year, kind):
             continue
+        info = place_info(vol, place) if place else {}
         rec = ", ".join(f"{k} {v}" for k, v in vol["records"].items())
-        out.append(f"\n{vol['signature']} ({vol['archive']}, {vol['portal']} {vol['portal_id']}) – {rec}")
+        where = f"; {info['name']}, okres {info['okres']}" if info.get("okres") else ""
+        out.append(f"\n{vol['signature']} ({vol['archive']}, {vol['portal']} {vol['portal_id']}{where}) – {rec}")
         out.append(f"  uspořádání: {vol.get('order', '?')}; snímků: {vol.get('scans', '?')}")
         if vol.get("index"):
             out.append(f"  rejstřík: {vol['index']}")
@@ -135,6 +188,6 @@ def report(volumes, place, year, kind):
             out.append(f"  kniha: {vol['url']}")
         for n in vol.get("notes") or []:
             out.append(f"  pozn.: {n}")
-    if not out:
-        return f"Žádná kniha v mapě nepokrývá {place} {year} {kind or ''}. (Mapa je zatím malá – přidej ji.)"
+    if not any(line.startswith("\n") for line in out):
+        return f"Žádná kniha v mapě nepokrývá {asked} {year} {kind or ''}. (Mapa je zatím malá – přidej ji.)"
     return "\n".join(out).lstrip("\n")

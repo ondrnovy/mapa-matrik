@@ -11,6 +11,9 @@
   "Slatina",
   "Březsko"
  ],
+ "place_codes": {
+  "Slatina": 54577
+ },
  "records": {
   "N": "1848–1891"
  },

@@ -20,6 +20,13 @@
   "Lišany",
   "Lužná"
  ],
+ "place_codes": {
+  "Hředle": 48941,
+  "Krupá": 75256,
+  "Krušovice": 75418,
+  "Lišany": 84921,
+  "Lužná": 89371
+ },
  "scans": 174,
  "scan_url": "https://ebadatelna.soapraha.cz/d/5751/{scan}",
  "district": "Rakovník",

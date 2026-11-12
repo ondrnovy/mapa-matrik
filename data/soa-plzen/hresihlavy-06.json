@@ -93,6 +93,12 @@
   "Třímany",
   "Vojenice"
  ],
+ "place_codes": {
+  "Hřešihlavy": 48976,
+  "Kladruby": 65340,
+  "Třímany": 170887,
+  "Vojenice": 415791
+ },
  "aliases": {
   "Hřešihlavy": [
    "Herschichlau"

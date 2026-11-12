@@ -43,6 +43,7 @@ Klíče jsou anglicky (aby je snadno četly nástroje odkudkoli), hodnoty česky
 | `signature` | ano | signatura, jak ji uvádí archiv |
 | `parish`, `district` | ano / ne | fara (původce) a okres |
 | `places` | ne | obce, které kniha pokrývá (dnešní český název) |
+| `place_codes` | ne | kód části obce z [RÚIAN](https://cuzk.gov.cz/ruian/) ke každé obci: `{"Kožlany": 72061}`; klíč musí být v `places`. Rozliší stejnojmenné obce (Petrovic je v ČR 25). Kandidáty s obcí a okresem vypíše `python3 tools/ruian.py hledej Petrovice`; jednoznačné kódy doplní `body.py odeslat` sám. Zaniklé vsi, mlýny a samoty kód nemají – vynech je |
 | `aliases` | ne | jiné názvy obcí (německé, historické, jak je píše kniha): `{"Kožlany": ["Koschlan", "Kozlany"]}`; klíč musí být v `places`. Rozcestník najde knihu i podle nich |
 | `records` | ano | druhy zápisů a roky: `N` narození, `O` oddaní, `Z` zemřelí, `iN` `iO` `iZ` rejstříky |
 | `scans` | ne | počet snímků |

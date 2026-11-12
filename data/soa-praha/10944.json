@@ -12,6 +12,9 @@
  "places": [
   "Malinová"
  ],
+ "place_codes": {
+  "Malinová": 90981
+ },
  "scans": 33,
  "scan_url": "https://ebadatelna.soapraha.cz/d/10944/{scan}",
  "district": "Rakovník",

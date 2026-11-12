@@ -14,6 +14,9 @@
  "places": [
   "Slabce"
  ],
+ "place_codes": {
+  "Slabce": 149250
+ },
  "language": "němčina",
  "order": "chronological",
  "district": "Rakovník",

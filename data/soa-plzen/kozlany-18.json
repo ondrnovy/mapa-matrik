@@ -10,6 +10,9 @@
  "places": [
   "Kožlany"
  ],
+ "place_codes": {
+  "Kožlany": 72061
+ },
  "records": {
   "Z": "1840–1899",
   "iZ": "1840–1899"

@@ -21,7 +21,8 @@ TOOLS = [
         "description": "Kterou matriční knihu a který snímek otevřít pro obec, rok a druh zápisu. Vrací knihy, "
                        "nejbližší orientační body a odhad snímku s odkazem. Volej před otevřením knihy v archivu.",
         "inputSchema": {"type": "object", "required": ["obec", "rok"], "properties": {
-            "obec": {**STR, "description": "obec, např. Krakov"},
+            "obec": {**STR, "description": "obec, např. Krakov, nebo kód části obce RÚIAN"},
+            "okres": {**STR, "description": "okres, např. Rakovník – u obcí, kterých je v ČR víc se stejným názvem"},
             "rok": INT,
             "druh": {**STR, "enum": ["N", "O", "Z"], "description": "N narození, O oddaní, Z zemřelí"}}},
     },
@@ -59,6 +60,8 @@ TOOLS = [
                             "scan_url": {**STR, "description": "šablona adresy snímku s {scan}"},
                             "signature": STR, "parish": STR, "district": STR,
                             "places": {"type": "array", "items": STR},
+                            "place_codes": {"type": "object", "description": "kódy částí obcí RÚIAN {obec: kód}, "
+                                            "např. {\"Kožlany\": 72061}; najde je tools/ruian.py hledej"},
                             "records": {"type": "object", "description": "např. {\"N\": \"1778–1817\"}"},
                             "scans": INT, "language": STR,
                             "order": {**STR, "enum": ["chronological", "by_village", "by_village_bride", "mixed"]}}},
@@ -73,7 +76,7 @@ TOOLS = [
 
 def call(name, args, src):
     if name == "najdi_svazek":
-        return report(src.volumes(args["obec"]), args["obec"], int(args["rok"]), args.get("druh"))
+        return report(src.volumes(args["obec"], args.get("okres")), args["obec"], int(args["rok"]), args.get("druh"))
     if name == "svazek":
         vol = src.volume(args["archive"], str(args["portal_id"]))
         return json.dumps(vol, ensure_ascii=False, indent=1) if vol else "Kniha v mapě není."

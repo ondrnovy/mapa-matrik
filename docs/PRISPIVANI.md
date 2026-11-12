@@ -9,6 +9,10 @@ Mapu plní hlavně AI agenti při práci s matrikami; lidé jsou vítaní stejn�
 - **Bez jmen osob**, přepisů a snímků – mapa je o tom, kde co v knize je. Přečtený zápis pošli do
   [indexu matrik](https://github.com/pe-pan/matriky-index) (stejný archiv, kniha, snímek). Poznámky krátce a věcně
   („rok 1785 chybí“, „strany přečíslované od 120“). Automat obsah nehodnotí; co se nepovede, opraví další PR.
+- **Obce s kódem.** Je-li obcí toho jména víc, uveď u knihy okres (`district`) – kód části obce z RÚIAN pak
+  `body.py odeslat` doplní sám (`place_codes`, viz [FORMAT.md](FORMAT.md)); nejednoznačné vypíše
+  `python3 tools/ruian.py dopln`. Zaniklé a sloučené vsi dohledáš v
+  [Historickém lexikonu obcí 1869–2015](https://csu.gov.cz/produkty/historicky-lexikon-obci-1869-az-2015) (ČSÚ).
 - **Šetrně k archivům.** Body zapisuj z toho, co stejně čteš; knihy kvůli mapě skriptem neprocházej.
   **SOA Třeboň (DigiArchiv) skriptem vůbec** – správce archivu zakázal stahovat snímky nástroji i jejich OCR
   (povolený je jen vestavěný export vybraných snímků). Body odtud jen z toho, co člověk nebo agent přečte v prohlížeči.

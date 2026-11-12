@@ -13,6 +13,12 @@
   "Chockov",
   "Olešná"
  ],
+ "place_codes": {
+  "Liblín": 82996,
+  "Bujesily": 15725,
+  "Chockov": 81353,
+  "Olešná": 110256
+ },
  "records": {
   "Z": "1806–1840",
   "iZ": "1806–1840"

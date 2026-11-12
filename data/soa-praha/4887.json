@@ -19,6 +19,17 @@
   "Křekovice",
   "Všesulov"
  ],
+ "place_codes": {
+  "Čistá": 23965,
+  "Krakov": 72338,
+  "Břežany": 14877,
+  "Zavidov": 191248,
+  "Zdeslav": 192350,
+  "Šípy": 162612,
+  "Kůzová": 105422,
+  "Křekovice": 192341,
+  "Všesulov": 187470
+ },
  "records": {
   "N": "1687–1731",
   "O": "1688–1731",

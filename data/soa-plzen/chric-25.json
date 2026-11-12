@@ -14,6 +14,10 @@
   "Hlince",
   "Ptyč"
  ],
+ "place_codes": {
+  "Dolany": 28398,
+  "Hlince": 54534
+ },
  "order": "chronological",
  "scans": 57,
  "language": "čeština",

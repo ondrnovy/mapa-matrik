@@ -13,6 +13,9 @@
  "places": [
   "Lužná"
  ],
+ "place_codes": {
+  "Lužná": 89371
+ },
  "scans": 90,
  "scan_url": "https://ebadatelna.soapraha.cz/d/8227/{scan}",
  "district": "Rakovník",

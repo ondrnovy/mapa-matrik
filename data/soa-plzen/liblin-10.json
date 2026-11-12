@@ -15,6 +15,12 @@
   "Chockov",
   "Olešná"
  ],
+ "place_codes": {
+  "Liblín": 82996,
+  "Bujesily": 15725,
+  "Chockov": 81353,
+  "Olešná": 110256
+ },
  "language": "latina, němčina, čeština",
  "order": "by_village",
  "scans": 26,

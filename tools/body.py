@@ -15,6 +15,7 @@ import subprocess
 import sys
 
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
+import ruian
 from mapa import POINT_KEYS, TYPES
 
 STORE = pathlib.Path(os.environ.get("MAPA_MATRIK_BODY",
@@ -100,6 +101,9 @@ def apply(repo, by):
         if source not in vol["sources"]:
             vol["sources"].append(source)
     for path, vol in touched.items():
+        codes, _ = ruian.suggest(vol)
+        if codes != (vol.get("place_codes") or {}):
+            vol = touched[path] = ruian.with_codes(vol, codes)
         vol["points"].sort(key=lambda p: (p["scan"], p.get("place") or ""))
         path.parent.mkdir(parents=True, exist_ok=True)
         path.write_text(json.dumps(vol, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")

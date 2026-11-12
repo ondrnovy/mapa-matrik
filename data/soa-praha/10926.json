@@ -26,6 +26,21 @@
   "Velký Újezd",
   "Všetaty"
  ],
+ "place_codes": {
+  "Chlum": 51446,
+  "Čilá": 124052,
+  "Hvozd": 50199,
+  "Lašovice": 79219,
+  "Lubná": 88005,
+  "Malinová": 90981,
+  "Panoší Újezd": 117595,
+  "Pavlíkov": 118320,
+  "Příčina": 135828,
+  "Skřivaň": 148954,
+  "Skryje": 148792,
+  "Tytry": 172456,
+  "Všetaty": 187496
+ },
  "scans": 146,
  "scan_url": "https://ebadatelna.soapraha.cz/d/10926/{scan}",
  "district": "Rakovník",

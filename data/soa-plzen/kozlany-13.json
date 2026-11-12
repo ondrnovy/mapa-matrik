@@ -12,6 +12,11 @@
   "Hedčany",
   "Strachovice"
  ],
+ "place_codes": {
+  "Kožlany": 72061,
+  "Hedčany": 32999,
+  "Strachovice": 23973
+ },
  "records": {
   "Z": "1784–1801"
  },

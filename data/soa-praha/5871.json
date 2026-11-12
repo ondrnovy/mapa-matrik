@@ -18,6 +18,15 @@
   "Václavský Nový Dvůr",
   "Všesulov"
  ],
+ "place_codes": {
+  "Bělbožice": 162591,
+  "Břežany": 14877,
+  "Krakov": 72338,
+  "Křekovice": 192341,
+  "Kůzová": 105422,
+  "Šípy": 162612,
+  "Všesulov": 187470
+ },
  "records": {
   "O": "1849–1942"
  },

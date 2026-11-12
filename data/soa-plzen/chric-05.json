@@ -10,6 +10,9 @@
  "places": [
   "Hlince"
  ],
+ "place_codes": {
+  "Hlince": 54534
+ },
  "records": {
   "N": "1808–1845"
  },

@@ -12,6 +12,9 @@
  "places": [
   "Chříč"
  ],
+ "place_codes": {
+  "Chříč": 54551
+ },
  "order": "chronological",
  "scans": 85,
  "language": "čeština",

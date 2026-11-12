@@ -11,6 +11,9 @@
  "places": [
   "Modřejovice"
  ],
+ "place_codes": {
+  "Modřejovice": 97926
+ },
  "records": {
   "N": "1821–1853",
   "O": "1821–1854",

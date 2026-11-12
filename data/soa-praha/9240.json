@@ -25,6 +25,19 @@
   "Nesuchyně",
   "Povlčín"
  ],
+ "place_codes": {
+  "Hředle": 48941,
+  "Kněževes": 66869,
+  "Krupá": 75256,
+  "Krušovice": 75418,
+  "Lišany": 84921,
+  "Lubná": 88005,
+  "Lužná": 89371,
+  "Milostín": 95125,
+  "Mutějovice": 100421,
+  "Nesuchyně": 103829,
+  "Povlčín": 95133
+ },
  "scans": 207,
  "scan_url": "https://ebadatelna.soapraha.cz/d/9240/{scan}",
  "district": "Rakovník",

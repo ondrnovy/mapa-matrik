@@ -14,6 +14,9 @@
  "places": [
   "Lužná"
  ],
+ "place_codes": {
+  "Lužná": 89371
+ },
  "scans": 102,
  "scan_url": "https://ebadatelna.soapraha.cz/d/8223/{scan}",
  "language": "německy",

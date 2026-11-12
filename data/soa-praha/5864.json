@@ -12,6 +12,10 @@
   "Čistá",
   "Krakov"
  ],
+ "place_codes": {
+  "Čistá": 23965,
+  "Krakov": 72338
+ },
  "records": {
   "iN": "1761–1790"
  },

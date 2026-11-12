@@ -15,6 +15,14 @@
   "Slatina",
   "Studená"
  ],
+ "place_codes": {
+  "Chříč": 54551,
+  "Hlince": 54534,
+  "Holovousy": 54542,
+  "Lhota": 54569,
+  "Slatina": 54577,
+  "Studená": 54585
+ },
  "records": {
   "iN": "1786–1910",
   "iO": "1786–1910",

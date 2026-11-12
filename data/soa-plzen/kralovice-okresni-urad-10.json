@@ -14,6 +14,12 @@
   "Břežany",
   "okres Kralovice (výběr)"
  ],
+ "place_codes": {
+  "Kralovice": 406538,
+  "Kožlany": 72061,
+  "Bohy": 71901,
+  "Břežany": 14877
+ },
  "records": {
   "O": "1931–1947"
  },

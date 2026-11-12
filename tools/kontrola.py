@@ -3,7 +3,7 @@ import pathlib
 import sys
 
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
-from mapa import POINT_KEYS, TYPES, VOLUME_KEYS, load, years
+from mapa import POINT_KEYS, TYPES, VOLUME_KEYS, load, norm, ruian, years
 
 REQUIRED = ["schema", "archive", "portal", "portal_id", "url", "signature", "parish", "records", "points", "sources"]
 ORDERS = {"chronological", "by_village", "by_village_bride", "mixed"}
@@ -33,6 +33,19 @@ def check(path, vol):
             errors.append(f"aliases: obec {place} není v places")
         if not isinstance(alts, list) or not all(isinstance(a, str) and a for a in alts):
             errors.append(f"aliases: {place} musí mít seznam názvů")
+    codes = vol.get("place_codes") or {}
+    if not isinstance(codes, dict):
+        errors.append("place_codes musí být objekt {obec: kód části obce RÚIAN}")
+        codes = {}
+    for place, code in codes.items():
+        if place not in (vol.get("places") or []):
+            errors.append(f"place_codes: obec {place} není v places")
+        if not isinstance(code, int) or isinstance(code, bool):
+            errors.append(f"place_codes: {place} musí mít číselný kód")
+        elif ruian() and code not in ruian():
+            errors.append(f"place_codes: {place} – kód {code} v RÚIAN není (tools/ruian.py hledej {place})")
+        elif ruian() and norm(ruian()[code]["nazev"]) != norm(place):
+            errors.append(f"place_codes: {place} – kód {code} patří k {ruian()[code]['nazev']}")
     for kind, span in (vol.get("records") or {}).items():
         if kind not in TYPES or not years(span):
             errors.append(f"records: špatně {kind}: {span}")

@@ -52,8 +52,9 @@ Mapa je zveřejněná jako statické soubory JSON na `https://ondrnovy.github.io
 
 | adresa | obsah |
 |---|---|
-| `v1/index.json` | přehled: počty, archivy, seznam obcí |
-| `v1/obce/<obec>.json` | rozcestník: knihy, které obec pokrývají (obec malými písmeny bez diakritiky, mezery = `-`, např. `krakov`, `nova-ves`; funguje i německý název, např. `koschlan`). U každé knihy počet orientačních bodů (`points`) |
+| `v1/index.json` | přehled: počty, archivy, seznam obcí, obce s kódem RÚIAN (`codes`: kód → název, obec, okres) |
+| `v1/obce/<obec>.json` | rozcestník: knihy, které obec pokrývají (obec malými písmeny bez diakritiky, mezery = `-`, např. `krakov`, `nova-ves`; funguje i německý název, např. `koschlan`). U každé knihy počet orientačních bodů (`points`) a obec, o kterou jde (`place`: název, kód RÚIAN, obec, okres) – stejnojmenné obce z různých okresů jsou v jednom souboru, rozliší je `place.okres` |
+| `v1/obce/kod/<kód>.json` | totéž podle kódu části obce z RÚIAN (např. `72061` = Kožlany), jen ta jedna obec |
 | `v1/svazky/<archiv>/<id>.json` | celá mapa knihy: uspořádání, rejstřík, oddíly, orientační body (`verified` = potvrdili dva různí přispěvatelé) |
 
 Odhad snímku mezi dvěma body je lineární interpolace (viz `estimate` v [tools/mapa.py](tools/mapa.py)).

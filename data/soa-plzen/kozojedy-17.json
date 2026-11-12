@@ -10,6 +10,9 @@
  "places": [
   "Bohy"
  ],
+ "place_codes": {
+  "Bohy": 71901
+ },
  "records": {
   "O": "1856–1945"
  },

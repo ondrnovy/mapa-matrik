@@ -15,6 +15,10 @@
   "Bohy",
   "Krašov"
  ],
+ "place_codes": {
+  "Bohy": 71901,
+  "Krašov": 3859
+ },
  "language": "němčina, čeština",
  "order": "chronological",
  "scans": 105,

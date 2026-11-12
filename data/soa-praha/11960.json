@@ -14,6 +14,9 @@
  "places": [
   "Újezdec"
  ],
+ "place_codes": {
+  "Újezdec": 174025
+ },
  "language": "němčina",
  "order": "chronological",
  "district": "Rakovník",

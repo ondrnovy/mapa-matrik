@@ -19,6 +19,14 @@
   "Ryšín",
   "Senomaty"
  ],
+ "place_codes": {
+  "Hostokryje": 45861,
+  "Lubná": 88005,
+  "Lužná": 89371,
+  "Nový Dům": 107271,
+  "Ryšín": 51454,
+  "Senomaty": 147524
+ },
  "scans": 261,
  "scan_url": "https://ebadatelna.soapraha.cz/d/11048/{scan}",
  "district": "Rakovník",

@@ -17,6 +17,9 @@
  "places": [
   "Bohy"
  ],
+ "place_codes": {
+  "Bohy": 71901
+ },
  "language": "čeština, němčina",
  "order": "chronological",
  "scans": 69,

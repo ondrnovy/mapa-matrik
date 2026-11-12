@@ -123,6 +123,9 @@
  "places": [
   "Slatina"
  ],
+ "place_codes": {
+  "Slatina": 54577
+ },
  "records": {
   "O": "1855–1945"
  },

@@ -21,6 +21,19 @@
   "Zavidov",
   "Zdeslav"
  ],
+ "place_codes": {
+  "Čistá": 23965,
+  "Krakov": 72338,
+  "Břežany": 14877,
+  "Křekovice": 192341,
+  "Kůzová": 105422,
+  "Milíčov": 162604,
+  "Šípy": 162612,
+  "Václavy": 176052,
+  "Všesulov": 187470,
+  "Zavidov": 191248,
+  "Zdeslav": 192350
+ },
  "records": {
   "O": "1778–1824",
   "iO": "1778–1824"

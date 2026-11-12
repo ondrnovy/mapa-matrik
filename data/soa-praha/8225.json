@@ -13,6 +13,9 @@
  "places": [
   "Lužná"
  ],
+ "place_codes": {
+  "Lužná": 89371
+ },
  "language": "němčina",
  "order": "chronological",
  "scans": 58,

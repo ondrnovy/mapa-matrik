@@ -14,6 +14,9 @@
  "places": [
   "Svinařov"
  ],
+ "place_codes": {
+  "Svinařov": 160814
+ },
  "language": "němčina",
  "order": "chronological",
  "scans": 33,

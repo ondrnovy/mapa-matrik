@@ -11,7 +11,7 @@ import shutil
 import sys
 
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
-from mapa import load, mark_verified, place_names, slug
+from mapa import load, mark_verified, place_info, place_names, slug
 
 PAGE = """<!doctype html>
 <html lang="cs"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
@@ -40,6 +40,7 @@ def main(argv):
         shutil.rmtree(out)
     v1 = out / "v1"
     places = {}
+    codes = {}
     archives = {}
     volumes = points = 0
     for path, vol in load():
@@ -57,19 +58,29 @@ def main(argv):
         ref["path"] = rel
         for key in dict.fromkeys(slug(p) for p in place_names(vol)):
             name = next(p for p in place_names(vol) if slug(p) == key)
+            info = place_info(vol, name)
             entry = places.setdefault(key, {"name": name, "volumes": []})
-            entry["volumes"].append(ref)
+            entry["volumes"].append({**ref, "place": info})
+            if info.get("kod"):
+                codes.setdefault(info["kod"], {**info, "volumes": []})
+                if ref not in codes[info["kod"]]["volumes"]:
+                    codes[info["kod"]]["volumes"].append(ref)
     for key, entry in places.items():
         target = v1 / "obce" / f"{key}.json"
         target.parent.mkdir(parents=True, exist_ok=True)
         target.write_text(json.dumps(entry["volumes"], ensure_ascii=False, indent=1), encoding="utf-8")
+    for code, entry in codes.items():
+        target = v1 / "obce" / "kod" / f"{code}.json"
+        target.parent.mkdir(parents=True, exist_ok=True)
+        target.write_text(json.dumps(entry["volumes"], ensure_ascii=False, indent=1), encoding="utf-8")
     built = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%MZ")
     index = {"schema": 1, "built": built, "volumes": volumes, "points": points, "archives": archives,
-             "places": {k: e["name"] for k, e in sorted(places.items())}}
+             "places": {k: e["name"] for k, e in sorted(places.items())},
+             "codes": {str(k): {f: e[f] for f in ("name", "obec", "okres") if f in e} for k, e in sorted(codes.items())}}
     (v1 / "index.json").write_text(json.dumps(index, ensure_ascii=False, indent=1), encoding="utf-8")
     (out / "index.html").write_text(PAGE.replace("VOLUMES", str(volumes)).replace("POINTS", str(points)).replace("BUILT", built), encoding="utf-8")
     (out / ".nojekyll").write_text("")
-    print(f"{out}: {volumes} svazků, {points} bodů, {len(places)} obcí")
+    print(f"{out}: {volumes} svazků, {points} bodů, {len(places)} obcí, {len(codes)} s kódem RÚIAN")
     return 0
 
 

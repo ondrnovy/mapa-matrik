@@ -10,6 +10,9 @@
  "places": [
   "Kožlany"
  ],
+ "place_codes": {
+  "Kožlany": 72061
+ },
  "aliases": {
   "Kožlany": [
    "Koschlan"

@@ -14,6 +14,9 @@
  "places": [
   "Malinová"
  ],
+ "place_codes": {
+  "Malinová": 90981
+ },
  "scans": 26,
  "scan_url": "https://ebadatelna.soapraha.cz/d/10941/{scan}",
  "language": "německy",

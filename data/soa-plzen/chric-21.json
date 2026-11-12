@@ -12,6 +12,10 @@
   "Studená",
   "Dubensko"
  ],
+ "place_codes": {
+  "Dolany": 28398,
+  "Studená": 54585
+ },
  "records": {
   "Z": "1828–1945",
   "iZ": "1828–1945"
