@@ -1,0 +1,36 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "11063",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/11063",
+ "signature": "Rakovník 19",
+ "parish": "Rakovník",
+ "records": {
+  "Z": "1785–1812"
+ },
+ "places": [
+  "Rakovník"
+ ],
+ "district": "Rakovník",
+ "language": "němčina",
+ "order": "chronological",
+ "scans": 147,
+ "scan_url": "https://ebadatelna.soapraha.cz/d/11063/{scan}",
+ "points": [
+  {
+   "scan": 120,
+   "type": "Z",
+   "year": 1808,
+   "months": "VI–VIII",
+   "page": "pag. 151",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-12"
+  }
+ ]
+}
