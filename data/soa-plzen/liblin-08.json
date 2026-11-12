@@ -29,6 +29,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-11"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-12"
   }
  ],
  "points": [
@@ -57,11 +61,57 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 30,
+   "type": "Z",
+   "year": 1840,
+   "year_to": 1841,
+   "page": "fol. 29",
+   "place": "Bujesily",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 32,
    "type": "Z",
    "place": "Bujesily",
    "year": 1843,
    "page": "31",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 34,
+   "type": "Z",
+   "year": 1845,
+   "year_to": 1846,
+   "page": "33",
+   "place": "Bujesily",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 36,
+   "type": "Z",
+   "year": 1848,
+   "year_to": 1849,
+   "page": "35",
+   "place": "Bujesily",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 38,
+   "type": "Z",
+   "year": 1849,
+   "year_to": 1850,
+   "page": "36",
+   "place": "Bujesily",
+   "note": "totéž co sn. 37, navíc vložený úřední lístek 1850",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 39,
+   "type": "Z",
+   "year": 1850,
+   "year_to": 1851,
+   "page": "37",
+   "place": "Bujesily",
    "by": "ondrnovy"
   },
   {

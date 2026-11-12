@@ -30,6 +30,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-11"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-12"
   }
  ],
  "points": [
@@ -111,6 +115,16 @@
    "place": "Bujesily",
    "year": 1837,
    "page": "85",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 42,
+   "type": "Z",
+   "year": 1838,
+   "year_to": 1840,
+   "page": "87–88",
+   "place": "Bujesily",
+   "note": "konec Bujesil, pokračování v Litt. E (liblin-08)",
    "by": "ondrnovy"
   },
   {
