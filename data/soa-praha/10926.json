@@ -1,0 +1,99 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "10926",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/10926",
+ "signature": "Panoší Újezd 03",
+ "parish": "Panoší Újezd",
+ "records": {
+  "N": "1741–1760",
+  "Z": "1748–1760"
+ },
+ "places": [
+  "Chlum",
+  "Čilá",
+  "Hvozd",
+  "Lašovice",
+  "Lubná",
+  "Malinová",
+  "Panoší Újezd",
+  "Pavlíkov",
+  "Příčina",
+  "Skřivaň",
+  "Skryje",
+  "Tytry",
+  "Velký Újezd",
+  "Všetaty"
+ ],
+ "scans": 146,
+ "scan_url": "https://ebadatelna.soapraha.cz/d/10926/{scan}",
+ "district": "Rakovník",
+ "language": "latina",
+ "points": [
+  {
+   "scan": 11,
+   "type": "N",
+   "year": 1742,
+   "months": "X–XII",
+   "page": "pag. 16–17",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 12,
+   "type": "N",
+   "year": 1742,
+   "year_to": 1743,
+   "months": "XII 1742 – III 1743",
+   "page": "pag. 18–19",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 13,
+   "type": "N",
+   "year": 1743,
+   "months": "III–V",
+   "page": "pag. 20–21",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 14,
+   "type": "N",
+   "year": 1743,
+   "months": "V–X",
+   "page": "pag. 22–23",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 15,
+   "type": "N",
+   "year": 1743,
+   "year_to": 1744,
+   "months": "X 1743 – II 1744",
+   "page": "pag. 24–25",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 16,
+   "type": "N",
+   "year": 1744,
+   "months": "II–IV",
+   "page": "pag. 26–27",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 17,
+   "type": "N",
+   "year": 1744,
+   "months": "IV–V",
+   "page": "pag. 28–29",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-12"
+  }
+ ]
+}

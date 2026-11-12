@@ -1,0 +1,54 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "10944",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/10944",
+ "signature": "Panoší Újezd 21",
+ "parish": "Panoší Újezd",
+ "records": {
+  "Z": "1784–1860"
+ },
+ "places": [
+  "Malinová"
+ ],
+ "scans": 33,
+ "scan_url": "https://ebadatelna.soapraha.cz/d/10944/{scan}",
+ "district": "Rakovník",
+ "language": "latina",
+ "points": [
+  {
+   "scan": 12,
+   "type": "Z",
+   "year": 1813,
+   "year_to": 1815,
+   "page": "pag. 18–19",
+   "place": "Malinová",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 13,
+   "type": "Z",
+   "year": 1816,
+   "year_to": 1819,
+   "page": "pag. 20–21",
+   "place": "Malinová",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 14,
+   "type": "Z",
+   "year": 1819,
+   "year_to": 1822,
+   "page": "pag. 22–23",
+   "place": "Malinová",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-12"
+  }
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "8227",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/8227",
+ "signature": "Lužná 05",
+ "parish": "Lužná",
+ "records": {
+  "Z": "1857–1879",
+  "iZ": "1857–1879"
+ },
+ "places": [
+  "Lužná"
+ ],
+ "scans": 90,
+ "scan_url": "https://ebadatelna.soapraha.cz/d/8227/{scan}",
+ "district": "Rakovník",
+ "language": "čeština",
+ "points": [
+  {
+   "scan": 6,
+   "type": "Z",
+   "year": 1860,
+   "months": "I–III",
+   "page": "fol. 4",
+   "note": "snímek = folio + 2",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 8,
+   "type": "Z",
+   "year": 1861,
+   "months": "I–VI",
+   "page": "fol. 6",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 81,
+   "type": "iZ",
+   "year": 1858,
+   "year_to": 1878,
+   "letters": "G–H",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 86,
+   "type": "iZ",
+   "year": 1858,
+   "year_to": 1878,
+   "letters": "S–T",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-12"
+  }
+ ]
+}
