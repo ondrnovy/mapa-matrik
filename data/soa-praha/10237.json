@@ -1,0 +1,66 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "10237",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/10237",
+ "signature": "Tachlovice 27",
+ "parish": "Tachlovice",
+ "records": {
+  "N": "1818–1856",
+  "O": "1819–1891",
+  "Z": "1818–1880"
+ },
+ "places": [
+  "Vysoký Újezd"
+ ],
+ "place_codes": {
+  "Vysoký Újezd": 188441
+ },
+ "district": "Beroun",
+ "language": "čeština",
+ "order": "chronological",
+ "scans": 336,
+ "scan_url": "https://ebadatelna.soapraha.cz/d/10237/{scan}",
+ "points": [
+  {
+   "scan": 107,
+   "type": "N",
+   "year": 1848,
+   "months": "III–IV",
+   "page": "fol. 101",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 108,
+   "type": "N",
+   "year": 1848,
+   "months": "VI–VIII",
+   "page": "fol. 105 (přepsáno ze 104)",
+   "note": "rejstřík Tachlovice 36 uvádí nová (opravená) čísla listů",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 109,
+   "type": "N",
+   "year": 1848,
+   "months": "IX–XI",
+   "page": "fol. 106 (přepsáno ze 105)",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 111,
+   "type": "N",
+   "year": 1849,
+   "months": "II–V",
+   "page": "fol. 108 (přepsáno ze 107)",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-12"
+  }
+ ]
+}

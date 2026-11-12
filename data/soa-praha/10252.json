@@ -1,0 +1,64 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "10252",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/10252",
+ "signature": "Tachlovice 36",
+ "parish": "Tachlovice",
+ "records": {
+  "iN": "1779–1880"
+ },
+ "places": [
+  "Dobříč",
+  "Kuchař",
+  "Mezouň",
+  "Nučice",
+  "Tachlovice",
+  "Trněný Újezd",
+  "Vysoký Újezd"
+ ],
+ "place_codes": {
+  "Dobříč": 27766,
+  "Nučice": 108065,
+  "Tachlovice": 164828
+ },
+ "district": "Praha-západ",
+ "language": "latina, němčina, čeština",
+ "order": "by_village",
+ "scans": 176,
+ "scan_url": "https://ebadatelna.soapraha.cz/d/10252/{scan}",
+ "points": [
+  {
+   "scan": 90,
+   "type": "iN",
+   "page": "str. 94–95",
+   "place": "Vysoký Újezd",
+   "letters": "S",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 91,
+   "type": "iN",
+   "page": "str. 95–96",
+   "place": "Vysoký Újezd",
+   "letters": "S–T",
+   "note": "rejstřík po vsích: jméno, datum, folio; od 1857 číslování nové knihy",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 93,
+   "type": "iN",
+   "page": "str. 98",
+   "place": "Vysoký Újezd",
+   "letters": "V (W)",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-12"
+  }
+ ]
+}
