@@ -1,0 +1,73 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "10238",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/10238",
+ "signature": "Tachlovice 28",
+ "parish": "Tachlovice",
+ "records": {
+  "N": "1857–1882"
+ },
+ "places": [
+  "Vysoký Újezd"
+ ],
+ "place_codes": {
+  "Vysoký Újezd": 188441
+ },
+ "district": "Beroun",
+ "language": "čeština",
+ "order": "chronological",
+ "scans": 102,
+ "scan_url": "https://ebadatelna.soapraha.cz/d/10238/{scan}",
+ "points": [
+  {
+   "scan": 79,
+   "type": "N",
+   "year": 1878,
+   "year_to": 1879,
+   "months": "XI 1878 – I 1879",
+   "page": "fol. 75",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 80,
+   "type": "N",
+   "year": 1879,
+   "months": "I–IV",
+   "page": "fol. 76",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 84,
+   "type": "N",
+   "year": 1879,
+   "months": "XI",
+   "page": "fol. 80",
+   "note": "poslední zápis roku 13. XI.",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 85,
+   "type": "N",
+   "year": 1880,
+   "months": "I",
+   "page": "fol. 81",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 90,
+   "type": "N",
+   "year": 1880,
+   "months": "X–XI",
+   "page": "fol. 85",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-12"
+  }
+ ]
+}
