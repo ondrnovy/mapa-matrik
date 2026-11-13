@@ -1,0 +1,70 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "radnice-ro-03",
+ "url": "https://www.portafontium.eu/register/soap-pn/radnice-ro-03",
+ "signature": "Radnice (RO) 03",
+ "parish": "Radnice",
+ "records": {
+  "N": "1745–1821",
+  "O": "1773–1820",
+  "Z": "1773–1821"
+ },
+ "order": "mixed",
+ "scans": 259,
+ "language": "latina",
+ "places": [
+  "Radnice",
+  "Bezděkov",
+  "Březina",
+  "Bujesily",
+  "Přívětice",
+  "Újezd u Svatého Kříže",
+  "Vranov"
+ ],
+ "place_codes": {
+  "Radnice": 138100,
+  "Bezděkov": 136344,
+  "Březina": 14061,
+  "Bujesily": 15725,
+  "Přívětice": 136352,
+  "Újezd u Svatého Kříže": 138126
+ },
+ "points": [
+  {
+   "scan": 181,
+   "type": "N",
+   "year": 1770,
+   "year_to": 1771,
+   "months": "XII 1770 – I 1771",
+   "page": "350–351",
+   "note": "celá farnost; od 1771 tabulka se sloupcem Locus",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 187,
+   "type": "N",
+   "year": 1771,
+   "year_to": 1772,
+   "months": "XII 1771 – I 1772",
+   "page": "364–365",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 191,
+   "type": "N",
+   "year": 1772,
+   "months": "IX–XII",
+   "page": "370–371",
+   "note": "celá farnost, konec oddílu 1745–1772",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-13"
+  }
+ ]
+}
