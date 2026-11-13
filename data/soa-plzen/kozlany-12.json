@@ -25,6 +25,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-11"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-13"
   }
  ],
  "points": [
@@ -34,6 +38,38 @@
    "year": 1784,
    "page": "1",
    "note": "začátek knihy oddaných",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 8,
+   "type": "O",
+   "year": 1789,
+   "place": "Kožlany",
+   "note": "česky, tištěný formulář „Knjha Wodawagjcých“, dvojstrana na snímek",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 12,
+   "type": "O",
+   "year": 1793,
+   "year_to": 1794,
+   "place": "Kožlany",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 16,
+   "type": "O",
+   "year": 1796,
+   "year_to": 1797,
+   "place": "Kožlany",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 19,
+   "type": "O",
+   "year": 1800,
+   "place": "Kožlany",
+   "note": "poslední strana Kožlan; dál ostatní vsi (Milíčov aj.)",
    "by": "ondrnovy"
   }
  ],
