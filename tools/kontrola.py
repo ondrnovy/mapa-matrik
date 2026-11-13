@@ -3,7 +3,7 @@ import pathlib
 import sys
 
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
-from mapa import KINDS, POINT_KEYS, TYPES, VOLUME_KEYS, kind_of, load, norm, ruian, years
+from mapa import ARCHIVE_ALIASES, KINDS, POINT_KEYS, TYPES, VOLUME_KEYS, kind_of, load, norm, ruian, years
 
 REQUIRED = ["schema", "archive", "portal", "portal_id", "url", "signature", "parish", "points", "sources"]
 ORDERS = {"chronological", "by_village", "by_village_bride", "mixed"}
@@ -20,6 +20,8 @@ def check(path, vol):
         errors.append("schema musí být 1")
     if path.stem != str(vol.get("portal_id")):
         errors.append(f"název souboru {path.stem} ≠ portal_id {vol.get('portal_id')}")
+    if vol.get("archive") in ARCHIVE_ALIASES:
+        errors.append(f"archive {vol['archive']} – v mapě se píše {ARCHIVE_ALIASES[vol['archive']]} (složka data/{ARCHIVE_ALIASES[vol['archive']]}/)")
     if path.parent.name != vol.get("archive"):
         errors.append(f"složka {path.parent.name} ≠ archive {vol.get('archive')}")
     vkind = kind_of(vol)

@@ -13,6 +13,7 @@ const DRUHY = new Set(["N", "O", "Z", "iN", "iO", "iZ", "title", "blank"]);
 const LHUTA = { N: 100, O: 75, Z: 75 };
 const ID = /^[a-z0-9][a-z0-9-]{0,80}$/;
 const TEXT = /^[^\t\r\n]{0,600}$/;
+const ROZSAH = /^(\d{4})(?:\s*[–-]\s*(\d{4}))?$/;
 
 export class Chyba extends Error {
   constructor(kod, zprava) { super(zprava); this.kod = kod; }
@@ -28,6 +29,22 @@ function cislo(v, pole, min, max) {
   if (v === undefined || v === null || v === "") return undefined;
   if (!Number.isInteger(v) || v < min || v > max) throw new Chyba(400, `pole ${pole}: celé číslo ${min}–${max}`);
   return v;
+}
+
+// Rozsah let „1900–1905“ (nebo jeden rok) → [od, do]; špatný tvar je chyba.
+function rozsah(v, pole, letos) {
+  const m = String(v ?? "").match(ROZSAH);
+  if (!m) throw new Chyba(400, `pole ${pole}: rok nebo rozsah let, např. 1900–1905`);
+  const od = Number(m[1]), doRoku = Number(m[2] || m[1]);
+  if (od < 1500 || doRoku > letos || od > doRoku) throw new Chyba(400, `pole ${pole}: roky 1500–${letos}, od ≤ do`);
+  return [od, doRoku];
+}
+
+// Rozšíří records[typ] knihy o roky (min a max ze starého rozsahu a nových roků).
+export function rozsirRoky(records, typ, roky) {
+  const vse = [...String(records[typ] || "").matchAll(/\d{4}/g)].map(m => Number(m[0])).concat(roky);
+  const a = Math.min(...vse), b = Math.max(...vse);
+  records[typ] = a === b ? String(a) : `${a}–${b}`;
 }
 
 // Bod do mapy: kniha (archiv + id + popis pro novou knihu) a jeden orientační bod. Jména osob v bodech nejsou (zásada mapy).
@@ -49,6 +66,15 @@ export function overBod(b, letos) {
     url: text(b.url, "url", 300),
     scans: cislo(b.scans, "scans", 1, 100000),
   };
+  // records: rozsah let knihy z katalogu archivu ({"N": "1900–1905"}), aby kniha byla v mapě i pro roky bez bodů
+  if (b.records !== undefined && b.records !== null) {
+    if (typeof b.records !== "object" || Array.isArray(b.records)) throw new Chyba(400, "records: objekt {\"N\": \"1900–1905\"}");
+    kniha.records = {};
+    for (const [typ, v] of Object.entries(b.records)) {
+      if (!["N", "O", "Z"].includes(typ)) throw new Chyba(400, `records: druh ${typ} neznámý (N, O, Z)`);
+      kniha.records[typ] = rozsah(v, `records.${typ}`, letos);
+    }
+  }
   if (kniha.url && !/^https:\/\/(www\.portafontium\.eu|ebadatelna\.soapraha\.cz)\//.test(kniha.url)) throw new Chyba(400, "url knihy musí vést na portál archivu");
   return { archive: b.archive, portal_id: String(b.portal_id), bod: p, kniha };
 }
@@ -84,8 +110,9 @@ export function overPrispevek(data, letos = new Date().getUTCFullYear()) {
   const body = Array.isArray(data.body) ? data.body : [];
   const zapisy = Array.isArray(data.zapisy) ? data.zapisy : [];
   if (!body.length && !zapisy.length) throw new Chyba(400, "prázdný příspěvek");
+  const nastroj = text(data.nastroj, "nastroj", 80);
   if (body.length > MAX_BODU || zapisy.length > MAX_ZAPISU) throw new Chyba(413, `nejvýš ${MAX_BODU} bodů a ${MAX_ZAPISU} zápisů najednou`);
-  return { body: body.map(b => overBod(b, letos)), zapisy: zapisy.map(z => overZapis(z, letos)) };
+  return { body: body.map(b => overBod(b, letos)), zapisy: zapisy.map(z => overZapis(z, letos)), nastroj };
 }
 
 // ---------- úprava dat (stejně jako tools/sdileni.py ve skillu rodokmen) ----------
@@ -98,11 +125,7 @@ export function pridejBody(vol, body, dnes) {
     if (vol.points.some(stejny)) continue;
     vol.points.push(p);
     pridano++;
-    if (["N", "O", "Z"].includes(p.type) && p.year) {
-      const roky = [...String(vol.records[p.type] || "").matchAll(/\d{4}/g)].map(m => Number(m[0])).concat(p.year);
-      const a = Math.min(...roky), b = Math.max(...roky);
-      vol.records[p.type] = a === b ? String(a) : `${a}–${b}`;
-    }
+    if (["N", "O", "Z"].includes(p.type) && p.year) rozsirRoky(vol.records, p.type, [p.year]);
   }
   vol.points.sort((a, b) => a.scan - b.scan);
   if (pridano && !vol.sources.some(s => s.by === "schranka" && s.date === dnes)) vol.sources.push({ by: "schranka", date: dnes });
@@ -184,14 +207,15 @@ async function commit(gh, repo, zakladSha, soubory, zprava, vetev) {
   await gh("POST", `/repos/${repo}/git/refs`, { ref: `refs/heads/${vetev}`, sha: c.sha });
 }
 
-export async function doMapy(gh, env, body, vetev, dnes) {
+export async function doMapy(gh, env, body, vetev, dnes, nastroj) {
   const repo = env.REPO_MAPA;
   const main = await gh("GET", `/repos/${repo}/git/ref/heads/main`);
   const podleKnihy = new Map();
   for (const b of body) {
     const k = `${b.archive}/${b.portal_id}`;
-    if (!podleKnihy.has(k)) podleKnihy.set(k, { ...b, body: [] });
+    if (!podleKnihy.has(k)) podleKnihy.set(k, { ...b, body: [], records: {} });
     podleKnihy.get(k).body.push(b.bod);
+    for (const [typ, roky] of Object.entries(b.kniha.records || {})) (podleKnihy.get(k).records[typ] ||= []).push(...roky);
   }
   const soubory = {};
   let pridano = 0;
@@ -202,18 +226,19 @@ export async function doMapy(gh, env, body, vetev, dnes) {
     vol.sources ||= [];
     vol.records ||= {};
     const n = pridejBody(vol, kn.body, dnes);
+    for (const [typ, roky] of Object.entries(kn.records)) rozsirRoky(vol.records, typ, roky);
     if (n) { soubory[cesta] = JSON.stringify(vol, null, 1) + "\n"; pridano += n; }
   }
   if (!pridano) return null;
   await commit(gh, repo, main.object.sha, soubory, `Body ze schránky: ${pridano}`, vetev);
   const pr = await gh("POST", `/repos/${repo}/pulls`, {
     title: `Body ze schránky: ${pridano}`, head: vetev, base: "main",
-    body: `Orientační body poslané sběrnou schránkou (bez účtu GitHub, skill rodokmen). Knih: ${Object.keys(soubory).length}.`,
+    body: `Orientační body poslané sběrnou schránkou (bez účtu GitHub, nástroj: ${nastroj || "neuveden"}). Knih: ${Object.keys(soubory).length}.`,
   });
   return pr.html_url;
 }
 
-export async function doIndexu(gh, env, zapisy, vetev) {
+export async function doIndexu(gh, env, zapisy, vetev, nastroj) {
   const fork = env.FORK_INDEXU, upstream = env.REPO_INDEXU;
   await gh("POST", `/repos/${fork}/merge-upstream`, { branch: "main" });
   const main = await gh("GET", `/repos/${fork}/git/ref/heads/main`);
@@ -235,7 +260,7 @@ export async function doIndexu(gh, env, zapisy, vetev) {
   const pr = await gh("POST", `/repos/${upstream}/pulls`, {
     title: `Zápisy z rodokmenu (schránka Mapy matrik): ${pridano} zápisů z ${podleKnihy.size} knih`,
     head: `${fork.split("/")[0]}:${vetev}`, base: "main",
-    body: `Zápisy přečtené při práci na rodokmenu (skill rodokmen) od uživatele bez účtu GitHub, poslané sběrnou schránkou ` +
+    body: `Zápisy přečtené při práci na rodokmenu (nástroj: ${nastroj || "neuveden"}) od uživatele bez účtu GitHub, poslané sběrnou schránkou ` +
       `Mapy matrik (https://github.com/ondrnovy/mapa-matrik/tree/main/schranka). Kdo a čím četl, je u řádků ve sloupci \`cetl\`. ` +
       `Schránka hlídá formát a lhůty; kontrola indexu běží v tomto PR.\n\n- [x] přidávám jen nové řádky, cizí jsem neměnil(a)\n` +
       `- [x] žádné zápisy mladší než 100 let (narození) / 75 let (sňatky, úmrtí)\n- [x] data pod CC BY 4.0 (souhlas dal přispěvatel ve skillu)`,
@@ -279,8 +304,8 @@ export default {
       const gh = github(env.GITHUB_TOKEN, fetchFn);
       const vetev = `schranka-${ted.toISOString().replace(/[-:T]/g, "").slice(0, 14)}-${crypto.randomUUID().slice(0, 6)}`;
       const vysledek = {
-        mapa: prispevek.body.length ? await doMapy(gh, env, prispevek.body, vetev, den) : null,
-        index: prispevek.zapisy.length ? await doIndexu(gh, env, prispevek.zapisy, vetev) : null,
+        mapa: prispevek.body.length ? await doMapy(gh, env, prispevek.body, vetev, den, prispevek.nastroj) : null,
+        index: prispevek.zapisy.length ? await doIndexu(gh, env, prispevek.zapisy, vetev, prispevek.nastroj) : null,
       };
       return json(vysledek);
     } catch (e) {

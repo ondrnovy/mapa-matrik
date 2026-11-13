@@ -98,6 +98,15 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 247,
+   "type": "Z",
+   "year": 1819,
+   "months": "V–XII",
+   "page": "5",
+   "place": "Vysoký Újezd",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 277,
    "type": "Z",
    "year": 1848,
@@ -120,10 +129,243 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 283,
+   "type": "Z",
+   "year": 1853,
+   "year_to": 1854,
+   "months": "IV 1853 – III 1854",
+   "place": "Vysoký Újezd",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 284,
+   "type": "Z",
+   "year": 1854,
+   "months": "III–IV",
+   "place": "Vysoký Újezd",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 285,
+   "type": "Z",
+   "year": 1854,
+   "months": "V–XII",
+   "place": "Vysoký Újezd",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 286,
+   "type": "Z",
+   "year": 1855,
+   "months": "III–VIII",
+   "place": "Vysoký Újezd",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 287,
+   "type": "Z",
+   "year": 1855,
+   "year_to": 1856,
+   "months": "IX 1855 – VII 1856",
+   "place": "Vysoký Újezd",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 288,
+   "type": "Z",
+   "year": 1857,
+   "months": "II–XII",
+   "place": "Vysoký Újezd",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 289,
+   "type": "Z",
+   "year": 1858,
+   "months": "I–II",
+   "place": "Vysoký Újezd",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 290,
    "type": "Z",
    "year": 1858,
    "page": "fol. 47v–48",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 291,
+   "type": "Z",
+   "year": 1858,
+   "year_to": 1859,
+   "months": "XI 1858 – III 1859",
+   "place": "Vysoký Újezd",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 292,
+   "type": "Z",
+   "year": 1859,
+   "months": "III–V",
+   "place": "Vysoký Újezd",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 293,
+   "type": "Z",
+   "year": 1859,
+   "months": "V–XII",
+   "place": "Vysoký Újezd",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 294,
+   "type": "Z",
+   "year": 1860,
+   "months": "I–II",
+   "place": "Vysoký Újezd",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 295,
+   "type": "Z",
+   "year": 1860,
+   "months": "IV–V",
+   "place": "Vysoký Újezd",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 296,
+   "type": "Z",
+   "year": 1860,
+   "year_to": 1861,
+   "months": "IX 1860 – III 1861",
+   "place": "Vysoký Újezd",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 297,
+   "type": "Z",
+   "year": 1861,
+   "months": "III–X",
+   "place": "Vysoký Újezd",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 298,
+   "type": "Z",
+   "year": 1861,
+   "year_to": 1862,
+   "months": "X 1861 – IV 1862",
+   "place": "Vysoký Újezd",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 299,
+   "type": "Z",
+   "year": 1862,
+   "months": "VI–XII",
+   "place": "Vysoký Újezd",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 300,
+   "type": "Z",
+   "year": 1863,
+   "months": "I–IV",
+   "place": "Vysoký Újezd",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 301,
+   "type": "Z",
+   "year": 1863,
+   "months": "IV–XII",
+   "place": "Vysoký Újezd",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 302,
+   "type": "Z",
+   "year": 1864,
+   "months": "II–VI",
+   "place": "Vysoký Újezd",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 303,
+   "type": "Z",
+   "year": 1864,
+   "year_to": 1865,
+   "months": "VI 1864 – I 1865",
+   "place": "Vysoký Újezd",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 304,
+   "type": "Z",
+   "year": 1865,
+   "months": "III–V",
+   "place": "Vysoký Újezd",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 305,
+   "type": "Z",
+   "year": 1865,
+   "months": "VI–XII",
+   "place": "Vysoký Újezd",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 306,
+   "type": "Z",
+   "year": 1865,
+   "year_to": 1866,
+   "months": "XII 1865 – V 1866",
+   "place": "Vysoký Újezd",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 307,
+   "type": "Z",
+   "year": 1866,
+   "months": "VI–X",
+   "place": "Vysoký Újezd",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 308,
+   "type": "Z",
+   "year": 1866,
+   "year_to": 1867,
+   "months": "XI 1866 – II 1867",
+   "place": "Vysoký Újezd",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 309,
+   "type": "Z",
+   "year": 1867,
+   "year_to": 1868,
+   "months": "IV 1867 – II 1868",
+   "place": "Vysoký Újezd",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 310,
+   "type": "Z",
+   "year": 1868,
+   "months": "VI–XII",
+   "place": "Vysoký Újezd",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 311,
+   "type": "Z",
+   "year": 1869,
+   "months": "VII–XII",
+   "place": "Vysoký Újezd",
    "by": "ondrnovy"
   },
   {
@@ -132,6 +374,15 @@
    "year": 1875,
    "year_to": 1876,
    "page": "fol. 82v–83",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 329,
+   "type": "Z",
+   "year": 1878,
+   "months": "I–III",
+   "place": "Vysoký Újezd",
+   "note": "konec knihy zemřelých",
    "by": "ondrnovy"
   }
  ],

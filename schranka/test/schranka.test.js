@@ -37,11 +37,12 @@ test("řádky indexu: hlavička, bez duplicit", () => {
 });
 
 function falesnyGitHub() {
-  const volani = [];
+  const volani = [], tela = [];
   const soubory = { "ondrnovy/mapa-matrik:data/soa-plzen/kozlany-22.json": JSON.stringify({ schema: 1, archive: "soa-plzen", points: [], records: {}, sources: [] }) };
   const fetchFn = async (url, opt) => {
     const cesta = url.replace("https://api.github.com", "");
     volani.push(`${opt.method} ${cesta.split("?")[0]}`);
+    if (opt.body) tela.push(JSON.parse(opt.body));
     const ok = d => new Response(JSON.stringify(d), { status: 200 });
     let m;
     if ((m = cesta.match(/^\/repos\/([^/]+\/[^/]+)\/contents\/([^?]+)/))) {
@@ -56,7 +57,7 @@ function falesnyGitHub() {
     if (cesta.endsWith("/pulls")) return ok({ html_url: `https://github.com${cesta.replace("/repos", "").replace("/pulls", "/pull/1")}` });
     return new Response("?", { status: 500 });
   };
-  return { fetchFn, volani };
+  return { fetchFn, volani, tela };
 }
 
 const ENV = { GITHUB_TOKEN: "x", REPO_MAPA: "ondrnovy/mapa-matrik", REPO_INDEXU: "pe-pan/matriky-index", FORK_INDEXU: "ondrnovy/matriky-index" };
@@ -76,6 +77,26 @@ test("celý požadavek: dva PR", async () => {
 test("špatný požadavek: 400, bez volání GitHubu", async () => {
   const { fetchFn, volani } = falesnyGitHub();
   const r = await worker.fetch(new Request("https://s.example/v1/prispevek", { method: "POST", body: "{" }), ENV, {}, fetchFn);
+  assert.equal(r.status, 400);
+  assert.equal(volani.length, 0);
+});
+
+test("rozsah knihy z katalogu a nástroj v popisu PR", async () => {
+  const { fetchFn, tela } = falesnyGitHub();
+  const bod = { ...BOD, type: "N", year: 1902, records: { N: "1900–1905" } };
+  const req = new Request("https://s.example/v1/prispevek", { method: "POST", body: JSON.stringify({ nastroj: "dejiny-domu/sdileni.py", body: [bod] }) });
+  const r = await worker.fetch(req, ENV, {}, fetchFn);
+  assert.equal(r.status, 200, JSON.stringify(await r.clone().json()));
+  const strom = tela.find(t => t.tree);
+  const kniha = JSON.parse(strom.tree[0].content);
+  assert.equal(kniha.records.N, "1900–1905");
+  assert.match(tela.find(t => t.title).body, /nástroj: dejiny-domu\/sdileni\.py/);
+});
+
+test("rozsah knihy: špatný tvar je 400", async () => {
+  const { fetchFn, volani } = falesnyGitHub();
+  const bod = { ...BOD, records: { N: "1900 až 1905" } };
+  const r = await worker.fetch(new Request("https://s.example/v1/prispevek", { method: "POST", body: JSON.stringify({ body: [bod] }) }), ENV, {}, fetchFn);
   assert.equal(r.status, 400);
   assert.equal(volani.length, 0);
 });

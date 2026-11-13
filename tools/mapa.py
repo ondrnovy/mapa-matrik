@@ -10,6 +10,8 @@ POINT_KEYS = {"scan", "type", "year", "year_to", "months", "page", "place", "let
 VOLUME_KEYS = {"schema", "kind", "archive", "portal", "portal_id", "url", "scan_url", "signature", "parish", "district",
                "places", "place_codes", "aliases", "records", "years", "scans", "language", "order", "index", "points",
                "sections", "notes", "sources"}
+# názvy archivu z jiných projektů (rodokmen, matriky-index podle portálu) → zkratka mapy
+ARCHIVE_ALIASES = {"soapraha": "soa-praha", "ebadatelna": "soa-praha", "portafontium": "soa-plzen", "soaplzen": "soa-plzen"}
 WEB = "https://ondrnovy.github.io/mapa-matrik/v1"
 RUIAN = pathlib.Path(__file__).resolve().parent.parent / "ciselniky" / "ruian_casti_obci.tsv"
 _ruian = None

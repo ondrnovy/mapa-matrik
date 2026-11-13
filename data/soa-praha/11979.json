@@ -18,6 +18,15 @@
  "scan_url": "https://ebadatelna.soapraha.cz/d/11979/{scan}",
  "points": [
   {
+   "scan": 14,
+   "type": "N",
+   "year": 1735,
+   "year_to": 1736,
+   "months": "XI 1735 – IV 1736",
+   "page": "10v–11",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 19,
    "type": "N",
    "page": "fol. 15v–16",
@@ -124,6 +133,14 @@
    "year": 1751,
    "year_to": 1752,
    "page": "fol. 126v–127",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 127,
+   "type": "O",
+   "year": 1755,
+   "year_to": 1756,
+   "page": "119v–120",
    "by": "ondrnovy"
   },
   {

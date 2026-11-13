@@ -27,6 +27,11 @@ takže nesmysl nebo spam skončí jako zamítnutý PR.
              "obec": "Kožlany 303", "osoby": "zemřelý: …", "ostatni": "…", "jistota": "vysoká", "cetl": "claude-opus-5-5/high 2026-11-11 (z rodokmenu)"}]}
 ```
 
+Nepovinně:
+- `"nastroj": "rodokmen/sdileni.py"` – čím byl příspěvek poslán (do 80 znaků); objeví se v popisu PR;
+- u bodu `"records": {"N": "1900–1905"}` – rozsah let knihy z katalogu archivu (druhy N, O, Z). Kniha se pak v mapě
+  najde pro celý rozsah, ne jen pro roky poslaných bodů; existující rozsah se jen rozšíří.
+
 Odpověď `{"mapa": "<odkaz na PR>|null", "index": "<odkaz na PR>|null"}`, chyba `{"chyba": "…"}` s kódem 400/413/429.
 
 ## Nasazení (jednou)
