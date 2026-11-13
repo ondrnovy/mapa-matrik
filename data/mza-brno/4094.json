@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "4094",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/4094",
+ "signature": "Neslovice 1418",
+ "parish": "Neslovice",
+ "records": {
+  "O": "1784–1855"
+ },
+ "points": [
+  {
+   "scan": 47,
+   "type": "O",
+   "year": 1800,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-13"
+  }
+ ]
+}

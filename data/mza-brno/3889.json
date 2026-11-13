@@ -1,0 +1,45 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "3889",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/3889",
+ "signature": "Dolní Kounice",
+ "parish": "Dolní Kounice",
+ "records": {
+  "N": "1759–1784",
+  "O": "1759–1784"
+ },
+ "points": [
+  {
+   "scan": 6,
+   "type": "N",
+   "year": 1759,
+   "by": "schranka"
+  },
+  {
+   "scan": 26,
+   "type": "N",
+   "year": 1763,
+   "by": "schranka"
+  },
+  {
+   "scan": 75,
+   "type": "N",
+   "year": 1769,
+   "by": "schranka"
+  },
+  {
+   "scan": 128,
+   "type": "N",
+   "year": 1774,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-13"
+  }
+ ]
+}
