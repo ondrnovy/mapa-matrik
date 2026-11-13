@@ -11,17 +11,31 @@
  },
  "points": [
   {
-   "scan": 31,
+   "scan": 317,
    "type": "Z",
    "year": 1897,
-   "year_to": 1907,
+   "months": "VIII",
    "by": "pe-pan"
   },
   {
-   "scan": 32,
+   "scan": 319,
+   "type": "Z",
+   "year": 1907,
+   "months": "X",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 320,
    "type": "Z",
    "year": 1910,
-   "year_to": 1920,
+   "months": "X",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 321,
+   "type": "Z",
+   "year": 1920,
+   "months": "VI–VIII",
    "by": "pe-pan"
   }
  ],

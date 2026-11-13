@@ -11,17 +11,31 @@
  },
  "points": [
   {
-   "scan": 9,
+   "scan": 90,
    "type": "Z",
    "year": 1834,
-   "year_to": 1869,
+   "months": "XII",
    "by": "pe-pan"
   },
   {
-   "scan": 10,
+   "scan": 97,
+   "type": "Z",
+   "year": 1869,
+   "months": "III",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 103,
    "type": "Z",
    "year": 1856,
-   "year_to": 1858,
+   "months": "III",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 104,
+   "type": "Z",
+   "year": 1858,
+   "months": "XII",
    "by": "pe-pan"
   }
  ],
