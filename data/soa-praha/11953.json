@@ -1,0 +1,41 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "11953",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/11953",
+ "signature": "Slabce 30",
+ "parish": "Slabce",
+ "records": {
+  "Z": "1854–1884"
+ },
+ "district": "Rakovník",
+ "language": "cs",
+ "order": "chronological",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/11953/{scan}",
+ "points": [
+  {
+   "scan": 3,
+   "type": "Z",
+   "year": 1854,
+   "months": "IV–VI",
+   "page": "2",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 4,
+   "type": "Z",
+   "year": 1854,
+   "months": "VI–VII",
+   "page": "3",
+   "note": "celá fara chronologicky, jedna strana přes dvojstranu, snímek = strana + 1",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-13"
+  }
+ ]
+}

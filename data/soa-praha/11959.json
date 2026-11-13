@@ -25,6 +25,39 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 39,
+   "type": "iZ",
+   "year": 1784,
+   "year_to": 1821,
+   "letters": "H (konec), J, K",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 40,
+   "type": "iZ",
+   "year": 1784,
+   "year_to": 1821,
+   "letters": "K (pokr.), L",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 42,
+   "type": "iZ",
+   "year": 1784,
+   "year_to": 1821,
+   "letters": "N–P",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 44,
+   "type": "iZ",
+   "year": 1784,
+   "year_to": 1821,
+   "letters": "R–Sch",
+   "note": "„Nomina mortuorum“, odkazy na strany knih jednotlivých vsí",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 51,
    "type": "iO",
    "year": 1784,
@@ -38,6 +71,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-10"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-13"
   }
  ]
 }

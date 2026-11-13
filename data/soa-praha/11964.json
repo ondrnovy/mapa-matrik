@@ -41,6 +41,16 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 20,
+   "type": "Z",
+   "year": 1789,
+   "year_to": 1799,
+   "page": "2–3",
+   "place": "Svinařov",
+   "note": "negativ mikrofilmu, tištěný formulář „Sterbregister“",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 24,
    "type": "Z",
    "year": 1817,
@@ -62,6 +72,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-10"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-13"
   }
  ]
 }

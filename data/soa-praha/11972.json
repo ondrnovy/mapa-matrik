@@ -46,6 +46,16 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 90,
+   "type": "N",
+   "year": 1852,
+   "year_to": 1853,
+   "months": "XI 1852 – I 1853",
+   "page": "88",
+   "place": "Modřejovice",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 94,
    "type": "O",
    "year": 1821,
@@ -62,12 +72,64 @@
    "page": "17",
    "note": "oddíl O; dvoustrana = jedna strana knihy (č. vlevo nahoře)",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 130,
+   "type": "Z",
+   "year": 1836,
+   "year_to": 1837,
+   "page": "14",
+   "place": "Modřejovice",
+   "note": "jedna strana přes dvojstranu, snímek ≈ strana + 116",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 137,
+   "type": "Z",
+   "year": 1844,
+   "year_to": 1845,
+   "page": "21",
+   "place": "Modřejovice",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 139,
+   "type": "Z",
+   "year": 1846,
+   "year_to": 1847,
+   "page": "23",
+   "place": "Modřejovice",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 141,
+   "type": "Z",
+   "year": 1849,
+   "year_to": 1850,
+   "months": "XII 1849 – VI 1850",
+   "page": "25",
+   "place": "Modřejovice",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 146,
+   "type": "Z",
+   "year": 1853,
+   "months": "IV–VIII",
+   "page": "30",
+   "place": "Modřejovice",
+   "note": "poslední strana Z (kniha končí 1853)",
+   "by": "ondrnovy"
   }
  ],
  "sources": [
   {
    "by": "ondrnovy",
    "date": "2026-11-10"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-13"
   }
  ]
 }

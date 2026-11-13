@@ -166,12 +166,41 @@
    "letters": "A",
    "note": "začátek rejstříku zemřelých",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 94,
+   "type": "iZ",
+   "year": 1828,
+   "year_to": 1841,
+   "letters": "K",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 95,
+   "type": "iZ",
+   "year": 1842,
+   "year_to": 1850,
+   "letters": "K",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 96,
+   "type": "iZ",
+   "year": 1850,
+   "year_to": 1857,
+   "letters": "K",
+   "note": "rejstřík Z podle písmen, uvnitř chronologicky; sloupce ves, strana, měsíc, den, rok",
+   "by": "ondrnovy"
   }
  ],
  "sources": [
   {
    "by": "ondrnovy",
    "date": "2026-11-10"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-13"
   }
  ]
 }
