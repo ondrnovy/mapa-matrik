@@ -1,0 +1,48 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "radnice-ro-02",
+ "url": "https://www.portafontium.eu/register/soap-pn/radnice-ro-02",
+ "signature": "Radnice (RO) 02",
+ "parish": "Radnice",
+ "records": {
+  "N": "1735–1744",
+  "O": "1721–1744",
+  "Z": "1725–1744"
+ },
+ "order": "chronological",
+ "scans": 209,
+ "language": "latina",
+ "places": [
+  "Radnice",
+  "Bezděkov",
+  "Březina",
+  "Bujesily",
+  "Němčovice"
+ ],
+ "place_codes": {
+  "Radnice": 138100,
+  "Bezděkov": 136344,
+  "Březina": 14061,
+  "Bujesily": 15725,
+  "Němčovice": 103080
+ },
+ "points": [
+  {
+   "scan": 40,
+   "type": "N",
+   "year": 1740,
+   "year_to": 1741,
+   "months": "XI 1740 – I 1741",
+   "note": "celá farnost; oddíly N sn. 3–71, O 72–133, Z 134–202",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-13"
+  }
+ ]
+}
