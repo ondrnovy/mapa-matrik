@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "060e88a7-18e2-419a-8e49-b958f7b76396",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/060e88a7-18e2-419a-8e49-b958f7b76396",
+ "signature": "114-7333",
+ "parish": "Nové Město nad Metují",
+ "records": {
+  "O": "1642–1905"
+ },
+ "points": [
+  {
+   "scan": 93,
+   "type": "O",
+   "year": 1815,
+   "year_to": 1842,
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

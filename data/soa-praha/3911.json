@@ -1,0 +1,29 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "3911",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/3911",
+ "signature": "Beroun 09",
+ "parish": "Beroun",
+ "records": {
+  "N": "1771–1784",
+  "O": "1771–1784",
+  "Z": "1771–1784"
+ },
+ "points": [
+  {
+   "scan": 84,
+   "type": "Z",
+   "year": 1772,
+   "months": "IV",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

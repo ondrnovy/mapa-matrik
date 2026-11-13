@@ -1,0 +1,55 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "7410",
+ "url": "https://digi.ceskearchivy.cz/7410",
+ "signature": "Staré Sedlo Z 1794–1854",
+ "parish": "Staré Sedlo",
+ "records": {
+  "Z": "1794–1854"
+ },
+ "points": [
+  {
+   "scan": 4,
+   "type": "Z",
+   "year": 1805,
+   "year_to": 1838,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 11,
+   "type": "Z",
+   "year": 1807,
+   "year_to": 1828,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 13,
+   "type": "Z",
+   "year": 1828,
+   "year_to": 1831,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 14,
+   "type": "Z",
+   "year": 1831,
+   "year_to": 1834,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 15,
+   "type": "Z",
+   "year": 1834,
+   "year_to": 1840,
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

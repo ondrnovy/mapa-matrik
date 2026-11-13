@@ -1,0 +1,58 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "kvasnovice-06",
+ "url": "https://www.portafontium.eu/register/soap-pn/kvasnovice-06",
+ "signature": "Kvášňovice 06",
+ "parish": "Kvášňovice",
+ "records": {
+  "N": "1809–1826"
+ },
+ "points": [
+  {
+   "scan": 167,
+   "type": "N",
+   "year": 1824,
+   "months": "X",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 218,
+   "type": "N",
+   "year": 1809,
+   "months": "IV",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 267,
+   "type": "N",
+   "year": 1822,
+   "months": "IV",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 269,
+   "type": "N",
+   "year": 1823,
+   "months": "VI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 272,
+   "type": "N",
+   "year": 1826,
+   "months": "V",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ],
+ "notes": [
+  "Roky v records jen podle zápisů přečtených v indexu matrik; kniha může být širší."
+ ]
+}

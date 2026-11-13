@@ -1,0 +1,30 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "velky-bor-13",
+ "url": "https://www.portafontium.eu/register/soap-pn/velky-bor-13",
+ "signature": "Velký Bor 13",
+ "parish": "Velký Bor",
+ "records": {
+  "Z": "1816"
+ },
+ "points": [
+  {
+   "scan": 3,
+   "type": "Z",
+   "year": 1816,
+   "months": "X",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ],
+ "notes": [
+  "Roky v records jen podle zápisů přečtených v indexu matrik; kniha může být širší."
+ ]
+}

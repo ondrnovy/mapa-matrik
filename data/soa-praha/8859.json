@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "8859",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/8859",
+ "signature": "matrika oddaných Zbečno",
+ "parish": "Zbečno",
+ "records": {
+  "O": "1784–1868"
+ },
+ "points": [
+  {
+   "scan": 19,
+   "type": "O",
+   "year": 1818,
+   "months": "V",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

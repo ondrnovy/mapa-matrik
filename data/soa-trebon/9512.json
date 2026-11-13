@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "9512",
+ "url": "https://digi.ceskearchivy.cz/9512",
+ "signature": "Matrika zemřelých České Budějovice – sv. Mikuláš, kniha 111B",
+ "parish": "České Budějovice",
+ "records": {
+  "Z": "1939–1949"
+ },
+ "points": [
+  {
+   "scan": 259,
+   "type": "Z",
+   "year": 1944,
+   "months": "V",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

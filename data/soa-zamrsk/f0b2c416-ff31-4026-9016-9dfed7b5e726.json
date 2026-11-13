@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "f0b2c416-ff31-4026-9016-9dfed7b5e726",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/f0b2c416-ff31-4026-9016-9dfed7b5e726",
+ "signature": "14-3863",
+ "parish": "Bystré",
+ "records": {
+  "N": "1828–1880"
+ },
+ "points": [
+  {
+   "scan": 169,
+   "type": "N",
+   "year": 1837,
+   "months": "II",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

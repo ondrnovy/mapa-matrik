@@ -1,0 +1,181 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "vrcen-04",
+ "url": "https://www.portafontium.eu/register/soap-pn/vrcen-04",
+ "signature": "Vrčeň 04",
+ "parish": "Vrčeň",
+ "records": {
+  "N": "1697–1728"
+ },
+ "points": [
+  {
+   "scan": 3,
+   "type": "N",
+   "year": 1697,
+   "months": "V–VII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 4,
+   "type": "N",
+   "year": 1697,
+   "year_to": 1698,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 5,
+   "type": "N",
+   "year": 1698,
+   "months": "III–XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 6,
+   "type": "N",
+   "year": 1698,
+   "year_to": 1699,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 7,
+   "type": "N",
+   "year": 1699,
+   "year_to": 1700,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 8,
+   "type": "N",
+   "year": 1700,
+   "months": "I–VII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 9,
+   "type": "N",
+   "year": 1700,
+   "months": "VII–XII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 10,
+   "type": "N",
+   "year": 1701,
+   "months": "I–VIII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 11,
+   "type": "N",
+   "year": 1701,
+   "year_to": 1702,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 12,
+   "type": "N",
+   "year": 1702,
+   "months": "III–VIII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 13,
+   "type": "N",
+   "year": 1702,
+   "year_to": 1703,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 14,
+   "type": "N",
+   "year": 1703,
+   "months": "I–IX",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 15,
+   "type": "N",
+   "year": 1703,
+   "year_to": 1704,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 16,
+   "type": "N",
+   "year": 1704,
+   "year_to": 1705,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 17,
+   "type": "N",
+   "year": 1705,
+   "months": "II–X",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 115,
+   "type": "N",
+   "year": 1697,
+   "year_to": 1698,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 116,
+   "type": "N",
+   "year": 1698,
+   "months": "II–X",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 117,
+   "type": "N",
+   "year": 1698,
+   "year_to": 1699,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 118,
+   "type": "N",
+   "year": 1699,
+   "year_to": 1700,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 120,
+   "type": "N",
+   "year": 1702,
+   "months": "I–IX",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 121,
+   "type": "N",
+   "year": 1702,
+   "year_to": 1703,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 122,
+   "type": "N",
+   "year": 1703,
+   "year_to": 1704,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 123,
+   "type": "N",
+   "year": 1704,
+   "year_to": 1705,
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

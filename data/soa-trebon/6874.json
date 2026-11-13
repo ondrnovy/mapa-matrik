@@ -1,0 +1,41 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "6874",
+ "url": "https://digi.ceskearchivy.cz/6874",
+ "signature": "Radomyšl O 1806–1836",
+ "parish": "Radomyšl",
+ "records": {
+  "O": "1806–1836"
+ },
+ "points": [
+  {
+   "scan": 29,
+   "type": "O",
+   "year": 1818,
+   "year_to": 1822,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 30,
+   "type": "O",
+   "year": 1823,
+   "year_to": 1828,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 32,
+   "type": "O",
+   "year": 1835,
+   "months": "II–X",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

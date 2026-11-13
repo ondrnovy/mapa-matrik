@@ -1,0 +1,30 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "kvasnovice-09",
+ "url": "https://www.portafontium.eu/register/soap-pn/kvasnovice-09",
+ "signature": "Kvášňovice 09",
+ "parish": "Kvášňovice",
+ "records": {
+  "N": "1829"
+ },
+ "points": [
+  {
+   "scan": 59,
+   "type": "N",
+   "year": 1829,
+   "months": "XII",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ],
+ "notes": [
+  "Roky v records jen podle zápisů přečtených v indexu matrik; kniha může být širší."
+ ]
+}

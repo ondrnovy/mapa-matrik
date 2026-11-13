@@ -1,0 +1,99 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "maly-bor-06",
+ "url": "https://www.portafontium.eu/register/soap-pn/maly-bor-06",
+ "signature": "Malý Bor 06",
+ "parish": "Malý Bor",
+ "records": {
+  "N": "1764–1784",
+  "O": "1764–1784",
+  "Z": "1764–1784"
+ },
+ "points": [
+  {
+   "scan": 35,
+   "type": "N",
+   "year": 1769,
+   "months": "I",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 59,
+   "type": "N",
+   "year": 1772,
+   "months": "X",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 61,
+   "type": "N",
+   "year": 1775,
+   "months": "IV",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 96,
+   "type": "O",
+   "year": 1764,
+   "months": "I–II",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 97,
+   "type": "O",
+   "year": 1764,
+   "months": "IX",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 101,
+   "type": "O",
+   "year": 1766,
+   "months": "X",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 106,
+   "type": "O",
+   "year": 1768,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 112,
+   "type": "O",
+   "year": 1772,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 132,
+   "type": "Z",
+   "year": 1764,
+   "months": "X–XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 152,
+   "type": "Z",
+   "year": 1771,
+   "months": "X",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 158,
+   "type": "Z",
+   "year": 1772,
+   "months": "VI",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

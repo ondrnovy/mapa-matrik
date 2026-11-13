@@ -167,6 +167,13 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 67,
+   "type": "N",
+   "year": 1725,
+   "months": "VII",
+   "by": "pe-pan"
+  },
+  {
    "scan": 95,
    "type": "N",
    "year": 1736,
@@ -321,6 +328,13 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 226,
+   "type": "Z",
+   "year": 1730,
+   "months": "II",
+   "by": "pe-pan"
+  },
+  {
    "scan": 250,
    "type": "Z",
    "year": 1744,
@@ -336,6 +350,10 @@
   },
   {
    "by": "ondrnovy",
+   "date": "2026-11-13"
+  },
+  {
+   "by": "matriky-index",
    "date": "2026-11-13"
   }
  ]

@@ -1,0 +1,116 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "9634f2ed-f27b-4902-b935-cc261da19e92",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/9634f2ed-f27b-4902-b935-cc261da19e92",
+ "signature": "24-5",
+ "parish": "Deštné v Orlických horách",
+ "records": {
+  "N": "1784–1837"
+ },
+ "points": [
+  {
+   "scan": 7,
+   "type": "N",
+   "year": 1785,
+   "months": "V",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 15,
+   "type": "N",
+   "year": 1788,
+   "months": "III",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 49,
+   "type": "N",
+   "year": 1799,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 64,
+   "type": "N",
+   "year": 1803,
+   "months": "VIII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 70,
+   "type": "N",
+   "year": 1806,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 71,
+   "type": "N",
+   "year": 1806,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 72,
+   "type": "N",
+   "year": 1806,
+   "months": "IX",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 77,
+   "type": "N",
+   "year": 1808,
+   "months": "II",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 79,
+   "type": "N",
+   "year": 1808,
+   "months": "VII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 82,
+   "type": "N",
+   "year": 1809,
+   "months": "X",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 83,
+   "type": "N",
+   "year": 1810,
+   "months": "I",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 86,
+   "type": "N",
+   "year": 1810,
+   "months": "XII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 88,
+   "type": "N",
+   "year": 1811,
+   "months": "VIII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 90,
+   "type": "N",
+   "year": 1811,
+   "months": "V",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

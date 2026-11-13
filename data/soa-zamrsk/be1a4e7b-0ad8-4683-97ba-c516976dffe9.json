@@ -1,0 +1,55 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "be1a4e7b-0ad8-4683-97ba-c516976dffe9",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/be1a4e7b-0ad8-4683-97ba-c516976dffe9",
+ "signature": "26-12",
+ "parish": "Dobruška",
+ "records": {
+  "Z": "1806–1843"
+ },
+ "points": [
+  {
+   "scan": 25,
+   "type": "Z",
+   "year": 1824,
+   "months": "VIII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 26,
+   "type": "Z",
+   "year": 1829,
+   "months": "I",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 31,
+   "type": "Z",
+   "year": 1840,
+   "months": "I",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 53,
+   "type": "Z",
+   "year": 1807,
+   "months": "IV–VI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 54,
+   "type": "Z",
+   "year": 1814,
+   "months": "V",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

@@ -1,0 +1,132 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "5ef280e6-0894-42c2-8196-c11657d7e741",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/5ef280e6-0894-42c2-8196-c11657d7e741",
+ "signature": "14-2764",
+ "parish": "Bystré",
+ "records": {
+  "N": "1784–1812"
+ },
+ "points": [
+  {
+   "scan": 4,
+   "type": "N",
+   "year": 1784,
+   "year_to": 1812,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 17,
+   "type": "N",
+   "year": 1784,
+   "year_to": 1812,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 22,
+   "type": "N",
+   "year": 1784,
+   "year_to": 1812,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 23,
+   "type": "N",
+   "year": 1800,
+   "year_to": 1811,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 24,
+   "type": "N",
+   "year": 1812,
+   "months": "I–II",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 25,
+   "type": "N",
+   "year": 1784,
+   "year_to": 1812,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 26,
+   "type": "N",
+   "year": 1805,
+   "year_to": 1811,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 37,
+   "type": "N",
+   "year": 1784,
+   "year_to": 1812,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 38,
+   "type": "N",
+   "year": 1794,
+   "year_to": 1811,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 39,
+   "type": "N",
+   "year": 1784,
+   "year_to": 1812,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 40,
+   "type": "N",
+   "year": 1790,
+   "year_to": 1792,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 41,
+   "type": "N",
+   "year": 1795,
+   "months": "I",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 42,
+   "type": "N",
+   "year": 1803,
+   "months": "X",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 43,
+   "type": "N",
+   "year": 1804,
+   "year_to": 1809,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 44,
+   "type": "N",
+   "year": 1810,
+   "months": "VIII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 46,
+   "type": "N",
+   "year": 1784,
+   "year_to": 1812,
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

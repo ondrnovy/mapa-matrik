@@ -1,0 +1,148 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "e28a124c-11d3-43a0-aeeb-b65047b0eb93",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/e28a124c-11d3-43a0-aeeb-b65047b0eb93",
+ "signature": "136-4",
+ "parish": "Přepychy",
+ "records": {
+  "N": "1707–1745"
+ },
+ "points": [
+  {
+   "scan": 4,
+   "type": "N",
+   "year": 1707,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 7,
+   "type": "N",
+   "year": 1707,
+   "months": "VI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 9,
+   "type": "N",
+   "year": 1707,
+   "months": "IX",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 17,
+   "type": "N",
+   "year": 1708,
+   "months": "X",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 24,
+   "type": "N",
+   "year": 1709,
+   "months": "X–XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 26,
+   "type": "N",
+   "year": 1710,
+   "months": "II",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 31,
+   "type": "N",
+   "year": 1710,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 47,
+   "type": "N",
+   "year": 1712,
+   "months": "VII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 48,
+   "type": "N",
+   "year": 1712,
+   "months": "VIII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 53,
+   "type": "N",
+   "year": 1713,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 64,
+   "type": "N",
+   "year": 1715,
+   "months": "I",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 66,
+   "type": "N",
+   "year": 1715,
+   "months": "III",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 100,
+   "type": "N",
+   "year": 1718,
+   "months": "XII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 101,
+   "type": "N",
+   "year": 1719,
+   "months": "I",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 107,
+   "type": "N",
+   "year": 1719,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 118,
+   "type": "N",
+   "year": 1721,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 119,
+   "type": "N",
+   "year": 1722,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 121,
+   "type": "N",
+   "year": 1722,
+   "months": "VI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 130,
+   "type": "N",
+   "year": 1723,
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

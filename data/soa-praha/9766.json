@@ -1,0 +1,30 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "9766",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/9766",
+ "signature": "Nezabudice 08",
+ "parish": "Nezabudice",
+ "records": {
+  "O": "1810"
+ },
+ "points": [
+  {
+   "scan": 15,
+   "type": "O",
+   "year": 1810,
+   "months": "X",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ],
+ "notes": [
+  "Roky v records jen podle zápisů přečtených v indexu matrik; kniha může být širší."
+ ]
+}

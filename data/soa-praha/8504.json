@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "8504",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/8504",
+ "signature": "Městečko 04",
+ "parish": "Městečko",
+ "records": {
+  "N": "1784–1849"
+ },
+ "points": [
+  {
+   "scan": 8,
+   "type": "N",
+   "year": 1787,
+   "months": "VI",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

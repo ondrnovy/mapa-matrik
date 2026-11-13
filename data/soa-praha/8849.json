@@ -1,0 +1,69 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "8849",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/8849",
+ "signature": "Zbečno 04, narození 1754",
+ "parish": "Zbečno",
+ "records": {
+  "N": "1754",
+  "O": "1754"
+ },
+ "points": [
+  {
+   "scan": 126,
+   "type": "N",
+   "year": 1754,
+   "months": "X",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 211,
+   "type": "N",
+   "year": 1767,
+   "months": "IV",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 294,
+   "type": "N",
+   "year": 1780,
+   "months": "VIII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 309,
+   "type": "O",
+   "year": 1751,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 314,
+   "type": "O",
+   "year": 1753,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 375,
+   "type": "O",
+   "year": 1778,
+   "months": "II",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 385,
+   "type": "O",
+   "year": 1782,
+   "months": "XI",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

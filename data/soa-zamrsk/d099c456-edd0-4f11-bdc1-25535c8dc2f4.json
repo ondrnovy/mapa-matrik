@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "d099c456-edd0-4f11-bdc1-25535c8dc2f4",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/d099c456-edd0-4f11-bdc1-25535c8dc2f4",
+ "signature": "5409",
+ "parish": "Litomyšl",
+ "records": {
+  "O": "1865–1884"
+ },
+ "points": [
+  {
+   "scan": 127,
+   "type": "O",
+   "year": 1871,
+   "months": "VIII",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

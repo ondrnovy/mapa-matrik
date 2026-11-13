@@ -1,0 +1,41 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "4847",
+ "url": "https://digi.ceskearchivy.cz/4847",
+ "signature": "Kostelec nad Vltavou O 1785–1828",
+ "parish": "Kostelec nad Vltavou",
+ "records": {
+  "O": "1785–1828"
+ },
+ "points": [
+  {
+   "scan": 61,
+   "type": "O",
+   "year": 1798,
+   "year_to": 1800,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 62,
+   "type": "O",
+   "year": 1801,
+   "year_to": 1803,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 63,
+   "type": "O",
+   "year": 1804,
+   "year_to": 1808,
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

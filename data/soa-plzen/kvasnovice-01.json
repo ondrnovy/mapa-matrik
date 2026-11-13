@@ -1,0 +1,197 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "kvasnovice-01",
+ "url": "https://www.portafontium.eu/register/soap-pn/kvasnovice-01",
+ "signature": "Kvasňovice 01",
+ "parish": "Kvasňovice",
+ "records": {
+  "N": "1738–1765",
+  "O": "1738–1765",
+  "Z": "1738–1765"
+ },
+ "points": [
+  {
+   "scan": 4,
+   "type": "N",
+   "year": 1738,
+   "months": "X–XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 5,
+   "type": "N",
+   "year": 1739,
+   "months": "V",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 9,
+   "type": "N",
+   "year": 1741,
+   "months": "IV",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 11,
+   "type": "N",
+   "year": 1742,
+   "months": "VI–VIII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 16,
+   "type": "N",
+   "year": 1745,
+   "months": "III",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 40,
+   "type": "N",
+   "year": 1756,
+   "months": "IV",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 44,
+   "type": "N",
+   "year": 1758,
+   "months": "VII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 49,
+   "type": "N",
+   "year": 1759,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 51,
+   "type": "N",
+   "year": 1760,
+   "months": "X",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 59,
+   "type": "N",
+   "year": 1764,
+   "months": "VIII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 60,
+   "type": "N",
+   "year": 1764,
+   "months": "XII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 67,
+   "type": "Z",
+   "year": 1741,
+   "months": "II–III",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 73,
+   "type": "Z",
+   "year": 1743,
+   "months": "X–XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 95,
+   "type": "Z",
+   "year": 1761,
+   "months": "I",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 114,
+   "type": "O",
+   "year": 1748,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 115,
+   "type": "O",
+   "year": 1750,
+   "months": "IV",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 117,
+   "type": "O",
+   "year": 1752,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 118,
+   "type": "O",
+   "year": 1756,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 121,
+   "type": "O",
+   "year": 1758,
+   "months": "I–VII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 122,
+   "type": "O",
+   "year": 1758,
+   "year_to": 1759,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 123,
+   "type": "O",
+   "year": 1759,
+   "year_to": 1761,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 124,
+   "type": "O",
+   "year": 1761,
+   "year_to": 1762,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 125,
+   "type": "O",
+   "year": 1762,
+   "year_to": 1763,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 126,
+   "type": "O",
+   "year": 1763,
+   "year_to": 1764,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 127,
+   "type": "O",
+   "year": 1765,
+   "months": "XI",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

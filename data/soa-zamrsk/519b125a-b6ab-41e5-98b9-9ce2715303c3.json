@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "519b125a-b6ab-41e5-98b9-9ce2715303c3",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/519b125a-b6ab-41e5-98b9-9ce2715303c3",
+ "signature": "25-6188",
+ "parish": "Dobré",
+ "records": {
+  "O": "1839–1916"
+ },
+ "points": [
+  {
+   "scan": 12,
+   "type": "O",
+   "year": 1853,
+   "months": "IX",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "A106BDE0D37349A1B76D3293D71D6BD1",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=A106BDE0D37349A1B76D3293D71D6BD1",
+ "signature": "ŽKR Z19",
+ "parish": "Žižkov",
+ "records": {
+  "Z": "1912–1916"
+ },
+ "points": [
+  {
+   "scan": 131,
+   "type": "Z",
+   "year": 1914,
+   "months": "VI",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

@@ -1,0 +1,89 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "97e2582c-ef58-41a4-b420-e21981086e8a",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/97e2582c-ef58-41a4-b420-e21981086e8a",
+ "signature": "25-6",
+ "parish": "Dobré",
+ "records": {
+  "Z": "1808–1839"
+ },
+ "points": [
+  {
+   "scan": 9,
+   "type": "Z",
+   "year": 1810,
+   "months": "III",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 10,
+   "type": "Z",
+   "year": 1810,
+   "months": "IV",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 13,
+   "type": "Z",
+   "year": 1811,
+   "months": "VII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 14,
+   "type": "Z",
+   "year": 1812,
+   "months": "I",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 17,
+   "type": "Z",
+   "year": 1813,
+   "months": "VII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 29,
+   "type": "Z",
+   "year": 1818,
+   "months": "I",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 37,
+   "type": "Z",
+   "year": 1822,
+   "months": "VI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 43,
+   "type": "Z",
+   "year": 1825,
+   "months": "VII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 52,
+   "type": "Z",
+   "year": 1829,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 55,
+   "type": "Z",
+   "year": 1831,
+   "months": "III",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

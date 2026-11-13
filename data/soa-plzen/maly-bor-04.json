@@ -1,0 +1,266 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "maly-bor-04",
+ "url": "https://www.portafontium.eu/register/soap-pn/maly-bor-04",
+ "signature": "Malý Bor 04",
+ "parish": "Malý Bor",
+ "records": {
+  "N": "1727–1744",
+  "O": "1727–1744",
+  "Z": "1727–1744"
+ },
+ "points": [
+  {
+   "scan": 1,
+   "type": "N",
+   "year": 1729,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 6,
+   "type": "N",
+   "year": 1743,
+   "months": "VIII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 25,
+   "type": "N",
+   "year": 1734,
+   "months": "II–III",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 28,
+   "type": "N",
+   "year": 1735,
+   "months": "I",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 29,
+   "type": "N",
+   "year": 1735,
+   "months": "I–V",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 34,
+   "type": "N",
+   "year": 1736,
+   "months": "X",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 35,
+   "type": "N",
+   "year": 1736,
+   "months": "XII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 36,
+   "type": "N",
+   "year": 1737,
+   "months": "III",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 37,
+   "type": "N",
+   "year": 1737,
+   "months": "V",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 40,
+   "type": "N",
+   "year": 1738,
+   "months": "I",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 45,
+   "type": "N",
+   "year": 1739,
+   "months": "I",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 46,
+   "type": "N",
+   "year": 1739,
+   "months": "IV–V",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 51,
+   "type": "N",
+   "year": 1740,
+   "year_to": 1741,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 52,
+   "type": "N",
+   "year": 1741,
+   "months": "II–VI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 53,
+   "type": "N",
+   "year": 1741,
+   "months": "VI–X",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 54,
+   "type": "N",
+   "year": 1741,
+   "year_to": 1742,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 55,
+   "type": "N",
+   "year": 1742,
+   "months": "II–V",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 56,
+   "type": "N",
+   "year": 1742,
+   "months": "V–VI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 57,
+   "type": "N",
+   "year": 1742,
+   "months": "VII–XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 58,
+   "type": "N",
+   "year": 1742,
+   "year_to": 1743,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 59,
+   "type": "N",
+   "year": 1743,
+   "months": "II–VI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 60,
+   "type": "N",
+   "year": 1743,
+   "months": "VI–IX",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 61,
+   "type": "N",
+   "year": 1743,
+   "months": "IX–XII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 62,
+   "type": "N",
+   "year": 1744,
+   "months": "I–III",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 63,
+   "type": "N",
+   "year": 1744,
+   "months": "III–VI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 64,
+   "type": "N",
+   "year": 1744,
+   "months": "VI–IX",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 65,
+   "type": "N",
+   "year": 1728,
+   "year_to": 1745,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 72,
+   "type": "O",
+   "year": 1727,
+   "year_to": 1728,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 74,
+   "type": "O",
+   "year": 1730,
+   "months": "V",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 79,
+   "type": "O",
+   "year": 1735,
+   "months": "IX",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 83,
+   "type": "O",
+   "year": 1737,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 85,
+   "type": "O",
+   "year": 1739,
+   "months": "XII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 87,
+   "type": "O",
+   "year": 1740,
+   "months": "VI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 106,
+   "type": "Z",
+   "year": 1731,
+   "months": "VI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 116,
+   "type": "Z",
+   "year": 1742,
+   "months": "IV–V",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "146A75063C534EDAAB4B71D6C5FB7BF9",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=146A75063C534EDAAB4B71D6C5FB7BF9",
+ "signature": "ŽKR Z17",
+ "parish": "Žižkov – kostel sv. Rocha",
+ "records": {
+  "Z": "1904–1908"
+ },
+ "points": [
+  {
+   "scan": 231,
+   "type": "Z",
+   "year": 1907,
+   "months": "VIII",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

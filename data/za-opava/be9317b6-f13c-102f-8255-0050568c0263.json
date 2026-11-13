@@ -1,0 +1,113 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be9317b6-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be9317b6-f13c-102f-8255-0050568c0263",
+ "signature": "Šu XIV 4",
+ "parish": "Ruda nad Moravou",
+ "records": {
+  "N": "1772–1778",
+  "O": "1772–1778",
+  "Z": "1772–1778"
+ },
+ "points": [
+  {
+   "scan": 1,
+   "type": "N",
+   "year": 1772,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 2,
+   "type": "N",
+   "year": 1773,
+   "year_to": 1774,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 3,
+   "type": "N",
+   "year": 1774,
+   "year_to": 1775,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 4,
+   "type": "N",
+   "year": 1775,
+   "months": "XII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 5,
+   "type": "N",
+   "year": 1776,
+   "year_to": 1777,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 6,
+   "type": "N",
+   "year": 1778,
+   "months": "III–VIII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 7,
+   "type": "N",
+   "year": 1778,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 11,
+   "type": "O",
+   "year": 1777,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 14,
+   "type": "Z",
+   "year": 1774,
+   "months": "VI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 15,
+   "type": "Z",
+   "year": 1777,
+   "months": "IV",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 147,
+   "type": "N",
+   "year": 1773,
+   "months": "IX–X",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 148,
+   "type": "N",
+   "year": 1775,
+   "months": "II–IX",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 150,
+   "type": "N",
+   "year": 1778,
+   "months": "VI",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

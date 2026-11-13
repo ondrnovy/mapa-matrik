@@ -1,0 +1,98 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "cernosin-03",
+ "url": "https://www.portafontium.eu/register/soap-pn/cernosin-03",
+ "signature": "Černošín 03",
+ "parish": "Černošín",
+ "records": {
+  "N": "1731–1758",
+  "Z": "1731–1758"
+ },
+ "points": [
+  {
+   "scan": 6,
+   "type": "N",
+   "year": 1732,
+   "months": "VI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 10,
+   "type": "N",
+   "year": 1734,
+   "months": "II",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 15,
+   "type": "N",
+   "year": 1736,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 23,
+   "type": "N",
+   "year": 1739,
+   "months": "XII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 25,
+   "type": "N",
+   "year": 1740,
+   "months": "VI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 127,
+   "type": "Z",
+   "year": 1732,
+   "months": "VII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 133,
+   "type": "Z",
+   "year": 1738,
+   "months": "IX",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 136,
+   "type": "Z",
+   "year": 1741,
+   "months": "II–V",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 137,
+   "type": "Z",
+   "year": 1742,
+   "months": "III",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 138,
+   "type": "Z",
+   "year": 1742,
+   "months": "VII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 154,
+   "type": "Z",
+   "year": 1755,
+   "months": "I",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

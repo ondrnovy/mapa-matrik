@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "6882",
+ "url": "https://digi.ceskearchivy.cz/6882",
+ "signature": "Radomyšl, zemřelí 1867–1899",
+ "parish": "Radomyšl",
+ "records": {
+  "Z": "1867–1899"
+ },
+ "points": [
+  {
+   "scan": 340,
+   "type": "Z",
+   "year": 1879,
+   "months": "II",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

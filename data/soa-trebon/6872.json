@@ -1,0 +1,88 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "6872",
+ "url": "https://digi.ceskearchivy.cz/6872",
+ "signature": "Radomyšl O 1769–1784",
+ "parish": "Radomyšl",
+ "records": {
+  "O": "1769–1784"
+ },
+ "points": [
+  {
+   "scan": 6,
+   "type": "O",
+   "year": 1769,
+   "year_to": 1770,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 7,
+   "type": "O",
+   "year": 1770,
+   "year_to": 1771,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 8,
+   "type": "O",
+   "year": 1771,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 9,
+   "type": "O",
+   "year": 1771,
+   "year_to": 1772,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 10,
+   "type": "O",
+   "year": 1772,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 11,
+   "type": "O",
+   "year": 1772,
+   "year_to": 1773,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 12,
+   "type": "O",
+   "year": 1773,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 13,
+   "type": "O",
+   "year": 1773,
+   "year_to": 1774,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 15,
+   "type": "O",
+   "year": 1774,
+   "months": "X",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 16,
+   "type": "O",
+   "year": 1775,
+   "months": "I–II",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

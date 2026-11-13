@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "6862",
+ "url": "https://digi.ceskearchivy.cz/6862",
+ "signature": "Radomyšl N 1769–1784",
+ "parish": "Radomyšl",
+ "records": {
+  "N": "1769–1784"
+ },
+ "points": [
+  {
+   "scan": 119,
+   "type": "N",
+   "year": 1770,
+   "months": "IV",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

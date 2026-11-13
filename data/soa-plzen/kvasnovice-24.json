@@ -1,0 +1,30 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "kvasnovice-24",
+ "url": "https://www.portafontium.eu/register/soap-pn/kvasnovice-24",
+ "signature": "Kvášňovice 24",
+ "parish": "Kvášňovice",
+ "records": {
+  "O": "1921"
+ },
+ "points": [
+  {
+   "scan": 200,
+   "type": "O",
+   "year": 1921,
+   "months": "X",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ],
+ "notes": [
+  "Roky v records jen podle zápisů přečtených v indexu matrik; kniha může být širší."
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "392f1f89-0649-4538-8c4a-2749c138fc20",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/392f1f89-0649-4538-8c4a-2749c138fc20",
+ "signature": "144-7",
+ "parish": "Sedloňov",
+ "records": {
+  "O": "1795–1949"
+ },
+ "points": [
+  {
+   "scan": 19,
+   "type": "O",
+   "year": 1795,
+   "year_to": 1949,
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

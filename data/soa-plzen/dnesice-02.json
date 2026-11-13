@@ -1,0 +1,34 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "dnesice-02",
+ "url": "https://www.portafontium.eu/register/soap-pn/dnesice-02",
+ "signature": "Dnešice 02",
+ "parish": "Dnešice",
+ "records": {
+  "N": "1735–1770"
+ },
+ "points": [
+  {
+   "scan": 66,
+   "type": "N",
+   "year": 1749,
+   "months": "X",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 69,
+   "type": "N",
+   "year": 1750,
+   "months": "VIII",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

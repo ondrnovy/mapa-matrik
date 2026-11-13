@@ -1,0 +1,72 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "kvasnovice-12",
+ "url": "https://www.portafontium.eu/register/soap-pn/kvasnovice-12",
+ "signature": "Kvášňovice 12",
+ "parish": "Kvášňovice",
+ "records": {
+  "N": "1839–1852"
+ },
+ "points": [
+  {
+   "scan": 26,
+   "type": "N",
+   "year": 1839,
+   "months": "II",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 55,
+   "type": "N",
+   "year": 1842,
+   "months": "XII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 68,
+   "type": "N",
+   "year": 1845,
+   "months": "I",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 78,
+   "type": "N",
+   "year": 1846,
+   "months": "IV",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 97,
+   "type": "N",
+   "year": 1848,
+   "months": "VII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 122,
+   "type": "N",
+   "year": 1851,
+   "months": "IV",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 131,
+   "type": "N",
+   "year": 1852,
+   "months": "I",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ],
+ "notes": [
+  "Roky v records jen podle zápisů přečtených v indexu matrik; kniha může být širší."
+ ]
+}

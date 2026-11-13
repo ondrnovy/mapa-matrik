@@ -1,0 +1,45 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "kotoun-01",
+ "url": "https://www.portafontium.eu/register/soap-pn/kotoun-01",
+ "signature": "Kotouň 01",
+ "parish": "Kotouň",
+ "records": {
+  "N": "1676–1679",
+  "O": "1676–1679"
+ },
+ "points": [
+  {
+   "scan": 10,
+   "type": "O",
+   "year": 1676,
+   "months": "X",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 13,
+   "type": "O",
+   "year": 1679,
+   "months": "VIII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 45,
+   "type": "N",
+   "year": 1678,
+   "months": "XII",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ],
+ "notes": [
+  "Roky v records jen podle zápisů přečtených v indexu matrik; kniha může být širší."
+ ]
+}

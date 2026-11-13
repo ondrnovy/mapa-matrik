@@ -1,0 +1,30 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "7543",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/7543",
+ "signature": "Lány, kniha 7543",
+ "parish": "Lány",
+ "records": {
+  "O": "1871"
+ },
+ "points": [
+  {
+   "scan": 74,
+   "type": "O",
+   "year": 1871,
+   "months": "IX",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ],
+ "notes": [
+  "Roky v records jen podle zápisů přečtených v indexu matrik; kniha může být širší."
+ ]
+}

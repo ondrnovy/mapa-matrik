@@ -1,0 +1,153 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "a835be0a-1bd4-419e-b480-f4e03e97ec45",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/a835be0a-1bd4-419e-b480-f4e03e97ec45",
+ "signature": "144-1",
+ "parish": "Sedloňov",
+ "records": {
+  "N": "1704–1762"
+ },
+ "points": [
+  {
+   "scan": 184,
+   "type": "N",
+   "year": 1754,
+   "months": "II–IX",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 185,
+   "type": "N",
+   "year": 1754,
+   "months": "IV",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 186,
+   "type": "N",
+   "year": 1754,
+   "months": "XII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 188,
+   "type": "N",
+   "year": 1755,
+   "months": "II",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 189,
+   "type": "N",
+   "year": 1755,
+   "months": "III",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 190,
+   "type": "N",
+   "year": 1755,
+   "months": "IX",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 193,
+   "type": "N",
+   "year": 1756,
+   "months": "I–IV",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 194,
+   "type": "N",
+   "year": 1756,
+   "months": "III–X",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 197,
+   "type": "N",
+   "year": 1757,
+   "months": "I–III",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 198,
+   "type": "N",
+   "year": 1757,
+   "months": "VII–IX",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 199,
+   "type": "N",
+   "year": 1757,
+   "months": "VI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 203,
+   "type": "N",
+   "year": 1758,
+   "months": "I",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 204,
+   "type": "N",
+   "year": 1758,
+   "months": "XII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 208,
+   "type": "N",
+   "year": 1759,
+   "months": "VIII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 209,
+   "type": "N",
+   "year": 1760,
+   "months": "I–VI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 212,
+   "type": "N",
+   "year": 1760,
+   "months": "VIII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 217,
+   "type": "N",
+   "year": 1761,
+   "months": "X",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 218,
+   "type": "N",
+   "year": 1762,
+   "months": "II",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 219,
+   "type": "N",
+   "year": 1762,
+   "months": "X",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

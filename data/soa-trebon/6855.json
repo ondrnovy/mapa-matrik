@@ -1,0 +1,48 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "6855",
+ "url": "https://digi.ceskearchivy.cz/6855",
+ "signature": "Radobytce Z 1868–1925",
+ "parish": "Radobytce",
+ "records": {
+  "Z": "1868–1925"
+ },
+ "points": [
+  {
+   "scan": 24,
+   "type": "Z",
+   "year": 1871,
+   "months": "VI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 361,
+   "type": "Z",
+   "year": 1920,
+   "months": "VI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 375,
+   "type": "Z",
+   "year": 1923,
+   "months": "IV",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 378,
+   "type": "Z",
+   "year": 1924,
+   "months": "X",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

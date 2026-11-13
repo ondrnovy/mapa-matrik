@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "6873",
+ "url": "https://digi.ceskearchivy.cz/6873",
+ "signature": "Radomyšl O 1784–1805",
+ "parish": "Radomyšl",
+ "records": {
+  "O": "1784–1805"
+ },
+ "points": [
+  {
+   "scan": 94,
+   "type": "O",
+   "year": 1804,
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

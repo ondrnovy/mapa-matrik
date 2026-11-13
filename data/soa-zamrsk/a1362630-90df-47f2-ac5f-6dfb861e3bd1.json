@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "a1362630-90df-47f2-ac5f-6dfb861e3bd1",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/a1362630-90df-47f2-ac5f-6dfb861e3bd1",
+ "signature": "117-10",
+ "parish": "Nový Hrádek",
+ "records": {
+  "O": "1826–1856"
+ },
+ "points": [
+  {
+   "scan": 191,
+   "type": "O",
+   "year": 1836,
+   "months": "II",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

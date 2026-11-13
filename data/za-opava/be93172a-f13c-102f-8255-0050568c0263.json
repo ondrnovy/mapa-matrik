@@ -1,0 +1,195 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be93172a-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be93172a-f13c-102f-8255-0050568c0263",
+ "signature": "Šu XIV 5",
+ "parish": "Ruda nad Moravou",
+ "records": {
+  "N": "1779–1825"
+ },
+ "points": [
+  {
+   "scan": 31,
+   "type": "N",
+   "year": 1782,
+   "months": "I",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 34,
+   "type": "N",
+   "year": 1782,
+   "months": "V",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 36,
+   "type": "N",
+   "year": 1782,
+   "months": "VII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 37,
+   "type": "N",
+   "year": 1782,
+   "months": "IX",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 38,
+   "type": "N",
+   "year": 1782,
+   "months": "X",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 41,
+   "type": "N",
+   "year": 1783,
+   "months": "III",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 45,
+   "type": "N",
+   "year": 1783,
+   "months": "X–XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 46,
+   "type": "N",
+   "year": 1783,
+   "months": "XII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 49,
+   "type": "N",
+   "year": 1784,
+   "months": "VI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 53,
+   "type": "N",
+   "year": 1784,
+   "months": "X",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 54,
+   "type": "N",
+   "year": 1784,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 55,
+   "type": "N",
+   "year": 1784,
+   "months": "XII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 58,
+   "type": "N",
+   "year": 1785,
+   "months": "III",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 65,
+   "type": "N",
+   "year": 1786,
+   "months": "II",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 67,
+   "type": "N",
+   "year": 1786,
+   "months": "III",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 70,
+   "type": "N",
+   "year": 1786,
+   "months": "VIII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 75,
+   "type": "N",
+   "year": 1787,
+   "months": "III",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 79,
+   "type": "N",
+   "year": 1787,
+   "months": "VII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 82,
+   "type": "N",
+   "year": 1787,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 84,
+   "type": "N",
+   "year": 1788,
+   "months": "II",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 87,
+   "type": "N",
+   "year": 1788,
+   "months": "VII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 91,
+   "type": "N",
+   "year": 1788,
+   "months": "IX",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 93,
+   "type": "N",
+   "year": 1789,
+   "months": "I–IV",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 94,
+   "type": "N",
+   "year": 1789,
+   "year_to": 1790,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 95,
+   "type": "N",
+   "year": 1790,
+   "months": "VI–XI",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

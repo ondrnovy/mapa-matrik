@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "43b9a29f9d4a457d8bdbf74ad7b7dafc",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=43b9a29f9d4a457d8bdbf74ad7b7dafc",
+ "signature": "Pražský magistrát, oddací matrika 1936",
+ "parish": "Pražský magistrát",
+ "records": {
+  "O": "1936"
+ },
+ "points": [
+  {
+   "scan": 195,
+   "type": "O",
+   "year": 1936,
+   "months": "VI",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

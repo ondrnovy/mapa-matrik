@@ -1,0 +1,162 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "kvasnovice-02",
+ "url": "https://www.portafontium.eu/register/soap-pn/kvasnovice-02",
+ "signature": "Kvasňovice 02",
+ "parish": "Kvasňovice",
+ "records": {
+  "N": "1766–1793",
+  "O": "1766–1793",
+  "Z": "1766–1793"
+ },
+ "points": [
+  {
+   "scan": 3,
+   "type": "N",
+   "year": 1766,
+   "months": "I",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 4,
+   "type": "N",
+   "year": 1766,
+   "months": "III",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 9,
+   "type": "N",
+   "year": 1767,
+   "months": "II",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 23,
+   "type": "N",
+   "year": 1770,
+   "months": "V–VI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 25,
+   "type": "N",
+   "year": 1770,
+   "year_to": 1771,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 26,
+   "type": "N",
+   "year": 1771,
+   "months": "I–VII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 27,
+   "type": "N",
+   "year": 1771,
+   "year_to": 1772,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 29,
+   "type": "N",
+   "year": 1773,
+   "months": "IV",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 30,
+   "type": "N",
+   "year": 1773,
+   "months": "VII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 31,
+   "type": "N",
+   "year": 1773,
+   "months": "VII–VIII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 32,
+   "type": "N",
+   "year": 1773,
+   "months": "IX–XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 46,
+   "type": "N",
+   "year": 1776,
+   "year_to": 1777,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 47,
+   "type": "N",
+   "year": 1777,
+   "months": "V",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 56,
+   "type": "N",
+   "year": 1779,
+   "months": "VI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 121,
+   "type": "N",
+   "year": 1790,
+   "months": "V–VII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 138,
+   "type": "N",
+   "year": 1793,
+   "months": "XII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 139,
+   "type": "Z",
+   "year": 1766,
+   "months": "I",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 146,
+   "type": "Z",
+   "year": 1768,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 171,
+   "type": "Z",
+   "year": 1780,
+   "months": "III",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 207,
+   "type": "O",
+   "year": 1768,
+   "months": "XI",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

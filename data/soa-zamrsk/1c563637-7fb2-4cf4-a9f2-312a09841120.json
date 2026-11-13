@@ -1,0 +1,55 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "1c563637-7fb2-4cf4-a9f2-312a09841120",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/1c563637-7fb2-4cf4-a9f2-312a09841120",
+ "signature": "144-6",
+ "parish": "Sedloňov",
+ "records": {
+  "N": "1763–1824"
+ },
+ "points": [
+  {
+   "scan": 14,
+   "type": "N",
+   "year": 1763,
+   "year_to": 1768,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 15,
+   "type": "N",
+   "year": 1768,
+   "year_to": 1777,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 16,
+   "type": "N",
+   "year": 1777,
+   "year_to": 1784,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 20,
+   "type": "N",
+   "year": 1790,
+   "months": "IV",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 22,
+   "type": "N",
+   "year": 1763,
+   "year_to": 1824,
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

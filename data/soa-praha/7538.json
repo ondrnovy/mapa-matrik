@@ -1,0 +1,30 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "7538",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/7538",
+ "signature": "Lány 03",
+ "parish": "Lány",
+ "records": {
+  "N": "1848"
+ },
+ "points": [
+  {
+   "scan": 70,
+   "type": "N",
+   "year": 1848,
+   "months": "XII",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ],
+ "notes": [
+  "Roky v records jen podle zápisů přečtených v indexu matrik; kniha může být širší."
+ ]
+}

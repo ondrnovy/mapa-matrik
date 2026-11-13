@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "F88B2F66CDCE438E9CBB66DA29BBF7CC",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=F88B2F66CDCE438E9CBB66DA29BBF7CC",
+ "signature": "ŽKP Z4",
+ "parish": "Žižkov",
+ "records": {
+  "Z": "1906–1915"
+ },
+ "points": [
+  {
+   "scan": 338,
+   "type": "Z",
+   "year": 1914,
+   "months": "VIII",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

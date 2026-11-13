@@ -1,0 +1,41 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "d10d86f7-d6b9-450d-9686-73a922c4c8fb",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/d10d86f7-d6b9-450d-9686-73a922c4c8fb",
+ "signature": "117-9",
+ "parish": "Nový Hrádek",
+ "records": {
+  "O": "1788–1826"
+ },
+ "points": [
+  {
+   "scan": 68,
+   "type": "O",
+   "year": 1788,
+   "year_to": 1790,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 85,
+   "type": "O",
+   "year": 1788,
+   "year_to": 1796,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 87,
+   "type": "O",
+   "year": 1813,
+   "months": "XI",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "F4C9890E8A954B20B26FD49C2562CCB0",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=F4C9890E8A954B20B26FD49C2562CCB0",
+ "signature": "SM N21",
+ "parish": "Smíchov – sv. Filip a Jakub",
+ "records": {
+  "N": "1879–1882"
+ },
+ "points": [
+  {
+   "scan": 387,
+   "type": "N",
+   "year": 1881,
+   "months": "XII",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

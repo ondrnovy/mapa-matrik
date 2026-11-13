@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "zinkovy-02",
+ "url": "https://www.portafontium.eu/register/soap-pn/zinkovy-02",
+ "signature": "Žinkovy 02",
+ "parish": "Žinkovy",
+ "records": {
+  "N": "1683–1715"
+ },
+ "points": [
+  {
+   "scan": 28,
+   "type": "N",
+   "year": 1692,
+   "months": "VI",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

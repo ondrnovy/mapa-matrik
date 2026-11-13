@@ -1,0 +1,109 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "kotoun-03",
+ "url": "https://www.portafontium.eu/register/soap-pn/kotoun-03",
+ "signature": "Kotouň 03",
+ "parish": "Kotouň",
+ "records": {
+  "N": "1735–1766",
+  "O": "1735–1766",
+  "Z": "1735–1766"
+ },
+ "points": [
+  {
+   "scan": 6,
+   "type": "N",
+   "year": 1735,
+   "months": "IX",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 10,
+   "type": "N",
+   "year": 1736,
+   "months": "XII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 14,
+   "type": "N",
+   "year": 1738,
+   "months": "V",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 106,
+   "type": "N",
+   "year": 1764,
+   "year_to": 1765,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 107,
+   "type": "N",
+   "year": 1765,
+   "months": "I",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 115,
+   "type": "N",
+   "year": 1766,
+   "months": "XII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 154,
+   "type": "O",
+   "year": 1758,
+   "months": "I",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 159,
+   "type": "O",
+   "year": 1760,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 161,
+   "type": "O",
+   "year": 1761,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 167,
+   "type": "O",
+   "year": 1766,
+   "months": "X",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 224,
+   "type": "Z",
+   "year": 1764,
+   "months": "II",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 227,
+   "type": "Z",
+   "year": 1765,
+   "months": "II",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ],
+ "notes": [
+  "Roky v records jen podle zápisů přečtených v indexu matrik; kniha může být širší."
+ ]
+}

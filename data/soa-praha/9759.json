@@ -1,0 +1,37 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "9759",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/9759",
+ "signature": "Nezabudice 01",
+ "parish": "Nezabudice",
+ "records": {
+  "N": "1830–1848"
+ },
+ "points": [
+  {
+   "scan": 56,
+   "type": "N",
+   "year": 1830,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 110,
+   "type": "N",
+   "year": 1848,
+   "months": "VIII",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ],
+ "notes": [
+  "Roky v records jen podle zápisů přečtených v indexu matrik; kniha může být širší."
+ ]
+}

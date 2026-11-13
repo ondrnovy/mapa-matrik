@@ -1,0 +1,42 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "6860",
+ "url": "https://digi.ceskearchivy.cz/6860",
+ "signature": "Radomyšl NO 1692–1732",
+ "parish": "Radomyšl",
+ "records": {
+  "N": "1692–1732",
+  "O": "1692–1732"
+ },
+ "points": [
+  {
+   "scan": 81,
+   "type": "N",
+   "year": 1699,
+   "year_to": 1700,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 89,
+   "type": "N",
+   "year": 1721,
+   "year_to": 1723,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 245,
+   "type": "O",
+   "year": 1720,
+   "months": "XI",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

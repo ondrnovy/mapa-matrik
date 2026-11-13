@@ -1,0 +1,99 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "768b6ad7-462e-4d93-be06-e1ca719475bd",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/768b6ad7-462e-4d93-be06-e1ca719475bd",
+ "signature": "27-1",
+ "parish": "Dobřany",
+ "records": {
+  "N": "1766–1796",
+  "O": "1766–1796",
+  "Z": "1766–1796"
+ },
+ "points": [
+  {
+   "scan": 265,
+   "type": "O",
+   "year": 1776,
+   "months": "I–VII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 266,
+   "type": "O",
+   "year": 1776,
+   "year_to": 1777,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 267,
+   "type": "O",
+   "year": 1777,
+   "year_to": 1778,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 268,
+   "type": "O",
+   "year": 1778,
+   "year_to": 1779,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 269,
+   "type": "O",
+   "year": 1779,
+   "year_to": 1780,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 270,
+   "type": "O",
+   "year": 1780,
+   "year_to": 1781,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 271,
+   "type": "O",
+   "year": 1781,
+   "months": "X–XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 272,
+   "type": "O",
+   "year": 1782,
+   "months": "I–VI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 273,
+   "type": "O",
+   "year": 1782,
+   "year_to": 1783,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 274,
+   "type": "O",
+   "year": 1783,
+   "months": "VI–XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 275,
+   "type": "O",
+   "year": 1784,
+   "months": "I–V",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

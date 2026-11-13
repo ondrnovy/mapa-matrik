@@ -1,0 +1,170 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "18df5472-68cb-4552-ae90-e750907c8781",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/18df5472-68cb-4552-ae90-e750907c8781",
+ "signature": "136-2",
+ "parish": "Přepychy",
+ "records": {
+  "N": "1663–1706",
+  "O": "1663–1706"
+ },
+ "points": [
+  {
+   "scan": 27,
+   "type": "N",
+   "year": 1670,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 82,
+   "type": "N",
+   "year": 1663,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 88,
+   "type": "N",
+   "year": 1673,
+   "year_to": 1675,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 101,
+   "type": "N",
+   "year": 1663,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 108,
+   "type": "N",
+   "year": 1669,
+   "months": "I–IV",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 109,
+   "type": "N",
+   "year": 1669,
+   "months": "V",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 112,
+   "type": "N",
+   "year": 1672,
+   "months": "III",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 118,
+   "type": "N",
+   "year": 1679,
+   "months": "X",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 119,
+   "type": "N",
+   "year": 1681,
+   "months": "IV",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 120,
+   "type": "N",
+   "year": 1683,
+   "months": "V",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 122,
+   "type": "N",
+   "year": 1687,
+   "months": "IX",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 128,
+   "type": "N",
+   "year": 1700,
+   "months": "IX",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 130,
+   "type": "N",
+   "year": 1705,
+   "year_to": 1706,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 140,
+   "type": "O",
+   "year": 1663,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 141,
+   "type": "O",
+   "year": 1663,
+   "year_to": 1664,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 142,
+   "type": "O",
+   "year": 1665,
+   "year_to": 1666,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 143,
+   "type": "O",
+   "year": 1668,
+   "year_to": 1672,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 144,
+   "type": "O",
+   "year": 1674,
+   "year_to": 1680,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 151,
+   "type": "O",
+   "year": 1692,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 152,
+   "type": "O",
+   "year": 1694,
+   "year_to": 1697,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 154,
+   "type": "O",
+   "year": 1699,
+   "months": "II",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 155,
+   "type": "O",
+   "year": 1700,
+   "months": "IX",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

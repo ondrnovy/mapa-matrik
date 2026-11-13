@@ -1,0 +1,69 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "horazdovice-05",
+ "url": "https://www.portafontium.eu/register/soap-pn/horazdovice-05",
+ "signature": "Horažďovice 05",
+ "parish": "Horažďovice",
+ "records": {
+  "O": "1699–1747"
+ },
+ "points": [
+  {
+   "scan": 277,
+   "type": "O",
+   "year": 1708,
+   "months": "VII–XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 278,
+   "type": "O",
+   "year": 1708,
+   "year_to": 1710,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 279,
+   "type": "O",
+   "year": 1710,
+   "months": "II–XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 280,
+   "type": "O",
+   "year": 1711,
+   "months": "I–XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 281,
+   "type": "O",
+   "year": 1711,
+   "year_to": 1712,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 282,
+   "type": "O",
+   "year": 1712,
+   "year_to": 1713,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 283,
+   "type": "O",
+   "year": 1713,
+   "year_to": 1714,
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

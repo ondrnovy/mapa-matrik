@@ -1,0 +1,236 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "kasejovice-05",
+ "url": "https://www.portafontium.eu/register/soap-pn/kasejovice-05",
+ "signature": "Kasejovice 05",
+ "parish": "Kasejovice",
+ "records": {
+  "O": "1690–1747"
+ },
+ "points": [
+  {
+   "scan": 11,
+   "type": "O",
+   "year": 1694,
+   "months": "X",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 14,
+   "type": "O",
+   "year": 1695,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 19,
+   "type": "O",
+   "year": 1698,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 25,
+   "type": "O",
+   "year": 1702,
+   "months": "V",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 31,
+   "type": "O",
+   "year": 1705,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 51,
+   "type": "O",
+   "year": 1715,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 53,
+   "type": "O",
+   "year": 1716,
+   "months": "X",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 55,
+   "type": "O",
+   "year": 1717,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 59,
+   "type": "O",
+   "year": 1719,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 65,
+   "type": "O",
+   "year": 1722,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 68,
+   "type": "O",
+   "year": 1723,
+   "months": "I",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 73,
+   "type": "O",
+   "year": 1725,
+   "months": "VII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 75,
+   "type": "O",
+   "year": 1725,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 76,
+   "type": "O",
+   "year": 1726,
+   "months": "I",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 77,
+   "type": "O",
+   "year": 1726,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 80,
+   "type": "O",
+   "year": 1727,
+   "months": "X",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 81,
+   "type": "O",
+   "year": 1727,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 83,
+   "type": "O",
+   "year": 1728,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 85,
+   "type": "O",
+   "year": 1728,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 87,
+   "type": "O",
+   "year": 1729,
+   "months": "II",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 91,
+   "type": "O",
+   "year": 1729,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 95,
+   "type": "O",
+   "year": 1730,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 103,
+   "type": "O",
+   "year": 1732,
+   "months": "X",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 115,
+   "type": "O",
+   "year": 1734,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 118,
+   "type": "O",
+   "year": 1735,
+   "months": "X",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 127,
+   "type": "O",
+   "year": 1737,
+   "months": "VI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 129,
+   "type": "O",
+   "year": 1737,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 132,
+   "type": "O",
+   "year": 1738,
+   "months": "X",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 133,
+   "type": "O",
+   "year": 1738,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 140,
+   "type": "O",
+   "year": 1739,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 195,
+   "type": "O",
+   "year": 1745,
+   "months": "X",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 203,
+   "type": "O",
+   "year": 1746,
+   "months": "IX",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be9312c0-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be9312c0-f13c-102f-8255-0050568c0263",
+ "signature": "Šu XIV 14",
+ "parish": "Ruda nad Moravou",
+ "records": {
+  "O": "1779–1825"
+ },
+ "points": [
+  {
+   "scan": 5,
+   "type": "O",
+   "year": 1780,
+   "months": "IX",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 28,
+   "type": "O",
+   "year": 1798,
+   "months": "II–V",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 33,
+   "type": "O",
+   "year": 1815,
+   "months": "VII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 34,
+   "type": "O",
+   "year": 1817,
+   "months": "III–IX",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

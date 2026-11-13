@@ -1,0 +1,106 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "velky-bor-01",
+ "url": "https://www.portafontium.eu/register/soap-pn/velky-bor-01",
+ "signature": "Velký Bor 01",
+ "parish": "Velký Bor",
+ "records": {
+  "N": "1707–1754",
+  "O": "1707–1754",
+  "Z": "1707–1754"
+ },
+ "points": [
+  {
+   "scan": 36,
+   "type": "N",
+   "year": 1723,
+   "months": "XII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 69,
+   "type": "N",
+   "year": 1733,
+   "months": "II",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 77,
+   "type": "N",
+   "year": 1735,
+   "months": "III",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 108,
+   "type": "N",
+   "year": 1741,
+   "months": "I",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 151,
+   "type": "N",
+   "year": 1748,
+   "months": "IX",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 186,
+   "type": "O",
+   "year": 1720,
+   "months": "X",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 195,
+   "type": "O",
+   "year": 1728,
+   "months": "IX",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 196,
+   "type": "O",
+   "year": 1729,
+   "months": "IX",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 199,
+   "type": "O",
+   "year": 1732,
+   "months": "X",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 241,
+   "type": "Z",
+   "year": 1744,
+   "months": "IV",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 253,
+   "type": "Z",
+   "year": 1748,
+   "months": "IX",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 254,
+   "type": "Z",
+   "year": 1748,
+   "year_to": 1749,
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

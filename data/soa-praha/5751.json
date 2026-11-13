@@ -238,6 +238,13 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 91,
+   "type": "O",
+   "year": 1769,
+   "months": "V",
+   "by": "pe-pan"
+  },
+  {
    "scan": 92,
    "type": "O",
    "year": 1769,
@@ -302,6 +309,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-12"
+  },
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
   }
  ]
 }

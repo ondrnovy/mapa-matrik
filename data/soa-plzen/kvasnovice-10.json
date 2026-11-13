@@ -1,0 +1,44 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "kvasnovice-10",
+ "url": "https://www.portafontium.eu/register/soap-pn/kvasnovice-10",
+ "signature": "Kvášňovice 10",
+ "parish": "Kvášňovice",
+ "records": {
+  "O": "1838–1844"
+ },
+ "points": [
+  {
+   "scan": 7,
+   "type": "O",
+   "year": 1838,
+   "months": "II",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 10,
+   "type": "O",
+   "year": 1840,
+   "months": "II",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 19,
+   "type": "O",
+   "year": 1844,
+   "months": "XI",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ],
+ "notes": [
+  "Roky v records jen podle zápisů přečtených v indexu matrik; kniha může být širší."
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "50e30184-3b2b-40c6-a01b-4ff04d029a95",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/50e30184-3b2b-40c6-a01b-4ff04d029a95",
+ "signature": "24-9",
+ "parish": "Deštné",
+ "records": {
+  "N": "1784–1835",
+  "O": "1784–1835",
+  "Z": "1784–1835"
+ },
+ "points": [
+  {
+   "scan": 8,
+   "type": "O",
+   "year": 1784,
+   "year_to": 1835,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 21,
+   "type": "N",
+   "year": 1784,
+   "year_to": 1824,
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}
