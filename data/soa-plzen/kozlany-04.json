@@ -1,0 +1,59 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "kozlany-04",
+ "url": "https://www.portafontium.eu/register/soap-pn/kozlany-04",
+ "signature": "Kožlany 04",
+ "parish": "Kožlany",
+ "records": {
+  "N": "1723–1762",
+  "O": "1723–1757",
+  "Z": "1723–1759",
+  "iN": "1723–1762"
+ },
+ "scans": 353,
+ "language": "cs, la",
+ "order": "mixed",
+ "points": [
+  {
+   "scan": 158,
+   "type": "N",
+   "year": 1758,
+   "months": "I–II",
+   "page": "400–401",
+   "note": "česky; N str. ≈ 2 × sn. − 116",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 170,
+   "type": "N",
+   "year": 1761,
+   "months": "VI–X",
+   "page": "424–425",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 215,
+   "type": "O",
+   "year": 1750,
+   "page": "70–71",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 342,
+   "type": "iN",
+   "year": 1723,
+   "year_to": 1762,
+   "letters": "N",
+   "note": "rejstřík s čísly stran; F = sn. 335",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-13"
+  }
+ ]
+}
