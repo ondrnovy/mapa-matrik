@@ -39,6 +39,14 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 8,
+   "type": "Z",
+   "year": 1841,
+   "months": "VI–XI",
+   "page": "6–7",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 12,
    "type": "Z",
    "year": 1842,
@@ -51,6 +59,15 @@
    "year": 1843,
    "months": "II–IV",
    "page": "16–17",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 15,
+   "type": "Z",
+   "year": 1843,
+   "year_to": 1844,
+   "months": "XI 1843 – III 1844",
+   "page": "20–21",
    "by": "ondrnovy"
   },
   {
@@ -372,6 +389,14 @@
    "scan": 247,
    "type": "iZ",
    "letters": "Č–D",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 251,
+   "type": "iZ",
+   "year": 1840,
+   "year_to": 1899,
+   "letters": "K",
    "by": "ondrnovy"
   },
   {
