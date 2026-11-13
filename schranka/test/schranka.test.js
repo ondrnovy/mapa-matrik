@@ -100,3 +100,24 @@ test("rozsah knihy: špatný tvar je 400", async () => {
   assert.equal(r.status, 400);
   assert.equal(volani.length, 0);
 });
+
+test("další archivy: nová kniha ARON s odkazem, bez odkazu 400", async () => {
+  const aron = { archive: "soa-zamrsk", portal_id: "0a1b2c3d-4e5f", signature: "Holice 12", scan: 5, type: "N", year: 1890,
+    url: "https://aron.vychodoceskearchivy.cz/apu/0a1b2c3d-4e5f" };
+  const posli = async b => {
+    const gh = falesnyGitHub();
+    const r = await worker.fetch(new Request("https://s.example/v1/prispevek", { method: "POST", body: JSON.stringify({ body: [b] }) }), ENV, {}, gh.fetchFn);
+    return { r, data: await r.json(), ...gh };
+  };
+  const ok = await posli(aron);
+  assert.equal(ok.r.status, 200, JSON.stringify(ok.data));
+  const vol = JSON.parse(ok.tela.find(t => t.tree).tree[0].content);
+  assert.equal(vol.portal, "aron");
+  assert.equal(vol.url, aron.url);
+  const bez = await posli({ ...aron, url: undefined });
+  assert.equal(bez.r.status, 400);
+  assert.match(bez.data.chyba, /potřebuje url/);
+  assert.ok(!bez.volani.some(v => v.endsWith("/pulls")));
+  const cizi = await posli({ ...aron, url: "https://www.portafontium.eu/register/soap-pn/x" });
+  assert.match(cizi.data.chyba, /portál archivu soa-zamrsk/);
+});

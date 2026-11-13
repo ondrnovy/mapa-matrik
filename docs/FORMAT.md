@@ -37,7 +37,7 @@ Klíče jsou anglicky (aby je snadno četly nástroje odkudkoli), hodnoty česky
 | `schema` | ano | verze formátu (teď 1) |
 | `kind` | ne | druh knihy: `register` matrika (výchozí, pole se vynechává), `census` sčítání lidu, `chronicle` kronika obce nebo školy, `land_book` pozemková (gruntovní) kniha – viz [Další knihy](#další-knihy-sčítání-kroniky-pozemkové-knihy) |
 | `archive` | ano | zkratka archivu: `soa-praha`, `soa-plzen`, `soa-litomerice`, `soa-trebon`, `soa-zamrsk`, `za-opava`, `mza-brno`, `ahmp`, … |
-| `portal` | ano | `ebadatelna`, `portafontium`, `aron`, `actapublica`, `vademecum`, `matricula`, … |
+| `portal` | ano | `ebadatelna`, `portafontium`, `aron`, `digi-ceskearchivy` (SOA Třeboň), `digi-soalitomerice`, `digi-archives` (ZA Opava), `actapublica`, `pragapublica` (AHMP), `matricula`, … |
 | `portal_id` | ano | identifikátor knihy na portálu (eBadatelna `matrikaId`, Porta fontium část adresy, např. `chric-12`) |
 | `url` | ano | stránka knihy na portálu |
 | `scan_url` | ne | šablona adresy snímku, `{scan}` = pořadové číslo snímku |

@@ -7,7 +7,17 @@ export const MAX_BODU = 500;
 export const MAX_ZAPISU = 200;
 export const ZA_DEN_Z_IP = 10;
 export const ZA_DEN_CELKEM = 300;
-const ARCHIVY_MAPY = { "soa-plzen": "portafontium", "soa-praha": "ebadatelna" };
+// Archivy mapy: portál a adresa, na kterou smí vést odkaz knihy; u archivů bez vzoru adresy musí nová kniha poslat url.
+const ARCHIVY_MAPY = {
+  "soa-plzen": { portal: "portafontium", web: /^https:\/\/www\.portafontium\.eu\//, vzor: id => `https://www.portafontium.eu/register/soap-pn/${id}` },
+  "soa-praha": { portal: "ebadatelna", web: /^https:\/\/ebadatelna\.soapraha\.cz\//, vzor: id => `https://ebadatelna.soapraha.cz/d/${id}/` },
+  "soa-zamrsk": { portal: "aron", web: /^https:\/\/aron\.vychodoceskearchivy\.cz\// },
+  "soa-trebon": { portal: "digi-ceskearchivy", web: /^https:\/\/digi\.ceskearchivy\.cz\// },
+  "soa-litomerice": { portal: "digi-soalitomerice", web: /^https:\/\/digi\.soalitomerice\.cz\// },
+  "za-opava": { portal: "digi-archives", web: /^https:\/\/digi\.archives\.cz\// },
+  "mza-brno": { portal: "actapublica", web: /^https:\/\/www\.mza\.cz\/actapublica\// },
+  "ahmp": { portal: "pragapublica", web: /^https:\/\/katalog\.ahmp\.cz\// },
+};
 const ARCHIVY_INDEXU = ["portafontium", "soapraha", "ahmp"];
 const DRUHY = new Set(["N", "O", "Z", "iN", "iO", "iZ", "title", "blank"]);
 const LHUTA = { N: 100, O: 75, Z: 75 };
@@ -75,7 +85,7 @@ export function overBod(b, letos) {
       kniha.records[typ] = rozsah(v, `records.${typ}`, letos);
     }
   }
-  if (kniha.url && !/^https:\/\/(www\.portafontium\.eu|ebadatelna\.soapraha\.cz)\//.test(kniha.url)) throw new Chyba(400, "url knihy musí vést na portál archivu");
+  if (kniha.url && !ARCHIVY_MAPY[b.archive].web.test(kniha.url)) throw new Chyba(400, `url knihy musí vést na portál archivu ${b.archive}`);
   return { archive: b.archive, portal_id: String(b.portal_id), bod: p, kniha };
 }
 
@@ -135,8 +145,8 @@ export function pridejBody(vol, body, dnes) {
 export function novaKniha(archive, portal_id, kniha, dnes) {
   const podpis = kniha.signature || portal_id;
   const vol = {
-    schema: 1, archive, portal: ARCHIVY_MAPY[archive], portal_id,
-    url: kniha.url || (archive === "soa-plzen" ? `https://www.portafontium.eu/register/soap-pn/${portal_id}` : `https://ebadatelna.soapraha.cz/d/${portal_id}/`),
+    schema: 1, archive, portal: ARCHIVY_MAPY[archive].portal, portal_id,
+    url: kniha.url || ARCHIVY_MAPY[archive].vzor?.(portal_id),
     signature: podpis, parish: podpis.replace(/\s+\d+\w*$/, "") || podpis, records: {}, points: [], sources: [],
   };
   if (kniha.scans) vol.scans = kniha.scans;
@@ -223,6 +233,7 @@ export async function doMapy(gh, env, body, vetev, dnes, nastroj) {
     const cesta = `data/${k}.json`;
     const stary = await soubor(gh, repo, cesta, main.object.sha);
     const vol = stary ? JSON.parse(stary) : novaKniha(kn.archive, kn.portal_id, kn.kniha, dnes);
+    if (!stary && !vol.url) throw new Chyba(400, `nová kniha ${k} potřebuje url (stránku knihy na portálu archivu)`);
     vol.sources ||= [];
     vol.records ||= {};
     const n = pridejBody(vol, kn.body, dnes);

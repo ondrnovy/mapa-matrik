@@ -12,7 +12,9 @@ takže nesmysl nebo spam skončí jako zamítnutý PR.
 ## Co hlídá
 
 - velikost (256 kB), nejvýš 500 bodů a 200 zápisů najednou, 10 odeslání z jedné IP za den, 300 celkem za den (KV `LIMITY`);
-- body: jen podporované archivy (SOA Plzeň, SOA Praha), známá pole, bez tabulátorů a nových řádků, odkaz knihy jen na portál archivu;
+- body: archivy SOA Plzeň, SOA Praha, SOA Zámrsk, SOA Třeboň, SOA Litoměřice, ZA Opava, MZA Brno a AHMP (tabulka `ARCHIVY_MAPY`),
+  známá pole, bez tabulátorů a nových řádků, odkaz knihy jen na portál toho archivu; nová kniha mimo SOA Plzeň a Praha
+  musí poslat `url` (adresu knihy schránka sestaví jen u těch dvou);
 - zápisy: formát řádku indexu, lhůty (narození 100 let, sňatky a úmrtí 75 let), `cetl` s modelem/effortem, jistota;
 - duplicity: bod, který v knize už je, a řádek indexu se stejným snímkem, datem a druhem se nepřidá.
 
