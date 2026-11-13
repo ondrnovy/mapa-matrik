@@ -1,0 +1,56 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "4096",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/4096",
+ "signature": "Neslovice 1422",
+ "parish": "Neslovice",
+ "records": {
+  "Z": "1784–1855"
+ },
+ "points": [
+  {
+   "scan": 65,
+   "type": "Z",
+   "year": 1802,
+   "by": "schranka"
+  },
+  {
+   "scan": 68,
+   "type": "Z",
+   "year": 1808,
+   "by": "schranka"
+  },
+  {
+   "scan": 71,
+   "type": "Z",
+   "year": 1812,
+   "by": "schranka"
+  },
+  {
+   "scan": 77,
+   "type": "Z",
+   "year": 1832,
+   "by": "schranka"
+  },
+  {
+   "scan": 83,
+   "type": "Z",
+   "year": 1843,
+   "by": "schranka"
+  },
+  {
+   "scan": 87,
+   "type": "Z",
+   "year": 1854,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-13"
+  }
+ ]
+}

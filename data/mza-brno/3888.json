@@ -1,0 +1,57 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "3888",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/3888",
+ "signature": "Dolní Kounice 1135",
+ "parish": "Dolní Kounice",
+ "records": {
+  "N": "1729–1753",
+  "O": "1734"
+ },
+ "points": [
+  {
+   "scan": 166,
+   "type": "N",
+   "year": 1729,
+   "by": "schranka"
+  },
+  {
+   "scan": 202,
+   "type": "N",
+   "year": 1737,
+   "by": "schranka"
+  },
+  {
+   "scan": 252,
+   "type": "N",
+   "year": 1748,
+   "by": "schranka"
+  },
+  {
+   "scan": 260,
+   "type": "N",
+   "year": 1750,
+   "by": "schranka"
+  },
+  {
+   "scan": 280,
+   "type": "N",
+   "year": 1753,
+   "by": "schranka"
+  },
+  {
+   "scan": 355,
+   "type": "O",
+   "year": 1734,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-13"
+  }
+ ]
+}
