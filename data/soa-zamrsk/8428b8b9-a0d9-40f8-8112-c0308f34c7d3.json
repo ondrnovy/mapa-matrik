@@ -1,0 +1,34 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "8428b8b9-a0d9-40f8-8112-c0308f34c7d3",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/8428b8b9-a0d9-40f8-8112-c0308f34c7d3",
+ "signature": "1254",
+ "parish": "Dolní Újezd",
+ "records": {
+  "N": "1837–1856"
+ },
+ "points": [
+  {
+   "scan": 316,
+   "type": "N",
+   "year": 1853,
+   "months": "VII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 317,
+   "type": "N",
+   "year": 1853,
+   "months": "VIII",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

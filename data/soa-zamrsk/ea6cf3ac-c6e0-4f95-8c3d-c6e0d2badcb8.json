@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "ea6cf3ac-c6e0-4f95-8c3d-c6e0d2badcb8",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/ea6cf3ac-c6e0-4f95-8c3d-c6e0d2badcb8",
+ "signature": "5445",
+ "parish": "Morašice",
+ "records": {
+  "N": "1845–1897"
+ },
+ "points": [
+  {
+   "scan": 18,
+   "type": "N",
+   "year": 1853,
+   "months": "VIII",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}
