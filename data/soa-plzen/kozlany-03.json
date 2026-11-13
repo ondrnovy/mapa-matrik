@@ -1,0 +1,68 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "kozlany-03",
+ "url": "https://www.portafontium.eu/register/soap-pn/kozlany-03",
+ "signature": "Kožlany 03",
+ "parish": "Kožlany",
+ "records": {
+  "N": "1703–1722",
+  "O": "1703–1722",
+  "Z": "1704–1722"
+ },
+ "places": [
+  "Kožlany",
+  "Hedčany"
+ ],
+ "place_codes": {
+  "Kožlany": 72061,
+  "Hedčany": 32999
+ },
+ "order": "chronological",
+ "scans": 280,
+ "language": "čeština, latina",
+ "points": [
+  {
+   "scan": 165,
+   "type": "N",
+   "year": 1722,
+   "months": "I–II",
+   "page": "316–319",
+   "note": "začátek roku 1722; kniha bez rejstříku, oddíly N sn. 3–178, O 179–217, Z 218–271",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 170,
+   "type": "N",
+   "year": 1722,
+   "months": "V",
+   "page": "328–329",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 178,
+   "type": "N",
+   "year": 1722,
+   "months": "XII",
+   "page": "344–345",
+   "note": "konec oddílu N, str. 345 prázdná",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 276,
+   "type": "N",
+   "year": 1718,
+   "year_to": 1719,
+   "page": "552–553",
+   "note": "druhý oddíl N na konci knihy (sn. 272–279)",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-13"
+  }
+ ]
+}
