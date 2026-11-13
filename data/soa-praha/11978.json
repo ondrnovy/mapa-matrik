@@ -129,6 +129,53 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 134,
+   "type": "Z",
+   "year": 1772,
+   "year_to": 1773,
+   "months": "VIII 1772 – III 1773",
+   "page": "153v–154",
+   "note": "nadpis „Anno 1773“ na pravé straně; v oddílu Z snímek ≈ folio − 20",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 157,
+   "type": "iZ",
+   "page": "177",
+   "letters": "D (konec)",
+   "note": "v oddílu iZ snímek = folio − 20",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 170,
+   "type": "iZ",
+   "year": 1760,
+   "year_to": 1784,
+   "page": "190",
+   "letters": "R",
+   "note": "rejstřík Z chronologicky s vepsanými roky (1771, 1780)",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 172,
+   "type": "iZ",
+   "year": 1760,
+   "year_to": 1784,
+   "page": "192",
+   "letters": "S",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 173,
+   "type": "iZ",
+   "year": 1760,
+   "year_to": 1784,
+   "page": "193",
+   "letters": "Sch",
+   "note": "vepsané roky 1760, 1765, 1770",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 187,
    "type": "iO",
    "page": "fol. 211",
@@ -182,6 +229,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-12"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-13"
   }
  ]
 }
