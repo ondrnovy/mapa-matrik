@@ -7,7 +7,7 @@
  "signature": "Trhové Sviny 9",
  "parish": "Trhové Sviny",
  "records": {
-  "N": "1848–1858"
+  "N": "1846–1859"
  },
  "points": [
   {
@@ -44,6 +44,12 @@
    "scan": 229,
    "type": "N",
    "year": 1858,
+   "by": "schranka"
+  },
+  {
+   "scan": 288,
+   "type": "N",
+   "year": 1853,
    "by": "schranka"
   }
  ],
