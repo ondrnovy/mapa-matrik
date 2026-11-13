@@ -1,0 +1,47 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "radnice-ro-07",
+ "url": "https://www.portafontium.eu/register/soap-pn/radnice-ro-07",
+ "signature": "Radnice (RO) 07",
+ "parish": "Radnice",
+ "records": {
+  "N": "1773–1814",
+  "O": "1773–1821",
+  "Z": "1773–1821"
+ },
+ "places": [
+  "Radnice"
+ ],
+ "order": "chronological",
+ "scans": 314,
+ "language": "latina, němčina",
+ "points": [
+  {
+   "scan": 157,
+   "type": "O",
+   "year": 1800,
+   "year_to": 1801,
+   "page": "326–327",
+   "place": "Radnice",
+   "note": "oddíly: N sn. 6–121, rejstřík N 122–146, O 147–197, rejstřík O 198–209, Z 210–290",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 203,
+   "type": "iO",
+   "year": 1773,
+   "year_to": 1821,
+   "letters": "M–N",
+   "note": "rejstřík podle ženicha, čísla = strany",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-13"
+  }
+ ]
+}
