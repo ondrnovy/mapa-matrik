@@ -17,6 +17,15 @@
  "order": "mixed",
  "points": [
   {
+   "scan": 5,
+   "type": "N",
+   "year": 1723,
+   "page": "fol. 3",
+   "place": "Kožlany",
+   "note": "rejstřík N odkazuje na folia, fol. 1 = sn. 3",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 158,
    "type": "N",
    "year": 1758,

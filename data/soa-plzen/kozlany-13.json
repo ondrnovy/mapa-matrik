@@ -27,6 +27,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-11"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-13"
   }
  ],
  "points": [
@@ -45,6 +49,15 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 8,
+   "type": "Z",
+   "year": 1786,
+   "year_to": 1787,
+   "months": "IV 1786 – II 1787",
+   "place": "Kožlany",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 11,
    "type": "Z",
    "year": 1787,
@@ -59,10 +72,27 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 18,
+   "type": "Z",
+   "year": 1791,
+   "months": "III–V",
+   "place": "Kožlany",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 23,
    "type": "Z",
    "year": 1793,
    "page": "23",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 29,
+   "type": "Z",
+   "year": 1795,
+   "year_to": 1796,
+   "months": "XI 1795 – II 1796",
+   "place": "Kožlany",
    "by": "ondrnovy"
   },
   {
@@ -76,6 +106,16 @@
    "type": "Z",
    "year": 1798,
    "page": "35",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 37,
+   "type": "Z",
+   "year": 1798,
+   "year_to": 1799,
+   "months": "XI 1798 – I 1799",
+   "place": "Kožlany",
+   "note": "tištěný formulář, 1 strana na snímek; oddíl Kožlany sn. 4–38 (1784 – III 1799)",
    "by": "ondrnovy"
   },
   {

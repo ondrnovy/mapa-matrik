@@ -52,6 +52,24 @@
    "year_to": 1778,
    "letters": "K–P",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 188,
+   "type": "Z",
+   "year": 1775,
+   "months": "III–V",
+   "page": "80–81",
+   "place": "Kožlany",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 210,
+   "type": "iZ",
+   "year": 1760,
+   "year_to": 1784,
+   "letters": "L–N",
+   "note": "rejstřík zemřelých, odkazy na strany",
+   "by": "ondrnovy"
   }
  ],
  "sources": [
