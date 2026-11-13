@@ -1,0 +1,76 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "6861",
+ "url": "https://digi.ceskearchivy.cz/6861",
+ "signature": "Radomyšl NOZ 1733–1768",
+ "parish": "Radomyšl",
+ "records": {
+  "N": "1733–1768",
+  "O": "1733–1768",
+  "Z": "1733–1768"
+ },
+ "points": [
+  {
+   "scan": 61,
+   "type": "N",
+   "year": 1756,
+   "year_to": 1759,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 62,
+   "type": "N",
+   "year": 1760,
+   "months": "VII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 84,
+   "type": "N",
+   "year": 1748,
+   "year_to": 1751,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 86,
+   "type": "N",
+   "year": 1755,
+   "year_to": 1756,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 87,
+   "type": "N",
+   "year": 1758,
+   "months": "XII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 215,
+   "type": "O",
+   "year": 1745,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 223,
+   "type": "O",
+   "year": 1752,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 282,
+   "type": "Z",
+   "year": 1762,
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

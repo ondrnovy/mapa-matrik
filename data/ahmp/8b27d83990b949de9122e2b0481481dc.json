@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "8b27d83990b949de9122e2b0481481dc",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=8b27d83990b949de9122e2b0481481dc",
+ "signature": "ŽKR N47b",
+ "parish": "Žižkov – kostel sv. Rocha",
+ "records": {
+  "N": "1914–1915"
+ },
+ "points": [
+  {
+   "scan": 9,
+   "type": "N",
+   "year": 1914,
+   "months": "X",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

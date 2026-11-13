@@ -1,0 +1,38 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "letiny-07",
+ "url": "https://www.portafontium.eu/register/soap-pn/letiny-07",
+ "signature": "Letiny 07",
+ "parish": "Letiny",
+ "records": {
+  "N": "1777–1783",
+  "O": "1777–1783"
+ },
+ "points": [
+  {
+   "scan": 10,
+   "type": "O",
+   "year": 1777,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 54,
+   "type": "N",
+   "year": 1783,
+   "months": "V",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ],
+ "notes": [
+  "Roky v records jen podle zápisů přečtených v indexu matrik; kniha může být širší."
+ ]
+}

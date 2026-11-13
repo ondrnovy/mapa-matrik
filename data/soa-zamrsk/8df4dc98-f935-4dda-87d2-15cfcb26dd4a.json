@@ -1,0 +1,352 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "8df4dc98-f935-4dda-87d2-15cfcb26dd4a",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/8df4dc98-f935-4dda-87d2-15cfcb26dd4a",
+ "signature": "117-1",
+ "parish": "Nový Hrádek",
+ "records": {
+  "N": "1721–1771",
+  "O": "1721–1771",
+  "Z": "1721–1771"
+ },
+ "points": [
+  {
+   "scan": 9,
+   "type": "N",
+   "year": 1722,
+   "months": "II",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 22,
+   "type": "N",
+   "year": 1725,
+   "months": "V",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 23,
+   "type": "N",
+   "year": 1725,
+   "months": "VII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 42,
+   "type": "N",
+   "year": 1732,
+   "months": "XII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 54,
+   "type": "N",
+   "year": 1737,
+   "months": "IV",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 55,
+   "type": "N",
+   "year": 1737,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 56,
+   "type": "N",
+   "year": 1738,
+   "months": "IV",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 59,
+   "type": "N",
+   "year": 1739,
+   "months": "III–V",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 61,
+   "type": "N",
+   "year": 1740,
+   "months": "I",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 65,
+   "type": "N",
+   "year": 1741,
+   "months": "VIII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 72,
+   "type": "N",
+   "year": 1743,
+   "months": "III",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 83,
+   "type": "N",
+   "year": 1745,
+   "year_to": 1746,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 84,
+   "type": "N",
+   "year": 1746,
+   "months": "III",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 85,
+   "type": "N",
+   "year": 1746,
+   "months": "VI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 87,
+   "type": "N",
+   "year": 1747,
+   "months": "II",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 90,
+   "type": "N",
+   "year": 1748,
+   "months": "V",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 91,
+   "type": "N",
+   "year": 1748,
+   "months": "VI–VII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 95,
+   "type": "N",
+   "year": 1749,
+   "months": "X",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 96,
+   "type": "N",
+   "year": 1750,
+   "months": "II–III",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 103,
+   "type": "N",
+   "year": 1751,
+   "months": "XII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 117,
+   "type": "N",
+   "year": 1755,
+   "months": "I",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 141,
+   "type": "N",
+   "year": 1760,
+   "months": "III",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 154,
+   "type": "N",
+   "year": 1763,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 155,
+   "type": "N",
+   "year": 1763,
+   "months": "II",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 168,
+   "type": "N",
+   "year": 1766,
+   "months": "IV",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 176,
+   "type": "N",
+   "year": 1767,
+   "year_to": 1771,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 177,
+   "type": "N",
+   "year": 1768,
+   "months": "II",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 181,
+   "type": "N",
+   "year": 1768,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 185,
+   "type": "N",
+   "year": 1769,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 196,
+   "type": "O",
+   "year": 1770,
+   "year_to": 1771,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 209,
+   "type": "O",
+   "year": 1733,
+   "months": "VII–X",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 210,
+   "type": "O",
+   "year": 1734,
+   "months": "I–VI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 211,
+   "type": "O",
+   "year": 1735,
+   "months": "VIII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 212,
+   "type": "O",
+   "year": 1736,
+   "months": "I–XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 213,
+   "type": "O",
+   "year": 1737,
+   "months": "II",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 216,
+   "type": "O",
+   "year": 1741,
+   "months": "II",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 221,
+   "type": "O",
+   "year": 1744,
+   "months": "II",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 229,
+   "type": "O",
+   "year": 1751,
+   "months": "VIII–XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 230,
+   "type": "O",
+   "year": 1751,
+   "year_to": 1752,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 241,
+   "type": "O",
+   "year": 1759,
+   "months": "VII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 245,
+   "type": "O",
+   "year": 1760,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 254,
+   "type": "O",
+   "year": 1766,
+   "months": "X",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 258,
+   "type": "O",
+   "year": 1769,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 267,
+   "type": "Z",
+   "year": 1730,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 275,
+   "type": "Z",
+   "year": 1737,
+   "months": "V–VI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 295,
+   "type": "Z",
+   "year": 1750,
+   "year_to": 1751,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 299,
+   "type": "Z",
+   "year": 1755,
+   "months": "XII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 312,
+   "type": "Z",
+   "year": 1766,
+   "months": "XII",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

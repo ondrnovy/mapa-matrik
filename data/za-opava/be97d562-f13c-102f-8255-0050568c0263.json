@@ -1,0 +1,236 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be97d562-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be97d562-f13c-102f-8255-0050568c0263",
+ "signature": "Ruda nad Moravou N, O, Z 1757–1771 s rejstříky N a O",
+ "parish": "Ruda nad Moravou",
+ "records": {
+  "N": "1757–1771",
+  "O": "1757–1771",
+  "Z": "1757–1771"
+ },
+ "points": [
+  {
+   "scan": 3,
+   "type": "N",
+   "year": 1757,
+   "months": "VI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 4,
+   "type": "N",
+   "year": 1757,
+   "months": "IX",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 6,
+   "type": "N",
+   "year": 1758,
+   "months": "III",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 7,
+   "type": "N",
+   "year": 1758,
+   "year_to": 1759,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 9,
+   "type": "N",
+   "year": 1759,
+   "months": "VII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 11,
+   "type": "N",
+   "year": 1760,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 15,
+   "type": "N",
+   "year": 1759,
+   "months": "VI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 16,
+   "type": "N",
+   "year": 1761,
+   "months": "VIII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 26,
+   "type": "N",
+   "year": 1764,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 28,
+   "type": "N",
+   "year": 1765,
+   "months": "V",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 32,
+   "type": "N",
+   "year": 1766,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 36,
+   "type": "N",
+   "year": 1767,
+   "months": "X",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 39,
+   "type": "N",
+   "year": 1768,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 40,
+   "type": "N",
+   "year": 1768,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 41,
+   "type": "N",
+   "year": 1769,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 42,
+   "type": "N",
+   "year": 1769,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 44,
+   "type": "N",
+   "year": 1770,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 48,
+   "type": "N",
+   "year": 1770,
+   "months": "VII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 49,
+   "type": "N",
+   "year": 1770,
+   "months": "X",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 54,
+   "type": "N",
+   "year": 1771,
+   "months": "VII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 56,
+   "type": "N",
+   "year": 1771,
+   "months": "X",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 59,
+   "type": "O",
+   "year": 1757,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 60,
+   "type": "O",
+   "year": 1758,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 65,
+   "type": "O",
+   "year": 1762,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 70,
+   "type": "O",
+   "year": 1767,
+   "months": "VII–VIII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 71,
+   "type": "O",
+   "year": 1768,
+   "months": "II",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 72,
+   "type": "O",
+   "year": 1768,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 76,
+   "type": "O",
+   "year": 1771,
+   "months": "I–V",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 85,
+   "type": "Z",
+   "year": 1761,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 86,
+   "type": "Z",
+   "year": 1762,
+   "months": "IV",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 88,
+   "type": "Z",
+   "year": 1763,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 103,
+   "type": "Z",
+   "year": 1771,
+   "months": "II",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

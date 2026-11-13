@@ -1,0 +1,48 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "ab67b4df-8c81-4421-97bc-508551f5366d",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/ab67b4df-8c81-4421-97bc-508551f5366d",
+ "signature": "120-11",
+ "parish": "Opočno",
+ "records": {
+  "O": "1784–1834"
+ },
+ "points": [
+  {
+   "scan": 5,
+   "type": "O",
+   "year": 1787,
+   "months": "II",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 6,
+   "type": "O",
+   "year": 1790,
+   "year_to": 1791,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 14,
+   "type": "O",
+   "year": 1809,
+   "months": "VII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 90,
+   "type": "O",
+   "year": 1784,
+   "year_to": 1834,
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

@@ -1,0 +1,131 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "e62c8364-6077-4140-a3fc-379e309dfb9f",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/e62c8364-6077-4140-a3fc-379e309dfb9f",
+ "signature": "136-3",
+ "parish": "Přepychy",
+ "records": {
+  "N": "1688–1707",
+  "O": "1688–1707",
+  "Z": "1688–1707"
+ },
+ "points": [
+  {
+   "scan": 6,
+   "type": "N",
+   "year": 1688,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 12,
+   "type": "N",
+   "year": 1692,
+   "year_to": 1693,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 61,
+   "type": "N",
+   "year": 1688,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 72,
+   "type": "N",
+   "year": 1697,
+   "months": "IX",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 77,
+   "type": "N",
+   "year": 1701,
+   "months": "II",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 78,
+   "type": "N",
+   "year": 1701,
+   "months": "V–VIII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 79,
+   "type": "N",
+   "year": 1703,
+   "months": "II",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 80,
+   "type": "N",
+   "year": 1703,
+   "year_to": 1704,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 81,
+   "type": "N",
+   "year": 1704,
+   "months": "IX",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 83,
+   "type": "N",
+   "year": 1706,
+   "months": "IX",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 94,
+   "type": "O",
+   "year": 1688,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 97,
+   "type": "O",
+   "year": 1694,
+   "months": "V",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 98,
+   "type": "O",
+   "year": 1696,
+   "months": "I",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 99,
+   "type": "O",
+   "year": 1697,
+   "months": "VIII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 100,
+   "type": "O",
+   "year": 1699,
+   "year_to": 1700,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 102,
+   "type": "O",
+   "year": 1705,
+   "months": "VII",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

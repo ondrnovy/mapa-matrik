@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "6864",
+ "url": "https://digi.ceskearchivy.cz/6864",
+ "signature": "Radomyšl N 1806–1823",
+ "parish": "Radomyšl",
+ "records": {
+  "N": "1806–1823"
+ },
+ "points": [
+  {
+   "scan": 37,
+   "type": "N",
+   "year": 1806,
+   "year_to": 1807,
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "96b5c1a1-c154-45d3-8773-cc5effe0894b",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/96b5c1a1-c154-45d3-8773-cc5effe0894b",
+ "signature": "1243",
+ "parish": "Čistá",
+ "records": {
+  "O": "1720–1835"
+ },
+ "points": [
+  {
+   "scan": 6,
+   "type": "O",
+   "year": 1722,
+   "year_to": 1746,
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

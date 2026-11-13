@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "0dddfca0-dcbb-4d51-b9ac-ff46b46c5a12",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/0dddfca0-dcbb-4d51-b9ac-ff46b46c5a12",
+ "signature": "26-3857",
+ "parish": "Dobruška",
+ "records": {
+  "O": "1844–1874"
+ },
+ "points": [
+  {
+   "scan": 39,
+   "type": "O",
+   "year": 1848,
+   "months": "VIII",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

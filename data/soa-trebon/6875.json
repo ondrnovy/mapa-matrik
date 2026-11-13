@@ -1,0 +1,34 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "6875",
+ "url": "https://digi.ceskearchivy.cz/6875",
+ "signature": "Radomyšl O 1837–1861",
+ "parish": "Radomyšl",
+ "records": {
+  "O": "1837–1861"
+ },
+ "points": [
+  {
+   "scan": 46,
+   "type": "O",
+   "year": 1837,
+   "year_to": 1838,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 197,
+   "type": "O",
+   "year": 1838,
+   "months": "VII",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "nepomuk-04",
+ "url": "https://www.portafontium.eu/register/soap-pn/nepomuk-04",
+ "signature": "Nepomuk 04",
+ "parish": "Nepomuk",
+ "records": {
+  "O": "1834"
+ },
+ "points": [
+  {
+   "scan": 10,
+   "type": "O",
+   "year": 1834,
+   "months": "XI",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ],
+ "notes": [
+  "Roky v records jen podle zápisů přečtených v indexu matrik; kniha může být širší."
+ ]
+}

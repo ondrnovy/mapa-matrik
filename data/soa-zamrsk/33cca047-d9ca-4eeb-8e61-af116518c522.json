@@ -1,0 +1,49 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "33cca047-d9ca-4eeb-8e61-af116518c522",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/33cca047-d9ca-4eeb-8e61-af116518c522",
+ "signature": "171-1",
+ "parish": "Bělá",
+ "records": {
+  "N": "1724–1752",
+  "O": "1724–1752"
+ },
+ "points": [
+  {
+   "scan": 30,
+   "type": "N",
+   "year": 1724,
+   "year_to": 1752,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 31,
+   "type": "N",
+   "year": 1742,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 33,
+   "type": "N",
+   "year": 1745,
+   "months": "II",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 53,
+   "type": "O",
+   "year": 1724,
+   "year_to": 1752,
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

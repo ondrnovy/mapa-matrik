@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "0042c435-fb11-4c74-88c1-b3cf903e16a9",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/0042c435-fb11-4c74-88c1-b3cf903e16a9",
+ "signature": "1300",
+ "parish": "Litomyšl",
+ "records": {
+  "N": "1735–1763"
+ },
+ "points": [
+  {
+   "scan": 163,
+   "type": "N",
+   "year": 1744,
+   "months": "X",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

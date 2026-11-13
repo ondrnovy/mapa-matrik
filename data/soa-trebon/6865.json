@@ -1,0 +1,48 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "6865",
+ "url": "https://digi.ceskearchivy.cz/6865",
+ "signature": "Radomyšl N 1824–1841",
+ "parish": "Radomyšl",
+ "records": {
+  "N": "1824–1841"
+ },
+ "points": [
+  {
+   "scan": 95,
+   "type": "N",
+   "year": 1829,
+   "year_to": 1838,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 98,
+   "type": "N",
+   "year": 1832,
+   "months": "IV",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 104,
+   "type": "N",
+   "year": 1838,
+   "months": "I",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 423,
+   "type": "N",
+   "year": 1839,
+   "months": "VI",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

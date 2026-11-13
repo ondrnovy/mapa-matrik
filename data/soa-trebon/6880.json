@@ -1,0 +1,41 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "6880",
+ "url": "https://digi.ceskearchivy.cz/6880",
+ "signature": "Radomyšl Z 1806–1838",
+ "parish": "Radomyšl",
+ "records": {
+  "Z": "1806–1838"
+ },
+ "points": [
+  {
+   "scan": 48,
+   "type": "Z",
+   "year": 1838,
+   "months": "I",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 152,
+   "type": "Z",
+   "year": 1807,
+   "months": "III–V",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 159,
+   "type": "Z",
+   "year": 1822,
+   "months": "IV",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "8855",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/8855",
+ "signature": "Zbečno 10",
+ "parish": "Zbečno",
+ "records": {
+  "N": "1784–1849"
+ },
+ "points": [
+  {
+   "scan": 21,
+   "type": "N",
+   "year": 1796,
+   "months": "VI",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

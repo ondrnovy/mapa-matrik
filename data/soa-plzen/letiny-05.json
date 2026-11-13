@@ -1,0 +1,30 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "letiny-05",
+ "url": "https://www.portafontium.eu/register/soap-pn/letiny-05",
+ "signature": "Letiny 05",
+ "parish": "Letiny",
+ "records": {
+  "O": "1802"
+ },
+ "points": [
+  {
+   "scan": 7,
+   "type": "O",
+   "year": 1802,
+   "months": "XI",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ],
+ "notes": [
+  "Roky v records jen podle zápisů přečtených v indexu matrik; kniha může být širší."
+ ]
+}

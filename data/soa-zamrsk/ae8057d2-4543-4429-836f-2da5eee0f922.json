@@ -1,0 +1,99 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "ae8057d2-4543-4429-836f-2da5eee0f922",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/ae8057d2-4543-4429-836f-2da5eee0f922",
+ "signature": "171-2",
+ "parish": "Bělá",
+ "records": {
+  "N": "1753–1786",
+  "O": "1753–1786",
+  "Z": "1753–1786"
+ },
+ "points": [
+  {
+   "scan": 54,
+   "type": "N",
+   "year": 1753,
+   "year_to": 1786,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 56,
+   "type": "N",
+   "year": 1774,
+   "months": "VIII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 58,
+   "type": "N",
+   "year": 1775,
+   "months": "X",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 61,
+   "type": "N",
+   "year": 1776,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 65,
+   "type": "N",
+   "year": 1777,
+   "months": "XII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 69,
+   "type": "N",
+   "year": 1779,
+   "months": "V",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 72,
+   "type": "N",
+   "year": 1780,
+   "months": "VII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 80,
+   "type": "N",
+   "year": 1782,
+   "months": "VIII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 122,
+   "type": "O",
+   "year": 1774,
+   "months": "VI–XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 127,
+   "type": "O",
+   "year": 1781,
+   "months": "X",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 180,
+   "type": "Z",
+   "year": 1781,
+   "months": "V–VII",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

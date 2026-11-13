@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "11346",
+ "url": "https://digi.ceskearchivy.cz/11346",
+ "signature": "Radobytce N 1893–1907",
+ "parish": "Radobytce",
+ "records": {
+  "N": "1893–1907"
+ },
+ "points": [
+  {
+   "scan": 74,
+   "type": "N",
+   "year": 1897,
+   "months": "IX",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

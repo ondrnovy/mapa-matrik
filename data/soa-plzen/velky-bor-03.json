@@ -1,0 +1,37 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "velky-bor-03",
+ "url": "https://www.portafontium.eu/register/soap-pn/velky-bor-03",
+ "signature": "Velký Bor 03",
+ "parish": "Velký Bor",
+ "records": {
+  "N": "1773–1795"
+ },
+ "points": [
+  {
+   "scan": 11,
+   "type": "N",
+   "year": 1773,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 85,
+   "type": "N",
+   "year": 1795,
+   "months": "I",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ],
+ "notes": [
+  "Roky v records jen podle zápisů přečtených v indexu matrik; kniha může být širší."
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "velky-bor-08",
+ "url": "https://www.portafontium.eu/register/soap-pn/velky-bor-08",
+ "signature": "Velký Bor 08",
+ "parish": "Velký Bor",
+ "records": {
+  "O": "1746–1771"
+ },
+ "points": [
+  {
+   "scan": 16,
+   "type": "O",
+   "year": 1762,
+   "months": "VI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 45,
+   "type": "O",
+   "year": 1762,
+   "months": "VI",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

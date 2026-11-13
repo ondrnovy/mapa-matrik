@@ -1,0 +1,62 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "2b7b3248-1854-4a54-bb42-d2b92e4de2a2",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/2b7b3248-1854-4a54-bb42-d2b92e4de2a2",
+ "signature": "147-4",
+ "parish": "Slavoňov",
+ "records": {
+  "Z": "1787–1851"
+ },
+ "points": [
+  {
+   "scan": 147,
+   "type": "Z",
+   "year": 1787,
+   "months": "XII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 170,
+   "type": "Z",
+   "year": 1787,
+   "year_to": 1789,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 173,
+   "type": "Z",
+   "year": 1797,
+   "months": "IV",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 205,
+   "type": "Z",
+   "year": 1787,
+   "year_to": 1798,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 206,
+   "type": "Z",
+   "year": 1790,
+   "year_to": 1795,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 207,
+   "type": "Z",
+   "year": 1796,
+   "year_to": 1798,
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

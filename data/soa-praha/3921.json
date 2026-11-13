@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "3921",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/3921",
+ "signature": "Beroun 17",
+ "parish": "Beroun",
+ "records": {
+  "O": "1734–1757"
+ },
+ "points": [
+  {
+   "scan": 25,
+   "type": "O",
+   "year": 1738,
+   "months": "X",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

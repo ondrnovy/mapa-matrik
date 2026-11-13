@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "3909",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/3909",
+ "signature": "Beroun 07",
+ "parish": "Beroun",
+ "records": {
+  "N": "1739–1760"
+ },
+ "points": [
+  {
+   "scan": 198,
+   "type": "N",
+   "year": 1754,
+   "months": "III",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

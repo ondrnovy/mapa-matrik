@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "5556",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/5556",
+ "signature": "Drahany N 1773–1819",
+ "parish": "Drahany",
+ "records": {
+  "N": "1773–1819"
+ },
+ "points": [
+  {
+   "scan": 64,
+   "type": "N",
+   "year": 1783,
+   "year_to": 1784,
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

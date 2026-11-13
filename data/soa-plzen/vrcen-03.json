@@ -1,0 +1,111 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "vrcen-03",
+ "url": "https://www.portafontium.eu/register/soap-pn/vrcen-03",
+ "signature": "Vrčeň 03",
+ "parish": "Vrčeň",
+ "records": {
+  "N": "1683–1697"
+ },
+ "points": [
+  {
+   "scan": 21,
+   "type": "N",
+   "year": 1690,
+   "months": "I–VII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 22,
+   "type": "N",
+   "year": 1690,
+   "months": "VII–X",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 23,
+   "type": "N",
+   "year": 1690,
+   "year_to": 1691,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 24,
+   "type": "N",
+   "year": 1691,
+   "months": "II–V",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 25,
+   "type": "N",
+   "year": 1691,
+   "months": "VI–IX",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 26,
+   "type": "N",
+   "year": 1691,
+   "year_to": 1692,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 27,
+   "type": "N",
+   "year": 1692,
+   "months": "II–XII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 28,
+   "type": "N",
+   "year": 1693,
+   "months": "II–X",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 29,
+   "type": "N",
+   "year": 1693,
+   "year_to": 1694,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 30,
+   "type": "N",
+   "year": 1694,
+   "year_to": 1695,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 31,
+   "type": "N",
+   "year": 1695,
+   "year_to": 1696,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 32,
+   "type": "N",
+   "year": 1696,
+   "year_to": 1697,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 33,
+   "type": "N",
+   "year": 1697,
+   "months": "II–VII",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

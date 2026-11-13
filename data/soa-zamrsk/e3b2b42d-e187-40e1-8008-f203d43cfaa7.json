@@ -1,0 +1,34 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "e3b2b42d-e187-40e1-8008-f203d43cfaa7",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/e3b2b42d-e187-40e1-8008-f203d43cfaa7",
+ "signature": "24-6",
+ "parish": "Deštné v Orlických horách",
+ "records": {
+  "N": "1784–1838"
+ },
+ "points": [
+  {
+   "scan": 40,
+   "type": "N",
+   "year": 1804,
+   "months": "VII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 46,
+   "type": "N",
+   "year": 1807,
+   "months": "XII",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

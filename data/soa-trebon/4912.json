@@ -1,0 +1,29 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "4912",
+ "url": "https://digi.ceskearchivy.cz/4912",
+ "signature": "Kovářov NOZ 1769–1785",
+ "parish": "Kovářov",
+ "records": {
+  "N": "1769–1785",
+  "O": "1769–1785",
+  "Z": "1769–1785"
+ },
+ "points": [
+  {
+   "scan": 90,
+   "type": "N",
+   "year": 1779,
+   "year_to": 1784,
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

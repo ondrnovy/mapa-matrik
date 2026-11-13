@@ -1,0 +1,83 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "9f80afda-e937-4bea-ba63-625bb446d2d5",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/9f80afda-e937-4bea-ba63-625bb446d2d5",
+ "signature": "14-6104",
+ "parish": "Bystré",
+ "records": {
+  "Z": "1838–1909"
+ },
+ "points": [
+  {
+   "scan": 21,
+   "type": "Z",
+   "year": 1844,
+   "months": "II–III",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 26,
+   "type": "Z",
+   "year": 1846,
+   "months": "VII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 33,
+   "type": "Z",
+   "year": 1850,
+   "months": "IV",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 34,
+   "type": "Z",
+   "year": 1850,
+   "months": "V",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 54,
+   "type": "Z",
+   "year": 1864,
+   "months": "VI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 65,
+   "type": "Z",
+   "year": 1873,
+   "months": "I",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 76,
+   "type": "Z",
+   "year": 1883,
+   "months": "VI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 137,
+   "type": "Z",
+   "year": 1838,
+   "year_to": 1895,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 141,
+   "type": "Z",
+   "year": 1840,
+   "year_to": 1866,
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

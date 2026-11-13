@@ -1,0 +1,30 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "kvasnovice-21",
+ "url": "https://www.portafontium.eu/register/soap-pn/kvasnovice-21",
+ "signature": "Kvášňovice 21",
+ "parish": "Kvášňovice",
+ "records": {
+  "Z": "1883"
+ },
+ "points": [
+  {
+   "scan": 74,
+   "type": "Z",
+   "year": 1883,
+   "months": "VIII",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ],
+ "notes": [
+  "Roky v records jen podle zápisů přečtených v indexu matrik; kniha může být širší."
+ ]
+}

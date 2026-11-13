@@ -1,0 +1,181 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "264cf7e3-6c7d-4406-8a25-be67c3e96ff5",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/264cf7e3-6c7d-4406-8a25-be67c3e96ff5",
+ "signature": "117-3",
+ "parish": "Nový Hrádek",
+ "records": {
+  "N": "1788–1826"
+ },
+ "points": [
+  {
+   "scan": 348,
+   "type": "N",
+   "year": 1788,
+   "year_to": 1789,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 349,
+   "type": "N",
+   "year": 1789,
+   "year_to": 1792,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 350,
+   "type": "N",
+   "year": 1792,
+   "year_to": 1794,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 351,
+   "type": "N",
+   "year": 1794,
+   "year_to": 1796,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 352,
+   "type": "N",
+   "year": 1796,
+   "year_to": 1797,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 353,
+   "type": "N",
+   "year": 1797,
+   "year_to": 1798,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 354,
+   "type": "N",
+   "year": 1798,
+   "year_to": 1799,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 355,
+   "type": "N",
+   "year": 1799,
+   "year_to": 1800,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 356,
+   "type": "N",
+   "year": 1801,
+   "months": "II–VIII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 357,
+   "type": "N",
+   "year": 1801,
+   "year_to": 1802,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 358,
+   "type": "N",
+   "year": 1802,
+   "year_to": 1803,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 359,
+   "type": "N",
+   "year": 1803,
+   "year_to": 1804,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 360,
+   "type": "N",
+   "year": 1804,
+   "year_to": 1805,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 361,
+   "type": "N",
+   "year": 1805,
+   "year_to": 1807,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 362,
+   "type": "N",
+   "year": 1807,
+   "months": "VII–XII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 363,
+   "type": "N",
+   "year": 1807,
+   "year_to": 1809,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 364,
+   "type": "N",
+   "year": 1809,
+   "year_to": 1810,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 365,
+   "type": "N",
+   "year": 1810,
+   "year_to": 1811,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 366,
+   "type": "N",
+   "year": 1812,
+   "year_to": 1813,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 367,
+   "type": "N",
+   "year": 1813,
+   "year_to": 1814,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 368,
+   "type": "N",
+   "year": 1814,
+   "year_to": 1815,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 369,
+   "type": "N",
+   "year": 1815,
+   "year_to": 1817,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 370,
+   "type": "N",
+   "year": 1818,
+   "year_to": 1820,
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

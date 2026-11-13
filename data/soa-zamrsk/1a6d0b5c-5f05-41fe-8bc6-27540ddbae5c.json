@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "1a6d0b5c-5f05-41fe-8bc6-27540ddbae5c",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/1a6d0b5c-5f05-41fe-8bc6-27540ddbae5c",
+ "signature": "2095",
+ "parish": "Choceň",
+ "records": {
+  "N": "1725–1785"
+ },
+ "points": [
+  {
+   "scan": 321,
+   "type": "N",
+   "year": 1758,
+   "year_to": 1759,
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "maly-bor-14",
+ "url": "https://www.portafontium.eu/register/soap-pn/maly-bor-14",
+ "signature": "Malý Bor 14",
+ "parish": "Malý Bor",
+ "records": {
+  "Z": "1834–1869"
+ },
+ "points": [
+  {
+   "scan": 9,
+   "type": "Z",
+   "year": 1834,
+   "year_to": 1869,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 10,
+   "type": "Z",
+   "year": 1856,
+   "year_to": 1858,
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ],
+ "notes": [
+  "Roky v records jen podle zápisů přečtených v indexu matrik; kniha může být širší."
+ ]
+}

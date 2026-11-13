@@ -1,0 +1,44 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "kvasnovice-11",
+ "url": "https://www.portafontium.eu/register/soap-pn/kvasnovice-11",
+ "signature": "Kvášňovice 11",
+ "parish": "Kvášňovice",
+ "records": {
+  "Z": "1846–1853"
+ },
+ "points": [
+  {
+   "scan": 30,
+   "type": "Z",
+   "year": 1846,
+   "months": "V",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 38,
+   "type": "Z",
+   "year": 1849,
+   "months": "IV",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 48,
+   "type": "Z",
+   "year": 1853,
+   "months": "X",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ],
+ "notes": [
+  "Roky v records jen podle zápisů přečtených v indexu matrik; kniha může být širší."
+ ]
+}

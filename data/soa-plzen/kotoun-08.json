@@ -1,0 +1,37 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "kotoun-08",
+ "url": "https://www.portafontium.eu/register/soap-pn/kotoun-08",
+ "signature": "Kotouň 08",
+ "parish": "Kotouň",
+ "records": {
+  "Z": "1791–1798"
+ },
+ "points": [
+  {
+   "scan": 22,
+   "type": "Z",
+   "year": 1791,
+   "months": "X",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 26,
+   "type": "Z",
+   "year": 1798,
+   "months": "IV",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ],
+ "notes": [
+  "Roky v records jen podle zápisů přečtených v indexu matrik; kniha může být širší."
+ ]
+}

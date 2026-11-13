@@ -1,0 +1,37 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "maly-bor-26",
+ "url": "https://www.portafontium.eu/register/soap-pn/maly-bor-26",
+ "signature": "Malý Bor 26",
+ "parish": "Malý Bor",
+ "records": {
+  "Z": "1926–1944"
+ },
+ "points": [
+  {
+   "scan": 103,
+   "type": "Z",
+   "year": 1926,
+   "months": "I",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 104,
+   "type": "Z",
+   "year": 1944,
+   "months": "V",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ],
+ "notes": [
+  "Roky v records jen podle zápisů přečtených v indexu matrik; kniha může být širší."
+ ]
+}

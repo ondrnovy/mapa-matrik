@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "3E2A21FD6140426799E6549EC48B007B",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=3E2A21FD6140426799E6549EC48B007B",
+ "signature": "ŽKR Z18",
+ "parish": "Žižkov – kostel sv. Rocha",
+ "records": {
+  "Z": "1908–1912"
+ },
+ "points": [
+  {
+   "scan": 263,
+   "type": "Z",
+   "year": 1911,
+   "months": "XI",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

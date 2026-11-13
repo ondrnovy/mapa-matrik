@@ -1,0 +1,62 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "nepomuk-01",
+ "url": "https://www.portafontium.eu/register/soap-pn/nepomuk-01",
+ "signature": "Nepomuk 01",
+ "parish": "Nepomuk",
+ "records": {
+  "N": "1702–1742"
+ },
+ "points": [
+  {
+   "scan": 3,
+   "type": "N",
+   "year": 1710,
+   "year_to": 1715,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 9,
+   "type": "N",
+   "year": 1716,
+   "months": "VI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 11,
+   "type": "N",
+   "year": 1706,
+   "year_to": 1708,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 14,
+   "type": "N",
+   "year": 1712,
+   "months": "VI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 17,
+   "type": "N",
+   "year": 1702,
+   "months": "II",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 31,
+   "type": "N",
+   "year": 1717,
+   "months": "VII",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

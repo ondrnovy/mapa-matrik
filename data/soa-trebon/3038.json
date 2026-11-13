@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "3038",
+ "url": "https://digi.ceskearchivy.cz/3038",
+ "signature": "Čížová O 1800–1834",
+ "parish": "Čížová",
+ "records": {
+  "O": "1800–1834"
+ },
+ "points": [
+  {
+   "scan": 123,
+   "type": "O",
+   "year": 1802,
+   "months": "I",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

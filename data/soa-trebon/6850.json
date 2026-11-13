@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "6850",
+ "url": "https://digi.ceskearchivy.cz/6850",
+ "signature": "Radobytce O 1863–1914",
+ "parish": "Radobytce",
+ "records": {
+  "O": "1863–1914"
+ },
+ "points": [
+  {
+   "scan": 376,
+   "type": "O",
+   "year": 1913,
+   "months": "I",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

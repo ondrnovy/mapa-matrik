@@ -1,0 +1,53 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "kasejovice-07",
+ "url": "https://www.portafontium.eu/register/soap-pn/kasejovice-07",
+ "signature": "Kasejovice 07",
+ "parish": "Kasejovice",
+ "records": {
+  "Z": "1690–1744"
+ },
+ "points": [
+  {
+   "scan": 8,
+   "type": "Z",
+   "year": 1700,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 61,
+   "type": "Z",
+   "year": 1720,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 90,
+   "type": "Z",
+   "year": 1726,
+   "months": "XII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 91,
+   "type": "Z",
+   "year": 1727,
+   "months": "II",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 124,
+   "type": "Z",
+   "year": 1733,
+   "months": "IX",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

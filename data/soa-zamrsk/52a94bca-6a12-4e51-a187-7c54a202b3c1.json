@@ -1,0 +1,154 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "52a94bca-6a12-4e51-a187-7c54a202b3c1",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/52a94bca-6a12-4e51-a187-7c54a202b3c1",
+ "signature": "144-5",
+ "parish": "Sedloňov",
+ "records": {
+  "O": "1705–1794",
+  "Z": "1705–1794"
+ },
+ "points": [
+  {
+   "scan": 52,
+   "type": "O",
+   "year": 1753,
+   "months": "II–X",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 54,
+   "type": "O",
+   "year": 1754,
+   "months": "II",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 55,
+   "type": "O",
+   "year": 1754,
+   "year_to": 1755,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 56,
+   "type": "O",
+   "year": 1755,
+   "year_to": 1756,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 57,
+   "type": "O",
+   "year": 1756,
+   "year_to": 1757,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 78,
+   "type": "O",
+   "year": 1774,
+   "months": "VI–X",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 79,
+   "type": "O",
+   "year": 1774,
+   "year_to": 1775,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 80,
+   "type": "O",
+   "year": 1775,
+   "year_to": 1776,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 81,
+   "type": "O",
+   "year": 1770,
+   "year_to": 1784,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 82,
+   "type": "O",
+   "year": 1776,
+   "year_to": 1777,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 83,
+   "type": "O",
+   "year": 1777,
+   "year_to": 1778,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 84,
+   "type": "O",
+   "year": 1778,
+   "year_to": 1779,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 85,
+   "type": "O",
+   "year": 1779,
+   "year_to": 1780,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 86,
+   "type": "O",
+   "year": 1780,
+   "year_to": 1781,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 87,
+   "type": "O",
+   "year": 1781,
+   "year_to": 1782,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 88,
+   "type": "O",
+   "year": 1782,
+   "year_to": 1783,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 89,
+   "type": "O",
+   "year": 1783,
+   "year_to": 1794,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 90,
+   "type": "O",
+   "year": 1784,
+   "year_to": 1785,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 98,
+   "type": "O",
+   "year": 1785,
+   "year_to": 1786,
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

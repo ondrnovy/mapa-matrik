@@ -1,0 +1,57 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "f10323f1-85ba-4831-b838-d127971739ca",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/f10323f1-85ba-4831-b838-d127971739ca",
+ "signature": "25-7",
+ "parish": "Dobré",
+ "records": {
+  "N": "1787–1839",
+  "O": "1787–1839",
+  "Z": "1787–1839"
+ },
+ "points": [
+  {
+   "scan": 55,
+   "type": "N",
+   "year": 1787,
+   "year_to": 1817,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 56,
+   "type": "N",
+   "year": 1787,
+   "year_to": 1817,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 77,
+   "type": "Z",
+   "year": 1787,
+   "year_to": 1817,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 78,
+   "type": "Z",
+   "year": 1815,
+   "year_to": 1816,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 83,
+   "type": "Z",
+   "year": 1787,
+   "year_to": 1817,
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

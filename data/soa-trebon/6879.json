@@ -1,0 +1,83 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "6879",
+ "url": "https://digi.ceskearchivy.cz/6879",
+ "signature": "Radomyšl Z 1784–1805",
+ "parish": "Radomyšl",
+ "records": {
+  "Z": "1784–1805"
+ },
+ "points": [
+  {
+   "scan": 162,
+   "type": "Z",
+   "year": 1784,
+   "year_to": 1805,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 163,
+   "type": "Z",
+   "year": 1785,
+   "months": "XI–XII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 164,
+   "type": "Z",
+   "year": 1788,
+   "months": "XII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 165,
+   "type": "Z",
+   "year": 1792,
+   "months": "II",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 166,
+   "type": "Z",
+   "year": 1793,
+   "months": "III",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 167,
+   "type": "Z",
+   "year": 1796,
+   "months": "II–III",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 170,
+   "type": "Z",
+   "year": 1802,
+   "year_to": 1803,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 171,
+   "type": "Z",
+   "year": 1804,
+   "months": "XII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 172,
+   "type": "Z",
+   "year": 1805,
+   "months": "VII–X",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

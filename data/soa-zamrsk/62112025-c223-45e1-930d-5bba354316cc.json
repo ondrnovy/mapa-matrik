@@ -1,0 +1,50 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "62112025-c223-45e1-930d-5bba354316cc",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/62112025-c223-45e1-930d-5bba354316cc",
+ "signature": "24-4",
+ "parish": "Deštné",
+ "records": {
+  "N": "1756–1784",
+  "O": "1756–1784",
+  "Z": "1756–1784"
+ },
+ "points": [
+  {
+   "scan": 33,
+   "type": "N",
+   "year": 1765,
+   "months": "V",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 36,
+   "type": "N",
+   "year": 1766,
+   "months": "IV",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 55,
+   "type": "N",
+   "year": 1772,
+   "months": "I",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 81,
+   "type": "N",
+   "year": 1780,
+   "months": "V",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

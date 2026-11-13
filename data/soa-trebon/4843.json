@@ -1,0 +1,86 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "4843",
+ "url": "https://digi.ceskearchivy.cz/4843",
+ "signature": "Kostelec nad Vltavou N 1785–1815",
+ "parish": "Kostelec nad Vltavou",
+ "records": {
+  "N": "1785–1815"
+ },
+ "points": [
+  {
+   "scan": 140,
+   "type": "N",
+   "year": 1785,
+   "year_to": 1786,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 141,
+   "type": "N",
+   "year": 1786,
+   "year_to": 1787,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 142,
+   "type": "N",
+   "year": 1787,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 143,
+   "type": "N",
+   "year": 1789,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 144,
+   "type": "N",
+   "year": 1789,
+   "year_to": 1790,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 145,
+   "type": "N",
+   "year": 1790,
+   "year_to": 1791,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 147,
+   "type": "N",
+   "year": 1793,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 148,
+   "type": "N",
+   "year": 1795,
+   "months": "V",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 161,
+   "type": "N",
+   "year": 1805,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 162,
+   "type": "N",
+   "year": 1805,
+   "year_to": 1806,
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

@@ -1,0 +1,131 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be930f8c-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be930f8c-f13c-102f-8255-0050568c0263",
+ "signature": "Šu XIV 19",
+ "parish": "Ruda nad Moravou",
+ "records": {
+  "Z": "1779–1825"
+ },
+ "points": [
+  {
+   "scan": 45,
+   "type": "Z",
+   "year": 1790,
+   "year_to": 1791,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 46,
+   "type": "Z",
+   "year": 1791,
+   "year_to": 1793,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 47,
+   "type": "Z",
+   "year": 1793,
+   "year_to": 1795,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 48,
+   "type": "Z",
+   "year": 1795,
+   "year_to": 1796,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 49,
+   "type": "Z",
+   "year": 1797,
+   "months": "II–XII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 50,
+   "type": "Z",
+   "year": 1798,
+   "year_to": 1799,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 51,
+   "type": "Z",
+   "year": 1800,
+   "months": "I–XII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 52,
+   "type": "Z",
+   "year": 1801,
+   "months": "I–XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 53,
+   "type": "Z",
+   "year": 1802,
+   "months": "I–VI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 54,
+   "type": "Z",
+   "year": 1803,
+   "year_to": 1804,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 55,
+   "type": "Z",
+   "year": 1804,
+   "year_to": 1806,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 56,
+   "type": "Z",
+   "year": 1806,
+   "year_to": 1808,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 57,
+   "type": "Z",
+   "year": 1808,
+   "year_to": 1809,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 58,
+   "type": "Z",
+   "year": 1809,
+   "year_to": 1810,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 61,
+   "type": "Z",
+   "year": 1815,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 64,
+   "type": "Z",
+   "year": 1820,
+   "months": "VIII",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

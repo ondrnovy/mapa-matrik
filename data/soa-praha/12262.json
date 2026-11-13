@@ -1,0 +1,37 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "12262",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/12262",
+ "signature": "Smečno 08",
+ "parish": "Smečno",
+ "records": {
+  "N": "1773–1776"
+ },
+ "points": [
+  {
+   "scan": 20,
+   "type": "N",
+   "year": 1773,
+   "months": "III",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 65,
+   "type": "N",
+   "year": 1776,
+   "months": "IX",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ],
+ "notes": [
+  "Roky v records jen podle zápisů přečtených v indexu matrik; kniha může být širší."
+ ]
+}

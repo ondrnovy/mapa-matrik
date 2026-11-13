@@ -1,0 +1,37 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "9772",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/9772",
+ "signature": "Nezabudice 14",
+ "parish": "Nezabudice",
+ "records": {
+  "Z": "1837–1849"
+ },
+ "points": [
+  {
+   "scan": 35,
+   "type": "Z",
+   "year": 1837,
+   "months": "V",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 44,
+   "type": "Z",
+   "year": 1849,
+   "months": "X",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ],
+ "notes": [
+  "Roky v records jen podle zápisů přečtených v indexu matrik; kniha může být širší."
+ ]
+}

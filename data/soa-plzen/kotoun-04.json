@@ -1,0 +1,30 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "kotoun-04",
+ "url": "https://www.portafontium.eu/register/soap-pn/kotoun-04",
+ "signature": "Kotouň 04",
+ "parish": "Kotouň",
+ "records": {
+  "Z": "1771"
+ },
+ "points": [
+  {
+   "scan": 109,
+   "type": "Z",
+   "year": 1771,
+   "months": "XII",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ],
+ "notes": [
+  "Roky v records jen podle zápisů přečtených v indexu matrik; kniha může být širší."
+ ]
+}

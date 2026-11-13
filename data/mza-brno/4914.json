@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "4914",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/4914",
+ "signature": "Bzenec N 1775–1818",
+ "parish": "Bzenec",
+ "records": {
+  "N": "1775–1818"
+ },
+ "points": [
+  {
+   "scan": 60,
+   "type": "N",
+   "year": 1784,
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

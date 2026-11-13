@@ -1,0 +1,40 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "prestice-02",
+ "url": "https://www.portafontium.eu/register/soap-pn/prestice-02",
+ "signature": "Přeštice 02",
+ "parish": "Přeštice",
+ "records": {
+  "N": "1722–1756",
+  "O": "1722–1756"
+ },
+ "points": [
+  {
+   "scan": 185,
+   "type": "N",
+   "year": 1748,
+   "months": "III",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 336,
+   "type": "O",
+   "year": 1744,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 354,
+   "type": "O",
+   "year": 1751,
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

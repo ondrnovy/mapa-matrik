@@ -1,0 +1,139 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "kvasnovice-05",
+ "url": "https://www.portafontium.eu/register/soap-pn/kvasnovice-05",
+ "signature": "Kvasňovice 05",
+ "parish": "Kvasňovice",
+ "records": {
+  "Z": "1784"
+ },
+ "points": [
+  {
+   "scan": 31,
+   "type": "Z",
+   "year": 1786,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 42,
+   "type": "Z",
+   "year": 1804,
+   "months": "II",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 100,
+   "type": "Z",
+   "year": 1784,
+   "year_to": 1788,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 101,
+   "type": "Z",
+   "year": 1788,
+   "year_to": 1793,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 102,
+   "type": "Z",
+   "year": 1793,
+   "year_to": 1795,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 103,
+   "type": "Z",
+   "year": 1796,
+   "year_to": 1798,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 104,
+   "type": "Z",
+   "year": 1798,
+   "year_to": 1800,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 105,
+   "type": "Z",
+   "year": 1800,
+   "year_to": 1802,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 106,
+   "type": "Z",
+   "year": 1802,
+   "year_to": 1803,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 107,
+   "type": "Z",
+   "year": 1804,
+   "year_to": 1805,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 108,
+   "type": "Z",
+   "year": 1805,
+   "year_to": 1807,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 109,
+   "type": "Z",
+   "year": 1808,
+   "year_to": 1809,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 110,
+   "type": "Z",
+   "year": 1809,
+   "year_to": 1810,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 111,
+   "type": "Z",
+   "year": 1811,
+   "year_to": 1812,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 112,
+   "type": "Z",
+   "year": 1812,
+   "year_to": 1813,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 113,
+   "type": "Z",
+   "year": 1814,
+   "months": "III–XII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 116,
+   "type": "Z",
+   "year": 1791,
+   "year_to": 1792,
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

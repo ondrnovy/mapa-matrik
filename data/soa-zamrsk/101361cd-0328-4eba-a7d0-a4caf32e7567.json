@@ -1,0 +1,36 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "101361cd-0328-4eba-a7d0-a4caf32e7567",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/101361cd-0328-4eba-a7d0-a4caf32e7567",
+ "signature": "1249",
+ "parish": "Dolní Újezd",
+ "records": {
+  "N": "1710–1761",
+  "O": "1710–1761",
+  "Z": "1710–1761"
+ },
+ "points": [
+  {
+   "scan": 318,
+   "type": "N",
+   "year": 1757,
+   "months": "IV",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 416,
+   "type": "O",
+   "year": 1744,
+   "months": "I",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "5576",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/5576",
+ "signature": "Matrika Hořovice 22",
+ "parish": "Hořovice",
+ "records": {
+  "N": "1870–1885"
+ },
+ "points": [
+  {
+   "scan": 38,
+   "type": "N",
+   "year": 1872,
+   "months": "III",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

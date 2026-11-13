@@ -1,0 +1,44 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "kvasnovice-04",
+ "url": "https://www.portafontium.eu/register/soap-pn/kvasnovice-04",
+ "signature": "Kvášňovice 04",
+ "parish": "Kvášňovice",
+ "records": {
+  "O": "1789–1807"
+ },
+ "points": [
+  {
+   "scan": 17,
+   "type": "O",
+   "year": 1789,
+   "months": "VII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 56,
+   "type": "O",
+   "year": 1802,
+   "year_to": 1803,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 57,
+   "type": "O",
+   "year": 1804,
+   "year_to": 1807,
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ],
+ "notes": [
+  "Roky v records jen podle zápisů přečtených v indexu matrik; kniha může být širší."
+ ]
+}

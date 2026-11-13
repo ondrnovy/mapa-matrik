@@ -1,0 +1,83 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "f8150aa3-5756-4adf-9229-49146d4763b9",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/f8150aa3-5756-4adf-9229-49146d4763b9",
+ "signature": "14-2",
+ "parish": "Bystré",
+ "records": {
+  "N": "1799–1827"
+ },
+ "points": [
+  {
+   "scan": 165,
+   "type": "N",
+   "year": 1814,
+   "months": "VII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 247,
+   "type": "N",
+   "year": 1799,
+   "months": "XII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 248,
+   "type": "N",
+   "year": 1800,
+   "months": "II",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 255,
+   "type": "N",
+   "year": 1801,
+   "year_to": 1802,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 259,
+   "type": "N",
+   "year": 1803,
+   "months": "III",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 261,
+   "type": "N",
+   "year": 1803,
+   "months": "VIII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 268,
+   "type": "N",
+   "year": 1805,
+   "months": "III–IV",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 281,
+   "type": "N",
+   "year": 1808,
+   "months": "III",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 295,
+   "type": "N",
+   "year": 1810,
+   "year_to": 1811,
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

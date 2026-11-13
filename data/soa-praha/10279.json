@@ -1,0 +1,29 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "10279",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/10279",
+ "signature": "Nové Strašecí 20",
+ "parish": "Nové Strašecí",
+ "records": {
+  "N": "1784–1840",
+  "O": "1784–1840",
+  "Z": "1784–1840"
+ },
+ "points": [
+  {
+   "scan": 56,
+   "type": "N",
+   "year": 1811,
+   "months": "III",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}

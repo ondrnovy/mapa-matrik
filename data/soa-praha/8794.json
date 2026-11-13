@@ -1,0 +1,52 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "8794",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/8794",
+ "signature": "Zbečno 03",
+ "parish": "Zbečno",
+ "records": {
+  "N": "1731–1746",
+  "O": "1731–1746"
+ },
+ "points": [
+  {
+   "scan": 72,
+   "type": "N",
+   "year": 1731,
+   "months": "VIII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 195,
+   "type": "O",
+   "year": 1737,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 206,
+   "type": "O",
+   "year": 1738,
+   "months": "X",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 223,
+   "type": "O",
+   "year": 1746,
+   "months": "V",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ],
+ "notes": [
+  "Roky v records jen podle zápisů přečtených v indexu matrik; kniha může být širší."
+ ]
+}

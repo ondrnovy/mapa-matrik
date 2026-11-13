@@ -1,0 +1,76 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "f7a85f10-ccc5-41dc-9d4c-b19a8cf97643",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/f7a85f10-ccc5-41dc-9d4c-b19a8cf97643",
+ "signature": "171-2797",
+ "parish": "Velký Uhřínov",
+ "records": {
+  "O": "1784–1837"
+ },
+ "points": [
+  {
+   "scan": 2,
+   "type": "O",
+   "year": 1784,
+   "year_to": 1834,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 6,
+   "type": "O",
+   "year": 1798,
+   "months": "V",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 7,
+   "type": "O",
+   "year": 1801,
+   "months": "IV",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 8,
+   "type": "O",
+   "year": 1802,
+   "months": "II",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 10,
+   "type": "O",
+   "year": 1805,
+   "months": "VIII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 11,
+   "type": "O",
+   "year": 1808,
+   "months": "V",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 12,
+   "type": "O",
+   "year": 1812,
+   "months": "VI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 15,
+   "type": "O",
+   "year": 1826,
+   "months": "VI",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}
