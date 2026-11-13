@@ -11,16 +11,30 @@
  },
  "points": [
   {
-   "scan": 26,
+   "scan": 268,
    "type": "N",
    "year": 1834,
+   "year_to": 1843,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 269,
+   "type": "N",
+   "year": 1845,
    "year_to": 1847,
    "by": "pe-pan"
   },
   {
-   "scan": 27,
+   "scan": 270,
    "type": "N",
    "year": 1850,
+   "months": "V",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 271,
+   "type": "N",
+   "year": 1856,
    "year_to": 1857,
    "by": "pe-pan"
   }
