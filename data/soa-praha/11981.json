@@ -1,0 +1,129 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "11981",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/11981",
+ "signature": "Slabce 01",
+ "parish": "Slabce",
+ "records": {
+  "N": "1669–1710",
+  "O": "1669–1710",
+  "Z": "1669–1707"
+ },
+ "scans": 220,
+ "district": "Rakovník",
+ "language": "cs, de, la",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/11981/{scan}",
+ "points": [
+  {
+   "scan": 100,
+   "type": "N",
+   "months": "II–VII",
+   "page": "96v–97",
+   "note": "česky, rok na snímku neuveden (asi kolem 1689)",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 112,
+   "type": "Z",
+   "year": 1690,
+   "months": "I–IX",
+   "page": "108v–109",
+   "note": "začátek oddílu Z („Nomina defunctorum Anno 1690“); před ním N do fol. 108",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 120,
+   "type": "Z",
+   "year": 1694,
+   "year_to": 1695,
+   "page": "116v–117",
+   "note": "česky, barevný sken; nadpis „Za rok 1695“ na levé straně",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 160,
+   "type": "N",
+   "year": 1691,
+   "year_to": 1692,
+   "months": "XI 1691 – I 1692",
+   "page": "156v–157",
+   "note": "nadpis „Za roku 1692“ na pravé straně; druhý oddíl N (1690–1710) za oddílem Z",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 200,
+   "type": "N",
+   "year": 1676,
+   "page": "197",
+   "note": "česky; nahoře i přípis „1706“ (?), datum u zápisu „1676“; levá strana prázdný přídeštěk s poznámkami",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 210,
+   "type": "N",
+   "year": 1708,
+   "months": "II–VI",
+   "page": "206v–207",
+   "note": "mezi křty i sňatek (15. 2. 1708); rok u každého zápisu",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 211,
+   "type": "N",
+   "year": 1708,
+   "months": "VII–VIII",
+   "page": "207v–208",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 212,
+   "type": "N",
+   "year": 1708,
+   "months": "VIII–IX",
+   "page": "208v–209",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 213,
+   "type": "N",
+   "year": 1708,
+   "year_to": 1709,
+   "months": "X 1708 – I 1709",
+   "page": "209v–210",
+   "note": "mezi křty sňatky",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 214,
+   "type": "N",
+   "year": 1709,
+   "months": "II–III",
+   "page": "210v–211",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 215,
+   "type": "N",
+   "year": 1709,
+   "months": "III–VI",
+   "page": "211v–212",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 216,
+   "type": "N",
+   "year": 1709,
+   "months": "VII–X",
+   "page": "212v–213",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-13"
+  }
+ ]
+}

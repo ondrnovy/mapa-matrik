@@ -1,0 +1,229 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "11980",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/11980",
+ "signature": "Slabce 02",
+ "parish": "Slabce",
+ "records": {
+  "N": "1710–1731",
+  "O": "1710–1731",
+  "Z": "1710–1731"
+ },
+ "scans": 180,
+ "district": "Rakovník",
+ "language": "cs, la",
+ "order": "chronological",
+ "places": [
+  "Čilá",
+  "Hracholusky",
+  "Hřebečníky",
+  "Kostelík",
+  "Modřejovice",
+  "Novosedly",
+  "Skryje",
+  "Slabce",
+  "Šlovice",
+  "Svinařov",
+  "Týřovice",
+  "Újezdec"
+ ],
+ "place_codes": {
+  "Hracholusky": 47597,
+  "Hřebečníky": 48909,
+  "Kostelík": 97918,
+  "Modřejovice": 97926,
+  "Novosedly": 106887,
+  "Skryje": 148792,
+  "Slabce": 149250,
+  "Šlovice": 48917,
+  "Svinařov": 160814,
+  "Týřovice": 48925,
+  "Újezdec": 174025
+ },
+ "scan_url": "https://ebadatelna.soapraha.cz/d/11980/{scan}",
+ "points": [
+  {
+   "scan": 3,
+   "type": "N",
+   "year": 1710,
+   "months": "I–II",
+   "page": "1",
+   "note": "začátek knihy (vlevo titulní zápis faráře), latinsky",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 4,
+   "type": "N",
+   "year": 1710,
+   "months": "II–IV",
+   "page": "1v–2",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 5,
+   "type": "N",
+   "year": 1710,
+   "months": "IV–VIII",
+   "page": "2v–3",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 6,
+   "type": "N",
+   "year": 1710,
+   "months": "VIII–X",
+   "page": "3v–4",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 7,
+   "type": "N",
+   "year": 1710,
+   "months": "X–XII",
+   "page": "4v–5",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 8,
+   "type": "N",
+   "year": 1711,
+   "months": "I–III",
+   "page": "5v–6",
+   "note": "začátek roku 1711 (nadpis „Anno 1711“)",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 9,
+   "type": "N",
+   "year": 1711,
+   "months": "III–V",
+   "page": "6v–7",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 10,
+   "type": "N",
+   "months": "VI–IX",
+   "page": "7v–8",
+   "note": "latinsky, záhlaví „Ex pago …“ po vsích; rok na snímku neuveden",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 11,
+   "type": "N",
+   "year": 1711,
+   "months": "IX–XI",
+   "page": "8v–9",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 12,
+   "type": "N",
+   "year": 1711,
+   "year_to": 1712,
+   "months": "XII 1711 – III 1712",
+   "page": "9v–10",
+   "note": "nadpis „Anno 1712“ uprostřed levé strany",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 13,
+   "type": "N",
+   "year": 1712,
+   "months": "III–VII",
+   "page": "10v–11",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 14,
+   "type": "N",
+   "year": 1712,
+   "months": "VIII–X",
+   "page": "11v–12",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 15,
+   "type": "N",
+   "year": 1712,
+   "months": "XI–XII",
+   "page": "12v–13",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 16,
+   "type": "N",
+   "year": 1713,
+   "months": "I–III",
+   "page": "13v–14",
+   "note": "začátek roku 1713",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 17,
+   "type": "N",
+   "year": 1713,
+   "months": "IV–VI",
+   "page": "14v–15",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 18,
+   "type": "N",
+   "year": 1713,
+   "months": "VII–IX",
+   "page": "15v–16",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 19,
+   "type": "N",
+   "year": 1713,
+   "year_to": 1714,
+   "months": "X 1713 – III 1714",
+   "page": "16v–17",
+   "note": "nadpis „Anno 1714“ dole na levé straně",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 20,
+   "type": "N",
+   "year": 1714,
+   "months": "IV–VI",
+   "page": "17v–18",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 21,
+   "type": "N",
+   "year": 1714,
+   "months": "VII–VIII",
+   "page": "18v–19",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 22,
+   "type": "N",
+   "year": 1714,
+   "months": "VIII–X",
+   "page": "19v–20",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 23,
+   "type": "N",
+   "year": 1714,
+   "months": "X–XII",
+   "page": "20v–21",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-13"
+  }
+ ]
+}
