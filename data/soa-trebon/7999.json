@@ -1,0 +1,32 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "7999",
+ "url": "https://digi.ceskearchivy.cz/7999",
+ "signature": "Trhové Sviny 21",
+ "parish": "Trhové Sviny",
+ "records": {
+  "O": "1880–1900"
+ },
+ "points": [
+  {
+   "scan": 75,
+   "type": "O",
+   "year": 1880,
+   "by": "schranka"
+  },
+  {
+   "scan": 244,
+   "type": "O",
+   "year": 1900,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-13"
+  }
+ ]
+}

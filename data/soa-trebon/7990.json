@@ -1,0 +1,56 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "7990",
+ "url": "https://digi.ceskearchivy.cz/7990",
+ "signature": "Trhové Sviny 12",
+ "parish": "Trhové Sviny",
+ "records": {
+  "N": "1860–1869"
+ },
+ "points": [
+  {
+   "scan": 33,
+   "type": "N",
+   "year": 1860,
+   "by": "schranka"
+  },
+  {
+   "scan": 36,
+   "type": "N",
+   "year": 1864,
+   "by": "schranka"
+  },
+  {
+   "scan": 37,
+   "type": "N",
+   "year": 1866,
+   "by": "schranka"
+  },
+  {
+   "scan": 38,
+   "type": "N",
+   "year": 1869,
+   "by": "schranka"
+  },
+  {
+   "scan": 38,
+   "type": "N",
+   "year": 1867,
+   "by": "schranka"
+  },
+  {
+   "scan": 39,
+   "type": "N",
+   "year": 1869,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-13"
+  }
+ ]
+}
