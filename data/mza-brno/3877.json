@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "3877",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/3877",
+ "signature": "Deblín",
+ "parish": "Deblín",
+ "records": {
+  "N": "1846–1881"
+ },
+ "points": [
+  {
+   "scan": 7,
+   "type": "N",
+   "year": 1853,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-13"
+  }
+ ]
+}
