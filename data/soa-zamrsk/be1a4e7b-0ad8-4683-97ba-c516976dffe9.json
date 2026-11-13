@@ -44,6 +44,41 @@
    "year": 1814,
    "months": "V",
    "by": "pe-pan"
+  },
+  {
+   "scan": 76,
+   "type": "Z",
+   "year": 1810,
+   "months": "II",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 77,
+   "type": "Z",
+   "year": 1814,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 78,
+   "type": "Z",
+   "year": 1818,
+   "year_to": 1825,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 79,
+   "type": "Z",
+   "year": 1825,
+   "months": "IV–V",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 86,
+   "type": "Z",
+   "year": 1843,
+   "months": "IV",
+   "by": "pe-pan"
   }
  ],
  "sources": [

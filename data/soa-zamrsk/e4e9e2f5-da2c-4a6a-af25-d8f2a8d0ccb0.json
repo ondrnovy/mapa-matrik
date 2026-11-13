@@ -11,10 +11,101 @@
  },
  "points": [
   {
+   "scan": 45,
+   "type": "N",
+   "year": 1799,
+   "months": "XII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 71,
+   "type": "N",
+   "year": 1801,
+   "months": "X",
+   "by": "pe-pan"
+  },
+  {
    "scan": 106,
    "type": "N",
    "year": 1803,
    "months": "VIII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 116,
+   "type": "N",
+   "year": 1804,
+   "months": "II",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 122,
+   "type": "N",
+   "year": 1804,
+   "months": "VII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 145,
+   "type": "N",
+   "year": 1805,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 146,
+   "type": "N",
+   "year": 1805,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 150,
+   "type": "N",
+   "year": 1806,
+   "months": "III",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 152,
+   "type": "Z",
+   "year": 1800,
+   "months": "II",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 161,
+   "type": "Z",
+   "year": 1801,
+   "months": "III",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 167,
+   "type": "Z",
+   "year": 1802,
+   "months": "IV",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 173,
+   "type": "Z",
+   "year": 1803,
+   "months": "V",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 174,
+   "type": "Z",
+   "year": 1803,
+   "months": "VI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 180,
+   "type": "Z",
+   "year": 1804,
+   "months": "XI",
    "by": "pe-pan"
   }
  ],

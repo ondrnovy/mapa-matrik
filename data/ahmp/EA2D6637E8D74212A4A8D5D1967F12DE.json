@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "EA2D6637E8D74212A4A8D5D1967F12DE",
+ "url": "http://katalog.ahmp.cz/pragapublica/permalink?xid=EA2D6637E8D74212A4A8D5D1967F12DE",
+ "signature": "ŽKR O25",
+ "parish": "Žižkov – kostel sv. Rocha",
+ "records": {
+  "O": "1913–1914"
+ },
+ "points": [
+  {
+   "scan": 130,
+   "type": "O",
+   "year": 1913,
+   "months": "IX",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-13"
+  }
+ ]
+}
