@@ -1,0 +1,68 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "radnice-ro-06",
+ "url": "https://www.portafontium.eu/register/soap-pn/radnice-ro-06",
+ "signature": "Radnice (RO) 06",
+ "parish": "Radnice",
+ "records": {
+  "O": "1745–1821",
+  "N": "1773–1821",
+  "Z": "1773–1821"
+ },
+ "order": "mixed",
+ "scans": 137,
+ "language": "latina",
+ "places": [
+  "Radnice",
+  "Bezděkov",
+  "Březina",
+  "Němčovice",
+  "Přívětice",
+  "Sklená Huť"
+ ],
+ "place_codes": {
+  "Radnice": 138100,
+  "Bezděkov": 136344,
+  "Březina": 14061,
+  "Němčovice": 103080,
+  "Přívětice": 136352,
+  "Sklená Huť": 136361
+ },
+ "points": [
+  {
+   "scan": 51,
+   "type": "O",
+   "year": 1768,
+   "year_to": 1769,
+   "months": "XI 1768 – I 1769",
+   "page": "92–93",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 52,
+   "type": "O",
+   "year": 1769,
+   "months": "II–VI",
+   "page": "94–95",
+   "note": "O celé farnosti 1745–1772 (sn. 5–65), nad zápisem nadpis vsi; ~1 rok na snímek",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 55,
+   "type": "O",
+   "year": 1769,
+   "year_to": 1770,
+   "months": "XI 1769 – VI 1770",
+   "page": "100–101",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-13"
+  }
+ ]
+}
