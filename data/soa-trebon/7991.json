@@ -1,0 +1,92 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "7991",
+ "url": "https://digi.ceskearchivy.cz/7991",
+ "signature": "Trhové Sviny 13",
+ "parish": "Trhové Sviny",
+ "records": {
+  "N": "1871–1896"
+ },
+ "points": [
+  {
+   "scan": 109,
+   "type": "N",
+   "year": 1871,
+   "by": "schranka"
+  },
+  {
+   "scan": 111,
+   "type": "N",
+   "year": 1873,
+   "by": "schranka"
+  },
+  {
+   "scan": 112,
+   "type": "N",
+   "year": 1874,
+   "by": "schranka"
+  },
+  {
+   "scan": 113,
+   "type": "N",
+   "year": 1875,
+   "by": "schranka"
+  },
+  {
+   "scan": 116,
+   "type": "N",
+   "year": 1877,
+   "by": "schranka"
+  },
+  {
+   "scan": 117,
+   "type": "N",
+   "year": 1878,
+   "by": "schranka"
+  },
+  {
+   "scan": 118,
+   "type": "N",
+   "year": 1879,
+   "by": "schranka"
+  },
+  {
+   "scan": 119,
+   "type": "N",
+   "year": 1879,
+   "by": "schranka"
+  },
+  {
+   "scan": 123,
+   "type": "N",
+   "year": 1883,
+   "by": "schranka"
+  },
+  {
+   "scan": 128,
+   "type": "N",
+   "year": 1893,
+   "by": "schranka"
+  },
+  {
+   "scan": 129,
+   "type": "N",
+   "year": 1893,
+   "by": "schranka"
+  },
+  {
+   "scan": 130,
+   "type": "N",
+   "year": 1896,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-13"
+  }
+ ]
+}

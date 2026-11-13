@@ -1,0 +1,122 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "8006",
+ "url": "https://digi.ceskearchivy.cz/8006",
+ "signature": "Trhové Sviny 28",
+ "parish": "Trhové Sviny",
+ "records": {
+  "Z": "1883–1909"
+ },
+ "points": [
+  {
+   "scan": 238,
+   "type": "Z",
+   "year": 1883,
+   "by": "schranka"
+  },
+  {
+   "scan": 242,
+   "type": "Z",
+   "year": 1884,
+   "by": "schranka"
+  },
+  {
+   "scan": 246,
+   "type": "Z",
+   "year": 1885,
+   "by": "schranka"
+  },
+  {
+   "scan": 248,
+   "type": "Z",
+   "year": 1885,
+   "by": "schranka"
+  },
+  {
+   "scan": 255,
+   "type": "Z",
+   "year": 1886,
+   "by": "schranka"
+  },
+  {
+   "scan": 275,
+   "type": "Z",
+   "year": 1890,
+   "by": "schranka"
+  },
+  {
+   "scan": 277,
+   "type": "Z",
+   "year": 1891,
+   "by": "schranka"
+  },
+  {
+   "scan": 279,
+   "type": "Z",
+   "year": 1891,
+   "by": "schranka"
+  },
+  {
+   "scan": 283,
+   "type": "Z",
+   "year": 1892,
+   "by": "schranka"
+  },
+  {
+   "scan": 285,
+   "type": "Z",
+   "year": 1892,
+   "by": "schranka"
+  },
+  {
+   "scan": 290,
+   "type": "Z",
+   "year": 1893,
+   "by": "schranka"
+  },
+  {
+   "scan": 312,
+   "type": "Z",
+   "year": 1897,
+   "by": "schranka"
+  },
+  {
+   "scan": 318,
+   "type": "Z",
+   "year": 1898,
+   "by": "schranka"
+  },
+  {
+   "scan": 327,
+   "type": "Z",
+   "year": 1900,
+   "by": "schranka"
+  },
+  {
+   "scan": 341,
+   "type": "Z",
+   "year": 1903,
+   "by": "schranka"
+  },
+  {
+   "scan": 361,
+   "type": "Z",
+   "year": 1906,
+   "by": "schranka"
+  },
+  {
+   "scan": 373,
+   "type": "Z",
+   "year": 1909,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-13"
+  }
+ ]
+}

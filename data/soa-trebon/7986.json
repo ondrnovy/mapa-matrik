@@ -1,0 +1,74 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "7986",
+ "url": "https://digi.ceskearchivy.cz/7986",
+ "signature": "Trhové Sviny 8",
+ "parish": "Trhové Sviny",
+ "records": {
+  "N": "1825–1845"
+ },
+ "points": [
+  {
+   "scan": 173,
+   "type": "N",
+   "year": 1827,
+   "by": "schranka"
+  },
+  {
+   "scan": 174,
+   "type": "N",
+   "year": 1829,
+   "by": "schranka"
+  },
+  {
+   "scan": 177,
+   "type": "N",
+   "year": 1836,
+   "by": "schranka"
+  },
+  {
+   "scan": 177,
+   "type": "N",
+   "year": 1837,
+   "by": "schranka"
+  },
+  {
+   "scan": 177,
+   "type": "N",
+   "year": 1838,
+   "by": "schranka"
+  },
+  {
+   "scan": 178,
+   "type": "N",
+   "year": 1840,
+   "by": "schranka"
+  },
+  {
+   "scan": 179,
+   "type": "N",
+   "year": 1842,
+   "by": "schranka"
+  },
+  {
+   "scan": 179,
+   "type": "N",
+   "year": 1840,
+   "by": "schranka"
+  },
+  {
+   "scan": 180,
+   "type": "N",
+   "year": 1843,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-13"
+  }
+ ]
+}
