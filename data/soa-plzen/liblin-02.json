@@ -11,6 +11,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-12"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-13"
   }
  ],
  "points": [
@@ -196,6 +200,15 @@
    "type": "N",
    "year": 1778,
    "page": "189",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 102,
+   "type": "N",
+   "year": 1779,
+   "months": "X–XI",
+   "page": "197–198",
+   "note": "N pokračuje do sn. 108 (konec 1779 a dodatky)",
    "by": "ondrnovy"
   },
   {

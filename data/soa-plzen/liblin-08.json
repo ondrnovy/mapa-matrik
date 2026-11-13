@@ -33,6 +33,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-12"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-13"
   }
  ],
  "points": [
@@ -112,6 +116,16 @@
    "year_to": 1851,
    "page": "37",
    "place": "Bujesily",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 40,
+   "type": "Z",
+   "year": 1852,
+   "months": "I–XII",
+   "page": "fol. 38",
+   "place": "Bujesily",
+   "note": "konec oddílu Bujesily, dál Liblín 09",
    "by": "ondrnovy"
   },
   {
