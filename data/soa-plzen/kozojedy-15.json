@@ -21,6 +21,24 @@
  "scans": 79,
  "points": [
   {
+   "scan": 3,
+   "type": "O",
+   "year": 1835,
+   "year_to": 1836,
+   "page": "1v–2",
+   "note": "začátek O („Trauungs-Buch für das Dorf Prodeslad“), německy",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 6,
+   "type": "O",
+   "year": 1843,
+   "year_to": 1845,
+   "page": "4v–5",
+   "note": "od 1845 česky",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 52,
    "type": "Z",
    "year": 1834,
