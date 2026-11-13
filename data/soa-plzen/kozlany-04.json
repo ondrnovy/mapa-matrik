@@ -35,6 +35,14 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 59,
+   "type": "N",
+   "months": "IV–V",
+   "page": "112–113",
+   "place": "Kožlany",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 158,
    "type": "N",
    "year": 1758,
@@ -94,6 +102,15 @@
    "year_to": 1762,
    "letters": "N",
    "note": "rejstřík s čísly stran; F = sn. 335",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 346,
+   "type": "iN",
+   "year": 1723,
+   "year_to": 1762,
+   "letters": "R",
+   "note": "rejstřík podle příjmení otce, čísla = strany",
    "by": "ondrnovy"
   }
  ],
