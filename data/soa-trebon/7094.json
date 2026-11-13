@@ -1,0 +1,28 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "7094",
+ "url": "https://digi.ceskearchivy.cz/7094",
+ "signature": "Rynárec 5",
+ "parish": "Rynárec",
+ "records": {
+  "N": "1785–1822",
+  "O": "1785–1822",
+  "Z": "1785–1822"
+ },
+ "points": [
+  {
+   "scan": 73,
+   "type": "N",
+   "year": 1822,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-13"
+  }
+ ]
+}

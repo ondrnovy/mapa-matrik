@@ -1,0 +1,106 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "7091",
+ "url": "https://digi.ceskearchivy.cz/7091",
+ "signature": "Rynárec 2",
+ "parish": "Rynárec",
+ "records": {
+  "Z": "1757–1849",
+  "N": "1757–1849",
+  "O": "1757–1849"
+ },
+ "points": [
+  {
+   "scan": 74,
+   "type": "N",
+   "year": 1824,
+   "by": "schranka"
+  },
+  {
+   "scan": 94,
+   "type": "N",
+   "year": 1827,
+   "by": "schranka"
+  },
+  {
+   "scan": 96,
+   "type": "N",
+   "year": 1827,
+   "by": "schranka"
+  },
+  {
+   "scan": 98,
+   "type": "N",
+   "year": 1828,
+   "by": "schranka"
+  },
+  {
+   "scan": 113,
+   "type": "N",
+   "year": 1830,
+   "by": "schranka"
+  },
+  {
+   "scan": 129,
+   "type": "N",
+   "year": 1832,
+   "by": "schranka"
+  },
+  {
+   "scan": 146,
+   "type": "N",
+   "year": 1836,
+   "by": "schranka"
+  },
+  {
+   "scan": 157,
+   "type": "N",
+   "year": 1838,
+   "by": "schranka"
+  },
+  {
+   "scan": 208,
+   "type": "O",
+   "year": 1827,
+   "by": "schranka"
+  },
+  {
+   "scan": 288,
+   "type": "Z",
+   "year": 1823,
+   "by": "schranka"
+  },
+  {
+   "scan": 306,
+   "type": "Z",
+   "year": 1828,
+   "by": "schranka"
+  },
+  {
+   "scan": 320,
+   "type": "Z",
+   "year": 1834,
+   "by": "schranka"
+  },
+  {
+   "scan": 328,
+   "type": "Z",
+   "year": 1837,
+   "by": "schranka"
+  },
+  {
+   "scan": 353,
+   "type": "Z",
+   "year": 1845,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-13"
+  }
+ ]
+}
