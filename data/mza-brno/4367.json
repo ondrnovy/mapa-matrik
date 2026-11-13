@@ -1,0 +1,32 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "4367",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/4367",
+ "signature": "Svatoslav",
+ "parish": "Svatoslav",
+ "records": {
+  "N": "1805–1837"
+ },
+ "points": [
+  {
+   "scan": 65,
+   "type": "N",
+   "year": 1815,
+   "by": "schranka"
+  },
+  {
+   "scan": 65,
+   "type": "N",
+   "year": 1816,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-13"
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "5345",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/5345",
+ "signature": "Dolní Loučky",
+ "parish": "Dolní Loučky",
+ "records": {
+  "O": "1841–1896"
+ },
+ "points": [
+  {
+   "scan": 53,
+   "type": "O",
+   "year": 1884,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-13"
+  }
+ ]
+}
