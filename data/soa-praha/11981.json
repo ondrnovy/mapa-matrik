@@ -53,11 +53,191 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 175,
+   "type": "N",
+   "months": "III–VI",
+   "page": "171v–172",
+   "note": "rok na snímku neuveden (asi kolem 1696–97)",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 185,
+   "type": "O",
+   "year": 1692,
+   "year_to": 1693,
+   "page": "181v–182",
+   "note": "sňatky s přeškrtnutými křty; nadpis „Za roku 1693“",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 190,
+   "type": "O",
+   "year": 1697,
+   "page": "186v–187",
+   "note": "sňatky; nadpis „Za roku 1697“",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 191,
+   "type": "O",
+   "year": 1697,
+   "year_to": 1698,
+   "months": "XI 1697 – XI 1698",
+   "page": "187v–188",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 192,
+   "type": "O",
+   "year": 1699,
+   "months": "VI–XI",
+   "page": "188v–189",
+   "note": "nadpis „Za roku 1699“; vlevo dole vepsán sňatek 1706",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 193,
+   "type": "O",
+   "year": 1700,
+   "months": "VI–X",
+   "page": "189v–190",
+   "note": "vlevo sňatky 1700; vpravo úmrtí 1689 a 1699",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 194,
+   "type": "O",
+   "year": 1700,
+   "year_to": 1704,
+   "page": "190v–191",
+   "note": "sňatky 1700–1704, mezi nimi úmrtí a křest (XI 1700)",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 195,
+   "type": "blank",
+   "page": "191v–192",
+   "note": "soupis nadačních platů a pozemků kostela (od 1677), ne matriční zápisy",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 196,
+   "type": "blank",
+   "page": "192v–193",
+   "note": "soupis platů a desátků faráři po vsích (1676–1687), ne matriční zápisy",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 197,
+   "type": "O",
+   "year": 1705,
+   "page": "193v–194",
+   "note": "vlevo a nahoře vpravo soupis desátků podle vsí; dole sňatek V 1705",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 198,
+   "type": "O",
+   "year": 1701,
+   "months": "IV–XI",
+   "page": "194v–195",
+   "note": "sňatky; nadpis „Za roku 1701“",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 199,
+   "type": "O",
+   "year": 1702,
+   "year_to": 1704,
+   "page": "195v–196",
+   "note": "sňatky; nadpis „Za roku 1702“",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 200,
    "type": "N",
    "year": 1676,
    "page": "197",
    "note": "česky; nahoře i přípis „1706“ (?), datum u zápisu „1676“; levá strana prázdný přídeštěk s poznámkami",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 201,
+   "type": "N",
+   "year": 1706,
+   "months": "IX–XI",
+   "page": "197v–198",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 202,
+   "type": "N",
+   "year": 1706,
+   "year_to": 1707,
+   "months": "X 1706 – I 1707",
+   "page": "198v–199",
+   "note": "vlevo sňatky 1706",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 203,
+   "type": "N",
+   "year": 1707,
+   "months": "I–II",
+   "page": "199v–200",
+   "note": "začátek roku 1707",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 204,
+   "type": "N",
+   "year": 1707,
+   "months": "III–IV",
+   "page": "200v–201",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 205,
+   "type": "N",
+   "year": 1707,
+   "months": "IV–VI",
+   "page": "201v–202",
+   "note": "mezi křty i úmrtí (25. 4. 1707)",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 206,
+   "type": "N",
+   "year": 1707,
+   "months": "VI–VIII",
+   "page": "202v–203",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 207,
+   "type": "N",
+   "year": 1707,
+   "months": "IX–XI",
+   "page": "203v–204",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 208,
+   "type": "N",
+   "year": 1708,
+   "months": "III–VII",
+   "page": "204v–205",
+   "note": "vazba nepořádná – 1708 pokračuje i na sn. 209–213",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 209,
+   "type": "N",
+   "year": 1707,
+   "year_to": 1708,
+   "months": "XI 1707 – II 1708",
+   "page": "205v–206",
+   "note": "nadpis „Za roku 1708“ na pravé straně",
    "by": "ondrnovy"
   },
   {
