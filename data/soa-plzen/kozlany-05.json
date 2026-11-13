@@ -1,0 +1,63 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "kozlany-05",
+ "url": "https://www.portafontium.eu/register/soap-pn/kozlany-05",
+ "signature": "Kožlany 05",
+ "parish": "Kožlany",
+ "records": {
+  "N": "1763–1784",
+  "O": "1758–1784",
+  "Z": "1760–1784",
+  "iN": "1763–1779",
+  "iO": "1758–1778",
+  "iZ": "1760–1778"
+ },
+ "scans": 218,
+ "language": "la, cs",
+ "order": "mixed",
+ "points": [
+  {
+   "scan": 10,
+   "type": "N",
+   "year": 1765,
+   "months": "VI–VIII",
+   "page": "12–13",
+   "note": "latinsky; N str. 1 = sn. 4 vpravo (I 1763)",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 95,
+   "type": "iN",
+   "year": 1763,
+   "year_to": 1779,
+   "letters": "M, N",
+   "note": "odkazy na strany; B, C = sn. 90",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 103,
+   "type": "O",
+   "year": 1759,
+   "year_to": 1760,
+   "page": "4–5",
+   "note": "česky; O str. 79–80 (1783) = sn. 140",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 146,
+   "type": "iO",
+   "year": 1758,
+   "year_to": 1778,
+   "letters": "K–P",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-13"
+  }
+ ]
+}
