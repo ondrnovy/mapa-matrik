@@ -1,0 +1,38 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "7097",
+ "url": "https://digi.ceskearchivy.cz/7097",
+ "signature": "Rynárec 8",
+ "parish": "Rynárec",
+ "records": {
+  "N": "1872–1893"
+ },
+ "points": [
+  {
+   "scan": 148,
+   "type": "N",
+   "year": 1885,
+   "by": "schranka"
+  },
+  {
+   "scan": 217,
+   "type": "N",
+   "year": 1890,
+   "by": "schranka"
+  },
+  {
+   "scan": 242,
+   "type": "N",
+   "year": 1893,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-13"
+  }
+ ]
+}

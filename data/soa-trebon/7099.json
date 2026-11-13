@@ -1,0 +1,32 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "7099",
+ "url": "https://digi.ceskearchivy.cz/7099",
+ "signature": "Rynárec 10",
+ "parish": "Rynárec",
+ "records": {
+  "O": "1875–1928"
+ },
+ "points": [
+  {
+   "scan": 42,
+   "type": "O",
+   "year": 1885,
+   "by": "schranka"
+  },
+  {
+   "scan": 275,
+   "type": "O",
+   "year": 1928,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-13"
+  }
+ ]
+}
