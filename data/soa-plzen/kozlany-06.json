@@ -25,9 +25,22 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-11"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-13"
   }
  ],
  "points": [
+  {
+   "scan": 13,
+   "type": "N",
+   "year": 1807,
+   "months": "VI–XII",
+   "page": "20–21",
+   "note": "kanonická vizitace 17. 7. 1808 vepsána",
+   "by": "ondrnovy"
+  },
   {
    "scan": 14,
    "type": "N",
@@ -131,6 +144,23 @@
    "type": "N",
    "year": 1828,
    "page": "166",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 92,
+   "type": "O",
+   "year": 1802,
+   "year_to": 1806,
+   "page": "178–179",
+   "note": "česky; nadpisy „Anno Domini 1803 / 1804 / 1805 / 1806“",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 93,
+   "type": "O",
+   "year": 1806,
+   "year_to": 1807,
+   "page": "180–181",
    "by": "ondrnovy"
   },
   {
