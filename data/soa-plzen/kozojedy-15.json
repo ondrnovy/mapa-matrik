@@ -1,0 +1,79 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "kozojedy-15",
+ "url": "https://www.portafontium.eu/register/soap-pn/kozojedy-15",
+ "signature": "Kozojedy 15",
+ "parish": "Kozojedy",
+ "records": {
+  "N": "1832–1862",
+  "O": "1835–1859",
+  "Z": "1833–1927"
+ },
+ "places": [
+  "Brodeslavy"
+ ],
+ "place_codes": {
+  "Brodeslavy": 71927
+ },
+ "language": "de, cs",
+ "scans": 79,
+ "points": [
+  {
+   "scan": 52,
+   "type": "Z",
+   "year": 1834,
+   "year_to": 1838,
+   "page": "51v–52",
+   "note": "začátek Z („Todten-Register für das Dorf Prodeslad“), německy",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 54,
+   "type": "Z",
+   "year": 1842,
+   "year_to": 1844,
+   "page": "53v–54",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 56,
+   "type": "Z",
+   "year": 1847,
+   "year_to": 1851,
+   "page": "55v–56",
+   "note": "od 1847 česky",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 59,
+   "type": "Z",
+   "year": 1853,
+   "year_to": 1855,
+   "page": "58v–59",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 60,
+   "type": "Z",
+   "year": 1856,
+   "year_to": 1857,
+   "page": "59v–60",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 62,
+   "type": "Z",
+   "year": 1860,
+   "page": "61v–62",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-13"
+  }
+ ]
+}
