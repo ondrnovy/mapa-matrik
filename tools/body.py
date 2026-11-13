@@ -16,7 +16,7 @@ import sys
 
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
 import ruian
-from mapa import ARCHIVE_ALIASES, POINT_KEYS, TYPES
+from mapa import POINT_KEYS, TYPES, archive_key
 
 STORE = pathlib.Path(os.environ.get("MAPA_MATRIK_BODY",
                                     pathlib.Path.home() / ".local" / "share" / "mapa-matrik" / "body.jsonl"))
@@ -44,7 +44,7 @@ def add_point(archive, portal_id, point):
     if point.get("type") and point["type"] not in TYPES:
         raise ValueError(f"type musí být jedno z {sorted(TYPES)}")
     point.pop("by", None)
-    archive = ARCHIVE_ALIASES.get(archive, archive)
+    archive = archive_key(archive)
     append({"archive": archive, "portal_id": str(portal_id), "point": point, "date": today()})
     return point
 
@@ -56,7 +56,7 @@ def add_volume(meta):
         raise ValueError(f"chybí pole svazku: {missing}")
     meta = {k: v for k, v in meta.items() if v not in (None, "", [])}
     meta["portal_id"] = str(meta["portal_id"])
-    meta["archive"] = ARCHIVE_ALIASES.get(meta["archive"], meta["archive"])
+    meta["archive"] = archive_key(meta["archive"])
     append({"volume": meta, "date": today()})
     return meta
 
@@ -67,7 +67,7 @@ def pending():
     entries = [json.loads(line) for line in STORE.read_text(encoding="utf-8").splitlines() if line.strip()]
     for e in entries:   # starší fronta mohla mít název archivu z jiného projektu (soapraha)
         rec = e.get("volume", e)
-        rec["archive"] = ARCHIVE_ALIASES.get(rec.get("archive"), rec.get("archive"))
+        rec["archive"] = archive_key(rec.get("archive"))
     return entries
 
 

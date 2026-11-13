@@ -12,6 +12,12 @@ VOLUME_KEYS = {"schema", "kind", "archive", "portal", "portal_id", "url", "scan_
                "sections", "notes", "sources"}
 # názvy archivu z jiných projektů (rodokmen, matriky-index podle portálu) → zkratka mapy
 ARCHIVE_ALIASES = {"soapraha": "soa-praha", "ebadatelna": "soa-praha", "portafontium": "soa-plzen", "soaplzen": "soa-plzen"}
+
+
+def archive_key(name):
+    """„SOA Praha“, „soapraha“ → „soa-praha“ (zkratka mapy); neznámý název vrátí jako slug."""
+    key = slug(name or "")
+    return ARCHIVE_ALIASES.get(key, key) or name
 WEB = "https://ondrnovy.github.io/mapa-matrik/v1"
 RUIAN = pathlib.Path(__file__).resolve().parent.parent / "ciselniky" / "ruian_casti_obci.tsv"
 _ruian = None
