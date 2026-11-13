@@ -63,6 +63,21 @@
    "page": "2–3"
   },
   {
+   "scan": 16,
+   "type": "O",
+   "year": 1793,
+   "page": "26–27",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 18,
+   "type": "O",
+   "year": 1794,
+   "year_to": 1795,
+   "page": "30–31",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 56,
    "type": "O",
    "year": 1820,
@@ -88,6 +103,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-10"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-13"
   }
  ]
 }

@@ -59,6 +59,14 @@
    "note": "nadpis „Letha 1701“"
   },
   {
+   "scan": 54,
+   "type": "N",
+   "year": 1701,
+   "months": "VII–XII",
+   "page": "51",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 55,
    "type": "N",
    "year": 1702,
@@ -77,6 +85,23 @@
    "year": 1702,
    "year_to": 1703,
    "months": "X–I"
+  },
+  {
+   "scan": 61,
+   "type": "N",
+   "year": 1703,
+   "months": "VIII–XII",
+   "page": "58",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 62,
+   "type": "N",
+   "year": 1704,
+   "months": "I–II",
+   "page": "59",
+   "note": "nadpis „Letha 1704 Januarius“",
+   "by": "ondrnovy"
   }
  ],
  "sections": [],
@@ -87,6 +112,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-10"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-13"
   }
  ]
 }

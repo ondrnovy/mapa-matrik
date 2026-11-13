@@ -287,6 +287,15 @@
    "type": "N",
    "year": 1795,
    "months": "XI–XII"
+  },
+  {
+   "scan": 100,
+   "type": "N",
+   "year": 1802,
+   "months": "VII–IX",
+   "page": "188–189",
+   "note": "tištěný formulář, ~9 zápisů na stranu",
+   "by": "ondrnovy"
   }
  ],
  "sections": [],
@@ -298,6 +307,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-10"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-13"
   }
  ]
 }
