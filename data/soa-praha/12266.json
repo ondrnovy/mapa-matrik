@@ -24,6 +24,31 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 51,
+   "type": "N",
+   "year": 1743,
+   "months": "II–III",
+   "page": "90–91",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 52,
+   "type": "N",
+   "year": 1743,
+   "months": "III–IV",
+   "page": "92–93",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 53,
+   "type": "N",
+   "year": 1743,
+   "months": "IV–V",
+   "page": "94–95",
+   "note": "„1743“ připsáno na str. 95",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 194,
    "type": "N",
    "year": 1755,
@@ -44,6 +69,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-12"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-14"
   }
  ]
 }
