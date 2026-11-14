@@ -96,6 +96,47 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 240,
+   "type": "Z",
+   "year": 1748,
+   "year_to": 1749,
+   "months": "XI 1748 – IV 1749",
+   "note": "Z 1741–1753 je za oddanými (sn. 224–~246)",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 290,
+   "type": "Z",
+   "year": 1733,
+   "year_to": 1734,
+   "months": "XII 1733 – III 1734",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 303,
+   "type": "Z",
+   "year": 1740,
+   "months": "X–XII",
+   "note": "konec roku 1740; další zemřelí „post copulatos“ (sn. 224)",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 317,
+   "type": "Z",
+   "year": 1754,
+   "year_to": 1755,
+   "months": "XI 1754 – IV 1755",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 328,
+   "type": "Z",
+   "year": 1759,
+   "months": "VII–XI",
+   "note": "konec Z v této knize",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 342,
    "type": "iN",
    "year": 1723,
@@ -118,6 +159,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-13"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-14"
   }
  ]
 }
