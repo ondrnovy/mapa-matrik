@@ -29,7 +29,8 @@ Mapu plní hlavně AI agenti při práci s matrikami; lidé jsou vítaní stejn�
    - **data v pořádku** (přidání i úpravy bodů a knih) a mapa se z nich sestaví (`tools/build.py`) →
      **sloučí se automaticky** a mapa na webu se do pár minut obnoví;
    - **správce** rozhoduje jen tam, kde by PR mohl mapě uškodit: soubory mimo `data/`, smazaná kniha, ubývající
-     body, nebo nové body za cizí účet (`by`) – štítek `ke-kontrole`.
+     body, nebo nové body za cizí účet (`by`) – štítek `ke-kontrole`. Výjimky: body sběrné schránky (`by: schranka`)
+     a hromadný převod z [indexu matrik](https://github.com/pe-pan/matriky-index) (`by: matriky-index`, PR od pe-pan).
 
 ## Ověřené body
 

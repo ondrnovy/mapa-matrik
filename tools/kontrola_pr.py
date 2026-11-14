@@ -15,7 +15,9 @@ from collections import Counter
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
 from kontrola import check
 
-SCHRANKA = ("schranka", "ondrnovy")   # body ze sběrné schránky (schranka/) zakládá v PR tento účet
+# Body za jiné `by`, než je autor PR: sběrná schránka (schranka/) a hromadný převod z indexu matrik
+# (pe-pan/matriky-index, kdo zápis četl, zůstává v indexu ve sloupci `cetl`).
+ZASTUPCI = {("schranka", "ondrnovy"), ("matriky-index", "pe-pan"), ("matriky-index", "ondrnovy")}
 
 
 def git(*args):
@@ -65,7 +67,7 @@ def main(argv):
         if author:
             before = Counter(x.get("by") for x in old_points)
             for by, n in Counter(x.get("by") for x in new_points).items():
-                if by and by != author and (by, author) != SCHRANKA and n > before[by]:
+                if by and by != author and (by, author) not in ZASTUPCI and n > before[by]:
                     human.append(f"{path}: přibyly body za cizí účet by={by!r} (autor PR je {author})")
     for e in errors:
         print(f"CHYBA {e}")
