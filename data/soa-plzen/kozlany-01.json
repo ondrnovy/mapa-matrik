@@ -1,0 +1,60 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "kozlany-01",
+ "url": "https://www.portafontium.eu/register/soap-pn/kozlany-01",
+ "signature": "Kožlany 01",
+ "parish": "Kožlany",
+ "records": {
+  "N": "1655–1684",
+  "O": "1660–1684",
+  "Z": "1660–1684"
+ },
+ "places": [
+  "Kožlany",
+  "Hedčany",
+  "Strachovice"
+ ],
+ "place_codes": {
+  "Kožlany": 72061,
+  "Hedčany": 32999
+ },
+ "order": "mixed",
+ "language": "čeština, latina",
+ "points": [
+  {
+   "scan": 103,
+   "type": "O",
+   "year": 1675,
+   "months": "X–XI",
+   "page": "202–203",
+   "note": "„Ano 1675“ na pravé straně",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 108,
+   "type": "O",
+   "year": 1679,
+   "months": "VII–XI",
+   "page": "212–213",
+   "note": "česky, po vsích",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 112,
+   "type": "O",
+   "year": 1682,
+   "year_to": 1684,
+   "page": "220–221",
+   "note": "„Anno 1683“ na pravé straně",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-14"
+  }
+ ]
+}
