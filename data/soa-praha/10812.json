@@ -1,0 +1,70 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "10812",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/10812",
+ "signature": "Panoší Újezd 01",
+ "parish": "Panoší Újezd",
+ "records": {
+  "N": "1680–1697",
+  "O": "1680–1696",
+  "Z": "1681–1697"
+ },
+ "district": "Rakovník",
+ "scans": 173,
+ "scan_url": "https://ebadatelna.soapraha.cz/d/10812/{scan}",
+ "order": "chronological",
+ "language": "čeština, latina",
+ "points": [
+  {
+   "scan": 135,
+   "type": "O",
+   "year": 1692,
+   "page": "259–260",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 153,
+   "type": "N",
+   "year": 1694,
+   "months": "III",
+   "page": "295–296",
+   "note": "str. 295 nadpis „Léta 1694“, druhý úsek křtů",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 159,
+   "type": "N",
+   "year": 1694,
+   "year_to": 1695,
+   "page": "306–307",
+   "note": "str. 307 nadpis 1695",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 163,
+   "type": "N",
+   "year": 1695,
+   "year_to": 1696,
+   "page": "314–315",
+   "note": "str. 314 nadpis 1696",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 167,
+   "type": "N",
+   "year": 1697,
+   "months": "I–II",
+   "page": "322–323",
+   "note": "str. 322 nadpis 1697",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-14"
+  }
+ ]
+}
