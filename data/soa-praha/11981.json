@@ -61,6 +61,13 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 176,
+   "type": "N",
+   "page": "172v–173",
+   "note": "vlevo konec bloku křtů (rok neuveden), vpravo fol. 173 začátek zemřelých od 1673",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 179,
    "type": "N",
    "months": "XI–XII",
@@ -329,6 +336,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-13"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-14"
   }
  ]
 }
