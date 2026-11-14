@@ -1,7 +1,7 @@
 // node --test schranka/test – bez sítě: GitHub API je nahrazené pamětí.
 import { test } from "node:test";
 import assert from "node:assert/strict";
-import worker, { overPrispevek, pridejBody, pridejRadky, pseudonym, Chyba } from "../src/index.js";
+import worker, { overPrispevek, pridejBody, pridejRadky, pseudonym, portalId, Chyba } from "../src/index.js";
 
 const BOD = { archive: "soa-plzen", portal_id: "kozlany-22", signature: "Kožlany 22", scan: 40, type: "Z", year: 1914 };
 const ZAPIS = { archiv: "portafontium", kniha: "kozlany-22", nazev: "Kožlany 22", url: "https://www.portafontium.eu/register/soap-pn/kozlany-22",
@@ -36,9 +36,9 @@ test("řádky indexu: hlavička, bez duplicit", () => {
   assert.equal(pridejRadky(tsv, [{ snimek: "74", datum: "1918-01-17", typ: "Z", osoby: "y" }]).pridano, 0);
 });
 
-function falesnyGitHub({ vetve = {}, otevrene = {} } = {}) {
+function falesnyGitHub({ vetve = {}, otevrene = {}, navic = {} } = {}) {
   const volani = [], tela = [];
-  const soubory = { "ondrnovy/mapa-matrik:data/soa-plzen/kozlany-22.json": JSON.stringify({ schema: 1, archive: "soa-plzen", points: [], records: {}, sources: [] }) };
+  const soubory = { "ondrnovy/mapa-matrik:data/soa-plzen/kozlany-22.json": JSON.stringify({ schema: 1, archive: "soa-plzen", points: [], records: {}, sources: [] }), ...navic };
   const fetchFn = async (url, opt) => {
     const cesta = url.replace("https://api.github.com", "");
     volani.push(`${opt.method} ${cesta.split("?")[0]}`);
@@ -169,4 +169,36 @@ test("pseudonym: denní PR přispěvatele, další odeslání téhož dne do ně
   assert.ok(druhy.volani.includes(`PATCH /repos/ondrnovy/matriky-index/git/refs/heads/${vetev}`));
   assert.ok(!druhy.volani.includes("POST /repos/pe-pan/matriky-index/pulls"), "nový PR nevzniká");
   assert.deepEqual(druhy.tela.find(t => t.parents)?.parents, ["d1"]);
+});
+
+test("kniha bez nového bodu: rozsah a obce se uloží", async () => {
+  const kniha = { schema: 1, archive: "soa-praha", portal: "ebadatelna", portal_id: "4889", url: "https://ebadatelna.soapraha.cz/d/4889/",
+    signature: "Beroun 52", parish: "Beroun", records: { N: "1902" }, points: [{ scan: 10, type: "N", year: 1902, by: "x" }], sources: [] };
+  const posli = async vol => {
+    const gh = falesnyGitHub({ navic: { "ondrnovy/mapa-matrik:data/soa-praha/4889.json": JSON.stringify(vol) } });
+    const bod = { archive: "soa-praha", portal_id: "4889", scan: 10, type: "N", year: 1902, records: { N: "1900–1905" },
+      places: ["Beroun", "Hlína"], place_codes: { "Hlína": 12345 } };
+    const r = await worker.fetch(new Request("https://s.example/v1/prispevek", { method: "POST", body: JSON.stringify({ body: [bod] }) }), ENV, {}, gh.fetchFn);
+    return { r, data: await r.json(), ...gh };
+  };
+  const ok = await posli(kniha);
+  assert.equal(ok.r.status, 200, JSON.stringify(ok.data));
+  assert.match(ok.data.mapa, /pull/);
+  const vol = JSON.parse(ok.tela.find(t => t.tree).tree[0].content);
+  assert.equal(vol.records.N, "1900–1905");
+  assert.deepEqual(vol.places, ["Beroun", "Hlína"]);
+  assert.deepEqual(vol.place_codes, { "Hlína": 12345 });
+  assert.equal(vol.points.length, 1);
+  assert.match(ok.tela.find(t => t.title).title, /doplněný rozsah nebo obce \(1\)/);
+  assert.equal((await posli(vol)).data.mapa, null, "nic nového = žádný PR");
+});
+
+test("farnost, obce a tvar identifikátoru", () => {
+  const b = overPrispevek({ body: [{ archive: "za-opava", portal_id: "BE930F8CF13C102F82550050568C0263", scan: 3, parish: "Rynárec",
+    url: "https://digi.archives.cz/da/permalink?xid=be930f8c", places: ["Pavlov"], place_codes: { Pavlov: 1 } }] }, 2026).body[0];
+  assert.equal(b.portal_id, "be930f8c-f13c-102f-8255-0050568c0263");
+  assert.equal(b.kniha.parish, "Rynárec");
+  assert.equal(portalId("ahmp", "144286c6-ccb6-4896-8f0c-7879316827d0"), "144286C6CCB648968F0C7879316827D0");
+  assert.equal(portalId("soa-plzen", "kozlany-22"), "kozlany-22");
+  assert.throws(() => overPrispevek({ body: [{ ...BOD, places: ["A"], place_codes: { B: 1 } }] }, 2026), /není v places/);
 });

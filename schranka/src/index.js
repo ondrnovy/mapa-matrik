@@ -26,6 +26,8 @@ const KLIC = /^[A-Za-z0-9_-]{32,128}$/;
 const DRUHY = new Set(["N", "O", "Z", "iN", "iO", "iZ", "title", "blank"]);
 const LHUTA = { N: 100, O: 75, Z: 75 };
 const ID = /^[a-z0-9][a-z0-9-]{0,80}$/;
+const ID_MAPY = /^[A-Za-z0-9][A-Za-z0-9-]{0,80}$/;
+const UUID_ARCHIVY = new Set(["soa-zamrsk", "za-opava", "soa-litomerice"]);
 const TEXT = /^[^\t\r\n]{0,600}$/;
 const ROZSAH = /^(\d{4})(?:\s*[–-]\s*(\d{4}))?$/;
 
@@ -62,10 +64,24 @@ export function rozsirRoky(records, typ, roky) {
 }
 
 // Bod do mapy: kniha (archiv + id + popis pro novou knihu) a jeden orientační bod. Jména osob v bodech nejsou (zásada mapy).
+// Identifikátor knihy v jednom tvaru jako v mapě, ať z jedné knihy nevzniknou dvě: uuid (ARON, digitální badatelny)
+// malými písmeny s pomlčkami, xid AHMP 32 znaků velkými bez pomlček.
+export function portalId(archive, id) {
+  const s = String(id ?? "").trim();
+  const hex = s.replace(/-/g, "");
+  if (UUID_ARCHIVY.has(archive) && /^[0-9a-f]{32}$/i.test(hex)) {
+    const h = hex.toLowerCase();
+    return `${h.slice(0, 8)}-${h.slice(8, 12)}-${h.slice(12, 16)}-${h.slice(16, 20)}-${h.slice(20)}`;
+  }
+  if (archive === "ahmp" && /^[0-9a-f]{32}$/i.test(hex)) return hex.toUpperCase();
+  return s;
+}
+
 export function overBod(b, letos) {
   if (!b || typeof b !== "object") throw new Chyba(400, "bod musí být objekt");
   if (!(b.archive in ARCHIVY_MAPY)) throw new Chyba(400, `archiv ${b.archive} schránka nezná (zná ${Object.keys(ARCHIVY_MAPY).join(", ")})`);
-  if (!ID.test(String(b.portal_id || ""))) throw new Chyba(400, "portal_id: malá písmena, číslice, pomlčky");
+  const portal_id = portalId(b.archive, b.portal_id);
+  if (!ID_MAPY.test(portal_id)) throw new Chyba(400, "portal_id: písmena bez diakritiky, číslice, pomlčky");
   const p = { scan: cislo(b.scan, "scan", 1, 100000) };
   if (p.scan === undefined) throw new Chyba(400, "bod potřebuje scan");
   if (b.type !== undefined && !DRUHY.has(b.type)) throw new Chyba(400, `type ${b.type} neznámý`);
@@ -79,7 +95,21 @@ export function overBod(b, letos) {
     signature: text(b.signature, "signature", 120),
     url: text(b.url, "url", 300),
     scans: cislo(b.scans, "scans", 1, 100000),
+    parish: text(b.parish, "parish", 120),
   };
+  // places a place_codes: obce knihy (dnešní názvy) a kódy částí obcí z RÚIAN, aby knihu našel rozcestník podle obce
+  if (b.places !== undefined && b.places !== null) {
+    if (!Array.isArray(b.places) || b.places.length > 100) throw new Chyba(400, "places: seznam obcí, nejvýš 100");
+    kniha.places = b.places.map((x, i) => text(x, `places[${i}]`, 80)).filter(Boolean);
+  }
+  if (b.place_codes !== undefined && b.place_codes !== null) {
+    if (typeof b.place_codes !== "object" || Array.isArray(b.place_codes)) throw new Chyba(400, "place_codes: objekt {\"Obec\": kód RÚIAN}");
+    kniha.place_codes = {};
+    for (const [obec, kod] of Object.entries(b.place_codes)) {
+      if (!(kniha.places || []).includes(obec)) throw new Chyba(400, `place_codes: obec ${obec} není v places`);
+      kniha.place_codes[obec] = cislo(kod, `place_codes.${obec}`, 1, 99999999);
+    }
+  }
   // records: rozsah let knihy z katalogu archivu ({"N": "1900–1905"}), aby kniha byla v mapě i pro roky bez bodů
   if (b.records !== undefined && b.records !== null) {
     if (typeof b.records !== "object" || Array.isArray(b.records)) throw new Chyba(400, "records: objekt {\"N\": \"1900–1905\"}");
@@ -90,7 +120,7 @@ export function overBod(b, letos) {
     }
   }
   if (kniha.url && !ARCHIVY_MAPY[b.archive].web.test(kniha.url)) throw new Chyba(400, `url knihy musí vést na portál archivu ${b.archive}`);
-  return { archive: b.archive, portal_id: String(b.portal_id), bod: p, kniha };
+  return { archive: b.archive, portal_id, bod: p, kniha };
 }
 
 // Zápis do indexu: řádek precteno.tsv (formát indexu) + kniha. Jen zápisy starší lhůt indexu.
@@ -162,12 +192,20 @@ export function pridejBody(vol, body, dnes) {
   return pridano;
 }
 
+// Obce knihy: nové názvy na konec places, kódy RÚIAN jen tam, kde kód ještě není (existující se nepřepisují).
+export function doplnObce(vol, places, codes) {
+  for (const obec of places || []) if (!(vol.places ||= []).includes(obec)) vol.places.push(obec);
+  for (const [obec, kod] of Object.entries(codes || {})) if (!(obec in (vol.place_codes ||= {}))) vol.place_codes[obec] = kod;
+  if (vol.places && !vol.places.length) delete vol.places;
+  if (vol.place_codes && !Object.keys(vol.place_codes).length) delete vol.place_codes;
+}
+
 export function novaKniha(archive, portal_id, kniha, dnes) {
   const podpis = kniha.signature || portal_id;
   const vol = {
     schema: 1, archive, portal: ARCHIVY_MAPY[archive].portal, portal_id,
     url: kniha.url || ARCHIVY_MAPY[archive].vzor?.(portal_id),
-    signature: podpis, parish: podpis.replace(/\s+\d+\w*$/, "") || podpis, records: {}, points: [], sources: [],
+    signature: podpis, parish: kniha.parish || podpis.replace(/\s+\d+\w*$/, "") || podpis, records: {}, points: [], sources: [],
   };
   if (kniha.scans) vol.scans = kniha.scans;
   return vol;
@@ -246,12 +284,15 @@ export async function doMapy(gh, env, body, vetev, dnes, nastroj, kdo = null) {
   const podleKnihy = new Map();
   for (const b of body) {
     const k = `${b.archive}/${b.portal_id}`;
-    if (!podleKnihy.has(k)) podleKnihy.set(k, { ...b, body: [], records: {} });
-    podleKnihy.get(k).body.push(b.bod);
-    for (const [typ, roky] of Object.entries(b.kniha.records || {})) (podleKnihy.get(k).records[typ] ||= []).push(...roky);
+    if (!podleKnihy.has(k)) podleKnihy.set(k, { ...b, body: [], records: {}, places: [], place_codes: {} });
+    const kn = podleKnihy.get(k);
+    kn.body.push(b.bod);
+    for (const [typ, roky] of Object.entries(b.kniha.records || {})) (kn.records[typ] ||= []).push(...roky);
+    kn.places.push(...(b.kniha.places || []));
+    Object.assign(kn.place_codes, b.kniha.place_codes || {});
   }
   const soubory = {};
-  let pridano = 0;
+  let pridano = 0, doplneno = 0;
   for (const [k, kn] of podleKnihy) {
     const cesta = `data/${k}.json`;
     const stary = await soubor(gh, repo, cesta, main.object.sha);
@@ -259,15 +300,24 @@ export async function doMapy(gh, env, body, vetev, dnes, nastroj, kdo = null) {
     if (!stary && !vol.url) throw new Chyba(400, `nová kniha ${k} potřebuje url (stránku knihy na portálu archivu)`);
     vol.sources ||= [];
     vol.records ||= {};
+    const puvodni = JSON.stringify(vol);
     const n = pridejBody(vol, kn.body, dnes);
     for (const [typ, roky] of Object.entries(kn.records)) rozsirRoky(vol.records, typ, roky);
-    if (n) { soubory[cesta] = JSON.stringify(vol, null, 1) + "\n"; pridano += n; }
+    doplnObce(vol, kn.places, kn.place_codes);
+    // soubor se zapíše i bez nového bodu, když se rozšířil rozsah let nebo přibyly obce knihy
+    if (n || JSON.stringify(vol) !== puvodni) {
+      soubory[cesta] = JSON.stringify(vol, null, 1) + "\n";
+      pridano += n;
+      if (!n) doplneno++;
+    }
   }
-  if (!pridano) return null;
-  await commit(gh, repo, main.object.sha, soubory, `Body ze schránky: ${pridano}`, vetev);
+  if (!Object.keys(soubory).length) return null;
+  const nazev = pridano ? `Body ze schránky: ${pridano}` : `Knihy ze schránky: doplněný rozsah nebo obce (${doplneno})`;
+  await commit(gh, repo, main.object.sha, soubory, nazev, vetev);
   const pr = await gh("POST", `/repos/${repo}/pulls`, {
-    title: `Body ze schránky: ${pridano}`, head: vetev, base: "main",
-    body: `Orientační body poslané sběrnou schránkou (bez účtu GitHub, nástroj: ${nastroj || "neuveden"}). Knih: ${Object.keys(soubory).length}.` +
+    title: nazev, head: vetev, base: "main",
+    body: `Orientační body poslané sběrnou schránkou (bez účtu GitHub, nástroj: ${nastroj || "neuveden"}). Knih: ${Object.keys(soubory).length}` +
+      (doplneno ? `, z toho ${doplneno} jen s doplněným rozsahem let nebo obcemi.` : ".") +
       znacka(kdo),
   });
   return pr.html_url;

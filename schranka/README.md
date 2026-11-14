@@ -40,6 +40,13 @@ Nepovinně:
 - `"nastroj": "rodokmen/sdileni.py"` – čím byl příspěvek poslán (do 80 znaků); objeví se v popisu PR;
 - u bodu `"records": {"N": "1900–1905"}` – rozsah let knihy z katalogu archivu (druhy N, O, Z). Kniha se pak v mapě
   najde pro celý rozsah, ne jen pro roky poslaných bodů; existující rozsah se jen rozšíří.
+- u bodu `"places": ["Pavlov"]` a `"place_codes": {"Pavlov": 12345}` – obce knihy a kódy částí obcí z RÚIAN (viz
+  `docs/FORMAT.md`); u existující knihy se nové obce přidají, existující kódy se nepřepisují;
+- u bodu `"parish"` – farnost nové knihy (jinak se odvodí z `signature` bez čísla na konci).
+
+Rozsah let a obce se uloží i tehdy, když žádný bod nepřibude (PR „Knihy ze schránky: doplněný rozsah nebo obce“).
+`portal_id` schránka sjednotí s mapou: uuid (ARON, digitální badatelny Opava a Litoměřice) malými písmeny s pomlčkami,
+xid AHMP velkými bez pomlček.
 
 Odpověď `{"mapa": "<odkaz na PR>|null", "index": "<odkaz na PR>|null"}`, chyba `{"chyba": "…"}` s kódem 400/413/429.
 
