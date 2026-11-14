@@ -1,0 +1,70 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "12258",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/12258",
+ "signature": "Smečno 22",
+ "parish": "Smečno",
+ "records": {
+  "O": "1722–1757"
+ },
+ "district": "Kladno",
+ "scans": 121,
+ "scan_url": "https://ebadatelna.soapraha.cz/d/12258/{scan}",
+ "order": "chronological",
+ "language": "čeština",
+ "points": [
+  {
+   "scan": 36,
+   "type": "O",
+   "year": 1739,
+   "year_to": 1740,
+   "months": "XI 1739 – II 1740",
+   "page": "64–65",
+   "note": "„Anno 1740“ na str. 64",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 40,
+   "type": "O",
+   "year": 1741,
+   "months": "I–IV",
+   "page": "72–73",
+   "note": "„Anno 1741“ na str. 72",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 43,
+   "type": "O",
+   "year": 1741,
+   "year_to": 1742,
+   "months": "XI 1741 – I 1742",
+   "page": "78–79",
+   "note": "„Anno 1742“ na str. 79",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 50,
+   "type": "O",
+   "year": 1743,
+   "months": "IX–X",
+   "page": "92–93",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 59,
+   "type": "O",
+   "year": 1745,
+   "months": "II–VI",
+   "page": "110–111",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-14"
+  }
+ ]
+}
