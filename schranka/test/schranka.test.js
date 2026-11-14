@@ -1,7 +1,7 @@
 // node --test schranka/test – bez sítě: GitHub API je nahrazené pamětí.
 import { test } from "node:test";
 import assert from "node:assert/strict";
-import worker, { overPrispevek, pridejBody, pridejRadky, Chyba } from "../src/index.js";
+import worker, { overPrispevek, pridejBody, pridejRadky, pseudonym, Chyba } from "../src/index.js";
 
 const BOD = { archive: "soa-plzen", portal_id: "kozlany-22", signature: "Kožlany 22", scan: 40, type: "Z", year: 1914 };
 const ZAPIS = { archiv: "portafontium", kniha: "kozlany-22", nazev: "Kožlany 22", url: "https://www.portafontium.eu/register/soap-pn/kozlany-22",
@@ -36,7 +36,7 @@ test("řádky indexu: hlavička, bez duplicit", () => {
   assert.equal(pridejRadky(tsv, [{ snimek: "74", datum: "1918-01-17", typ: "Z", osoby: "y" }]).pridano, 0);
 });
 
-function falesnyGitHub() {
+function falesnyGitHub({ vetve = {}, otevrene = {} } = {}) {
   const volani = [], tela = [];
   const soubory = { "ondrnovy/mapa-matrik:data/soa-plzen/kozlany-22.json": JSON.stringify({ schema: 1, archive: "soa-plzen", points: [], records: {}, sources: [] }) };
   const fetchFn = async (url, opt) => {
@@ -50,6 +50,12 @@ function falesnyGitHub() {
       return obsah ? ok({ content: Buffer.from(obsah).toString("base64") }) : new Response("", { status: 404 });
     }
     if (cesta.includes("/git/ref/heads/main")) return ok({ object: { sha: "abc" } });
+    if ((m = cesta.match(/\/git\/ref\/heads\/(.+)$/))) {
+      return vetve[m[1]] ? ok({ object: { sha: vetve[m[1]] } }) : new Response("", { status: 404 });
+    }
+    if ((m = cesta.match(/\/pulls\?state=open&head=[^:]+:(.+)$/))) return ok(otevrene[m[1]] ? [{ html_url: otevrene[m[1]] }] : []);
+    if (opt.method === "PATCH" && cesta.includes("/git/refs/heads/")) return ok({});
+    if (cesta.includes("/git/commits/") && !cesta.endsWith("/git/commits")) return ok({ tree: { sha: "t0" } });
     if (cesta.includes("/git/commits/abc")) return ok({ tree: { sha: "t0" } });
     if (cesta.endsWith("/git/trees")) return ok({ sha: "t1" });
     if (cesta.endsWith("/git/commits")) return ok({ sha: "c1" });
@@ -120,4 +126,47 @@ test("další archivy: nová kniha ARON s odkazem, bez odkazu 400", async () => 
   assert.ok(!bez.volani.some(v => v.endsWith("/pulls")));
   const cizi = await posli({ ...aron, url: "https://www.portafontium.eu/register/soap-pn/x" });
   assert.match(cizi.data.chyba, /portál archivu soa-zamrsk/);
+});
+
+const KLIC = "k".repeat(40);
+
+test("pseudonym: stejný klíč stejný, jiný klíč jiný, bez tajemství žádný", async () => {
+  const a = await pseudonym("tajne", KLIC);
+  assert.match(a, /^[0-9a-f]{16}$/);
+  assert.equal(await pseudonym("tajne", KLIC), a);
+  assert.notEqual(await pseudonym("tajne", "j".repeat(40)), a);
+  assert.notEqual(await pseudonym("jine", KLIC), a);
+  assert.equal(await pseudonym(undefined, KLIC), null);
+  assert.equal(await pseudonym("tajne", undefined), null);
+});
+
+test("ověření: klíč a snímek Porta fontium", () => {
+  const chyba = (d, re) => assert.throws(() => overPrispevek(d, 2026), e => e instanceof Chyba && re.test(e.message));
+  chyba({ zapisy: [ZAPIS], klic: "kratky" }, /klic/);
+  chyba({ zapisy: [{ ...ZAPIS, snimek: "0740-z" }] }, /pořadí v prohlížeči/);
+  assert.equal(overPrispevek({ zapisy: [{ ...ZAPIS, archiv: "vca", kniha: "0a1b2c3d" }], klic: KLIC }, 2026).klic, KLIC);
+});
+
+test("pseudonym: denní PR přispěvatele, další odeslání téhož dne do něj přidá commit", async () => {
+  const env = { ...ENV, PSEUDONYM_TAJEMSTVI: "tajne" };
+  const kdo = await pseudonym("tajne", KLIC);
+  const den = new Date().toISOString().slice(0, 10).replace(/-/g, "");
+  const vetev = `schranka-${kdo}-${den}`;
+  const posli = gh => worker.fetch(new Request("https://s.example/v1/prispevek",
+    { method: "POST", body: JSON.stringify({ zapisy: [ZAPIS], klic: KLIC }) }), env, {}, gh.fetchFn);
+
+  const prvni = falesnyGitHub();
+  const r1 = await posli(prvni);
+  assert.equal(r1.status, 200, JSON.stringify(await r1.clone().json()));
+  const pr = prvni.tela.find(t => t.title);
+  assert.equal(pr.head, `ondrnovy:${vetev}`);
+  assert.match(pr.body, new RegExp(`<!-- prispevatel: ${kdo} -->`));
+  assert.ok(prvni.tela.some(t => t.ref === `refs/heads/${vetev}`));
+
+  const druhy = falesnyGitHub({ vetve: { [vetev]: "d1" }, otevrene: { [vetev]: "https://github.com/pe-pan/matriky-index/pull/7" } });
+  const r2 = await posli(druhy);
+  assert.equal((await r2.json()).index, "https://github.com/pe-pan/matriky-index/pull/7");
+  assert.ok(druhy.volani.includes(`PATCH /repos/ondrnovy/matriky-index/git/refs/heads/${vetev}`));
+  assert.ok(!druhy.volani.includes("POST /repos/pe-pan/matriky-index/pulls"), "nový PR nevzniká");
+  assert.deepEqual(druhy.tela.find(t => t.parents)?.parents, ["d1"]);
 });

@@ -15,7 +15,9 @@ takže nesmysl nebo spam skončí jako zamítnutý PR.
 - body: archivy SOA Plzeň, SOA Praha, SOA Zámrsk, SOA Třeboň, SOA Litoměřice, ZA Opava, MZA Brno a AHMP (tabulka `ARCHIVY_MAPY`),
   známá pole, bez tabulátorů a nových řádků, odkaz knihy jen na portál toho archivu; nová kniha mimo SOA Plzeň a Praha
   musí poslat `url` (adresu knihy schránka sestaví jen u těch dvou);
-- zápisy: formát řádku indexu, lhůty (narození 100 let, sňatky a úmrtí 75 let), `cetl` s modelem/effortem, jistota;
+- zápisy: archivy indexu `portafontium`, `soapraha`, `ahmp`, `vca`, `mza`, `zaopava`, `soatrebon`, formát řádku indexu,
+  lhůty (narození 100 let, sňatky a úmrtí 75 let), `cetl` s modelem/effortem, jistota; u Porta fontium snímek jako
+  pořadí v prohlížeči portálu, ne číslo souboru (`0740-z` odmítne);
 - duplicity: bod, který v knize už je, a řádek indexu se stejným snímkem, datem a druhem se nepřidá.
 
 ## API
@@ -30,6 +32,11 @@ takže nesmysl nebo spam skončí jako zamítnutý PR.
 ```
 
 Nepovinně:
+- `"klic": "…"` – náhodný řetězec 32–128 znaků (A–Z, a–z, 0–9, `_`, `-`), který si klient vytvoří jednou a nikde
+  neukazuje. Schránka z něj spočítá pseudonym (HMAC se svým tajemstvím `PSEUDONYM_TAJEMSTVI`) a zapíše ho do popisu
+  PR (`<!-- prispevatel: <pseudonym> -->`): index podle něj rozliší přispěvatele, kteří všichni posílají pod účtem
+  schránky, a ověřené z nich slučuje sám. Zápisy jednoho pseudonymu za den jdou do jednoho PR indexu (větev
+  `schranka-<pseudonym>-<den>`); další odeslání téhož dne do něj přidá commit;
 - `"nastroj": "rodokmen/sdileni.py"` – čím byl příspěvek poslán (do 80 znaků); objeví se v popisu PR;
 - u bodu `"records": {"N": "1900–1905"}` – rozsah let knihy z katalogu archivu (druhy N, O, Z). Kniha se pak v mapě
   najde pro celý rozsah, ne jen pro roky poslaných bodů; existující rozsah se jen rozšíří.
@@ -50,6 +57,7 @@ Potřeba: účet Cloudflare (zdarma) a token GitHub účtu, pod kterým schránk
    set -a; . ~/.config/mapa-matrik/cloudflare.env; set +a
    npx -y wrangler@4 kv namespace create LIMITY      # id dej do wrangler.toml
    npx -y wrangler@4 secret put GITHUB_TOKEN         # vlož token z kroku 2
+   npx -y wrangler@4 secret put PSEUDONYM_TAJEMSTVI  # náhodný řetězec; po změně dostanou přispěvatelé nové pseudonymy
    npx -y wrangler@4 deploy
    ```
 4. Adresu (`https://mapa-matrik-schranka.<účet>.workers.dev`) dej do `SCHRANKA` v `tools/sdileni.py` skillu rodokmen.

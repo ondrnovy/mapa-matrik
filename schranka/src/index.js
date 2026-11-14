@@ -18,7 +18,11 @@ const ARCHIVY_MAPY = {
   "mza-brno": { portal: "actapublica", web: /^https:\/\/www\.mza\.cz\/actapublica\// },
   "ahmp": { portal: "pragapublica", web: /^https:\/\/katalog\.ahmp\.cz\// },
 };
-const ARCHIVY_INDEXU = ["portafontium", "soapraha", "ahmp"];
+// Složky archivů v indexu matrik (knihy/<archiv>/<kniha>); kniha je u vca a zaopava prvních 8 znaků uuid z adresy,
+// u mza, soapraha a soatrebon číslo z adresy, u portafontium název knihy z adresy.
+const ARCHIVY_INDEXU = ["portafontium", "soapraha", "ahmp", "vca", "mza", "zaopava", "soatrebon"];
+// Klíč přispěvatele: náhodný řetězec, který si klient vytvoří jednou a nikde neukazuje (z něj je pseudonym).
+const KLIC = /^[A-Za-z0-9_-]{32,128}$/;
 const DRUHY = new Set(["N", "O", "Z", "iN", "iO", "iZ", "title", "blank"]);
 const LHUTA = { N: 100, O: 75, Z: 75 };
 const ID = /^[a-z0-9][a-z0-9-]{0,80}$/;
@@ -107,6 +111,9 @@ export function overZapis(z, letos) {
     jistota: text(z.jistota, "jistota", 20), cetl: text(z.cetl, "cetl", 200),
   };
   if (!radek.snimek) throw new Chyba(400, "zápis potřebuje snímek");
+  if (archiv === "portafontium" && /\d{4}-[a-z]/.test(radek.snimek)) {
+    throw new Chyba(400, `snímek ${radek.snimek}: u Porta fontium je snímek pořadí v prohlížeči portálu, ne číslo souboru`);
+  }
   if (!radek.osoby) throw new Chyba(400, "zápis potřebuje osoby");
   if (!/^(vysoká|střední|nízká)/.test(radek.jistota || "")) throw new Chyba(400, "jistota: vysoká, střední nebo nízká");
   if (!/[a-z][a-z0-9.-]*\/[a-z0-9]+/i.test(radek.cetl || "")) throw new Chyba(400, "cetl musí obsahovat model/effort (např. claude-opus-5-5/high)");
@@ -121,8 +128,21 @@ export function overPrispevek(data, letos = new Date().getUTCFullYear()) {
   const zapisy = Array.isArray(data.zapisy) ? data.zapisy : [];
   if (!body.length && !zapisy.length) throw new Chyba(400, "prázdný příspěvek");
   const nastroj = text(data.nastroj, "nastroj", 80);
+  if (data.klic !== undefined && (typeof data.klic !== "string" || !KLIC.test(data.klic))) {
+    throw new Chyba(400, "klic: 32–128 znaků A–Z, a–z, 0–9, _ a -");
+  }
   if (body.length > MAX_BODU || zapisy.length > MAX_ZAPISU) throw new Chyba(413, `nejvýš ${MAX_BODU} bodů a ${MAX_ZAPISU} zápisů najednou`);
-  return { body: body.map(b => overBod(b, letos)), zapisy: zapisy.map(z => overZapis(z, letos)), nastroj };
+  return { body: body.map(b => overBod(b, letos)), zapisy: zapisy.map(z => overZapis(z, letos)), nastroj, klic: data.klic };
+}
+
+// Pseudonym přispěvatele = HMAC tajemství schránky nad jeho klíčem. Index podle něj rozliší přispěvatele, kteří posílají
+// pod jedním účtem schránky; kdo klíč nezná, cizí pseudonym nenapodobí. Bez tajemství nebo klíče žádný není.
+export async function pseudonym(tajemstvi, klic) {
+  if (!tajemstvi || !klic) return null;
+  const k = await crypto.subtle.importKey("raw", new TextEncoder().encode(tajemstvi), { name: "HMAC", hash: "SHA-256" },
+    false, ["sign"]);
+  const podpis = new Uint8Array(await crypto.subtle.sign("HMAC", k, new TextEncoder().encode(klic)));
+  return [...podpis.slice(0, 8)].map(b => b.toString(16).padStart(2, "0")).join("");
 }
 
 // ---------- úprava dat (stejně jako tools/sdileni.py ve skillu rodokmen) ----------
@@ -170,7 +190,7 @@ export function pridejRadky(tsv, radky) {
 export function knihaYaml(archiv, kniha, nazev, url) {
   const q = s => JSON.stringify(s);
   return [`archiv: ${q(archiv)}`, `kniha: ${q(kniha)}`, `nazev: ${q(nazev || kniha)}`, `url: ${q(url || "")}`,
-    `obsah: ${q("snímek = číslo snímku na portálu; zatím jen jednotlivé zápisy")}`,
+    `obsah: ${q("snímek = pořadí snímku na portálu; zatím jen jednotlivé zápisy")}`,
     `poznamka: ${q("zápisy přečtené při práci na rodokmenu, přišly sběrnou schránkou Mapy matrik; jen vybrané zápisy")}`, ""].join("\n");
 }
 
@@ -207,17 +227,20 @@ async function soubor(gh, repo, cesta, ref) {
   return r ? z64(r.content) : null;
 }
 
-async function commit(gh, repo, zakladSha, soubory, zprava, vetev) {
+async function commit(gh, repo, zakladSha, soubory, zprava, vetev, existuje = false) {
   const base = await gh("GET", `/repos/${repo}/git/commits/${zakladSha}`);
   const tree = await gh("POST", `/repos/${repo}/git/trees`, {
     base_tree: base.tree.sha,
     tree: Object.entries(soubory).map(([path, content]) => ({ path, mode: "100644", type: "blob", content })),
   });
   const c = await gh("POST", `/repos/${repo}/git/commits`, { message: zprava, tree: tree.sha, parents: [zakladSha] });
-  await gh("POST", `/repos/${repo}/git/refs`, { ref: `refs/heads/${vetev}`, sha: c.sha });
+  if (existuje) await gh("PATCH", `/repos/${repo}/git/refs/heads/${vetev}`, { sha: c.sha, force: false });
+  else await gh("POST", `/repos/${repo}/git/refs`, { ref: `refs/heads/${vetev}`, sha: c.sha });
 }
 
-export async function doMapy(gh, env, body, vetev, dnes, nastroj) {
+const znacka = kdo => (kdo ? `\n\n<!-- prispevatel: ${kdo} -->` : "");
+
+export async function doMapy(gh, env, body, vetev, dnes, nastroj, kdo = null) {
   const repo = env.REPO_MAPA;
   const main = await gh("GET", `/repos/${repo}/git/ref/heads/main`);
   const podleKnihy = new Map();
@@ -244,15 +267,28 @@ export async function doMapy(gh, env, body, vetev, dnes, nastroj) {
   await commit(gh, repo, main.object.sha, soubory, `Body ze schránky: ${pridano}`, vetev);
   const pr = await gh("POST", `/repos/${repo}/pulls`, {
     title: `Body ze schránky: ${pridano}`, head: vetev, base: "main",
-    body: `Orientační body poslané sběrnou schránkou (bez účtu GitHub, nástroj: ${nastroj || "neuveden"}). Knih: ${Object.keys(soubory).length}.`,
+    body: `Orientační body poslané sběrnou schránkou (bez účtu GitHub, nástroj: ${nastroj || "neuveden"}). Knih: ${Object.keys(soubory).length}.` +
+      znacka(kdo),
   });
   return pr.html_url;
 }
 
-export async function doIndexu(gh, env, zapisy, vetev, nastroj) {
-  const fork = env.FORK_INDEXU, upstream = env.REPO_INDEXU;
+// Zápisy jednoho přispěvatele (pseudonym) za jeden den jdou do jednoho pull requestu indexu: větev
+// schranka-<pseudonym>-<den>, další odeslání téhož dne přidá commit do otevřeného PR. Bez pseudonymu PR na odeslání.
+export async function doIndexu(gh, env, zapisy, vetev, nastroj, kdo = null, den = "") {
+  const fork = env.FORK_INDEXU, upstream = env.REPO_INDEXU, owner = fork.split("/")[0];
   await gh("POST", `/repos/${fork}/merge-upstream`, { branch: "main" });
   const main = await gh("GET", `/repos/${fork}/git/ref/heads/main`);
+  let zaklad = main.object.sha, cil = vetev, otevreny = null;
+  if (kdo) {
+    const denni = `schranka-${kdo}-${den.replace(/-/g, "")}`;
+    const ref = await gh("GET", `/repos/${fork}/git/ref/heads/${denni}`);
+    if (!ref) cil = denni;
+    else {
+      const prs = await gh("GET", `/repos/${upstream}/pulls?state=open&head=${owner}:${denni}`);
+      if (prs?.length) { otevreny = prs[0]; zaklad = ref.object.sha; cil = denni; }
+    }
+  }
   const podleKnihy = new Map();
   for (const z of zapisy) {
     const k = `knihy/${z.archiv}/${z.kniha}`;
@@ -262,19 +298,22 @@ export async function doIndexu(gh, env, zapisy, vetev, nastroj) {
   const soubory = {};
   let pridano = 0;
   for (const [k, kn] of podleKnihy) {
-    if (!(await soubor(gh, fork, `${k}/kniha.yaml`, main.object.sha))) soubory[`${k}/kniha.yaml`] = knihaYaml(kn.archiv, kn.kniha, kn.nazev, kn.url);
-    const { tsv, pridano: n } = pridejRadky(await soubor(gh, fork, `${k}/precteno.tsv`, main.object.sha), kn.radky);
+    if (!(await soubor(gh, fork, `${k}/kniha.yaml`, zaklad))) soubory[`${k}/kniha.yaml`] = knihaYaml(kn.archiv, kn.kniha, kn.nazev, kn.url);
+    const { tsv, pridano: n } = pridejRadky(await soubor(gh, fork, `${k}/precteno.tsv`, zaklad), kn.radky);
     if (n) { soubory[`${k}/precteno.tsv`] = tsv; pridano += n; }
   }
-  if (!pridano) return null;
-  await commit(gh, fork, main.object.sha, soubory, `Zápisy ze schránky Mapy matrik: ${pridano}`, vetev);
+  if (!pridano) return otevreny?.html_url || null;
+  await commit(gh, fork, zaklad, soubory, `Zápisy ze schránky Mapy matrik: ${pridano}`, cil, Boolean(otevreny));
+  if (otevreny) return otevreny.html_url;
   const pr = await gh("POST", `/repos/${upstream}/pulls`, {
-    title: `Zápisy z rodokmenu (schránka Mapy matrik): ${pridano} zápisů z ${podleKnihy.size} knih`,
-    head: `${fork.split("/")[0]}:${vetev}`, base: "main",
+    title: kdo ? `Zápisy z rodokmenu (schránka Mapy matrik, přispěvatel ${kdo}, ${den})`
+      : `Zápisy z rodokmenu (schránka Mapy matrik): ${pridano} zápisů z ${podleKnihy.size} knih`,
+    head: `${owner}:${cil}`, base: "main",
     body: `Zápisy přečtené při práci na rodokmenu (nástroj: ${nastroj || "neuveden"}) od uživatele bez účtu GitHub, poslané sběrnou schránkou ` +
       `Mapy matrik (https://github.com/ondrnovy/mapa-matrik/tree/main/schranka). Kdo a čím četl, je u řádků ve sloupci \`cetl\`. ` +
       `Schránka hlídá formát a lhůty; kontrola indexu běží v tomto PR.\n\n- [x] přidávám jen nové řádky, cizí jsem neměnil(a)\n` +
-      `- [x] žádné zápisy mladší než 100 let (narození) / 75 let (sňatky, úmrtí)\n- [x] data pod CC BY 4.0 (souhlas dal přispěvatel ve skillu)`,
+      `- [x] žádné zápisy mladší než 100 let (narození) / 75 let (sňatky, úmrtí)\n- [x] data pod CC BY 4.0 (souhlas dal přispěvatel ve skillu)` +
+      znacka(kdo),
   });
   return pr.html_url;
 }
@@ -314,9 +353,10 @@ export default {
       await limit(env, request.headers.get("CF-Connecting-IP") || "?", den);
       const gh = github(env.GITHUB_TOKEN, fetchFn);
       const vetev = `schranka-${ted.toISOString().replace(/[-:T]/g, "").slice(0, 14)}-${crypto.randomUUID().slice(0, 6)}`;
+      const kdo = await pseudonym(env.PSEUDONYM_TAJEMSTVI, prispevek.klic);
       const vysledek = {
-        mapa: prispevek.body.length ? await doMapy(gh, env, prispevek.body, vetev, den, prispevek.nastroj) : null,
-        index: prispevek.zapisy.length ? await doIndexu(gh, env, prispevek.zapisy, vetev, prispevek.nastroj) : null,
+        mapa: prispevek.body.length ? await doMapy(gh, env, prispevek.body, vetev, den, prispevek.nastroj, kdo) : null,
+        index: prispevek.zapisy.length ? await doIndexu(gh, env, prispevek.zapisy, vetev, prispevek.nastroj, kdo, den) : null,
       };
       return json(vysledek);
     } catch (e) {
