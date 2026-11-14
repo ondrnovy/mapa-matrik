@@ -1,0 +1,70 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "kozlany-02",
+ "url": "https://www.portafontium.eu/register/soap-pn/kozlany-02",
+ "signature": "Kožlany 02",
+ "parish": "Kožlany",
+ "records": {
+  "N": "1684–1703",
+  "O": "1684–1703",
+  "Z": "1684–1703"
+ },
+ "places": [
+  "Kožlany",
+  "Hedčany",
+  "Strachovice"
+ ],
+ "place_codes": {
+  "Kožlany": 72061,
+  "Hedčany": 32999
+ },
+ "order": "chronological",
+ "scans": 152,
+ "language": "čeština, latina",
+ "points": [
+  {
+   "scan": 42,
+   "type": "N",
+   "year": 1691,
+   "months": "I–IV",
+   "page": "80–81",
+   "note": "„Letha Panie 1691“; opis, latinsky",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 48,
+   "type": "N",
+   "year": 1692,
+   "months": "I",
+   "page": "92–93",
+   "note": "začátek roku 1692; původní rukopis, latinsky",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 53,
+   "type": "N",
+   "year": 1692,
+   "year_to": 1693,
+   "months": "X–II",
+   "page": "102–103",
+   "note": "„A. 1693“ na pravé straně; čistý opis, česky",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 120,
+   "type": "Z",
+   "year": 1703,
+   "page": "230–231",
+   "note": "„Anno 1703“, zemřelí",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-14"
+  }
+ ]
+}
