@@ -16,6 +16,43 @@
  "language": "čeština",
  "points": [
   {
+   "scan": 23,
+   "type": "O",
+   "year": 1734,
+   "year_to": 1735,
+   "months": "XI–II",
+   "page": "38–39",
+   "note": "„Anno 1735“ na pravé straně",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 25,
+   "type": "O",
+   "year": 1735,
+   "year_to": 1736,
+   "months": "XI–I",
+   "page": "42–43",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 27,
+   "type": "O",
+   "year": 1736,
+   "year_to": 1737,
+   "months": "X–II",
+   "page": "46–47",
+   "note": "„Anno Domini 1737“ na pravé straně",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 30,
+   "type": "O",
+   "year": 1738,
+   "months": "I–X",
+   "page": "52–53",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 32,
    "type": "O",
    "year": 1738,
