@@ -24,6 +24,15 @@
  "language": "čeština, latina",
  "points": [
   {
+   "scan": 49,
+   "type": "N",
+   "year": 1710,
+   "months": "VII",
+   "page": "92–93",
+   "note": "česky, kurzíva; nadpis vsi nad zápisem",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 165,
    "type": "N",
    "year": 1722,
@@ -63,6 +72,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-13"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-14"
   }
  ]
 }
