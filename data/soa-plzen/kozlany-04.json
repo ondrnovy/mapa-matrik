@@ -26,6 +26,13 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 6,
+   "type": "N",
+   "year": 1723,
+   "page": "6–7",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 7,
    "type": "N",
    "year": 1723,
@@ -110,6 +117,48 @@
    "year": 1761,
    "months": "VI–X",
    "page": "424–425",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 180,
+   "type": "O",
+   "year": 1723,
+   "note": "začátek oddaných („Rubrica Copulacyí“)",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 189,
+   "type": "O",
+   "year": 1728,
+   "year_to": 1729,
+   "page": "18–19",
+   "note": "„Anno 1729“ na str. 19",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 190,
+   "type": "O",
+   "year": 1729,
+   "year_to": 1730,
+   "page": "20–21",
+   "note": "„Anno 1730“ na str. 21",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 193,
+   "type": "O",
+   "year": 1730,
+   "year_to": 1731,
+   "page": "26–27",
+   "note": "„Anno 1731“ na str. 27",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 194,
+   "type": "O",
+   "year": 1731,
+   "months": "VII–X",
+   "page": "28–29",
    "by": "ondrnovy"
   },
   {
