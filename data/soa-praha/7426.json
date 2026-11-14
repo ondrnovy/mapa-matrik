@@ -1,0 +1,41 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "7426",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/7426",
+ "signature": "Kutná Hora 34",
+ "parish": "Kutná Hora",
+ "records": {
+  "iO": "1801–1842"
+ },
+ "places": [
+  "Bylany",
+  "Kutná Hora",
+  "Přítoky"
+ ],
+ "place_codes": {
+  "Bylany": 95966,
+  "Přítoky": 96008
+ },
+ "district": "Kutná Hora",
+ "scans": 59,
+ "scan_url": "https://ebadatelna.soapraha.cz/d/7426/{scan}",
+ "order": "chronological",
+ "points": [
+  {
+   "scan": 51,
+   "type": "iO",
+   "year": 1802,
+   "year_to": 1824,
+   "letters": "T",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-14"
+  }
+ ]
+}
