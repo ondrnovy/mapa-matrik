@@ -96,12 +96,34 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 229,
+   "type": "Z",
+   "year": 1743,
+   "by": "ondrnovy"
+  },
+  {
    "scan": 240,
    "type": "Z",
    "year": 1748,
    "year_to": 1749,
    "months": "XI 1748 – IV 1749",
    "note": "Z 1741–1753 je za oddanými (sn. 224–~246)",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 250,
+   "type": "Z",
+   "year": 1723,
+   "months": "I–III",
+   "note": "vlevo konec Z 1754 (III–VI), vpravo začátek Z 1723",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 277,
+   "type": "Z",
+   "year": 1729,
+   "year_to": 1730,
+   "months": "XII 1729 – III 1730",
    "by": "ondrnovy"
   },
   {
@@ -113,11 +135,27 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 297,
+   "type": "Z",
+   "year": 1737,
+   "year_to": 1738,
+   "months": "VII 1737 – III 1738",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 303,
    "type": "Z",
    "year": 1740,
    "months": "X–XII",
    "note": "konec roku 1740; další zemřelí „post copulatos“ (sn. 224)",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 316,
+   "type": "Z",
+   "year": 1754,
+   "months": "VI–XI",
+   "note": "vpravo zemřelí 1754, vlevo narození 1761–62",
    "by": "ondrnovy"
   },
   {
