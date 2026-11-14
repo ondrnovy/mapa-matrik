@@ -24,6 +24,14 @@
  "language": "čeština, latina",
  "points": [
   {
+   "scan": 5,
+   "type": "N",
+   "year": 1656,
+   "year_to": 1657,
+   "note": "utržené horní okraje, česky",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 103,
    "type": "O",
    "year": 1675,
