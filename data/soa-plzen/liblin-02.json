@@ -15,6 +15,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-13"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-14"
   }
  ],
  "points": [
@@ -300,6 +304,33 @@
    "type": "O",
    "year": 1760,
    "page": "25",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 190,
+   "type": "O",
+   "year": 1765,
+   "months": "IX–X",
+   "page": "39–40",
+   "note": "příjmení ženicha na okraji",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 194,
+   "type": "O",
+   "year": 1767,
+   "year_to": 1768,
+   "months": "X 1767 – XI 1768",
+   "page": "47–48",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 199,
+   "type": "O",
+   "year": 1772,
+   "months": "II–VIII",
+   "page": "55–56",
+   "note": "od 1771 tabulka",
    "by": "ondrnovy"
   },
   {
