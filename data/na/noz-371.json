@@ -1,0 +1,35 @@
+{
+ "schema": 1,
+ "archive": "na",
+ "portal": "zayt",
+ "portal_id": "noz-371",
+ "url": "https://zayt.org/collections/jewish-control-registers-1780-1911/noz-371",
+ "signature": "Kostelec nad Černými lesy, židovská kontrolní matrika NOZ",
+ "parish": "Kostelec nad Černými lesy",
+ "records": {
+  "O": "1822–1839",
+  "Z": "1822–1839"
+ },
+ "points": [
+  {
+   "scan": 4,
+   "type": "O",
+   "year": 1838,
+   "months": "VIII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 9,
+   "type": "Z",
+   "year": 1836,
+   "year_to": 1839,
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

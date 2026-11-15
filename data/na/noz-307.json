@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "na",
+ "portal": "zayt",
+ "portal_id": "noz-307",
+ "url": "https://zayt.org/collections/jewish-control-registers-1780-1911/noz-307",
+ "signature": "Kontrolní matrika N 1820, 1822, 1845–1869, O 1849, 1850, 1852, Z 1829, 1841–1867 pro Jirny a okolí",
+ "parish": "Kontrolní matrika N",
+ "records": {
+  "N": "1820–1869"
+ },
+ "points": [
+  {
+   "scan": 8,
+   "type": "N",
+   "year": 1843,
+   "months": "III",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

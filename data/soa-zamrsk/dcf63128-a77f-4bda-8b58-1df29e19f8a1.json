@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "dcf63128-a77f-4bda-8b58-1df29e19f8a1",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/dcf63128-a77f-4bda-8b58-1df29e19f8a1",
+ "signature": "15-3",
+ "parish": "Častolovice",
+ "records": {
+  "N": "1728–1764"
+ },
+ "points": [
+  {
+   "scan": 25,
+   "type": "N",
+   "year": 1731,
+   "months": "XII",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

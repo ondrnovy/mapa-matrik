@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "4510",
+ "url": "https://digi.ceskearchivy.cz/4510",
+ "signature": "Jistebnice 13 1837-1850",
+ "parish": "Jistebnice 13",
+ "records": {
+  "N": "1837–1850"
+ },
+ "points": [
+  {
+   "scan": 202,
+   "type": "N",
+   "year": 1847,
+   "months": "IX",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

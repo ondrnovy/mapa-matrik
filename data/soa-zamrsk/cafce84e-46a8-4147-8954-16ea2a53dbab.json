@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "cafce84e-46a8-4147-8954-16ea2a53dbab",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/cafce84e-46a8-4147-8954-16ea2a53dbab",
+ "signature": "165-3968",
+ "parish": "Týniště nad",
+ "records": {
+  "O": "1784–1876"
+ },
+ "points": [
+  {
+   "scan": 73,
+   "type": "O",
+   "year": 1835,
+   "months": "V",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

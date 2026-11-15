@@ -1,0 +1,35 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "1481",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/1481",
+ "signature": "Hrušovany nad Jevišovkou",
+ "parish": "Hrušovany nad Jevišovkou",
+ "records": {
+  "N": "1771–1784",
+  "O": "1771–1784"
+ },
+ "points": [
+  {
+   "scan": 47,
+   "type": "N",
+   "year": 1784,
+   "months": "VII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 83,
+   "type": "O",
+   "year": 1778,
+   "months": "XI",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

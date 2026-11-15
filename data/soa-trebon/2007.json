@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "2007",
+ "url": "https://digi.ceskearchivy.cz/2007",
+ "signature": "Albrechtice nad Vltavou 5 1801-1839",
+ "parish": "Albrechtice nad Vltavou 5",
+ "records": {
+  "N": "1801–1839"
+ },
+ "points": [
+  {
+   "scan": 121,
+   "type": "N",
+   "year": 1802,
+   "months": "IV",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

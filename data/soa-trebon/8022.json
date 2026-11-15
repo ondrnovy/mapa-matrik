@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "8022",
+ "url": "https://digi.ceskearchivy.cz/8022",
+ "signature": "Třeboň 8 1825-1836",
+ "parish": "Třeboň 8",
+ "records": {
+  "N": "1825–1836"
+ },
+ "points": [
+  {
+   "scan": 263,
+   "type": "N",
+   "year": 1835,
+   "months": "V",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "ED4E1FFA6BD44B54821BC4C65029C70D",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=ED4E1FFA6BD44B54821BC4C65029C70D",
+ "signature": "UH O12, Uhříněves – Všech svatých, O 1842–1858",
+ "parish": "UH",
+ "records": {
+  "O": "1842–1858"
+ },
+ "points": [
+  {
+   "scan": 19,
+   "type": "O",
+   "year": 1843,
+   "months": "II",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

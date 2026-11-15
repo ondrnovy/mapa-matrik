@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "4609",
+ "url": "https://digi.ceskearchivy.cz/4609",
+ "signature": "Kamenice nad Lipou 10 1824-1852",
+ "parish": "Kamenice nad Lipou 10",
+ "records": {
+  "O": "1824–1852"
+ },
+ "points": [
+  {
+   "scan": 4,
+   "type": "O",
+   "year": 1824,
+   "months": "XI",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

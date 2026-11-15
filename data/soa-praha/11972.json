@@ -65,6 +65,13 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 108,
+   "type": "O",
+   "year": 1846,
+   "months": "II",
+   "by": "matriky-index"
+  },
+  {
    "scan": 110,
    "type": "O",
    "year": 1847,
@@ -130,6 +137,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-13"
+  },
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
   }
  ]
 }

@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "1122",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/1122",
+ "signature": "Dyjákovice",
+ "parish": "Dyjákovice",
+ "records": {
+  "N": "1697–1722"
+ },
+ "points": [
+  {
+   "scan": 89,
+   "type": "N",
+   "year": 1717,
+   "months": "X",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

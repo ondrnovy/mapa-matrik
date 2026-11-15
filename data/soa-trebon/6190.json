@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "6190",
+ "url": "https://digi.ceskearchivy.cz/6190",
+ "signature": "Opařany 10 1842-1859",
+ "parish": "Opařany 10",
+ "records": {
+  "O": "1842–1859"
+ },
+ "points": [
+  {
+   "scan": 22,
+   "type": "O",
+   "year": 1846,
+   "months": "II",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

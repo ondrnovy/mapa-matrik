@@ -66,6 +66,13 @@
    "page": "fol. 18–19",
    "note": "Svinařov, německy, mikrofilm",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 28,
+   "type": "O",
+   "year": 1809,
+   "months": "V",
+   "by": "matriky-index"
   }
  ],
  "sources": [
@@ -76,6 +83,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-13"
+  },
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
   }
  ]
 }

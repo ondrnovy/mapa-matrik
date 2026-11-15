@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "2179",
+ "url": "https://digi.ceskearchivy.cz/2179",
+ "signature": "Bernartice 15 1835-1847",
+ "parish": "Bernartice 15",
+ "records": {
+  "O": "1835–1847"
+ },
+ "points": [
+  {
+   "scan": 14,
+   "type": "O",
+   "year": 1839,
+   "months": "IV",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

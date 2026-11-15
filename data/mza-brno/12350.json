@@ -1,0 +1,34 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "12350",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/12350",
+ "signature": "Bítov O 1874–1949, kniha 13407",
+ "parish": "Bítov",
+ "records": {
+  "O": "1874–1949"
+ },
+ "points": [
+  {
+   "scan": 63,
+   "type": "O",
+   "year": 1894,
+   "months": "I",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 65,
+   "type": "O",
+   "year": 1897,
+   "months": "V",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

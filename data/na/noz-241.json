@@ -1,0 +1,34 @@
+{
+ "schema": 1,
+ "archive": "na",
+ "portal": "zayt",
+ "portal_id": "noz-241",
+ "url": "https://zayt.org/collections/jewish-control-registers-1780-1911/noz-241",
+ "signature": "Hrusice, židovská kontrolní matrika NOZ",
+ "parish": "Hrusice",
+ "records": {
+  "O": "1847–1856"
+ },
+ "points": [
+  {
+   "scan": 8,
+   "type": "O",
+   "year": 1847,
+   "year_to": 1849,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 9,
+   "type": "O",
+   "year": 1856,
+   "months": "IV",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "na",
+ "portal": "zayt",
+ "portal_id": "noz-461",
+ "url": "https://zayt.org/collections/jewish-control-registers-1780-1911/noz-461",
+ "signature": "Lošany, židovská kontrolní matrika NOZ",
+ "parish": "Lošany",
+ "records": {
+  "O": "1845–1855"
+ },
+ "points": [
+  {
+   "scan": 9,
+   "type": "O",
+   "year": 1845,
+   "year_to": 1855,
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

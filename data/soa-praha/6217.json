@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "6217",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/6217",
+ "signature": "Kácov 08, N 1784–1812",
+ "parish": "Kácov",
+ "records": {
+  "N": "1784–1812"
+ },
+ "points": [
+  {
+   "scan": 17,
+   "type": "N",
+   "year": 1798,
+   "months": "VI",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

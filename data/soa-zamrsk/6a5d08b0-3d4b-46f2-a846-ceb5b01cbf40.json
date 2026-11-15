@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "6a5d08b0-3d4b-46f2-a846-ceb5b01cbf40",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/6a5d08b0-3d4b-46f2-a846-ceb5b01cbf40",
+ "signature": "100-2",
+ "parish": "Sloupno",
+ "records": {
+  "N": "1789–1799"
+ },
+ "points": [
+  {
+   "scan": 45,
+   "type": "N",
+   "year": 1797,
+   "months": "I",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

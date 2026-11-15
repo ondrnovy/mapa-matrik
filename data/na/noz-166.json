@@ -1,0 +1,30 @@
+{
+ "schema": 1,
+ "archive": "na",
+ "portal": "zayt",
+ "portal_id": "noz-166",
+ "url": "https://zayt.org/collections/jewish-control-registers-1780-1911/noz-166",
+ "signature": "inv. č. 166",
+ "parish": "inv. č.",
+ "records": {
+  "N": "1848"
+ },
+ "points": [
+  {
+   "scan": 58,
+   "type": "N",
+   "year": 1848,
+   "months": "VIII",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ],
+ "notes": [
+  "Roky v records jen podle zápisů přečtených v indexu matrik; kniha může být širší."
+ ]
+}

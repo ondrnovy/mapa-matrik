@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "na",
+ "portal": "zayt",
+ "portal_id": "z-1847",
+ "url": "https://zayt.org/collections/jewish-registers-1784-1949/z-1847",
+ "signature": "inv. č. 1847",
+ "parish": "inv. č.",
+ "records": {
+  "Z": "1874–1940"
+ },
+ "points": [
+  {
+   "scan": 13,
+   "type": "Z",
+   "year": 1931,
+   "months": "IX",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

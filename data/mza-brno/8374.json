@@ -1,0 +1,77 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "8374",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/8374",
+ "signature": "Brno-Tuřany, kn. 17717, N 1657–1710, O 1658–1710, Z 1658–1710",
+ "parish": "Brno-Tuřany",
+ "records": {
+  "N": "1657–1710",
+  "O": "1657–1710"
+ },
+ "points": [
+  {
+   "scan": 13,
+   "type": "N",
+   "year": 1661,
+   "months": "VI",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 35,
+   "type": "N",
+   "year": 1669,
+   "months": "I",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 41,
+   "type": "N",
+   "year": 1671,
+   "months": "IX",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 105,
+   "type": "N",
+   "year": 1699,
+   "months": "IX",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 106,
+   "type": "N",
+   "year": 1700,
+   "months": "I",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 119,
+   "type": "N",
+   "year": 1706,
+   "months": "I",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 144,
+   "type": "O",
+   "year": 1665,
+   "months": "II",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 167,
+   "type": "O",
+   "year": 1693,
+   "months": "I",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

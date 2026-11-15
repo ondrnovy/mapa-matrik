@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "na",
+ "portal": "zayt",
+ "portal_id": "n-1844",
+ "url": "https://zayt.org/collections/jewish-registers-1784-1949/n-1844",
+ "signature": "inv. č. 1844",
+ "parish": "inv. č.",
+ "records": {
+  "N": "1874–1939"
+ },
+ "points": [
+  {
+   "scan": 29,
+   "type": "N",
+   "year": 1892,
+   "months": "III",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

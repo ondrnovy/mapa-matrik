@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "9471",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/9471",
+ "signature": "Nehvizdy 02, N 1823–1848",
+ "parish": "Nehvizdy",
+ "records": {
+  "N": "1823–1848"
+ },
+ "points": [
+  {
+   "scan": 64,
+   "type": "N",
+   "year": 1842,
+   "months": "II",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "velhartice-21",
+ "url": "https://www.portafontium.eu/register/soap-pn/velhartice-21",
+ "signature": "Velhartice 21",
+ "parish": "Velhartice",
+ "records": {
+  "N": "1830"
+ },
+ "points": [
+  {
+   "scan": 123,
+   "type": "N",
+   "year": 1830,
+   "months": "I",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ],
+ "notes": [
+  "Roky v records jen podle zápisů přečtených v indexu matrik; kniha může být širší."
+ ]
+}

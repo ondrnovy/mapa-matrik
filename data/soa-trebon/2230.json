@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "2230",
+ "url": "https://digi.ceskearchivy.cz/2230",
+ "signature": "Bílsko 11 1785-1811",
+ "parish": "Bílsko 11",
+ "records": {
+  "N": "1785–1811"
+ },
+ "points": [
+  {
+   "scan": 11,
+   "type": "N",
+   "year": 1798,
+   "months": "V",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

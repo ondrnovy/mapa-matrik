@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "4607",
+ "url": "https://digi.ceskearchivy.cz/4607",
+ "signature": "Kamenice nad Lipou 8 1799-1820",
+ "parish": "Kamenice nad Lipou 8",
+ "records": {
+  "O": "1799–1820"
+ },
+ "points": [
+  {
+   "scan": 48,
+   "type": "O",
+   "year": 1813,
+   "months": "I",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "13060",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/13060",
+ "signature": "Prčice 05, N 1749–1770, O 1749–1770, Z 1749–1770",
+ "parish": "Prčice",
+ "records": {
+  "N": "1749–1770",
+  "O": "1749–1770",
+  "Z": "1749–1770"
+ },
+ "points": [
+  {
+   "scan": 9,
+   "type": "N",
+   "year": 1751,
+   "months": "IX",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 18,
+   "type": "N",
+   "year": 1755,
+   "months": "VIII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 28,
+   "type": "N",
+   "year": 1759,
+   "months": "IV",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 79,
+   "type": "O",
+   "year": 1750,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 114,
+   "type": "Z",
+   "year": 1761,
+   "months": "XI",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

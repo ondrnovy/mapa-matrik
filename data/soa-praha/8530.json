@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "8530",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/8530",
+ "signature": "Miličín 10, N 1822–1860",
+ "parish": "Miličín",
+ "records": {
+  "N": "1822–1860"
+ },
+ "points": [
+  {
+   "scan": 242,
+   "type": "N",
+   "year": 1839,
+   "months": "III",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

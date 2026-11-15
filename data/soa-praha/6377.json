@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "6377",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/6377",
+ "signature": "Kladno 11, N 1854–1859",
+ "parish": "Kladno",
+ "records": {
+  "N": "1854–1859"
+ },
+ "points": [
+  {
+   "scan": 88,
+   "type": "N",
+   "year": 1856,
+   "months": "IX",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

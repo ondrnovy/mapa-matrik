@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "6551",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/6551",
+ "signature": "Křižanov, kn. 15721, O 1757–1820",
+ "parish": "Křižanov",
+ "records": {
+  "O": "1757–1820"
+ },
+ "points": [
+  {
+   "scan": 55,
+   "type": "O",
+   "year": 1779,
+   "months": "XI",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

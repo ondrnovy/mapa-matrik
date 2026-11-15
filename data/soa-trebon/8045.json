@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "8045",
+ "url": "https://digi.ceskearchivy.cz/8045",
+ "signature": "Třeboň 31 1852-1870",
+ "parish": "Třeboň 31",
+ "records": {
+  "O": "1852–1870"
+ },
+ "points": [
+  {
+   "scan": 86,
+   "type": "O",
+   "year": 1860,
+   "months": "II",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

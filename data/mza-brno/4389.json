@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "4389",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/4389",
+ "signature": "Šlapanice, kn. 1855, O 1835–1861",
+ "parish": "Šlapanice",
+ "records": {
+  "O": "1835–1861"
+ },
+ "points": [
+  {
+   "scan": 96,
+   "type": "O",
+   "year": 1842,
+   "months": "II",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

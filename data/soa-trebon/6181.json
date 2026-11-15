@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "6181",
+ "url": "https://digi.ceskearchivy.cz/6181",
+ "signature": "Opařany 1 1787-1812",
+ "parish": "Opařany 1",
+ "records": {
+  "N": "1787–1812"
+ },
+ "points": [
+  {
+   "scan": 302,
+   "type": "N",
+   "year": 1799,
+   "months": "IV",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

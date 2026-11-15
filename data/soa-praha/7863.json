@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "7863",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/7863",
+ "signature": "Vrchotovy Janovice 11, N 1864–1879",
+ "parish": "Vrchotovy Janovice",
+ "records": {
+  "N": "1864–1879"
+ },
+ "points": [
+  {
+   "scan": 27,
+   "type": "N",
+   "year": 1867,
+   "months": "IV",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

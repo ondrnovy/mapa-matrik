@@ -1,0 +1,60 @@
+{
+ "schema": 1,
+ "archive": "na",
+ "portal": "zayt",
+ "portal_id": "o-2741",
+ "url": "https://zayt.org/collections/jewish-registers-1784-1949/o-2741",
+ "signature": "Praha-Karlín, židovská matrika O 1848–1856",
+ "parish": "Karlín",
+ "records": {
+  "O": "1848–1856"
+ },
+ "points": [
+  {
+   "scan": 16,
+   "type": "O",
+   "year": 1853,
+   "months": "VI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 18,
+   "type": "O",
+   "year": 1853,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 24,
+   "type": "O",
+   "year": 1855,
+   "months": "I",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 25,
+   "type": "O",
+   "year": 1855,
+   "months": "III",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 28,
+   "type": "O",
+   "year": 1855,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 34,
+   "type": "O",
+   "year": 1856,
+   "months": "V",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

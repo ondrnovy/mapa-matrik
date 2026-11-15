@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "4312",
+ "url": "https://digi.ceskearchivy.cz/4312",
+ "signature": "Jarošov nad Nežárkou 5 1775-1836",
+ "parish": "Jarošov nad Nežárkou 5",
+ "records": {
+  "N": "1775–1836"
+ },
+ "points": [
+  {
+   "scan": 73,
+   "type": "N",
+   "year": 1799,
+   "months": "I",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "schema": 1,
+ "archive": "na",
+ "portal": "zayt",
+ "portal_id": "n-822",
+ "url": "https://zayt.org/collections/jewish-registers-1784-1949/n-822",
+ "signature": "Kolín, židovská matrika N 1822–1839",
+ "parish": "Kolín",
+ "records": {
+  "N": "1822–1839"
+ },
+ "points": [
+  {
+   "scan": 4,
+   "type": "N",
+   "year": 1822,
+   "months": "I",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 7,
+   "type": "N",
+   "year": 1822,
+   "months": "XII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 10,
+   "type": "N",
+   "year": 1823,
+   "year_to": 1824,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 15,
+   "type": "N",
+   "year": 1825,
+   "months": "IV",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 20,
+   "type": "N",
+   "year": 1826,
+   "months": "VII",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

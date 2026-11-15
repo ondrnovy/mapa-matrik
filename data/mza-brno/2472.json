@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "2472",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/2472",
+ "signature": "Brod nad Dyjí",
+ "parish": "Brod nad Dyjí",
+ "records": {
+  "O": "1784–1868"
+ },
+ "points": [
+  {
+   "scan": 18,
+   "type": "O",
+   "year": 1822,
+   "months": "XI",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

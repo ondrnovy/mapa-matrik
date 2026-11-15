@@ -1,0 +1,30 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "strasin-24",
+ "url": "https://www.portafontium.eu/register/soap-pn/strasin-24",
+ "signature": "Strašín 24",
+ "parish": "Strašín",
+ "records": {
+  "Z": "1865"
+ },
+ "points": [
+  {
+   "scan": 167,
+   "type": "Z",
+   "year": 1865,
+   "months": "I–IV",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ],
+ "notes": [
+  "Roky v records jen podle zápisů přečtených v indexu matrik; kniha může být širší."
+ ]
+}

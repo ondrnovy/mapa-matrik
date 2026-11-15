@@ -1,0 +1,43 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "5409",
+ "url": "https://digi.ceskearchivy.cz/5409",
+ "signature": "Lutová 18 1873-1890",
+ "parish": "Lutová 18",
+ "records": {
+  "N": "1873–1890",
+  "O": "1873–1890",
+  "Z": "1873–1890"
+ },
+ "points": [
+  {
+   "scan": 32,
+   "type": "O",
+   "year": 1882,
+   "months": "VII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 107,
+   "type": "N",
+   "year": 1879,
+   "months": "III",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 210,
+   "type": "Z",
+   "year": 1876,
+   "months": "II",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

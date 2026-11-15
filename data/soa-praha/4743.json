@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "4743",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/4743",
+ "signature": "Čelákovice 29, O 1882–1914",
+ "parish": "Čelákovice",
+ "records": {
+  "O": "1882–1914"
+ },
+ "points": [
+  {
+   "scan": 27,
+   "type": "O",
+   "year": 1886,
+   "months": "VII",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

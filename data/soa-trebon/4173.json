@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "4173",
+ "url": "https://digi.ceskearchivy.cz/4173",
+ "signature": "Chřešťovice 11 1784-1818",
+ "parish": "Chřešťovice 11",
+ "records": {
+  "O": "1784–1818"
+ },
+ "points": [
+  {
+   "scan": 46,
+   "type": "O",
+   "year": 1808,
+   "months": "II",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

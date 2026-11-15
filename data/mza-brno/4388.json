@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "4388",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/4388",
+ "signature": "Šlapanice, kn. 1854, O 1769–1834",
+ "parish": "Šlapanice",
+ "records": {
+  "O": "1769–1834"
+ },
+ "points": [
+  {
+   "scan": 127,
+   "type": "O",
+   "year": 1804,
+   "months": "VII",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

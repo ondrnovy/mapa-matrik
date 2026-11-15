@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "2473",
+ "url": "https://digi.ceskearchivy.cz/2473",
+ "signature": "O Brloh 1877–1912, inv. č. 454, kniha 10 – římskokatolická matrika ODDANÝCH, fara Brloh",
+ "parish": "Brloh",
+ "records": {
+  "O": "1877–1912"
+ },
+ "points": [
+  {
+   "scan": 23,
+   "type": "O",
+   "year": 1897,
+   "months": "V",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

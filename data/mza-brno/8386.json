@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "8386",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/8386",
+ "signature": "Brno-Tuřany, kn. 17733, O 1784–1828",
+ "parish": "Brno-Tuřany",
+ "records": {
+  "O": "1784–1828"
+ },
+ "points": [
+  {
+   "scan": 27,
+   "type": "O",
+   "year": 1802,
+   "months": "II",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

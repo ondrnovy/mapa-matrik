@@ -1,0 +1,50 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "3023",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/3023",
+ "signature": "Novosedly",
+ "parish": "Novosedly",
+ "records": {
+  "N": "1770–1784",
+  "O": "1770–1784",
+  "Z": "1770–1784"
+ },
+ "points": [
+  {
+   "scan": 14,
+   "type": "N",
+   "year": 1780,
+   "months": "X",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 21,
+   "type": "N",
+   "year": 1784,
+   "months": "IV",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 28,
+   "type": "O",
+   "year": 1772,
+   "months": "VII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 56,
+   "type": "Z",
+   "year": 1782,
+   "months": "X",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

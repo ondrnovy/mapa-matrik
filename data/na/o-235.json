@@ -1,0 +1,41 @@
+{
+ "schema": 1,
+ "archive": "na",
+ "portal": "zayt",
+ "portal_id": "o-235",
+ "url": "https://zayt.org/collections/jewish-control-registers-1780-1911/o-235",
+ "signature": "Hrochův Týnec, židovská kontrolní matrika O",
+ "parish": "Hrochův Týnec",
+ "records": {
+  "O": "1839–1889"
+ },
+ "points": [
+  {
+   "scan": 31,
+   "type": "O",
+   "year": 1849,
+   "year_to": 1850,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 36,
+   "type": "O",
+   "year": 1855,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 57,
+   "type": "O",
+   "year": 1879,
+   "months": "I",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

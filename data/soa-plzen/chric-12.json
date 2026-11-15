@@ -198,6 +198,13 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 77,
+   "type": "N",
+   "year": 1882,
+   "months": "I",
+   "by": "matriky-index"
+  },
+  {
    "scan": 79,
    "type": "N",
    "year": 1882,
@@ -244,6 +251,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-10"
+  },
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
   }
  ]
 }

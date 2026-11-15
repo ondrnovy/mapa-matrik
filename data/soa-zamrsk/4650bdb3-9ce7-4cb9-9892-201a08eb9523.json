@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "4650bdb3-9ce7-4cb9-9892-201a08eb9523",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/4650bdb3-9ce7-4cb9-9892-201a08eb9523",
+ "signature": "100-4",
+ "parish": "Sloupno",
+ "records": {
+  "N": "1818–1840"
+ },
+ "points": [
+  {
+   "scan": 137,
+   "type": "N",
+   "year": 1832,
+   "months": "VII",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

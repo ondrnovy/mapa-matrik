@@ -1,0 +1,37 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "strasin-03",
+ "url": "https://www.portafontium.eu/register/soap-pn/strasin-03",
+ "signature": "Strašín 03",
+ "parish": "Strašín",
+ "records": {
+  "N": "1759–1768"
+ },
+ "points": [
+  {
+   "scan": 85,
+   "type": "N",
+   "year": 1759,
+   "year_to": 1760,
+   "by": "matriky-index"
+  },
+  {
+   "scan": 107,
+   "type": "N",
+   "year": 1768,
+   "months": "I–III",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ],
+ "notes": [
+  "Roky v records jen podle zápisů přečtených v indexu matrik; kniha může být širší."
+ ]
+}

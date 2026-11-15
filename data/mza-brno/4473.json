@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "4473",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/4473",
+ "signature": "Tvarožná, kn. 1983, N 1784–1811",
+ "parish": "Tvarožná",
+ "records": {
+  "N": "1784–1811"
+ },
+ "points": [
+  {
+   "scan": 14,
+   "type": "N",
+   "year": 1794,
+   "months": "II",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

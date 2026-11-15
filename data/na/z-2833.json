@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "na",
+ "portal": "zayt",
+ "portal_id": "z-2833",
+ "url": "https://zayt.org/collections/jewish-registers-1784-1949/z-2833",
+ "signature": "HBMa inv. 2833",
+ "parish": "HBMa inv.",
+ "records": {
+  "Z": "1937"
+ },
+ "points": [
+  {
+   "scan": 35,
+   "type": "Z",
+   "year": 1937,
+   "months": "V",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

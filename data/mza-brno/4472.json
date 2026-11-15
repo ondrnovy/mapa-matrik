@@ -1,0 +1,49 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "4472",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/4472",
+ "signature": "Tvarožná, kn. 1982, N+O+Z 1764–1788",
+ "parish": "Tvarožná",
+ "records": {
+  "N": "1764–1788",
+  "O": "1764–1788"
+ },
+ "points": [
+  {
+   "scan": 2,
+   "type": "N",
+   "year": 1764,
+   "months": "VII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 60,
+   "type": "O",
+   "year": 1764,
+   "months": "VI",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 77,
+   "type": "O",
+   "year": 1783,
+   "months": "II–VI",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 81,
+   "type": "O",
+   "year": 1786,
+   "months": "VII",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "4519",
+ "url": "https://digi.ceskearchivy.cz/4519",
+ "signature": "Jistebnice 22 1861-1882",
+ "parish": "Jistebnice 22",
+ "records": {
+  "O": "1861–1882"
+ },
+ "points": [
+  {
+   "scan": 125,
+   "type": "O",
+   "year": 1870,
+   "months": "II",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

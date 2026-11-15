@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "8535",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/8535",
+ "signature": "Miličín 15, Z 1821–1888",
+ "parish": "Miličín",
+ "records": {
+  "Z": "1821–1888"
+ },
+ "points": [
+  {
+   "scan": 195,
+   "type": "Z",
+   "year": 1885,
+   "months": "I",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

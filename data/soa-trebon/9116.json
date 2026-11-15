@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "9116",
+ "url": "https://digi.ceskearchivy.cz/9116",
+ "signature": "Bavorov 33C 1784-1948",
+ "parish": "Bavorov 33C",
+ "records": {
+  "Z": "1784–1948"
+ },
+ "points": [
+  {
+   "scan": 5,
+   "type": "Z",
+   "year": 1796,
+   "months": "V",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

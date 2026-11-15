@@ -1,0 +1,48 @@
+{
+ "schema": 1,
+ "archive": "na",
+ "portal": "zayt",
+ "portal_id": "n-872",
+ "url": "https://zayt.org/collections/jewish-registers-1784-1949/n-872",
+ "signature": "Kostelec nad Černými lesy, židovská matrika N 1841–1859",
+ "parish": "Kostelec nad Černými lesy",
+ "records": {
+  "N": "1841–1859"
+ },
+ "points": [
+  {
+   "scan": 32,
+   "type": "N",
+   "year": 1854,
+   "year_to": 1856,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 49,
+   "type": "N",
+   "year": 1859,
+   "months": "VI–VII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 52,
+   "type": "N",
+   "year": 1846,
+   "year_to": 1847,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 61,
+   "type": "N",
+   "year": 1856,
+   "months": "I",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

@@ -1,0 +1,111 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "2469",
+ "url": "https://digi.ceskearchivy.cz/2469",
+ "signature": "N Brloh 1801–1850, kniha 6 – římskokatolická matrika NAROZENÝCH, fara Brloh",
+ "parish": "Brloh",
+ "records": {
+  "N": "1801–1850"
+ },
+ "points": [
+  {
+   "scan": 13,
+   "type": "N",
+   "year": 1807,
+   "months": "X–XI",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 48,
+   "type": "N",
+   "year": 1830,
+   "months": "III",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 62,
+   "type": "N",
+   "year": 1837,
+   "months": "VI",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 66,
+   "type": "N",
+   "year": 1839,
+   "months": "XII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 73,
+   "type": "N",
+   "year": 1844,
+   "months": "IX",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 272,
+   "type": "N",
+   "year": 1801,
+   "months": "XII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 281,
+   "type": "N",
+   "year": 1809,
+   "months": "X",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 303,
+   "type": "N",
+   "year": 1835,
+   "months": "I",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 304,
+   "type": "N",
+   "year": 1835,
+   "months": "III",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 306,
+   "type": "N",
+   "year": 1837,
+   "months": "V",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 310,
+   "type": "N",
+   "year": 1840,
+   "months": "III",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 321,
+   "type": "N",
+   "year": 1801,
+   "months": "X",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 348,
+   "type": "N",
+   "year": 1838,
+   "months": "I",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "2472",
+ "url": "https://digi.ceskearchivy.cz/2472",
+ "signature": "O Brloh 1801–1876, kniha 9 – římskokatolická matrika ODDANÝCH, fara Brloh; psaná po vsích, každá ves má vlastní stránkování",
+ "parish": "Brloh",
+ "records": {
+  "O": "1801–1876"
+ },
+ "points": [
+  {
+   "scan": 15,
+   "type": "O",
+   "year": 1829,
+   "months": "II",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 23,
+   "type": "O",
+   "year": 1845,
+   "months": "V",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 34,
+   "type": "O",
+   "year": 1865,
+   "months": "II",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 36,
+   "type": "O",
+   "year": 1867,
+   "year_to": 1868,
+   "by": "matriky-index"
+  },
+  {
+   "scan": 139,
+   "type": "O",
+   "year": 1830,
+   "months": "V",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 152,
+   "type": "O",
+   "year": 1869,
+   "months": "IX",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

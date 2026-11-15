@@ -1,0 +1,48 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "4913",
+ "url": "https://digi.ceskearchivy.cz/4913",
+ "signature": "Kovářov 8 1785-1815",
+ "parish": "Kovářov 8",
+ "records": {
+  "N": "1785–1815"
+ },
+ "points": [
+  {
+   "scan": 23,
+   "type": "N",
+   "year": 1795,
+   "months": "XII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 35,
+   "type": "N",
+   "year": 1803,
+   "months": "XI",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 40,
+   "type": "N",
+   "year": 1806,
+   "months": "V",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 161,
+   "type": "N",
+   "year": 1809,
+   "months": "VIII",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

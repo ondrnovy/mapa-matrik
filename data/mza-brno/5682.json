@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "5682",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/5682",
+ "signature": "Horní Bory, kn. 15640, O 1813–1883",
+ "parish": "Horní Bory",
+ "records": {
+  "O": "1813–1883"
+ },
+ "points": [
+  {
+   "scan": 92,
+   "type": "O",
+   "year": 1828,
+   "months": "I",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

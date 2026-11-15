@@ -1,0 +1,62 @@
+{
+ "schema": 1,
+ "archive": "na",
+ "portal": "zayt",
+ "portal_id": "z-1721",
+ "url": "https://zayt.org/collections/jewish-registers-1784-1949/z-1721",
+ "signature": "Přestavlky, židovská matrika Z 1839–1856",
+ "parish": "Přestavlky",
+ "records": {
+  "Z": "1839–1856"
+ },
+ "points": [
+  {
+   "scan": 24,
+   "type": "Z",
+   "year": 1847,
+   "year_to": 1848,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 29,
+   "type": "Z",
+   "year": 1849,
+   "months": "VIII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 36,
+   "type": "Z",
+   "year": 1850,
+   "months": "IX",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 38,
+   "type": "Z",
+   "year": 1850,
+   "months": "VII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 42,
+   "type": "Z",
+   "year": 1853,
+   "months": "IV–V",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 47,
+   "type": "Z",
+   "year": 1855,
+   "months": "III",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

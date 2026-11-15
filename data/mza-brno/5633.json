@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "5633",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/5633",
+ "signature": "Horní Bory, kn. 15634, N 1813–1845",
+ "parish": "Horní Bory",
+ "records": {
+  "N": "1813–1845"
+ },
+ "points": [
+  {
+   "scan": 97,
+   "type": "N",
+   "year": 1830,
+   "months": "VII",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

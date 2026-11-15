@@ -11,9 +11,37 @@
  },
  "points": [
   {
+   "scan": 49,
+   "type": "O",
+   "year": 1797,
+   "year_to": 1798,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 54,
+   "type": "O",
+   "year": 1784,
+   "year_to": 1790,
+   "by": "pe-pan"
+  },
+  {
    "scan": 97,
    "type": "O",
    "year": 1791,
+   "months": "VIII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 131,
+   "type": "O",
+   "year": 1784,
+   "year_to": 1788,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 136,
+   "type": "O",
+   "year": 1789,
    "months": "VIII",
    "by": "pe-pan"
   },

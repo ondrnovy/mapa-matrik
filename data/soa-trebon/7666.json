@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "7666",
+ "url": "https://digi.ceskearchivy.cz/7666",
+ "signature": "Sudoměřice u Bechyně 7 1784-1823",
+ "parish": "Sudoměřice u Bechyně 7",
+ "records": {
+  "O": "1784–1823"
+ },
+ "points": [
+  {
+   "scan": 18,
+   "type": "O",
+   "year": 1795,
+   "months": "VI",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "9107",
+ "url": "https://digi.ceskearchivy.cz/9107",
+ "signature": "Bavorov 34B 1784-1949",
+ "parish": "Bavorov 34B",
+ "records": {
+  "Z": "1784–1949"
+ },
+ "points": [
+  {
+   "scan": 28,
+   "type": "Z",
+   "year": 1872,
+   "months": "II",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

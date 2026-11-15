@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "5681",
+ "url": "https://digi.ceskearchivy.cz/5681",
+ "signature": "Mladošovice 12 1784-1828",
+ "parish": "Mladošovice 12",
+ "records": {
+  "N": "1784–1828"
+ },
+ "points": [
+  {
+   "scan": 59,
+   "type": "N",
+   "year": 1827,
+   "months": "X",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

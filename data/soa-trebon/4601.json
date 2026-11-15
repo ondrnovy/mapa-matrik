@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "4601",
+ "url": "https://digi.ceskearchivy.cz/4601",
+ "signature": "Kamenice nad Lipou 2 1824-1841",
+ "parish": "Kamenice nad Lipou 2",
+ "records": {
+  "N": "1824–1841"
+ },
+ "points": [
+  {
+   "scan": 293,
+   "type": "N",
+   "year": 1838,
+   "months": "II",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "2174",
+ "url": "https://digi.ceskearchivy.cz/2174",
+ "signature": "Bernartice 10 1852-1862",
+ "parish": "Bernartice 10",
+ "records": {
+  "N": "1852–1862"
+ },
+ "points": [
+  {
+   "scan": 142,
+   "type": "N",
+   "year": 1856,
+   "months": "VI",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

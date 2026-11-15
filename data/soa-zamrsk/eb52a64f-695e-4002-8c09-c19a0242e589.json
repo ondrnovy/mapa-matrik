@@ -1,0 +1,55 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "eb52a64f-695e-4002-8c09-c19a0242e589",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/eb52a64f-695e-4002-8c09-c19a0242e589",
+ "signature": "5082",
+ "parish": "Poniklá",
+ "records": {
+  "N": "1700–1750"
+ },
+ "points": [
+  {
+   "scan": 10,
+   "type": "N",
+   "year": 1702,
+   "months": "III",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 87,
+   "type": "N",
+   "year": 1728,
+   "months": "VII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 92,
+   "type": "N",
+   "year": 1730,
+   "months": "V",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 121,
+   "type": "N",
+   "year": 1739,
+   "months": "XII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 153,
+   "type": "N",
+   "year": 1748,
+   "months": "II",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

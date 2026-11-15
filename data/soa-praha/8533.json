@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "8533",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/8533",
+ "signature": "Miličín 13, O 1810–1849",
+ "parish": "Miličín",
+ "records": {
+  "O": "1810–1849"
+ },
+ "points": [
+  {
+   "scan": 143,
+   "type": "O",
+   "year": 1830,
+   "months": "VII",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

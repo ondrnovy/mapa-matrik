@@ -1,0 +1,49 @@
+{
+ "schema": 1,
+ "archive": "na",
+ "portal": "zayt",
+ "portal_id": "nz-1722",
+ "url": "https://zayt.org/collections/jewish-registers-1784-1949/nz-1722",
+ "signature": "Přestavlky, židovská matrika N 1806, 1810–1839",
+ "parish": "Přestavlky",
+ "records": {
+  "N": "1806–1839",
+  "Z": "1806–1839"
+ },
+ "points": [
+  {
+   "scan": 5,
+   "type": "N",
+   "year": 1806,
+   "year_to": 1823,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 6,
+   "type": "N",
+   "year": 1824,
+   "year_to": 1827,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 11,
+   "type": "Z",
+   "year": 1818,
+   "year_to": 1830,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 12,
+   "type": "Z",
+   "year": 1830,
+   "year_to": 1838,
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

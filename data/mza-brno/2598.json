@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "2598",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/2598",
+ "signature": "Drnholec",
+ "parish": "Drnholec",
+ "records": {
+  "O": "1838–1866"
+ },
+ "points": [
+  {
+   "scan": 65,
+   "type": "O",
+   "year": 1849,
+   "months": "I",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

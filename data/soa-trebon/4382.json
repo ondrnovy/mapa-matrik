@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "4382",
+ "url": "https://digi.ceskearchivy.cz/4382",
+ "signature": "Jindřichův Hradec 45 1889-1901",
+ "parish": "Jindřichův Hradec 45",
+ "records": {
+  "O": "1889–1901"
+ },
+ "points": [
+  {
+   "scan": 33,
+   "type": "O",
+   "year": 1890,
+   "months": "V",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "schema": 1,
+ "archive": "na",
+ "portal": "zayt",
+ "portal_id": "noz-535",
+ "url": "https://zayt.org/collections/jewish-control-registers-1780-1911/noz-535",
+ "signature": "Nebovidy, židovská kontrolní matrika NOZ",
+ "parish": "Nebovidy",
+ "records": {
+  "N": "1788–1863",
+  "O": "1788–1863",
+  "Z": "1788–1863"
+ },
+ "points": [
+  {
+   "scan": 4,
+   "type": "N",
+   "year": 1788,
+   "year_to": 1830,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 5,
+   "type": "N",
+   "year": 1830,
+   "year_to": 1833,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 14,
+   "type": "O",
+   "year": 1824,
+   "year_to": 1834,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 21,
+   "type": "N",
+   "year": 1798,
+   "year_to": 1803,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 22,
+   "type": "N",
+   "year": 1803,
+   "year_to": 1810,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 23,
+   "type": "N",
+   "year": 1810,
+   "year_to": 1819,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 25,
+   "type": "Z",
+   "year": 1811,
+   "year_to": 1822,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 26,
+   "type": "O",
+   "year": 1812,
+   "year_to": 1824,
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

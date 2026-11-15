@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "2182",
+ "url": "https://digi.ceskearchivy.cz/2182",
+ "signature": "Bernartice 18 1866-1898",
+ "parish": "Bernartice 18",
+ "records": {
+  "O": "1866–1898"
+ },
+ "points": [
+  {
+   "scan": 83,
+   "type": "O",
+   "year": 1873,
+   "months": "V",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "na",
+ "portal": "zayt",
+ "portal_id": "o-2677",
+ "url": "https://zayt.org/collections/jewish-registers-1784-1949/o-2677",
+ "signature": "Praha, židovská matrika O 1881",
+ "parish": "Praha",
+ "records": {
+  "O": "1881"
+ },
+ "points": [
+  {
+   "scan": 25,
+   "type": "O",
+   "year": 1881,
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "2170",
+ "url": "https://digi.ceskearchivy.cz/2170",
+ "signature": "Bernartice 6 1804-1825",
+ "parish": "Bernartice 6",
+ "records": {
+  "N": "1804–1825"
+ },
+ "points": [
+  {
+   "scan": 72,
+   "type": "N",
+   "year": 1816,
+   "months": "VII",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

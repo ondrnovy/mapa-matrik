@@ -74,6 +74,13 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 24,
+   "type": "Z",
+   "year": 1888,
+   "months": "II",
+   "by": "matriky-index"
+  },
+  {
    "scan": 28,
    "type": "Z",
    "year": 1889,
@@ -354,6 +361,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-12"
+  },
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
   }
  ]
 }

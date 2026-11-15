@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "1123",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/1123",
+ "signature": "Dyjákovice",
+ "parish": "Dyjákovice",
+ "records": {
+  "Z": "1723–1750"
+ },
+ "points": [
+  {
+   "scan": 188,
+   "type": "Z",
+   "year": 1723,
+   "months": "II",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

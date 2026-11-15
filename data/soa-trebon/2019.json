@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "2019",
+ "url": "https://digi.ceskearchivy.cz/2019",
+ "signature": "Bavorov 5 1732-1745",
+ "parish": "Bavorov 5",
+ "records": {
+  "N": "1732–1745"
+ },
+ "points": [
+  {
+   "scan": 41,
+   "type": "N",
+   "year": 1735,
+   "months": "III",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

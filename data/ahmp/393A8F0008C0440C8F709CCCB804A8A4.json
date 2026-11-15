@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "393A8F0008C0440C8F709CCCB804A8A4",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=393A8F0008C0440C8F709CCCB804A8A4",
+ "signature": "CHV O2, Chvaly – sv. Ludmila",
+ "parish": "CHV",
+ "records": {
+  "O": "1784–1828"
+ },
+ "points": [
+  {
+   "scan": 42,
+   "type": "O",
+   "year": 1806,
+   "months": "II",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

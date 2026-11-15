@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "4893",
+ "url": "https://digi.ceskearchivy.cz/4893",
+ "signature": "Košetice 7 1822-1842",
+ "parish": "Košetice 7",
+ "records": {
+  "N": "1822–1842"
+ },
+ "points": [
+  {
+   "scan": 30,
+   "type": "N",
+   "year": 1828,
+   "months": "V",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

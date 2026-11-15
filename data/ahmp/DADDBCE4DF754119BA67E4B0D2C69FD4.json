@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "DADDBCE4DF754119BA67E4B0D2C69FD4",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=DADDBCE4DF754119BA67E4B0D2C69FD4",
+ "signature": "MB Z5, nemocnice Milosrdných bratří",
+ "parish": "MB",
+ "records": {
+  "Z": "1869–1899"
+ },
+ "points": [
+  {
+   "scan": 447,
+   "type": "Z",
+   "year": 1895,
+   "months": "III",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

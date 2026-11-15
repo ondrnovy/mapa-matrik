@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "2028",
+ "url": "https://digi.ceskearchivy.cz/2028",
+ "signature": "Bavorov 14 1854-1865",
+ "parish": "Bavorov 14",
+ "records": {
+  "N": "1854–1865"
+ },
+ "points": [
+  {
+   "scan": 118,
+   "type": "N",
+   "year": 1861,
+   "months": "V",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

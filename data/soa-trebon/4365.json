@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "4365",
+ "url": "https://digi.ceskearchivy.cz/4365",
+ "signature": "Jindřichův Hradec 28 1886-1892",
+ "parish": "Jindřichův Hradec 28",
+ "records": {
+  "N": "1886–1892"
+ },
+ "points": [
+  {
+   "scan": 392,
+   "type": "N",
+   "year": 1891,
+   "months": "V",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

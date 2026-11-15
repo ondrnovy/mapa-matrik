@@ -1,0 +1,41 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "14489389-f020-4965-a234-a08fb480b877",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/14489389-f020-4965-a234-a08fb480b877",
+ "signature": "1974",
+ "parish": "Česká Třebová",
+ "records": {
+  "Z": "1836–1860"
+ },
+ "points": [
+  {
+   "scan": 60,
+   "type": "Z",
+   "year": 1842,
+   "year_to": 1853,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 116,
+   "type": "Z",
+   "year": 1846,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 188,
+   "type": "Z",
+   "year": 1853,
+   "months": "II",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "4317",
+ "url": "https://digi.ceskearchivy.cz/4317",
+ "signature": "Jarošov nad Nežárkou 10 1758-1836",
+ "parish": "Jarošov nad Nežárkou 10",
+ "records": {
+  "O": "1758–1836"
+ },
+ "points": [
+  {
+   "scan": 94,
+   "type": "O",
+   "year": 1791,
+   "months": "XI",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

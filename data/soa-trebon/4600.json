@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "4600",
+ "url": "https://digi.ceskearchivy.cz/4600",
+ "signature": "Kamenice nad Lipou 1 1793-1823",
+ "parish": "Kamenice nad Lipou 1",
+ "records": {
+  "N": "1793–1823"
+ },
+ "points": [
+  {
+   "scan": 345,
+   "type": "N",
+   "year": 1815,
+   "months": "VII",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "ee56f6a4-c2c7-43dc-a150-7382b4357d11",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/ee56f6a4-c2c7-43dc-a150-7382b4357d11",
+ "signature": "5061",
+ "parish": "Mříčná",
+ "records": {
+  "O": "1787–1851"
+ },
+ "points": [
+  {
+   "scan": 16,
+   "type": "O",
+   "year": 1817,
+   "months": "VII",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

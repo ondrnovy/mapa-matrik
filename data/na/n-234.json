@@ -1,0 +1,34 @@
+{
+ "schema": 1,
+ "archive": "na",
+ "portal": "zayt",
+ "portal_id": "n-234",
+ "url": "https://zayt.org/collections/jewish-control-registers-1780-1911/n-234",
+ "signature": "inv. č. 234",
+ "parish": "inv. č.",
+ "records": {
+  "N": "1849–1894"
+ },
+ "points": [
+  {
+   "scan": 4,
+   "type": "N",
+   "year": 1858,
+   "months": "III",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 14,
+   "type": "N",
+   "year": 1860,
+   "months": "VI–VII",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

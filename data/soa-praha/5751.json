@@ -75,6 +75,13 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 57,
+   "type": "N",
+   "year": 1776,
+   "months": "III",
+   "by": "matriky-index"
+  },
+  {
    "scan": 58,
    "type": "N",
    "year": 1776,
@@ -274,16 +281,16 @@
   {
    "scan": 169,
    "type": "iN",
-   "year": 1754,
-   "year_to": 1784,
-   "letters": "C–H",
+   "letters": "C, D, E, F, G, H",
+   "note": "rejstřík: jméno, rok, folio",
    "by": "ondrnovy"
   },
   {
    "scan": 169,
    "type": "iN",
-   "letters": "C, D, E, F, G, H",
-   "note": "rejstřík: jméno, rok, folio",
+   "year": 1754,
+   "year_to": 1784,
+   "letters": "C–H",
    "by": "ondrnovy"
   },
   {

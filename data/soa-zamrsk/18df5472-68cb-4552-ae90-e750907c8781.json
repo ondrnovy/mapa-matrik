@@ -18,9 +18,59 @@
    "by": "pe-pan"
   },
   {
+   "scan": 59,
+   "type": "N",
+   "year": 1688,
+   "months": "XII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 61,
+   "type": "N",
+   "year": 1689,
+   "year_to": 1690,
+   "by": "pe-pan"
+  },
+  {
    "scan": 82,
    "type": "N",
    "year": 1663,
+   "year_to": 1664,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 83,
+   "type": "N",
+   "year": 1665,
+   "year_to": 1666,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 84,
+   "type": "N",
+   "year": 1667,
+   "months": "III–XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 85,
+   "type": "N",
+   "year": 1667,
+   "year_to": 1669,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 86,
+   "type": "N",
+   "year": 1669,
+   "year_to": 1670,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 87,
+   "type": "N",
+   "year": 1670,
+   "year_to": 1672,
    "by": "pe-pan"
   },
   {
@@ -28,6 +78,90 @@
    "type": "N",
    "year": 1673,
    "year_to": 1675,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 89,
+   "type": "N",
+   "year": 1676,
+   "year_to": 1679,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 90,
+   "type": "N",
+   "year": 1679,
+   "year_to": 1680,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 91,
+   "type": "N",
+   "year": 1681,
+   "year_to": 1682,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 92,
+   "type": "N",
+   "year": 1682,
+   "year_to": 1683,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 93,
+   "type": "N",
+   "year": 1683,
+   "year_to": 1689,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 94,
+   "type": "N",
+   "year": 1690,
+   "year_to": 1691,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 95,
+   "type": "N",
+   "year": 1691,
+   "year_to": 1692,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 96,
+   "type": "N",
+   "year": 1692,
+   "year_to": 1694,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 97,
+   "type": "N",
+   "year": 1695,
+   "year_to": 1698,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 98,
+   "type": "N",
+   "year": 1698,
+   "year_to": 1701,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 99,
+   "type": "N",
+   "year": 1702,
+   "year_to": 1706,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 100,
+   "type": "N",
+   "year": 1706,
+   "months": "X",
    "by": "pe-pan"
   },
   {
@@ -103,6 +237,7 @@
    "scan": 140,
    "type": "O",
    "year": 1663,
+   "months": "V–VII",
    "by": "pe-pan"
   },
   {
@@ -134,9 +269,52 @@
    "by": "pe-pan"
   },
   {
+   "scan": 145,
+   "type": "O",
+   "year": 1682,
+   "year_to": 1685,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 146,
+   "type": "O",
+   "year": 1685,
+   "year_to": 1688,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 147,
+   "type": "O",
+   "year": 1689,
+   "months": "I–XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 148,
+   "type": "O",
+   "year": 1690,
+   "months": "I–X",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 149,
+   "type": "O",
+   "year": 1690,
+   "year_to": 1691,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 150,
+   "type": "O",
+   "year": 1691,
+   "year_to": 1692,
+   "by": "pe-pan"
+  },
+  {
    "scan": 151,
    "type": "O",
    "year": 1692,
+   "year_to": 1694,
    "by": "pe-pan"
   },
   {
@@ -144,6 +322,13 @@
    "type": "O",
    "year": 1694,
    "year_to": 1697,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 153,
+   "type": "O",
+   "year": 1697,
+   "year_to": 1699,
    "by": "pe-pan"
   },
   {

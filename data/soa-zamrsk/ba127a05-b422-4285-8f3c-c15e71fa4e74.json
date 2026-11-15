@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "ba127a05-b422-4285-8f3c-c15e71fa4e74",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/ba127a05-b422-4285-8f3c-c15e71fa4e74",
+ "signature": "100-7",
+ "parish": "Sloupno",
+ "records": {
+  "O": "1806–1853"
+ },
+ "points": [
+  {
+   "scan": 93,
+   "type": "O",
+   "year": 1820,
+   "months": "VIII",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

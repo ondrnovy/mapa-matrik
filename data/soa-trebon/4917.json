@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "4917",
+ "url": "https://digi.ceskearchivy.cz/4917",
+ "signature": "Kovářov 12 1785-1838",
+ "parish": "Kovářov 12",
+ "records": {
+  "O": "1785–1838"
+ },
+ "points": [
+  {
+   "scan": 83,
+   "type": "O",
+   "year": 1829,
+   "months": "XI",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

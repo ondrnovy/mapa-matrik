@@ -1,0 +1,62 @@
+{
+ "schema": 1,
+ "archive": "na",
+ "portal": "zayt",
+ "portal_id": "z-409",
+ "url": "https://zayt.org/collections/jewish-registers-1784-1949/z-409",
+ "signature": "Heřmanův Městec, židovská matrika Z 1875–1944, duplikát",
+ "parish": "Heřmanův Městec",
+ "records": {
+  "Z": "1875–1944"
+ },
+ "points": [
+  {
+   "scan": 50,
+   "type": "Z",
+   "year": 1896,
+   "months": "XII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 51,
+   "type": "Z",
+   "year": 1897,
+   "months": "I",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 53,
+   "type": "Z",
+   "year": 1898,
+   "months": "X",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 57,
+   "type": "Z",
+   "year": 1900,
+   "months": "I",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 58,
+   "type": "Z",
+   "year": 1900,
+   "months": "III–VI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 61,
+   "type": "Z",
+   "year": 1900,
+   "months": "XI",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

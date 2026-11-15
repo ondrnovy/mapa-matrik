@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "8251",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/8251",
+ "signature": "Lysá nad Labem 21, O 1811–1835",
+ "parish": "Lysá nad Labem",
+ "records": {
+  "O": "1811–1835"
+ },
+ "points": [
+  {
+   "scan": 71,
+   "type": "O",
+   "year": 1823,
+   "months": "VIII",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "schema": 1,
+ "archive": "na",
+ "portal": "zayt",
+ "portal_id": "o-341",
+ "url": "https://zayt.org/collections/jewish-registers-1784-1949/o-341",
+ "signature": "Doudleby O",
+ "parish": "Doudleby",
+ "records": {
+  "O": "1815"
+ },
+ "points": [
+  {
+   "scan": 25,
+   "type": "O",
+   "year": 1815,
+   "months": "II",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ],
+ "notes": [
+  "Roky v records jen podle zápisů přečtených v indexu matrik; kniha může být širší."
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "13059",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/13059",
+ "signature": "Prčice 04, N 1732–1748, O 1733–1748, Z 1733–1748",
+ "parish": "Prčice",
+ "records": {
+  "Z": "1732–1748"
+ },
+ "points": [
+  {
+   "scan": 86,
+   "type": "Z",
+   "year": 1745,
+   "months": "XI",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

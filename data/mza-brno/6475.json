@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "6475",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/6475",
+ "signature": "Křižanov, kn. 15711, N 1735–1754",
+ "parish": "Křižanov",
+ "records": {
+  "N": "1735–1754"
+ },
+ "points": [
+  {
+   "scan": 9,
+   "type": "N",
+   "year": 1736,
+   "months": "IX",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

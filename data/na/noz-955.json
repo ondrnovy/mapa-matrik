@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "na",
+ "portal": "zayt",
+ "portal_id": "noz-955",
+ "url": "https://zayt.org/collections/jewish-control-registers-1780-1911/noz-955",
+ "signature": "Uhlířské Janovice, židovská kontrolní matrika NOZ",
+ "parish": "Uhlířské Janovice",
+ "records": {
+  "O": "1800–1839"
+ },
+ "points": [
+  {
+   "scan": 10,
+   "type": "O",
+   "year": 1840,
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

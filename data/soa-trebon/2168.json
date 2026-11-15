@@ -1,0 +1,41 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "2168",
+ "url": "https://digi.ceskearchivy.cz/2168",
+ "signature": "Bernartice 4 1751-1784",
+ "parish": "Bernartice 4",
+ "records": {
+  "O": "1751–1784"
+ },
+ "points": [
+  {
+   "scan": 150,
+   "type": "O",
+   "year": 1764,
+   "months": "XI",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 174,
+   "type": "O",
+   "year": 1780,
+   "months": "I",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 176,
+   "type": "O",
+   "year": 1781,
+   "months": "IX",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

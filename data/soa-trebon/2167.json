@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "2167",
+ "url": "https://digi.ceskearchivy.cz/2167",
+ "signature": "Bernartice 3 1732-1752",
+ "parish": "Bernartice 3",
+ "records": {
+  "N": "1732–1752"
+ },
+ "points": [
+  {
+   "scan": 11,
+   "type": "N",
+   "year": 1733,
+   "months": "XI",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

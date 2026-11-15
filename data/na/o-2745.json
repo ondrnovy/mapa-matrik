@@ -1,0 +1,38 @@
+{
+ "schema": 1,
+ "archive": "na",
+ "portal": "zayt",
+ "portal_id": "o-2745",
+ "url": "https://zayt.org/collections/jewish-registers-1784-1949/o-2745",
+ "signature": "Praha-Libeň, židovská matrika O 1833–1849",
+ "parish": "Libeň",
+ "records": {
+  "O": "1833–1849"
+ },
+ "points": [
+  {
+   "scan": 10,
+   "type": "O",
+   "year": 1837,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 11,
+   "type": "O",
+   "year": 1838,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 17,
+   "type": "O",
+   "year": 1848,
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "10374",
+ "url": "https://digi.ceskearchivy.cz/10374",
+ "signature": "Košetice 13A 1841-1942",
+ "parish": "Košetice 13A",
+ "records": {
+  "O": "1841–1942"
+ },
+ "points": [
+  {
+   "scan": 27,
+   "type": "O",
+   "year": 1853,
+   "months": "II",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

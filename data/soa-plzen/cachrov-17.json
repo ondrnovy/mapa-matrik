@@ -1,0 +1,37 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "cachrov-17",
+ "url": "https://www.portafontium.eu/register/soap-pn/cachrov-17",
+ "signature": "Čachrov 17",
+ "parish": "Čachrov",
+ "records": {
+  "Z": "1827–1829"
+ },
+ "points": [
+  {
+   "scan": 30,
+   "type": "Z",
+   "year": 1827,
+   "months": "VI",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 31,
+   "type": "Z",
+   "year": 1828,
+   "year_to": 1829,
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ],
+ "notes": [
+  "Roky v records jen podle zápisů přečtených v indexu matrik; kniha může být širší."
+ ]
+}

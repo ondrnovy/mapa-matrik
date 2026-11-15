@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "na",
+ "portal": "zayt",
+ "portal_id": "noz-178",
+ "url": "https://zayt.org/collections/jewish-control-registers-1780-1911/noz-178",
+ "signature": "inv. č. 178",
+ "parish": "inv. č.",
+ "records": {
+  "O": "1845–1873"
+ },
+ "points": [
+  {
+   "scan": 10,
+   "type": "O",
+   "year": 1850,
+   "months": "VI",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

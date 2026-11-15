@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "4503",
+ "url": "https://digi.ceskearchivy.cz/4503",
+ "signature": "Jistebnice 6 1741-1771",
+ "parish": "Jistebnice 6",
+ "records": {
+  "N": "1741–1771"
+ },
+ "points": [
+  {
+   "scan": 108,
+   "type": "N",
+   "year": 1756,
+   "months": "II",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

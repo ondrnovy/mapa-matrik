@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "9092",
+ "url": "https://digi.ceskearchivy.cz/9092",
+ "signature": "Bavorov 18A 1877-1938",
+ "parish": "Bavorov 18A",
+ "records": {
+  "O": "1877–1938"
+ },
+ "points": [
+  {
+   "scan": 38,
+   "type": "O",
+   "year": 1886,
+   "months": "VIII",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

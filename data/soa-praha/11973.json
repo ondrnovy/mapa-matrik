@@ -56,12 +56,26 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 15,
+   "type": "N",
+   "year": 1801,
+   "months": "IV",
+   "by": "matriky-index"
+  },
+  {
    "scan": 16,
    "type": "N",
    "year": 1801,
    "year_to": 1803,
    "page": "26–27",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 16,
+   "type": "N",
+   "year": 1803,
+   "months": "II",
+   "by": "matriky-index"
   },
   {
    "scan": 32,
@@ -104,12 +118,26 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 53,
+   "type": "O",
+   "year": 1793,
+   "months": "X",
+   "by": "matriky-index"
+  },
+  {
    "scan": 54,
    "type": "O",
    "year": 1797,
    "year_to": 1802,
    "page": "4–5",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 54,
+   "type": "O",
+   "year": 1801,
+   "months": "X",
+   "by": "matriky-index"
   },
   {
    "scan": 55,
@@ -152,6 +180,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-10"
+  },
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
   }
  ]
 }

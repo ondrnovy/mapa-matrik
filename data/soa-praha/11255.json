@@ -35,6 +35,13 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 6,
+   "type": "Z",
+   "year": 1837,
+   "months": "III",
+   "by": "matriky-index"
+  },
+  {
    "scan": 9,
    "type": "Z",
    "year": 1842,
@@ -43,6 +50,13 @@
    "page": "6v–7",
    "place": "Příčina",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 9,
+   "type": "Z",
+   "year": 1843,
+   "year_to": 1844,
+   "by": "matriky-index"
   },
   {
    "scan": 112,
@@ -94,6 +108,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-12"
+  },
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
   }
  ]
 }

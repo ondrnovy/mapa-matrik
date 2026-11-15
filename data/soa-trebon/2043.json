@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "2043",
+ "url": "https://digi.ceskearchivy.cz/2043",
+ "signature": "Bavorov 29 1854-1902",
+ "parish": "Bavorov 29",
+ "records": {
+  "N": "1854–1902"
+ },
+ "points": [
+  {
+   "scan": 48,
+   "type": "N",
+   "year": 1877,
+   "months": "IX",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

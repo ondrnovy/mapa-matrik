@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "4918",
+ "url": "https://digi.ceskearchivy.cz/4918",
+ "signature": "Kovářov 13 1839-1860",
+ "parish": "Kovářov 13",
+ "records": {
+  "O": "1839–1860"
+ },
+ "points": [
+  {
+   "scan": 9,
+   "type": "O",
+   "year": 1848,
+   "months": "XI",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

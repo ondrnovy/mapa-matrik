@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "na",
+ "portal": "zayt",
+ "portal_id": "noz-580",
+ "url": "https://zayt.org/collections/jewish-registers-1784-1949/noz-580",
+ "signature": "inv. č. 580",
+ "parish": "inv. č.",
+ "records": {
+  "Z": "1902–1923"
+ },
+ "points": [
+  {
+   "scan": 92,
+   "type": "Z",
+   "year": 1923,
+   "months": "III",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

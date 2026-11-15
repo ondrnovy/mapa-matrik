@@ -1,0 +1,34 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "1c91af54-d72b-4a4a-8ed7-fbd5a4702f35",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/1c91af54-d72b-4a4a-8ed7-fbd5a4702f35",
+ "signature": "95-12",
+ "parish": "Lužec nad Cidlinou",
+ "records": {
+  "Z": "1784–1835"
+ },
+ "points": [
+  {
+   "scan": 7,
+   "type": "Z",
+   "year": 1787,
+   "months": "X",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 43,
+   "type": "Z",
+   "year": 1829,
+   "months": "IV",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

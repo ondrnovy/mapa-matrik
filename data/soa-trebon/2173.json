@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "2173",
+ "url": "https://digi.ceskearchivy.cz/2173",
+ "signature": "Bernartice 9 1848-1852",
+ "parish": "Bernartice 9",
+ "records": {
+  "N": "1848–1852"
+ },
+ "points": [
+  {
+   "scan": 126,
+   "type": "N",
+   "year": 1850,
+   "months": "XII",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

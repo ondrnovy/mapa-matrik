@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "na",
+ "portal": "zayt",
+ "portal_id": "noz-994",
+ "url": "https://zayt.org/collections/jewish-control-registers-1780-1911/noz-994",
+ "signature": "Vitice, židovská kontrolní matrika NOZ",
+ "parish": "Vitice",
+ "records": {
+  "O": "1848–1854"
+ },
+ "points": [
+  {
+   "scan": 7,
+   "type": "O",
+   "year": 1848,
+   "year_to": 1853,
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

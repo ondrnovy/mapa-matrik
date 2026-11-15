@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "4848",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/4848",
+ "signature": "Čestlice 04, N 1844–1858, Ni 1844–1858",
+ "parish": "Čestlice",
+ "records": {
+  "N": "1844–1858"
+ },
+ "points": [
+  {
+   "scan": 243,
+   "type": "N",
+   "year": 1844,
+   "months": "VIII",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

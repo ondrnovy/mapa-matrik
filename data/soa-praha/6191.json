@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "6191",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/6191",
+ "signature": "Jirny 18, O 1831–1850, Oi 1831–1850",
+ "parish": "Jirny",
+ "records": {
+  "O": "1831–1850"
+ },
+ "points": [
+  {
+   "scan": 20,
+   "type": "O",
+   "year": 1836,
+   "months": "XI",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

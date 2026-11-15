@@ -1,0 +1,48 @@
+{
+ "schema": 1,
+ "archive": "na",
+ "portal": "zayt",
+ "portal_id": "n-233",
+ "url": "https://zayt.org/collections/jewish-control-registers-1780-1911/n-233",
+ "signature": "Hrochův Týnec",
+ "parish": "Hrochův Týnec",
+ "records": {
+  "N": "1840–1857"
+ },
+ "points": [
+  {
+   "scan": 59,
+   "type": "N",
+   "year": 1850,
+   "months": "II–XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 64,
+   "type": "N",
+   "year": 1850,
+   "year_to": 1851,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 66,
+   "type": "N",
+   "year": 1851,
+   "months": "VII–X",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 68,
+   "type": "N",
+   "year": 1846,
+   "year_to": 1851,
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

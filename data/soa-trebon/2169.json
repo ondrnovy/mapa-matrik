@@ -1,0 +1,41 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "2169",
+ "url": "https://digi.ceskearchivy.cz/2169",
+ "signature": "Bernartice 5 1765-1804",
+ "parish": "Bernartice 5",
+ "records": {
+  "N": "1765–1804"
+ },
+ "points": [
+  {
+   "scan": 11,
+   "type": "N",
+   "year": 1766,
+   "months": "III",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 87,
+   "type": "N",
+   "year": 1781,
+   "months": "X",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 135,
+   "type": "N",
+   "year": 1788,
+   "months": "II",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

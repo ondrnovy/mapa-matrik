@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "9473",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/9473",
+ "signature": "Nehvizdy 04, O 1784–1853",
+ "parish": "Nehvizdy",
+ "records": {
+  "O": "1784–1853"
+ },
+ "points": [
+  {
+   "scan": 73,
+   "type": "O",
+   "year": 1840,
+   "months": "I",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

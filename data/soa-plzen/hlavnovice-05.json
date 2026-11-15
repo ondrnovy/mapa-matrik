@@ -1,0 +1,67 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "hlavnovice-05",
+ "url": "https://www.portafontium.eu/register/soap-pn/hlavnovice-05",
+ "signature": "Hlavňovice 05",
+ "parish": "Hlavňovice",
+ "records": {
+  "N": "1825–1884",
+  "O": "1825–1884",
+  "Z": "1825–1884"
+ },
+ "points": [
+  {
+   "scan": 4,
+   "type": "O",
+   "year": 1826,
+   "months": "XI",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 25,
+   "type": "N",
+   "year": 1825,
+   "months": "I",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 52,
+   "type": "N",
+   "year": 1868,
+   "year_to": 1869,
+   "by": "matriky-index"
+  },
+  {
+   "scan": 88,
+   "type": "Z",
+   "year": 1869,
+   "months": "VI",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 90,
+   "type": "Z",
+   "year": 1874,
+   "months": "I–II",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 94,
+   "type": "Z",
+   "year": 1883,
+   "year_to": 1884,
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ],
+ "notes": [
+  "Roky v records jen podle zápisů přečtených v indexu matrik; kniha může být širší."
+ ]
+}

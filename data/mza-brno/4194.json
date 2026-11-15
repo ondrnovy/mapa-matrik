@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "4194",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/4194",
+ "signature": "Pozořice, kn. 1562, N+O+Z 1666–1695",
+ "parish": "Pozořice",
+ "records": {
+  "O": "1666–1695"
+ },
+ "points": [
+  {
+   "scan": 188,
+   "type": "O",
+   "year": 1692,
+   "months": "XI",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

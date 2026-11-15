@@ -1,0 +1,42 @@
+{
+ "schema": 1,
+ "archive": "na",
+ "portal": "zayt",
+ "portal_id": "noz-727",
+ "url": "https://zayt.org/collections/jewish-control-registers-1780-1911/noz-727",
+ "signature": "Přistoupim, židovská kontrolní matrika NOZ",
+ "parish": "Přistoupim",
+ "records": {
+  "N": "1840–1858",
+  "Z": "1840–1858"
+ },
+ "points": [
+  {
+   "scan": 5,
+   "type": "N",
+   "year": 1848,
+   "months": "VII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 6,
+   "type": "N",
+   "year": 1851,
+   "year_to": 1856,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 11,
+   "type": "Z",
+   "year": 1851,
+   "months": "VIII–XII",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

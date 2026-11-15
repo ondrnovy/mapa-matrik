@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "10034",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/10034",
+ "signature": "Prace, kn. 1598, N 1852–1914",
+ "parish": "Prace",
+ "records": {
+  "N": "1852–1914"
+ },
+ "points": [
+  {
+   "scan": 77,
+   "type": "N",
+   "year": 1873,
+   "months": "I",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

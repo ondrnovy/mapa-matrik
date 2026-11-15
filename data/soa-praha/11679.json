@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "11679",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/11679",
+ "signature": "Sedlec-BN 26, N 1871–1894, Ni 1871–1894",
+ "parish": "Sedlec-BN",
+ "records": {
+  "N": "1871–1894"
+ },
+ "points": [
+  {
+   "scan": 78,
+   "type": "N",
+   "year": 1888,
+   "months": "XII",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

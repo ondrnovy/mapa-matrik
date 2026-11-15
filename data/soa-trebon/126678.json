@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "126678",
+ "url": "https://digi.ceskearchivy.cz/126678",
+ "signature": "Listiny k matrikám, farnost Albrechtice nad Vltavou, O 1821",
+ "parish": "Listiny k matrikám",
+ "records": {
+  "O": "1801–1856"
+ },
+ "points": [
+  {
+   "scan": 3,
+   "type": "O",
+   "year": 1821,
+   "months": "II",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

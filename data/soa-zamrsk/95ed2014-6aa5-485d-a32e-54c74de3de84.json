@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "95ed2014-6aa5-485d-a32e-54c74de3de84",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/95ed2014-6aa5-485d-a32e-54c74de3de84",
+ "signature": "5661",
+ "parish": "Poniklá",
+ "records": {
+  "Z": "1772–1874"
+ },
+ "points": [
+  {
+   "scan": 214,
+   "type": "Z",
+   "year": 1855,
+   "months": "VIII",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

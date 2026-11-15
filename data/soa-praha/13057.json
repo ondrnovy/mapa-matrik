@@ -1,0 +1,42 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "13057",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/13057",
+ "signature": "Prčice 02, N 1688–1723, O 1689–1723, Z 1689–1723",
+ "parish": "Prčice",
+ "records": {
+  "N": "1688–1723",
+  "O": "1688–1723"
+ },
+ "points": [
+  {
+   "scan": 5,
+   "type": "N",
+   "year": 1688,
+   "months": "III",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 126,
+   "type": "O",
+   "year": 1721,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 167,
+   "type": "N",
+   "year": 1723,
+   "months": "XI",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

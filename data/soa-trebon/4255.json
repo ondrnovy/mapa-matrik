@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "4255",
+ "url": "https://digi.ceskearchivy.cz/4255",
+ "signature": "Chyšky 6 1796-1815",
+ "parish": "Chyšky 6",
+ "records": {
+  "N": "1796–1815"
+ },
+ "points": [
+  {
+   "scan": 92,
+   "type": "N",
+   "year": 1813,
+   "months": "III",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

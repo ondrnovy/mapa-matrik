@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "4482",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/4482",
+ "signature": "Tvarožná, kn. 1996, Z 1784–1811",
+ "parish": "Tvarožná",
+ "records": {
+  "Z": "1784–1811"
+ },
+ "points": [
+  {
+   "scan": 29,
+   "type": "Z",
+   "year": 1809,
+   "months": "VIII–X",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

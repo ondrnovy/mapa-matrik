@@ -1,0 +1,63 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "8375",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/8375",
+ "signature": "Brno-Tuřany, kn. 17718, N+O+Z 1711–1779",
+ "parish": "Brno-Tuřany",
+ "records": {
+  "N": "1711–1779",
+  "O": "1711–1779"
+ },
+ "points": [
+  {
+   "scan": 61,
+   "type": "N",
+   "year": 1726,
+   "months": "VI",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 86,
+   "type": "N",
+   "year": 1735,
+   "months": "XI",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 131,
+   "type": "N",
+   "year": 1751,
+   "months": "IV",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 240,
+   "type": "N",
+   "year": 1776,
+   "months": "XI",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 244,
+   "type": "N",
+   "year": 1777,
+   "months": "IX",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 331,
+   "type": "O",
+   "year": 1749,
+   "months": "I",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

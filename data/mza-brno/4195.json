@@ -1,0 +1,99 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "4195",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/4195",
+ "signature": "Pozořice, kn. 1563, N+O+Z 1695–1749",
+ "parish": "Pozořice",
+ "records": {
+  "N": "1695–1749",
+  "O": "1695–1749",
+  "Z": "1695–1749"
+ },
+ "points": [
+  {
+   "scan": 7,
+   "type": "N",
+   "year": 1696,
+   "months": "VIII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 15,
+   "type": "N",
+   "year": 1698,
+   "months": "X",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 17,
+   "type": "N",
+   "year": 1699,
+   "months": "IX",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 21,
+   "type": "N",
+   "year": 1700,
+   "months": "VII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 31,
+   "type": "N",
+   "year": 1702,
+   "months": "VII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 136,
+   "type": "N",
+   "year": 1729,
+   "months": "V",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 144,
+   "type": "N",
+   "year": 1731,
+   "months": "II",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 268,
+   "type": "O",
+   "year": 1722,
+   "months": "X",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 269,
+   "type": "O",
+   "year": 1723,
+   "months": "I–II",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 350,
+   "type": "Z",
+   "year": 1722,
+   "months": "I",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 377,
+   "type": "Z",
+   "year": 1740,
+   "months": "VI",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

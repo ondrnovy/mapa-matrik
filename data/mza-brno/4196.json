@@ -1,0 +1,35 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "4196",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/4196",
+ "signature": "Pozořice, kn. 1564, N+O+Z 1750–1784",
+ "parish": "Pozořice",
+ "records": {
+  "N": "1750–1784",
+  "O": "1750–1784"
+ },
+ "points": [
+  {
+   "scan": 54,
+   "type": "N",
+   "year": 1760,
+   "months": "III",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 216,
+   "type": "O",
+   "year": 1753,
+   "months": "VII",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

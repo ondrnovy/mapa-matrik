@@ -1,0 +1,47 @@
+{
+ "schema": 1,
+ "archive": "na",
+ "portal": "zayt",
+ "portal_id": "o-830",
+ "url": "https://zayt.org/collections/jewish-registers-1784-1949/o-830",
+ "signature": "Kolín, židovská matrika O 1850–1895 s rejstříkem",
+ "parish": "Kolín",
+ "records": {
+  "O": "1850–1895"
+ },
+ "points": [
+  {
+   "scan": 21,
+   "type": "O",
+   "year": 1851,
+   "months": "I",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 35,
+   "type": "O",
+   "year": 1852,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 42,
+   "type": "O",
+   "year": 1853,
+   "year_to": 1854,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 44,
+   "type": "O",
+   "year": 1854,
+   "months": "IV",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

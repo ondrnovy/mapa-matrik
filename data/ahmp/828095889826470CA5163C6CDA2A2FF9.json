@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "828095889826470CA5163C6CDA2A2FF9",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=828095889826470CA5163C6CDA2A2FF9",
+ "signature": "UH Z12, Uhříněves – Všech svatých, Z 1846–1861",
+ "parish": "UH",
+ "records": {
+  "Z": "1846–1861"
+ },
+ "points": [
+  {
+   "scan": 159,
+   "type": "Z",
+   "year": 1857,
+   "months": "XI",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

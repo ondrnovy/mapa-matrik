@@ -1,0 +1,42 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "5399",
+ "url": "https://digi.ceskearchivy.cz/5399",
+ "signature": "Lutová 8 1845-1875",
+ "parish": "Lutová 8",
+ "records": {
+  "N": "1845–1875",
+  "O": "1845–1875"
+ },
+ "points": [
+  {
+   "scan": 3,
+   "type": "O",
+   "year": 1846,
+   "months": "II",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 20,
+   "type": "O",
+   "year": 1864,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 54,
+   "type": "N",
+   "year": 1850,
+   "months": "X",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "5400",
+ "url": "https://digi.ceskearchivy.cz/5400",
+ "signature": "Lutová 9 1874-1901",
+ "parish": "Lutová 9",
+ "records": {
+  "N": "1874–1901",
+  "Z": "1874–1901"
+ },
+ "points": [
+  {
+   "scan": 70,
+   "type": "N",
+   "year": 1884,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 149,
+   "type": "Z",
+   "year": 1876,
+   "months": "I",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 163,
+   "type": "Z",
+   "year": 1885,
+   "months": "XII",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

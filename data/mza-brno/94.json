@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "94",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/94",
+ "signature": "Prace, kn. 1600, O 1852–1935",
+ "parish": "Prace",
+ "records": {
+  "O": "1852–1935"
+ },
+ "points": [
+  {
+   "scan": 34,
+   "type": "O",
+   "year": 1868,
+   "months": "XI",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "8534",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/8534",
+ "signature": "Miličín 14, Z 1779–1870",
+ "parish": "Miličín",
+ "records": {
+  "Z": "1779–1870"
+ },
+ "points": [
+  {
+   "scan": 166,
+   "type": "Z",
+   "year": 1832,
+   "months": "IX",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 167,
+   "type": "Z",
+   "year": 1838,
+   "months": "VIII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 170,
+   "type": "Z",
+   "year": 1865,
+   "months": "VIII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 181,
+   "type": "Z",
+   "year": 1842,
+   "year_to": 1849,
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

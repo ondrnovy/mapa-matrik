@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "na",
+ "portal": "zayt",
+ "portal_id": "z-2844",
+ "url": "https://zayt.org/collections/jewish-registers-1784-1949/z-2844",
+ "signature": "Praha-Karlín, židovská matrika Z 1869–1939",
+ "parish": "Karlín",
+ "records": {
+  "Z": "1869–1939"
+ },
+ "points": [
+  {
+   "scan": 28,
+   "type": "Z",
+   "year": 1879,
+   "months": "IX",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

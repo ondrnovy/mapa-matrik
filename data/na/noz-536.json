@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "na",
+ "portal": "zayt",
+ "portal_id": "noz-536",
+ "url": "https://zayt.org/collections/jewish-control-registers-1780-1911/noz-536",
+ "signature": "Nebužely, židovská kontrolní matrika NOZ",
+ "parish": "Nebužely",
+ "records": {
+  "N": "1778–1864"
+ },
+ "points": [
+  {
+   "scan": 7,
+   "type": "N",
+   "year": 1811,
+   "year_to": 1855,
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

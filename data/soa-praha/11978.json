@@ -139,6 +139,13 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 134,
+   "type": "Z",
+   "year": 1773,
+   "months": "III",
+   "by": "matriky-index"
+  },
+  {
    "scan": 157,
    "type": "iZ",
    "page": "177",
@@ -212,6 +219,13 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 215,
+   "type": "O",
+   "year": 1773,
+   "months": "VI",
+   "by": "matriky-index"
+  },
+  {
    "scan": 219,
    "type": "O",
    "year": 1776,
@@ -233,6 +247,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-13"
+  },
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
   }
  ]
 }

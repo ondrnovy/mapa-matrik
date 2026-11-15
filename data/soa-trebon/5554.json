@@ -1,0 +1,41 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "5554",
+ "url": "https://digi.ceskearchivy.cz/5554",
+ "signature": "Milevsko 22 1810-1839",
+ "parish": "Milevsko 22",
+ "records": {
+  "O": "1810–1839"
+ },
+ "points": [
+  {
+   "scan": 35,
+   "type": "O",
+   "year": 1813,
+   "months": "V",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 36,
+   "type": "O",
+   "year": 1813,
+   "months": "VI",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 114,
+   "type": "O",
+   "year": 1825,
+   "months": "II",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "2026",
+ "url": "https://digi.ceskearchivy.cz/2026",
+ "signature": "Bavorov 12 1784-1813",
+ "parish": "Bavorov 12",
+ "records": {
+  "N": "1784–1813"
+ },
+ "points": [
+  {
+   "scan": 54,
+   "type": "N",
+   "year": 1802,
+   "months": "VII",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

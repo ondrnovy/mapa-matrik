@@ -1,0 +1,45 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "cachrov-26",
+ "url": "https://www.portafontium.eu/register/soap-pn/cachrov-26",
+ "signature": "Čachrov 26",
+ "parish": "Čachrov",
+ "records": {
+  "N": "1837–1856",
+  "Z": "1837–1856"
+ },
+ "points": [
+  {
+   "scan": 7,
+   "type": "N",
+   "year": 1837,
+   "months": "I",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 10,
+   "type": "N",
+   "year": 1841,
+   "year_to": 1842,
+   "by": "matriky-index"
+  },
+  {
+   "scan": 36,
+   "type": "Z",
+   "year": 1856,
+   "months": "IV",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ],
+ "notes": [
+  "Roky v records jen podle zápisů přečtených v indexu matrik; kniha může být širší."
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "3721",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/3721",
+ "signature": "Arnoštovice 17, Z 1833–1869, Zi 1833–1869",
+ "parish": "Arnoštovice",
+ "records": {
+  "Z": "1833–1869"
+ },
+ "points": [
+  {
+   "scan": 61,
+   "type": "Z",
+   "year": 1859,
+   "year_to": 1860,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 170,
+   "type": "Z",
+   "year": 1833,
+   "months": "VII",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

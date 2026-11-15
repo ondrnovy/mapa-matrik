@@ -1,0 +1,48 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "4613",
+ "url": "https://digi.ceskearchivy.cz/4613",
+ "signature": "Kamenice nad Lipou 14 1824-1855",
+ "parish": "Kamenice nad Lipou 14",
+ "records": {
+  "Z": "1824–1855"
+ },
+ "points": [
+  {
+   "scan": 59,
+   "type": "Z",
+   "year": 1832,
+   "months": "I",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 84,
+   "type": "Z",
+   "year": 1835,
+   "months": "VIII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 264,
+   "type": "Z",
+   "year": 1852,
+   "months": "III",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 287,
+   "type": "Z",
+   "year": 1853,
+   "months": "IX",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "4313",
+ "url": "https://digi.ceskearchivy.cz/4313",
+ "signature": "Jarošov nad Nežárkou 6 1837-1865",
+ "parish": "Jarošov nad Nežárkou 6",
+ "records": {
+  "N": "1837–1865"
+ },
+ "points": [
+  {
+   "scan": 3,
+   "type": "N",
+   "year": 1837,
+   "months": "I",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 9,
+   "type": "N",
+   "year": 1838,
+   "months": "IX",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 63,
+   "type": "N",
+   "year": 1861,
+   "months": "XI",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

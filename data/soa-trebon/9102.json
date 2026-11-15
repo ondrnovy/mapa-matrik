@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "9102",
+ "url": "https://digi.ceskearchivy.cz/9102",
+ "signature": "Bavorov 36A 1784-1949",
+ "parish": "Bavorov 36A",
+ "records": {
+  "O": "1784–1949"
+ },
+ "points": [
+  {
+   "scan": 7,
+   "type": "O",
+   "year": 1813,
+   "months": "XI",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

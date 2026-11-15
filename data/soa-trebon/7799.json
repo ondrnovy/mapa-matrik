@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "7799",
+ "url": "https://digi.ceskearchivy.cz/7799",
+ "signature": "Ševětín 16 1797-1835",
+ "parish": "Ševětín 16",
+ "records": {
+  "O": "1797–1835"
+ },
+ "points": [
+  {
+   "scan": 38,
+   "type": "O",
+   "year": 1820,
+   "months": "I",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

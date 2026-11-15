@@ -1,0 +1,45 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "hlavnovice-11",
+ "url": "https://www.portafontium.eu/register/soap-pn/hlavnovice-11",
+ "signature": "Hlavňovice 11",
+ "parish": "Hlavňovice",
+ "records": {
+  "N": "1784–1796",
+  "O": "1784–1796"
+ },
+ "points": [
+  {
+   "scan": 40,
+   "type": "O",
+   "year": 1790,
+   "months": "X",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 42,
+   "type": "N",
+   "year": 1784,
+   "year_to": 1787,
+   "by": "matriky-index"
+  },
+  {
+   "scan": 43,
+   "type": "N",
+   "year": 1796,
+   "months": "XII",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ],
+ "notes": [
+  "Roky v records jen podle zápisů přečtených v indexu matrik; kniha může být širší."
+ ]
+}

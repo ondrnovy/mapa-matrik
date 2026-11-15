@@ -1,0 +1,55 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "2060",
+ "url": "https://digi.ceskearchivy.cz/2060",
+ "signature": "Bechyně 6 1752-1784",
+ "parish": "Bechyně 6",
+ "records": {
+  "N": "1752–1784"
+ },
+ "points": [
+  {
+   "scan": 61,
+   "type": "N",
+   "year": 1765,
+   "months": "III",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 69,
+   "type": "N",
+   "year": 1766,
+   "months": "XII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 77,
+   "type": "N",
+   "year": 1769,
+   "months": "II",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 79,
+   "type": "N",
+   "year": 1769,
+   "months": "VIII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 95,
+   "type": "N",
+   "year": 1775,
+   "months": "V",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "8240",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/8240",
+ "signature": "Lysá nad Labem 10, N 1818–1825",
+ "parish": "Lysá nad Labem",
+ "records": {
+  "N": "1818–1825"
+ },
+ "points": [
+  {
+   "scan": 115,
+   "type": "N",
+   "year": 1823,
+   "months": "IX",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

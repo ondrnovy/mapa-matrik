@@ -1,0 +1,48 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "f8b90cf5-b859-4275-9465-1c4b63483e93",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/f8b90cf5-b859-4275-9465-1c4b63483e93",
+ "signature": "136-7",
+ "parish": "Přepychy",
+ "records": {
+  "N": "1796–1843"
+ },
+ "points": [
+  {
+   "scan": 92,
+   "type": "N",
+   "year": 1839,
+   "months": "IX",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 131,
+   "type": "N",
+   "year": 1814,
+   "months": "X",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 164,
+   "type": "N",
+   "year": 1837,
+   "months": "VII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 169,
+   "type": "N",
+   "year": 1838,
+   "months": "XI",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

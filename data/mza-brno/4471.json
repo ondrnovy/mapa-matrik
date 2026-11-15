@@ -1,0 +1,55 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "4471",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/4471",
+ "signature": "Tvarožná, kn. 1981, N+O+Z 1694–1763",
+ "parish": "Tvarožná",
+ "records": {
+  "O": "1694–1763"
+ },
+ "points": [
+  {
+   "scan": 183,
+   "type": "O",
+   "year": 1732,
+   "months": "I",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 188,
+   "type": "O",
+   "year": 1737,
+   "months": "X",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 189,
+   "type": "O",
+   "year": 1738,
+   "months": "V",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 203,
+   "type": "O",
+   "year": 1760,
+   "months": "I",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 205,
+   "type": "O",
+   "year": 1763,
+   "months": "I",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "8244",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/8244",
+ "signature": "Lysá nad Labem 14, N 1856–1868, Ni 1856–1868",
+ "parish": "Lysá nad Labem",
+ "records": {
+  "N": "1856–1868"
+ },
+ "points": [
+  {
+   "scan": 178,
+   "type": "N",
+   "year": 1863,
+   "months": "X",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

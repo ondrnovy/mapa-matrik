@@ -1,0 +1,35 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "13061",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/13061",
+ "signature": "Prčice 06, N 1771–1789, O 1771–1789, Z 1771–1789",
+ "parish": "Prčice",
+ "records": {
+  "N": "1771–1789",
+  "O": "1771–1789"
+ },
+ "points": [
+  {
+   "scan": 20,
+   "type": "N",
+   "year": 1779,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 58,
+   "type": "O",
+   "year": 1779,
+   "months": "X",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

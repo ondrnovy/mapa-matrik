@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "6199",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/6199",
+ "signature": "Jirny 26, O 1851–1892",
+ "parish": "Jirny",
+ "records": {
+  "O": "1851–1892"
+ },
+ "points": [
+  {
+   "scan": 153,
+   "type": "O",
+   "year": 1868,
+   "months": "IX",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

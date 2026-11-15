@@ -119,6 +119,13 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 110,
+   "type": "O",
+   "year": 1733,
+   "months": "XI",
+   "by": "matriky-index"
+  },
+  {
    "scan": 123,
    "type": "O",
    "year": 1749,
@@ -155,6 +162,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-12"
+  },
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
   }
  ]
 }

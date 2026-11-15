@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "3707",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/3707",
+ "signature": "Arnoštovice 24, Z 1870–1912",
+ "parish": "Arnoštovice",
+ "records": {
+  "Z": "1870–1912"
+ },
+ "points": [
+  {
+   "scan": 56,
+   "type": "Z",
+   "year": 1877,
+   "year_to": 1881,
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

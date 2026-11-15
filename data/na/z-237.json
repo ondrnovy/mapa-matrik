@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "na",
+ "portal": "zayt",
+ "portal_id": "z-237",
+ "url": "https://zayt.org/collections/jewish-control-registers-1780-1911/z-237",
+ "signature": "Hrochův Týnec Z 1882–1894",
+ "parish": "Hrochův Týnec Z",
+ "records": {
+  "Z": "1882–1894"
+ },
+ "points": [
+  {
+   "scan": 4,
+   "type": "Z",
+   "year": 1882,
+   "months": "X",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

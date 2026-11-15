@@ -60,6 +60,13 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 183,
+   "type": "N",
+   "year": 1771,
+   "months": "III",
+   "by": "matriky-index"
+  },
+  {
    "scan": 187,
    "type": "N",
    "year": 1771,
@@ -82,6 +89,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-13"
+  },
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
   }
  ]
 }

@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "5752",
+ "url": "https://digi.ceskearchivy.cz/5752",
+ "signature": "Nadějkov 19 1869-1891",
+ "parish": "Nadějkov 19",
+ "records": {
+  "N": "1869–1891"
+ },
+ "points": [
+  {
+   "scan": 127,
+   "type": "N",
+   "year": 1883,
+   "months": "I",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

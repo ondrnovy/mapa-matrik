@@ -1,0 +1,42 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "4504",
+ "url": "https://digi.ceskearchivy.cz/4504",
+ "signature": "Jistebnice 7 1771-1784",
+ "parish": "Jistebnice 7",
+ "records": {
+  "N": "1771–1784",
+  "O": "1771–1784"
+ },
+ "points": [
+  {
+   "scan": 70,
+   "type": "N",
+   "year": 1781,
+   "months": "XII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 73,
+   "type": "N",
+   "year": 1782,
+   "months": "IV",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 110,
+   "type": "O",
+   "year": 1776,
+   "months": "XI",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

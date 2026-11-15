@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "8252",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/8252",
+ "signature": "Lysá nad Labem 22, O 1835–1875, Oi 1835–1875",
+ "parish": "Lysá nad Labem",
+ "records": {
+  "O": "1835–1875"
+ },
+ "points": [
+  {
+   "scan": 80,
+   "type": "O",
+   "year": 1850,
+   "months": "II",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "schema": 1,
+ "archive": "na",
+ "portal": "zayt",
+ "portal_id": "o-2434",
+ "url": "https://zayt.org/collections/jewish-registers-1784-1949/o-2434",
+ "signature": "Zájezdec, židovská matrika O",
+ "parish": "Zájezdec",
+ "records": {
+  "O": "1839–1868"
+ },
+ "points": [
+  {
+   "scan": 17,
+   "type": "O",
+   "year": 1849,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 27,
+   "type": "O",
+   "year": 1851,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 31,
+   "type": "O",
+   "year": 1852,
+   "months": "VII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 32,
+   "type": "O",
+   "year": 1849,
+   "year_to": 1850,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 34,
+   "type": "O",
+   "year": 1850,
+   "months": "II",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 36,
+   "type": "O",
+   "year": 1852,
+   "year_to": 1855,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 37,
+   "type": "O",
+   "year": 1855,
+   "months": "IV–XI",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

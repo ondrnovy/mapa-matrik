@@ -1,0 +1,67 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "velhartice-08",
+ "url": "https://www.portafontium.eu/register/soap-pn/velhartice-08",
+ "signature": "Velhartice 08",
+ "parish": "Velhartice",
+ "records": {
+  "N": "1755–1763",
+  "O": "1755–1763",
+  "Z": "1755–1763"
+ },
+ "points": [
+  {
+   "scan": 78,
+   "type": "N",
+   "year": 1755,
+   "months": "VIII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 94,
+   "type": "N",
+   "year": 1758,
+   "months": "IX",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 114,
+   "type": "N",
+   "year": 1761,
+   "months": "V",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 133,
+   "type": "N",
+   "year": 1763,
+   "months": "VII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 189,
+   "type": "O",
+   "year": 1756,
+   "months": "V",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 271,
+   "type": "Z",
+   "year": 1763,
+   "months": "IX",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ],
+ "notes": [
+  "Roky v records jen podle zápisů přečtených v indexu matrik; kniha může být širší."
+ ]
+}

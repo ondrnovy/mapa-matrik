@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "5847",
+ "url": "https://digi.ceskearchivy.cz/5847",
+ "signature": "Netolice 52 1799-1878",
+ "parish": "Netolice 52",
+ "records": {
+  "O": "1799–1878"
+ },
+ "points": [
+  {
+   "scan": 9,
+   "type": "O",
+   "year": 1819,
+   "months": "IX",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

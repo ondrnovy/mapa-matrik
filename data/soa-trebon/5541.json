@@ -1,0 +1,48 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "5541",
+ "url": "https://digi.ceskearchivy.cz/5541",
+ "signature": "Milevsko 9 1809-1823",
+ "parish": "Milevsko 9",
+ "records": {
+  "N": "1809–1823"
+ },
+ "points": [
+  {
+   "scan": 16,
+   "type": "N",
+   "year": 1810,
+   "months": "II",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 42,
+   "type": "N",
+   "year": 1810,
+   "months": "IX",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 122,
+   "type": "N",
+   "year": 1812,
+   "months": "VIII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 274,
+   "type": "N",
+   "year": 1818,
+   "months": "IV",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

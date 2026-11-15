@@ -39,6 +39,13 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 13,
+   "type": "Z",
+   "year": 1819,
+   "months": "I",
+   "by": "matriky-index"
+  },
+  {
    "scan": 14,
    "type": "Z",
    "year": 1819,
@@ -52,6 +59,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-12"
+  },
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
   }
  ]
 }

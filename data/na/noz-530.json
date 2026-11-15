@@ -1,0 +1,71 @@
+{
+ "schema": 1,
+ "archive": "na",
+ "portal": "zayt",
+ "portal_id": "noz-530",
+ "url": "https://zayt.org/collections/jewish-registers-1784-1949/noz-530",
+ "signature": "Hroubovice, židovská matrika N 1874–1895, O 1875–1891, Z 1875–1895",
+ "parish": "Hroubovice",
+ "records": {
+  "N": "1874–1895",
+  "O": "1874–1895",
+  "Z": "1874–1895"
+ },
+ "points": [
+  {
+   "scan": 9,
+   "type": "N",
+   "year": 1875,
+   "months": "VI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 11,
+   "type": "N",
+   "year": 1876,
+   "months": "IX–XII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 14,
+   "type": "N",
+   "year": 1878,
+   "months": "X",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 36,
+   "type": "O",
+   "year": 1876,
+   "months": "IX–XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 37,
+   "type": "O",
+   "year": 1880,
+   "months": "IX",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 50,
+   "type": "Z",
+   "year": 1875,
+   "months": "III",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 51,
+   "type": "Z",
+   "year": 1875,
+   "months": "XII",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

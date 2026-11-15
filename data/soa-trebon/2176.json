@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "2176",
+ "url": "https://digi.ceskearchivy.cz/2176",
+ "signature": "Bernartice 12 1874-1892",
+ "parish": "Bernartice 12",
+ "records": {
+  "N": "1874–1892"
+ },
+ "points": [
+  {
+   "scan": 34,
+   "type": "N",
+   "year": 1875,
+   "months": "III",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "5537",
+ "url": "https://digi.ceskearchivy.cz/5537",
+ "signature": "Milevsko 5 1746-1784",
+ "parish": "Milevsko 5",
+ "records": {
+  "N": "1746–1784"
+ },
+ "points": [
+  {
+   "scan": 234,
+   "type": "N",
+   "year": 1778,
+   "months": "III",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ]
+}

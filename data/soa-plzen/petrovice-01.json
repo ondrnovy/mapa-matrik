@@ -1,0 +1,30 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "petrovice-01",
+ "url": "https://www.portafontium.eu/register/soap-pn/petrovice-01",
+ "signature": "Petrovice 01",
+ "parish": "Petrovice u Sušice",
+ "records": {
+  "N": "1764"
+ },
+ "points": [
+  {
+   "scan": 370,
+   "type": "N",
+   "year": 1764,
+   "months": "IV",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-15"
+  }
+ ],
+ "notes": [
+  "Roky v records jen podle zápisů přečtených v indexu matrik; kniha může být širší."
+ ]
+}
