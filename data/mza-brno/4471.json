@@ -11,6 +11,19 @@
  },
  "points": [
   {
+   "scan": 160,
+   "type": "O",
+   "year": 1698,
+   "by": "vmachek"
+  },
+  {
+   "scan": 162,
+   "type": "O",
+   "year": 1701,
+   "year_to": 1703,
+   "by": "vmachek"
+  },
+  {
    "scan": 183,
    "type": "O",
    "year": 1732,
@@ -44,11 +57,41 @@
    "year": 1763,
    "months": "I",
    "by": "matriky-index"
+  },
+  {
+   "scan": 225,
+   "type": "Z",
+   "year": 1717,
+   "by": "vmachek"
+  },
+  {
+   "scan": 256,
+   "type": "Z",
+   "year": 1741,
+   "year_to": 1742,
+   "by": "vmachek"
+  },
+  {
+   "scan": 257,
+   "type": "Z",
+   "year": 1742,
+   "months": "III–VIII",
+   "by": "vmachek"
+  },
+  {
+   "scan": 277,
+   "type": "Z",
+   "year": 1758,
+   "by": "vmachek"
   }
  ],
  "sources": [
   {
    "by": "matriky-index",
+   "date": "2026-11-15"
+  },
+  {
+   "by": "vmachek",
    "date": "2026-11-15"
   }
  ]

@@ -1,0 +1,36 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "8594",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/8594",
+ "signature": "Minice 20",
+ "parish": "Minice",
+ "records": {
+  "N": "1864–1885"
+ },
+ "scans": 219,
+ "points": [
+  {
+   "scan": 122,
+   "type": "N",
+   "year": 1876,
+   "months": "VI",
+   "page": "119",
+   "by": "vmachek"
+  },
+  {
+   "scan": 127,
+   "type": "N",
+   "year": 1877,
+   "months": "I",
+   "by": "vmachek"
+  }
+ ],
+ "sources": [
+  {
+   "by": "vmachek",
+   "date": "2026-11-15"
+  }
+ ]
+}

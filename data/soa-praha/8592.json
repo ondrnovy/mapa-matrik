@@ -1,0 +1,52 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "8592",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/8592",
+ "signature": "Minice 18",
+ "parish": "Minice",
+ "records": {
+  "Z": "1825–1870"
+ },
+ "scans": 291,
+ "points": [
+  {
+   "scan": 117,
+   "type": "Z",
+   "year": 1845,
+   "year_to": 1846,
+   "page": "fol. 228–229",
+   "place": "Kralupy",
+   "by": "vmachek"
+  },
+  {
+   "scan": 245,
+   "type": "Z",
+   "year": 1870,
+   "page": "fol. 404",
+   "by": "vmachek"
+  },
+  {
+   "scan": 261,
+   "type": "iZ",
+   "year_to": 1853,
+   "letters": "J",
+   "by": "vmachek"
+  },
+  {
+   "scan": 262,
+   "type": "iZ",
+   "year": 1853,
+   "year_to": 1870,
+   "letters": "J",
+   "by": "vmachek"
+  }
+ ],
+ "sources": [
+  {
+   "by": "vmachek",
+   "date": "2026-11-15"
+  }
+ ]
+}

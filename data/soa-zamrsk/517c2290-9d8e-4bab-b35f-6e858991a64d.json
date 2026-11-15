@@ -1,0 +1,53 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "517c2290-9d8e-4bab-b35f-6e858991a64d",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/517c2290-9d8e-4bab-b35f-6e858991a64d",
+ "signature": "6935",
+ "parish": "Skuteč",
+ "records": {
+  "iZ": "1867–1903"
+ },
+ "scans": 115,
+ "points": [
+  {
+   "scan": 100,
+   "type": "iZ",
+   "year": 1880,
+   "year_to": 1892,
+   "letters": "T",
+   "by": "vmachek"
+  },
+  {
+   "scan": 105,
+   "type": "iZ",
+   "year": 1881,
+   "year_to": 1889,
+   "letters": "V",
+   "by": "vmachek"
+  },
+  {
+   "scan": 106,
+   "type": "iZ",
+   "year": 1890,
+   "year_to": 1898,
+   "letters": "V",
+   "by": "vmachek"
+  },
+  {
+   "scan": 107,
+   "type": "iZ",
+   "year": 1899,
+   "year_to": 1903,
+   "letters": "V",
+   "by": "vmachek"
+  }
+ ],
+ "sources": [
+  {
+   "by": "vmachek",
+   "date": "2026-11-15"
+  }
+ ]
+}

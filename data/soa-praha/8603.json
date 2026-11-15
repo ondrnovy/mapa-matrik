@@ -1,0 +1,35 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "8603",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/8603",
+ "signature": "Minice 29",
+ "parish": "Minice",
+ "records": {
+  "iN": "1864–1949"
+ },
+ "scans": 55,
+ "points": [
+  {
+   "scan": 18,
+   "type": "iN",
+   "letters": "H",
+   "by": "vmachek"
+  },
+  {
+   "scan": 19,
+   "type": "iN",
+   "year": 1864,
+   "year_to": 1881,
+   "letters": "J",
+   "by": "vmachek"
+  }
+ ],
+ "sources": [
+  {
+   "by": "vmachek",
+   "date": "2026-11-15"
+  }
+ ]
+}
