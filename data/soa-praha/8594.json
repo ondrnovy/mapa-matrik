@@ -12,6 +12,13 @@
  "scans": 219,
  "points": [
   {
+   "scan": 104,
+   "type": "N",
+   "year": 1875,
+   "months": "II",
+   "by": "matriky-index"
+  },
+  {
    "scan": 122,
    "type": "N",
    "year": 1876,
@@ -20,17 +27,35 @@
    "by": "vmachek"
   },
   {
+   "scan": 125,
+   "type": "N",
+   "year": 1876,
+   "months": "XI",
+   "by": "matriky-index"
+  },
+  {
    "scan": 127,
    "type": "N",
    "year": 1877,
    "months": "I",
    "by": "vmachek"
+  },
+  {
+   "scan": 171,
+   "type": "N",
+   "year": 1880,
+   "months": "XI",
+   "by": "matriky-index"
   }
  ],
  "sources": [
   {
    "by": "vmachek",
    "date": "2026-11-15"
+  },
+  {
+   "by": "matriky-index",
+   "date": "2026-11-16"
   }
  ]
 }

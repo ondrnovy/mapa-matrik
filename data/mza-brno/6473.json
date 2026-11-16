@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "6473",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/6473",
+ "signature": "Křižanov, kn. 15709, N 1667–1694",
+ "parish": "Křižanov",
+ "records": {
+  "N": "1667–1694"
+ },
+ "points": [
+  {
+   "scan": 31,
+   "type": "N",
+   "year": 1677,
+   "months": "IX",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-16"
+  }
+ ]
+}

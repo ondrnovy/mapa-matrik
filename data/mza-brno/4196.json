@@ -8,7 +8,8 @@
  "parish": "Pozořice",
  "records": {
   "N": "1750–1784",
-  "O": "1750–1784"
+  "O": "1750–1784",
+  "Z": "1764–1774"
  },
  "points": [
   {
@@ -23,6 +24,34 @@
    "type": "O",
    "year": 1753,
    "months": "VII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 234,
+   "type": "O",
+   "year": 1765,
+   "months": "VI",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 302,
+   "type": "Z",
+   "year": 1764,
+   "months": "XI",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 327,
+   "type": "Z",
+   "year": 1773,
+   "months": "X",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 330,
+   "type": "Z",
+   "year": 1774,
+   "months": "XII",
    "by": "matriky-index"
   }
  ],

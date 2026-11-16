@@ -1,0 +1,34 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "4825",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/4825",
+ "signature": "Čestín 09, Z 1784–1805",
+ "parish": "Čestín",
+ "records": {
+  "Z": "1784–1805"
+ },
+ "points": [
+  {
+   "scan": 37,
+   "type": "Z",
+   "year": 1786,
+   "months": "II",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 39,
+   "type": "Z",
+   "year": 1792,
+   "year_to": 1797,
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-16"
+  }
+ ]
+}

@@ -7,7 +7,8 @@
  "signature": "Tvarožná, kn. 1981, N+O+Z 1694–1763",
  "parish": "Tvarožná",
  "records": {
-  "O": "1694–1763"
+  "O": "1694–1763",
+  "Z": "1711–1762"
  },
  "points": [
   {
@@ -15,6 +16,13 @@
    "type": "O",
    "year": 1698,
    "by": "vmachek"
+  },
+  {
+   "scan": 161,
+   "type": "O",
+   "year": 1700,
+   "months": "I",
+   "by": "matriky-index"
   },
   {
    "scan": 162,
@@ -59,10 +67,24 @@
    "by": "matriky-index"
   },
   {
+   "scan": 221,
+   "type": "Z",
+   "year": 1711,
+   "months": "VI",
+   "by": "matriky-index"
+  },
+  {
    "scan": 225,
    "type": "Z",
    "year": 1717,
    "by": "vmachek"
+  },
+  {
+   "scan": 252,
+   "type": "Z",
+   "year": 1738,
+   "months": "IV",
+   "by": "matriky-index"
   },
   {
    "scan": 256,
@@ -79,10 +101,24 @@
    "by": "vmachek"
   },
   {
+   "scan": 274,
+   "type": "Z",
+   "year": 1757,
+   "months": "IV",
+   "by": "matriky-index"
+  },
+  {
    "scan": 277,
    "type": "Z",
    "year": 1758,
    "by": "vmachek"
+  },
+  {
+   "scan": 284,
+   "type": "Z",
+   "year": 1762,
+   "months": "IV",
+   "by": "matriky-index"
   }
  ],
  "sources": [

@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "2178",
+ "url": "https://digi.ceskearchivy.cz/2178",
+ "signature": "Bernartice 14 1784-1834",
+ "parish": "Bernartice 14",
+ "records": {
+  "O": "1784–1834"
+ },
+ "points": [
+  {
+   "scan": 27,
+   "type": "O",
+   "year": 1812,
+   "months": "II",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-16"
+  }
+ ]
+}

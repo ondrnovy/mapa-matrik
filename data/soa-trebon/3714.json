@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "3714",
+ "url": "https://digi.ceskearchivy.cz/3714",
+ "signature": "Horní Slatina 4, narození 1806–1829",
+ "parish": "Horní Slatina",
+ "records": {
+  "N": "1806–1829"
+ },
+ "points": [
+  {
+   "scan": 5,
+   "type": "N",
+   "year": 1808,
+   "months": "XI",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-16"
+  }
+ ]
+}

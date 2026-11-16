@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "6550",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/6550",
+ "signature": "Křižanov, kn. 15720, O 1713–1756",
+ "parish": "Křižanov",
+ "records": {
+  "O": "1713–1756"
+ },
+ "points": [
+  {
+   "scan": 63,
+   "type": "O",
+   "year": 1748,
+   "months": "I",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-16"
+  }
+ ]
+}

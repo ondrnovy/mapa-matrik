@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "3717",
+ "url": "https://digi.ceskearchivy.cz/3717",
+ "signature": "Horní Slatina 7, oddaní 1784–1826",
+ "parish": "Horní Slatina",
+ "records": {
+  "O": "1784–1826"
+ },
+ "points": [
+  {
+   "scan": 31,
+   "type": "O",
+   "year": 1797,
+   "months": "XI",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-16"
+  }
+ ]
+}

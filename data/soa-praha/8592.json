@@ -12,6 +12,13 @@
  "scans": 291,
  "points": [
   {
+   "scan": 58,
+   "type": "Z",
+   "year": 1844,
+   "months": "V",
+   "by": "matriky-index"
+  },
+  {
    "scan": 117,
    "type": "Z",
    "year": 1845,
@@ -47,6 +54,10 @@
   {
    "by": "vmachek",
    "date": "2026-11-15"
+  },
+  {
+   "by": "matriky-index",
+   "date": "2026-11-16"
   }
  ]
 }

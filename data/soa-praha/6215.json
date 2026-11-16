@@ -1,0 +1,35 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "6215",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/6215",
+ "signature": "Kácov 06, N 1727–1762, O 1728–1762",
+ "parish": "Kácov",
+ "records": {
+  "N": "1727–1762",
+  "O": "1727–1762"
+ },
+ "points": [
+  {
+   "scan": 79,
+   "type": "N",
+   "year": 1740,
+   "months": "XI",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 252,
+   "type": "O",
+   "year": 1760,
+   "months": "II",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-16"
+  }
+ ]
+}

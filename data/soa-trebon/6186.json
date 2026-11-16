@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "6186",
+ "url": "https://digi.ceskearchivy.cz/6186",
+ "signature": "Opařany 6 1875-1904",
+ "parish": "Opařany 6",
+ "records": {
+  "N": "1875–1904"
+ },
+ "points": [
+  {
+   "scan": 460,
+   "type": "N",
+   "year": 1904,
+   "months": "II",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-16"
+  }
+ ]
+}

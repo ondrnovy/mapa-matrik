@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "A57DDDB043E1489C9A249340B122A844",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=A57DDDB043E1489C9A249340B122A844",
+ "signature": "VIN O7, O 1902–1904",
+ "parish": "VIN",
+ "records": {
+  "O": "1902–1904"
+ },
+ "points": [
+  {
+   "scan": 161,
+   "type": "O",
+   "year": 1903,
+   "months": "II",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-16"
+  }
+ ]
+}

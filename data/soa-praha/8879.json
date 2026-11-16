@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "8879",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/8879",
+ "signature": "Zbraslavice 04, N 1778–1805",
+ "parish": "Zbraslavice",
+ "records": {
+  "N": "1778–1805"
+ },
+ "points": [
+  {
+   "scan": 13,
+   "type": "N",
+   "year": 1780,
+   "months": "III",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-16"
+  }
+ ]
+}

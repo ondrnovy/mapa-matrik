@@ -1,0 +1,41 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "6549",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/6549",
+ "signature": "Křižanov, kn. 15719, O 1667–1712",
+ "parish": "Křižanov",
+ "records": {
+  "O": "1667–1712"
+ },
+ "points": [
+  {
+   "scan": 5,
+   "type": "O",
+   "year": 1671,
+   "months": "I",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 42,
+   "type": "O",
+   "year": 1704,
+   "months": "I",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 48,
+   "type": "O",
+   "year": 1708,
+   "months": "II",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-16"
+  }
+ ]
+}

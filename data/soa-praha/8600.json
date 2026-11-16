@@ -18,12 +18,30 @@
    "months": "II–III",
    "page": "116",
    "by": "vmachek"
+  },
+  {
+   "scan": 62,
+   "type": "Z",
+   "year": 1880,
+   "months": "XII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 63,
+   "type": "Z",
+   "year": 1881,
+   "months": "I",
+   "by": "matriky-index"
   }
  ],
  "sources": [
   {
    "by": "vmachek",
    "date": "2026-11-15"
+  },
+  {
+   "by": "matriky-index",
+   "date": "2026-11-16"
   }
  ]
 }

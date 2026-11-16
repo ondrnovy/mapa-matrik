@@ -1,0 +1,41 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "6474",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/6474",
+ "signature": "Křižanov, kn. 15710, N 1696–1734",
+ "parish": "Křižanov",
+ "records": {
+  "N": "1696–1734"
+ },
+ "points": [
+  {
+   "scan": 34,
+   "type": "N",
+   "year": 1705,
+   "months": "I",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 113,
+   "type": "N",
+   "year": 1721,
+   "months": "XII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 117,
+   "type": "N",
+   "year": 1722,
+   "months": "XII",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-16"
+  }
+ ]
+}

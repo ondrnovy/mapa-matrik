@@ -17,12 +17,23 @@
    "year": 1867,
    "page": "18",
    "by": "vmachek"
+  },
+  {
+   "scan": 23,
+   "type": "N",
+   "year": 1868,
+   "months": "III",
+   "by": "matriky-index"
   }
  ],
  "sources": [
   {
    "by": "vmachek",
    "date": "2026-11-15"
+  },
+  {
+   "by": "matriky-index",
+   "date": "2026-11-16"
   }
  ]
 }
