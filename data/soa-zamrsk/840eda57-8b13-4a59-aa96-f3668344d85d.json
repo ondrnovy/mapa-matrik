@@ -1,0 +1,53 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "840eda57-8b13-4a59-aa96-f3668344d85d",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/840eda57-8b13-4a59-aa96-f3668344d85d",
+ "signature": "106-5",
+ "parish": "Náchod",
+ "records": {
+  "N": "1739–1760"
+ },
+ "scans": 318,
+ "points": [
+  {
+   "scan": 45,
+   "type": "N",
+   "page": "84",
+   "by": "vmachek"
+  },
+  {
+   "scan": 63,
+   "type": "N",
+   "page": "121",
+   "by": "vmachek"
+  },
+  {
+   "scan": 100,
+   "type": "N",
+   "page": "194",
+   "by": "vmachek"
+  },
+  {
+   "scan": 120,
+   "type": "N",
+   "page": "232",
+   "by": "vmachek"
+  },
+  {
+   "scan": 150,
+   "type": "N",
+   "year": 1750,
+   "months": "VI",
+   "page": "292–293",
+   "by": "vmachek"
+  }
+ ],
+ "sources": [
+  {
+   "by": "vmachek",
+   "date": "2026-11-11"
+  }
+ ]
+}

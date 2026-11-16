@@ -11,6 +11,33 @@
  },
  "points": [
   {
+   "scan": 152,
+   "type": "N",
+   "year": 1772,
+   "months": "I–IV",
+   "by": "vmachek"
+  },
+  {
+   "scan": 154,
+   "type": "N",
+   "year": 1773,
+   "by": "vmachek"
+  },
+  {
+   "scan": 165,
+   "type": "N",
+   "year": 1775,
+   "months": "III–VI",
+   "by": "vmachek"
+  },
+  {
+   "scan": 170,
+   "type": "N",
+   "year": 1776,
+   "months": "IV–VII",
+   "by": "vmachek"
+  },
+  {
    "scan": 171,
    "type": "N",
    "year": 1776,
@@ -22,6 +49,11 @@
   {
    "by": "matriky-index",
    "date": "2026-11-16"
+  },
+  {
+   "by": "vmachek",
+   "date": "2026-11-14"
   }
- ]
+ ],
+ "scans": 216
 }

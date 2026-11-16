@@ -1,0 +1,30 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "31508152-0a0c-497e-8b1e-9496d84111f6",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/31508152-0a0c-497e-8b1e-9496d84111f6",
+ "signature": "21-22",
+ "parish": "Česká Skalice",
+ "records": {
+  "iN": "1808–1834",
+  "iZ": "1808–1834",
+  "iO": "1808–1834"
+ },
+ "points": [
+  {
+   "scan": 62,
+   "type": "iO",
+   "year": 1808,
+   "year_to": 1815,
+   "letters": "P",
+   "by": "vmachek"
+  }
+ ],
+ "sources": [
+  {
+   "by": "vmachek",
+   "date": "2026-11-11"
+  }
+ ]
+}

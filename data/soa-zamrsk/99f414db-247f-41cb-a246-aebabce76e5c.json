@@ -1,0 +1,86 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "99f414db-247f-41cb-a246-aebabce76e5c",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/99f414db-247f-41cb-a246-aebabce76e5c",
+ "signature": "645",
+ "parish": "Nový Studenec",
+ "records": {
+  "N": "1784–1822"
+ },
+ "points": [
+  {
+   "scan": 4,
+   "type": "N",
+   "year": 1784,
+   "year_to": 1786,
+   "page": "1",
+   "by": "vmachek"
+  },
+  {
+   "scan": 5,
+   "type": "N",
+   "year": 1786,
+   "year_to": 1790,
+   "page": "2–3",
+   "by": "vmachek"
+  },
+  {
+   "scan": 6,
+   "type": "N",
+   "year": 1790,
+   "year_to": 1793,
+   "page": "4–5",
+   "by": "vmachek"
+  },
+  {
+   "scan": 7,
+   "type": "N",
+   "year": 1794,
+   "year_to": 1795,
+   "by": "vmachek"
+  },
+  {
+   "scan": 8,
+   "type": "N",
+   "year": 1796,
+   "year_to": 1798,
+   "by": "vmachek"
+  },
+  {
+   "scan": 9,
+   "type": "N",
+   "year": 1799,
+   "year_to": 1800,
+   "by": "vmachek"
+  },
+  {
+   "scan": 10,
+   "type": "N",
+   "year": 1801,
+   "year_to": 1802,
+   "by": "vmachek"
+  },
+  {
+   "scan": 11,
+   "type": "N",
+   "year": 1804,
+   "year_to": 1805,
+   "by": "vmachek"
+  },
+  {
+   "scan": 12,
+   "type": "N",
+   "year": 1806,
+   "year_to": 1807,
+   "by": "vmachek"
+  }
+ ],
+ "sources": [
+  {
+   "by": "vmachek",
+   "date": "2026-11-13"
+  }
+ ]
+}

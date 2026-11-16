@@ -1,0 +1,79 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "6222",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/6222",
+ "signature": "Kácov 13",
+ "parish": "Kácov",
+ "records": {
+  "O": "1784–1829"
+ },
+ "points": [
+  {
+   "scan": 3,
+   "type": "O",
+   "year": 1784,
+   "year_to": 1787,
+   "page": "1",
+   "place": "Kácov",
+   "by": "vmachek"
+  },
+  {
+   "scan": 4,
+   "type": "O",
+   "year": 1787,
+   "year_to": 1789,
+   "place": "Kácov",
+   "by": "vmachek"
+  },
+  {
+   "scan": 5,
+   "type": "O",
+   "year": 1789,
+   "year_to": 1791,
+   "place": "Kácov",
+   "by": "vmachek"
+  },
+  {
+   "scan": 6,
+   "type": "O",
+   "year": 1791,
+   "year_to": 1792,
+   "place": "Kácov",
+   "by": "vmachek"
+  },
+  {
+   "scan": 7,
+   "type": "O",
+   "year": 1794,
+   "year_to": 1795,
+   "page": "3",
+   "place": "Kácov",
+   "by": "vmachek"
+  },
+  {
+   "scan": 8,
+   "type": "O",
+   "year": 1795,
+   "year_to": 1796,
+   "place": "Kácov",
+   "by": "vmachek"
+  },
+  {
+   "scan": 9,
+   "type": "O",
+   "year": 1796,
+   "year_to": 1797,
+   "page": "4",
+   "place": "Kácov",
+   "by": "vmachek"
+  }
+ ],
+ "sources": [
+  {
+   "by": "vmachek",
+   "date": "2026-11-14"
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "4f56e912-70fc-4e18-80b5-a859bbf4475f",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/4f56e912-70fc-4e18-80b5-a859bbf4475f",
+ "signature": "L 3-5",
+ "parish": "Krucemburk",
+ "records": {
+  "N": "1859–1893"
+ },
+ "points": [
+  {
+   "scan": 140,
+   "type": "N",
+   "year": 1872,
+   "months": "VI",
+   "by": "vmachek"
+  },
+  {
+   "scan": 142,
+   "type": "N",
+   "year": 1872,
+   "by": "vmachek"
+  },
+  {
+   "scan": 144,
+   "type": "N",
+   "year": 1873,
+   "months": "I",
+   "by": "vmachek"
+  },
+  {
+   "scan": 170,
+   "type": "N",
+   "year": 1876,
+   "months": "V",
+   "by": "vmachek"
+  }
+ ],
+ "sources": [
+  {
+   "by": "vmachek",
+   "date": "2026-11-13"
+  }
+ ]
+}

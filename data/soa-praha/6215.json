@@ -12,6 +12,22 @@
  },
  "points": [
   {
+   "scan": 75,
+   "type": "N",
+   "year": 1740,
+   "months": "II–V",
+   "page": "142–143",
+   "by": "vmachek"
+  },
+  {
+   "scan": 78,
+   "type": "N",
+   "year": 1740,
+   "months": "IX–X",
+   "page": "148–149",
+   "by": "vmachek"
+  },
+  {
    "scan": 79,
    "type": "N",
    "year": 1740,
@@ -19,17 +35,45 @@
    "by": "matriky-index"
   },
   {
+   "scan": 79,
+   "type": "N",
+   "year": 1740,
+   "year_to": 1741,
+   "months": "XI–XII",
+   "page": "150–151",
+   "by": "vmachek"
+  },
+  {
    "scan": 252,
    "type": "O",
    "year": 1760,
    "months": "II",
    "by": "matriky-index"
+  },
+  {
+   "scan": 252,
+   "type": "O",
+   "year": 1760,
+   "page": "100",
+   "by": "vmachek"
+  },
+  {
+   "scan": 255,
+   "type": "O",
+   "year": 1761,
+   "page": "106",
+   "by": "vmachek"
   }
  ],
  "sources": [
   {
    "by": "matriky-index",
    "date": "2026-11-16"
+  },
+  {
+   "by": "vmachek",
+   "date": "2026-11-14"
   }
- ]
+ ],
+ "scans": 260
 }

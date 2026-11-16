@@ -11,17 +11,45 @@
  },
  "points": [
   {
+   "scan": 126,
+   "type": "O",
+   "year": 1797,
+   "year_to": 1802,
+   "place": "Jiříkovice",
+   "by": "vmachek"
+  },
+  {
    "scan": 127,
    "type": "O",
    "year": 1804,
    "months": "VII",
    "by": "matriky-index"
+  },
+  {
+   "scan": 127,
+   "type": "O",
+   "year": 1802,
+   "year_to": 1804,
+   "place": "Jiříkovice",
+   "by": "vmachek"
+  },
+  {
+   "scan": 132,
+   "type": "O",
+   "year": 1817,
+   "year_to": 1820,
+   "place": "Jiříkovice",
+   "by": "vmachek"
   }
  ],
  "sources": [
   {
    "by": "matriky-index",
    "date": "2026-11-15"
+  },
+  {
+   "by": "vmachek",
+   "date": "2026-11-04"
   }
  ]
 }

@@ -25,17 +25,34 @@
    "by": "matriky-index"
   },
   {
+   "scan": 175,
+   "type": "O",
+   "year": 1780,
+   "by": "vmachek"
+  },
+  {
    "scan": 176,
    "type": "O",
    "year": 1781,
    "months": "IX",
    "by": "matriky-index"
+  },
+  {
+   "scan": 177,
+   "type": "O",
+   "year": 1781,
+   "year_to": 1782,
+   "by": "vmachek"
   }
  ],
  "sources": [
   {
    "by": "matriky-index",
    "date": "2026-11-15"
+  },
+  {
+   "by": "vmachek",
+   "date": "2026-11-04"
   }
  ]
 }

@@ -1,0 +1,172 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "de8f1658-72c1-4f0f-942c-9f64c8e99b9b",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/de8f1658-72c1-4f0f-942c-9f64c8e99b9b",
+ "signature": "2984",
+ "parish": "Nový Studenec",
+ "records": {
+  "iN": "1791–1878",
+  "iZ": "1791–1878",
+  "iO": "1791–1878"
+ },
+ "points": [
+  {
+   "scan": 18,
+   "type": "iO",
+   "year": 1791,
+   "year_to": 1827,
+   "letters": "J",
+   "by": "vmachek"
+  },
+  {
+   "scan": 19,
+   "type": "iO",
+   "year": 1827,
+   "year_to": 1872,
+   "letters": "J",
+   "by": "vmachek"
+  },
+  {
+   "scan": 29,
+   "type": "iO",
+   "year": 1791,
+   "year_to": 1821,
+   "letters": "N",
+   "by": "vmachek"
+  },
+  {
+   "scan": 75,
+   "type": "iN",
+   "letters": "J",
+   "by": "vmachek"
+  },
+  {
+   "scan": 76,
+   "type": "iN",
+   "year": 1833,
+   "year_to": 1851,
+   "letters": "J",
+   "by": "vmachek"
+  },
+  {
+   "scan": 77,
+   "type": "iN",
+   "year": 1834,
+   "year_to": 1866,
+   "letters": "J",
+   "by": "vmachek"
+  },
+  {
+   "scan": 78,
+   "type": "iN",
+   "year": 1851,
+   "year_to": 1878,
+   "letters": "J",
+   "by": "vmachek"
+  },
+  {
+   "scan": 100,
+   "type": "iN",
+   "year": 1834,
+   "year_to": 1843,
+   "letters": "N",
+   "by": "vmachek"
+  },
+  {
+   "scan": 138,
+   "type": "iZ",
+   "letters": "A",
+   "by": "vmachek"
+  },
+  {
+   "scan": 143,
+   "type": "iZ",
+   "letters": "C",
+   "by": "vmachek"
+  },
+  {
+   "scan": 148,
+   "type": "iZ",
+   "letters": "F–G",
+   "by": "vmachek"
+  },
+  {
+   "scan": 153,
+   "type": "iZ",
+   "letters": "H",
+   "by": "vmachek"
+  },
+  {
+   "scan": 154,
+   "type": "iZ",
+   "letters": "J",
+   "by": "vmachek"
+  },
+  {
+   "scan": 158,
+   "type": "iZ",
+   "letters": "K",
+   "by": "vmachek"
+  },
+  {
+   "scan": 163,
+   "type": "iZ",
+   "letters": "L–M",
+   "by": "vmachek"
+  },
+  {
+   "scan": 168,
+   "type": "iZ",
+   "letters": "N",
+   "by": "vmachek"
+  },
+  {
+   "scan": 170,
+   "type": "iZ",
+   "year": 1791,
+   "year_to": 1826,
+   "letters": "N",
+   "by": "vmachek"
+  },
+  {
+   "scan": 171,
+   "type": "iZ",
+   "year": 1827,
+   "year_to": 1834,
+   "letters": "N",
+   "by": "vmachek"
+  },
+  {
+   "scan": 173,
+   "type": "iZ",
+   "letters": "P",
+   "by": "vmachek"
+  },
+  {
+   "scan": 178,
+   "type": "iZ",
+   "letters": "S",
+   "by": "vmachek"
+  },
+  {
+   "scan": 183,
+   "type": "iZ",
+   "letters": "Š",
+   "by": "vmachek"
+  },
+  {
+   "scan": 188,
+   "type": "iZ",
+   "letters": "V–W",
+   "by": "vmachek"
+  }
+ ],
+ "sources": [
+  {
+   "by": "vmachek",
+   "date": "2026-11-13"
+  }
+ ]
+}

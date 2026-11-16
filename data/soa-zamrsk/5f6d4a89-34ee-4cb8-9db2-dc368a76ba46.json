@@ -1,0 +1,43 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "5f6d4a89-34ee-4cb8-9db2-dc368a76ba46",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/5f6d4a89-34ee-4cb8-9db2-dc368a76ba46",
+ "signature": "2952",
+ "parish": "Nová Ves u Chotěboře",
+ "records": {
+  "N": "1857–1882",
+  "iN": "1857–1882"
+ },
+ "points": [
+  {
+   "scan": 106,
+   "type": "N",
+   "year": 1874,
+   "months": "X",
+   "by": "vmachek"
+  },
+  {
+   "scan": 109,
+   "type": "N",
+   "year": 1875,
+   "months": "III",
+   "by": "vmachek"
+  },
+  {
+   "scan": 175,
+   "type": "iN",
+   "year": 1857,
+   "year_to": 1882,
+   "letters": "S",
+   "by": "vmachek"
+  }
+ ],
+ "sources": [
+  {
+   "by": "vmachek",
+   "date": "2026-11-11"
+  }
+ ]
+}

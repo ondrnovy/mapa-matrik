@@ -16,12 +16,40 @@
    "year": 1802,
    "months": "II",
    "by": "matriky-index"
+  },
+  {
+   "scan": 27,
+   "type": "O",
+   "year": 1801,
+   "year_to": 1802,
+   "place": "Tuřany",
+   "by": "vmachek"
+  },
+  {
+   "scan": 28,
+   "type": "O",
+   "year": 1802,
+   "months": "VI–XI",
+   "place": "Tuřany",
+   "by": "vmachek"
+  },
+  {
+   "scan": 29,
+   "type": "O",
+   "year": 1803,
+   "year_to": 1805,
+   "place": "Tuřany",
+   "by": "vmachek"
   }
  ],
  "sources": [
   {
    "by": "matriky-index",
    "date": "2026-11-15"
+  },
+  {
+   "by": "vmachek",
+   "date": "2026-11-04"
   }
  ]
 }

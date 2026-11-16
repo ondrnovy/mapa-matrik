@@ -1,0 +1,39 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "84a0c702-2ea7-404f-a1a8-ab1e6f8f0a18",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/84a0c702-2ea7-404f-a1a8-ab1e6f8f0a18",
+ "signature": "2978",
+ "parish": "Sobíňov",
+ "records": {
+  "N": "1837–1878"
+ },
+ "points": [
+  {
+   "scan": 88,
+   "type": "N",
+   "year": 1873,
+   "months": "IV–VIII",
+   "by": "vmachek"
+  },
+  {
+   "scan": 91,
+   "type": "N",
+   "year": 1874,
+   "by": "vmachek"
+  },
+  {
+   "scan": 94,
+   "type": "N",
+   "year": 1875,
+   "by": "vmachek"
+  }
+ ],
+ "sources": [
+  {
+   "by": "vmachek",
+   "date": "2026-11-11"
+  }
+ ]
+}

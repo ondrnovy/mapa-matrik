@@ -12,11 +12,75 @@
  },
  "points": [
   {
+   "scan": 53,
+   "type": "N",
+   "year": 1723,
+   "year_to": 1724,
+   "by": "vmachek"
+  },
+  {
+   "scan": 54,
+   "type": "N",
+   "year": 1724,
+   "months": "I–V",
+   "by": "vmachek"
+  },
+  {
+   "scan": 55,
+   "type": "N",
+   "year": 1724,
+   "months": "V–IX",
+   "by": "vmachek"
+  },
+  {
+   "scan": 56,
+   "type": "N",
+   "year": 1724,
+   "months": "IX–XI",
+   "by": "vmachek"
+  },
+  {
+   "scan": 57,
+   "type": "N",
+   "year": 1724,
+   "year_to": 1725,
+   "by": "vmachek"
+  },
+  {
+   "scan": 58,
+   "type": "N",
+   "year": 1725,
+   "months": "III–VII",
+   "by": "vmachek"
+  },
+  {
+   "scan": 59,
+   "type": "N",
+   "year": 1725,
+   "months": "VII–X",
+   "by": "vmachek"
+  },
+  {
+   "scan": 60,
+   "type": "N",
+   "year": 1725,
+   "year_to": 1726,
+   "by": "vmachek"
+  },
+  {
    "scan": 61,
    "type": "N",
    "year": 1726,
    "months": "VI",
    "by": "matriky-index"
+  },
+  {
+   "scan": 84,
+   "type": "N",
+   "year": 1735,
+   "months": "I–II",
+   "page": "158–159",
+   "by": "vmachek"
   },
   {
    "scan": 86,
@@ -26,11 +90,79 @@
    "by": "matriky-index"
   },
   {
+   "scan": 88,
+   "type": "N",
+   "year": 1736,
+   "months": "IX–XII",
+   "by": "vmachek"
+  },
+  {
+   "scan": 129,
+   "type": "N",
+   "year": 1750,
+   "by": "vmachek"
+  },
+  {
+   "scan": 130,
+   "type": "N",
+   "year": 1750,
+   "months": "III–VI",
+   "by": "vmachek"
+  },
+  {
    "scan": 131,
    "type": "N",
    "year": 1751,
    "months": "IV",
    "by": "matriky-index"
+  },
+  {
+   "scan": 131,
+   "type": "N",
+   "year": 1750,
+   "year_to": 1751,
+   "by": "vmachek"
+  },
+  {
+   "scan": 132,
+   "type": "N",
+   "year": 1751,
+   "by": "vmachek"
+  },
+  {
+   "scan": 134,
+   "type": "N",
+   "year": 1752,
+   "months": "VII",
+   "by": "vmachek"
+  },
+  {
+   "scan": 224,
+   "type": "N",
+   "year": 1775,
+   "months": "I–III",
+   "by": "vmachek"
+  },
+  {
+   "scan": 230,
+   "type": "N",
+   "year": 1776,
+   "months": "IV–VI",
+   "by": "vmachek"
+  },
+  {
+   "scan": 231,
+   "type": "N",
+   "year": 1776,
+   "months": "VI–IX",
+   "by": "vmachek"
+  },
+  {
+   "scan": 232,
+   "type": "N",
+   "year": 1776,
+   "months": "IX–XI",
+   "by": "vmachek"
   },
   {
    "scan": 240,
@@ -40,11 +172,191 @@
    "by": "matriky-index"
   },
   {
+   "scan": 241,
+   "type": "N",
+   "year": 1777,
+   "months": "I–IV",
+   "by": "vmachek"
+  },
+  {
+   "scan": 243,
+   "type": "N",
+   "year": 1777,
+   "months": "IV–VIII",
+   "by": "vmachek"
+  },
+  {
    "scan": 244,
    "type": "N",
    "year": 1777,
    "months": "IX",
    "by": "matriky-index"
+  },
+  {
+   "scan": 262,
+   "type": "N",
+   "year": 1774,
+   "year_to": 1778,
+   "note": "nemanželské děti",
+   "by": "vmachek"
+  },
+  {
+   "scan": 290,
+   "type": "O",
+   "year": 1722,
+   "year_to": 1723,
+   "by": "vmachek"
+  },
+  {
+   "scan": 291,
+   "type": "O",
+   "year": 1724,
+   "by": "vmachek"
+  },
+  {
+   "scan": 293,
+   "type": "O",
+   "year": 1725,
+   "by": "vmachek"
+  },
+  {
+   "scan": 294,
+   "type": "O",
+   "year": 1726,
+   "by": "vmachek"
+  },
+  {
+   "scan": 295,
+   "type": "O",
+   "year": 1727,
+   "by": "vmachek"
+  },
+  {
+   "scan": 296,
+   "type": "O",
+   "year": 1728,
+   "by": "vmachek"
+  },
+  {
+   "scan": 297,
+   "type": "O",
+   "year": 1729,
+   "by": "vmachek"
+  },
+  {
+   "scan": 298,
+   "type": "O",
+   "year": 1730,
+   "by": "vmachek"
+  },
+  {
+   "scan": 299,
+   "type": "O",
+   "year": 1731,
+   "by": "vmachek"
+  },
+  {
+   "scan": 302,
+   "type": "O",
+   "year": 1732,
+   "by": "vmachek"
+  },
+  {
+   "scan": 303,
+   "type": "O",
+   "year": 1733,
+   "by": "vmachek"
+  },
+  {
+   "scan": 305,
+   "type": "O",
+   "year": 1734,
+   "by": "vmachek"
+  },
+  {
+   "scan": 307,
+   "type": "O",
+   "year": 1734,
+   "year_to": 1735,
+   "by": "vmachek"
+  },
+  {
+   "scan": 309,
+   "type": "O",
+   "year": 1736,
+   "by": "vmachek"
+  },
+  {
+   "scan": 310,
+   "type": "O",
+   "year": 1737,
+   "by": "vmachek"
+  },
+  {
+   "scan": 313,
+   "type": "O",
+   "year": 1738,
+   "by": "vmachek"
+  },
+  {
+   "scan": 315,
+   "type": "O",
+   "year": 1739,
+   "by": "vmachek"
+  },
+  {
+   "scan": 317,
+   "type": "O",
+   "year": 1740,
+   "by": "vmachek"
+  },
+  {
+   "scan": 318,
+   "type": "O",
+   "year": 1741,
+   "by": "vmachek"
+  },
+  {
+   "scan": 320,
+   "type": "O",
+   "year": 1742,
+   "by": "vmachek"
+  },
+  {
+   "scan": 322,
+   "type": "O",
+   "year": 1743,
+   "by": "vmachek"
+  },
+  {
+   "scan": 323,
+   "type": "O",
+   "year": 1744,
+   "by": "vmachek"
+  },
+  {
+   "scan": 325,
+   "type": "O",
+   "year": 1745,
+   "by": "vmachek"
+  },
+  {
+   "scan": 326,
+   "type": "O",
+   "year": 1746,
+   "by": "vmachek"
+  },
+  {
+   "scan": 328,
+   "type": "O",
+   "year": 1747,
+   "by": "vmachek"
+  },
+  {
+   "scan": 330,
+   "type": "O",
+   "year": 1748,
+   "by": "vmachek"
   },
   {
    "scan": 331,
@@ -58,6 +370,18 @@
   {
    "by": "matriky-index",
    "date": "2026-11-15"
+  },
+  {
+   "by": "vmachek",
+   "date": "2026-11-04"
+  },
+  {
+   "by": "vmachek",
+   "date": "2026-11-09"
+  },
+  {
+   "by": "vmachek",
+   "date": "2026-11-10"
   }
  ]
 }

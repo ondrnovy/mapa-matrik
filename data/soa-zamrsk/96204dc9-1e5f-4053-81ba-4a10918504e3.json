@@ -1,0 +1,50 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "96204dc9-1e5f-4053-81ba-4a10918504e3",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/96204dc9-1e5f-4053-81ba-4a10918504e3",
+ "signature": "53-4178",
+ "parish": "Hronov",
+ "records": {
+  "iN": "1742–1834"
+ },
+ "points": [
+  {
+   "scan": 113,
+   "type": "iN",
+   "letters": "P",
+   "by": "vmachek"
+  },
+  {
+   "scan": 114,
+   "type": "iN",
+   "year": 1755,
+   "year_to": 1772,
+   "letters": "P",
+   "by": "vmachek"
+  },
+  {
+   "scan": 115,
+   "type": "iN",
+   "year": 1774,
+   "year_to": 1786,
+   "letters": "P",
+   "by": "vmachek"
+  },
+  {
+   "scan": 116,
+   "type": "iN",
+   "year": 1786,
+   "year_to": 1789,
+   "letters": "P",
+   "by": "vmachek"
+  }
+ ],
+ "sources": [
+  {
+   "by": "vmachek",
+   "date": "2026-11-13"
+  }
+ ]
+}

@@ -11,6 +11,159 @@
  },
  "points": [
   {
+   "scan": 12,
+   "type": "N",
+   "year": 1666,
+   "place": "Sivice",
+   "by": "vmachek"
+  },
+  {
+   "scan": 13,
+   "type": "N",
+   "year": 1666,
+   "year_to": 1667,
+   "place": "Sivice",
+   "by": "vmachek"
+  },
+  {
+   "scan": 14,
+   "type": "N",
+   "year": 1667,
+   "year_to": 1669,
+   "place": "Sivice",
+   "by": "vmachek"
+  },
+  {
+   "scan": 15,
+   "type": "N",
+   "year": 1669,
+   "year_to": 1670,
+   "place": "Sivice",
+   "by": "vmachek"
+  },
+  {
+   "scan": 16,
+   "type": "N",
+   "year": 1670,
+   "year_to": 1671,
+   "place": "Sivice",
+   "by": "vmachek"
+  },
+  {
+   "scan": 17,
+   "type": "N",
+   "year": 1671,
+   "year_to": 1672,
+   "place": "Sivice",
+   "by": "vmachek"
+  },
+  {
+   "scan": 18,
+   "type": "N",
+   "year": 1672,
+   "year_to": 1674,
+   "place": "Sivice",
+   "by": "vmachek"
+  },
+  {
+   "scan": 19,
+   "type": "N",
+   "year": 1674,
+   "place": "Sivice",
+   "by": "vmachek"
+  },
+  {
+   "scan": 20,
+   "type": "N",
+   "year": 1674,
+   "year_to": 1676,
+   "place": "Sivice",
+   "by": "vmachek"
+  },
+  {
+   "scan": 21,
+   "type": "N",
+   "year": 1676,
+   "year_to": 1677,
+   "place": "Sivice",
+   "by": "vmachek"
+  },
+  {
+   "scan": 22,
+   "type": "N",
+   "year": 1678,
+   "place": "Sivice",
+   "by": "vmachek"
+  },
+  {
+   "scan": 125,
+   "type": "N",
+   "year": 1685,
+   "months": "VIII",
+   "by": "vmachek"
+  },
+  {
+   "scan": 130,
+   "type": "N",
+   "year": 1686,
+   "by": "vmachek"
+  },
+  {
+   "scan": 135,
+   "type": "N",
+   "year": 1687,
+   "by": "vmachek"
+  },
+  {
+   "scan": 140,
+   "type": "N",
+   "year": 1688,
+   "by": "vmachek"
+  },
+  {
+   "scan": 146,
+   "type": "N",
+   "year": 1689,
+   "by": "vmachek"
+  },
+  {
+   "scan": 150,
+   "type": "N",
+   "year": 1690,
+   "by": "vmachek"
+  },
+  {
+   "scan": 154,
+   "type": "N",
+   "year": 1691,
+   "by": "vmachek"
+  },
+  {
+   "scan": 159,
+   "type": "N",
+   "year": 1692,
+   "by": "vmachek"
+  },
+  {
+   "scan": 163,
+   "type": "N",
+   "year": 1693,
+   "by": "vmachek"
+  },
+  {
+   "scan": 166,
+   "type": "N",
+   "year": 1694,
+   "by": "vmachek"
+  },
+  {
+   "scan": 169,
+   "type": "N",
+   "year": 1695,
+   "months": "VI",
+   "by": "vmachek"
+  },
+  {
    "scan": 188,
    "type": "O",
    "year": 1692,
@@ -22,6 +175,14 @@
   {
    "by": "matriky-index",
    "date": "2026-11-15"
+  },
+  {
+   "by": "vmachek",
+   "date": "2026-11-04"
+  },
+  {
+   "by": "vmachek",
+   "date": "2026-11-12"
   }
  ]
 }

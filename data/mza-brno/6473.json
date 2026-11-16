@@ -11,6 +11,18 @@
  },
  "points": [
   {
+   "scan": 27,
+   "type": "N",
+   "year": 1676,
+   "by": "vmachek"
+  },
+  {
+   "scan": 30,
+   "type": "N",
+   "year": 1677,
+   "by": "vmachek"
+  },
+  {
    "scan": 31,
    "type": "N",
    "year": 1677,
@@ -22,6 +34,11 @@
   {
    "by": "matriky-index",
    "date": "2026-11-16"
+  },
+  {
+   "by": "vmachek",
+   "date": "2026-11-14"
   }
- ]
+ ],
+ "scans": 101
 }

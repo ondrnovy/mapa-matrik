@@ -19,11 +19,38 @@
    "by": "matriky-index"
   },
   {
+   "scan": 14,
+   "type": "N",
+   "year": 1661,
+   "by": "vmachek"
+  },
+  {
    "scan": 35,
    "type": "N",
    "year": 1669,
    "months": "I",
    "by": "matriky-index"
+  },
+  {
+   "scan": 35,
+   "type": "N",
+   "year": 1668,
+   "year_to": 1669,
+   "by": "vmachek"
+  },
+  {
+   "scan": 39,
+   "type": "N",
+   "year": 1670,
+   "year_to": 1671,
+   "by": "vmachek"
+  },
+  {
+   "scan": 40,
+   "type": "N",
+   "year": 1671,
+   "months": "II–VIII",
+   "by": "vmachek"
   },
   {
    "scan": 41,
@@ -47,6 +74,13 @@
    "by": "matriky-index"
   },
   {
+   "scan": 106,
+   "type": "N",
+   "year": 1699,
+   "year_to": 1700,
+   "by": "vmachek"
+  },
+  {
    "scan": 119,
    "type": "N",
    "year": 1706,
@@ -54,11 +88,32 @@
    "by": "matriky-index"
   },
   {
+   "scan": 138,
+   "type": "O",
+   "year": 1658,
+   "page": "fol. 137",
+   "by": "vmachek"
+  },
+  {
+   "scan": 143,
+   "type": "O",
+   "year": 1664,
+   "by": "vmachek"
+  },
+  {
    "scan": 144,
    "type": "O",
    "year": 1665,
    "months": "II",
    "by": "matriky-index"
+  },
+  {
+   "scan": 166,
+   "type": "O",
+   "year": 1691,
+   "year_to": 1692,
+   "page": "fol. 213",
+   "by": "vmachek"
   },
   {
    "scan": 167,
@@ -72,6 +127,10 @@
   {
    "by": "matriky-index",
    "date": "2026-11-15"
+  },
+  {
+   "by": "vmachek",
+   "date": "2026-11-10"
   }
  ]
 }

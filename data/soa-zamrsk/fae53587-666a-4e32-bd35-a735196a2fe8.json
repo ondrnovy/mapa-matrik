@@ -1,0 +1,110 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "fae53587-666a-4e32-bd35-a735196a2fe8",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/fae53587-666a-4e32-bd35-a735196a2fe8",
+ "signature": "21-20",
+ "parish": "Česká Skalice",
+ "records": {
+  "iN": "1651–1790",
+  "iZ": "1651–1790",
+  "iO": "1651–1790"
+ },
+ "points": [
+  {
+   "scan": 25,
+   "type": "iO",
+   "letters": "L",
+   "by": "vmachek"
+  },
+  {
+   "scan": 35,
+   "type": "iO",
+   "letters": "P",
+   "by": "vmachek"
+  },
+  {
+   "scan": 36,
+   "type": "iO",
+   "letters": "R",
+   "by": "vmachek"
+  },
+  {
+   "scan": 37,
+   "type": "iO",
+   "letters": "R",
+   "by": "vmachek"
+  },
+  {
+   "scan": 38,
+   "type": "iO",
+   "letters": "S",
+   "by": "vmachek"
+  },
+  {
+   "scan": 65,
+   "type": "iN",
+   "letters": "D",
+   "by": "vmachek"
+  },
+  {
+   "scan": 85,
+   "type": "iN",
+   "letters": "H",
+   "by": "vmachek"
+  },
+  {
+   "scan": 105,
+   "type": "iN",
+   "letters": "K",
+   "by": "vmachek"
+  },
+  {
+   "scan": 111,
+   "type": "iN",
+   "year": 1744,
+   "year_to": 1779,
+   "letters": "L",
+   "by": "vmachek"
+  },
+  {
+   "scan": 112,
+   "type": "iN",
+   "year": 1779,
+   "year_to": 1790,
+   "letters": "L",
+   "by": "vmachek"
+  },
+  {
+   "scan": 113,
+   "type": "iN",
+   "letters": "M",
+   "by": "vmachek"
+  },
+  {
+   "scan": 145,
+   "type": "iN",
+   "letters": "R",
+   "by": "vmachek"
+  },
+  {
+   "scan": 165,
+   "type": "iN",
+   "letters": "T",
+   "by": "vmachek"
+  },
+  {
+   "scan": 225,
+   "type": "iZ",
+   "letters": "L",
+   "by": "vmachek"
+  }
+ ],
+ "sources": [
+  {
+   "by": "vmachek",
+   "date": "2026-11-12"
+  }
+ ]
+}

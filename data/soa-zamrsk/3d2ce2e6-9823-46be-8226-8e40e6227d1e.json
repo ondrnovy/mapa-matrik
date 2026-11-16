@@ -1,0 +1,49 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "3d2ce2e6-9823-46be-8226-8e40e6227d1e",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/3d2ce2e6-9823-46be-8226-8e40e6227d1e",
+ "signature": "20-41",
+ "parish": "Červený Kostelec",
+ "records": {
+  "Z": "1744–1760",
+  "O": "1744–1760"
+ },
+ "points": [
+  {
+   "scan": 76,
+   "type": "O",
+   "page": "143",
+   "by": "vmachek"
+  },
+  {
+   "scan": 82,
+   "type": "Z",
+   "year": 1744,
+   "by": "vmachek"
+  },
+  {
+   "scan": 130,
+   "type": "Z",
+   "year": 1753,
+   "by": "vmachek"
+  },
+  {
+   "scan": 185,
+   "type": "Z",
+   "year": 1760,
+   "by": "vmachek"
+  }
+ ],
+ "sources": [
+  {
+   "by": "vmachek",
+   "date": "2026-11-12"
+  },
+  {
+   "by": "vmachek",
+   "date": "2026-11-11"
+  }
+ ]
+}

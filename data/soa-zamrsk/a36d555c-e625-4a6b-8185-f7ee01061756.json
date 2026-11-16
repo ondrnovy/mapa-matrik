@@ -1,0 +1,46 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "a36d555c-e625-4a6b-8185-f7ee01061756",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/a36d555c-e625-4a6b-8185-f7ee01061756",
+ "signature": "21-4",
+ "parish": "Česká Skalice",
+ "records": {
+  "N": "1723–1758",
+  "Z": "1723–1758",
+  "O": "1723–1758"
+ },
+ "points": [
+  {
+   "scan": 312,
+   "type": "O",
+   "year": 1739,
+   "by": "vmachek"
+  },
+  {
+   "scan": 320,
+   "type": "O",
+   "year": 1742,
+   "by": "vmachek"
+  },
+  {
+   "scan": 328,
+   "type": "O",
+   "year": 1744,
+   "by": "vmachek"
+  },
+  {
+   "scan": 340,
+   "type": "O",
+   "year": 1749,
+   "by": "vmachek"
+  }
+ ],
+ "sources": [
+  {
+   "by": "vmachek",
+   "date": "2026-11-11"
+  }
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "66ff6b7a-9e60-4b3d-9e53-7af6c48f89d8",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/66ff6b7a-9e60-4b3d-9e53-7af6c48f89d8",
+ "signature": "21-14",
+ "parish": "Velký Třebešov",
+ "records": {
+  "N": "1758–1794",
+  "Z": "1758–1794",
+  "O": "1758–1794"
+ },
+ "scans": 165,
+ "points": [
+  {
+   "scan": 10,
+   "type": "N",
+   "page": "fol. 5",
+   "by": "vmachek"
+  },
+  {
+   "scan": 28,
+   "type": "N",
+   "page": "fol. 23",
+   "by": "vmachek"
+  },
+  {
+   "scan": 29,
+   "type": "N",
+   "page": "fol. 24",
+   "by": "vmachek"
+  },
+  {
+   "scan": 31,
+   "type": "N",
+   "page": "fol. 26",
+   "by": "vmachek"
+  },
+  {
+   "scan": 89,
+   "type": "O",
+   "year": 1758,
+   "page": "fol. 85",
+   "by": "vmachek"
+  },
+  {
+   "scan": 90,
+   "type": "O",
+   "page": "fol. 86",
+   "by": "vmachek"
+  },
+  {
+   "scan": 114,
+   "type": "O",
+   "year": 1784,
+   "year_to": 1791,
+   "page": "fol. 110",
+   "place": "Svinišťany",
+   "by": "vmachek"
+  }
+ ],
+ "sources": [
+  {
+   "by": "vmachek",
+   "date": "2026-11-12"
+  }
+ ]
+}

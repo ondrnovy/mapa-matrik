@@ -11,17 +11,49 @@
  },
  "points": [
   {
+   "scan": 1,
+   "type": "title",
+   "by": "vmachek"
+  },
+  {
+   "scan": 20,
+   "type": "O",
+   "year": 1844,
+   "year_to": 1845,
+   "page": "fol. 19",
+   "by": "vmachek"
+  },
+  {
    "scan": 22,
    "type": "O",
    "year": 1846,
    "months": "II",
    "by": "matriky-index"
+  },
+  {
+   "scan": 26,
+   "type": "O",
+   "year": 1847,
+   "months": "VII–IX",
+   "page": "fol. 25",
+   "by": "vmachek"
+  },
+  {
+   "scan": 83,
+   "type": "O",
+   "year": 1858,
+   "page": "fol. 82",
+   "by": "vmachek"
   }
  ],
  "sources": [
   {
    "by": "matriky-index",
    "date": "2026-11-15"
+  },
+  {
+   "by": "vmachek",
+   "date": "2026-11-04"
   }
  ]
 }

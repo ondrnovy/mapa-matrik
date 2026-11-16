@@ -1,0 +1,166 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "4bc3877e-7a83-474f-b78f-e4ce9583bbbe",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/4bc3877e-7a83-474f-b78f-e4ce9583bbbe",
+ "signature": "20-30",
+ "parish": "Červený Kostelec",
+ "records": {
+  "N": "1785–1814",
+  "Z": "1785–1814",
+  "O": "1785–1814"
+ },
+ "scans": 71,
+ "points": [
+  {
+   "scan": 4,
+   "type": "N",
+   "year": 1785,
+   "months": "I",
+   "by": "vmachek"
+  },
+  {
+   "scan": 15,
+   "type": "N",
+   "year": 1793,
+   "months": "III",
+   "by": "vmachek"
+  },
+  {
+   "scan": 44,
+   "type": "Z",
+   "year": 1785,
+   "page": "1",
+   "by": "vmachek"
+  },
+  {
+   "scan": 45,
+   "type": "Z",
+   "year": 1786,
+   "year_to": 1788,
+   "by": "vmachek"
+  },
+  {
+   "scan": 46,
+   "type": "Z",
+   "year": 1789,
+   "year_to": 1790,
+   "by": "vmachek"
+  },
+  {
+   "scan": 47,
+   "type": "Z",
+   "year": 1792,
+   "year_to": 1793,
+   "page": "6–7",
+   "by": "vmachek"
+  },
+  {
+   "scan": 48,
+   "type": "Z",
+   "year": 1793,
+   "year_to": 1794,
+   "page": "8–9",
+   "by": "vmachek"
+  },
+  {
+   "scan": 51,
+   "type": "Z",
+   "year": 1799,
+   "year_to": 1800,
+   "by": "vmachek"
+  },
+  {
+   "scan": 52,
+   "type": "Z",
+   "year": 1801,
+   "year_to": 1802,
+   "by": "vmachek"
+  },
+  {
+   "scan": 53,
+   "type": "Z",
+   "year": 1803,
+   "year_to": 1804,
+   "by": "vmachek"
+  },
+  {
+   "scan": 54,
+   "type": "Z",
+   "year": 1806,
+   "by": "vmachek"
+  },
+  {
+   "scan": 55,
+   "type": "Z",
+   "year": 1806,
+   "year_to": 1807,
+   "by": "vmachek"
+  },
+  {
+   "scan": 56,
+   "type": "Z",
+   "year": 1809,
+   "year_to": 1810,
+   "by": "vmachek"
+  },
+  {
+   "scan": 57,
+   "type": "Z",
+   "year": 1811,
+   "year_to": 1813,
+   "by": "vmachek"
+  },
+  {
+   "scan": 58,
+   "type": "Z",
+   "year": 1814,
+   "by": "vmachek"
+  },
+  {
+   "scan": 59,
+   "type": "O",
+   "year": 1785,
+   "page": "1",
+   "by": "vmachek"
+  },
+  {
+   "scan": 60,
+   "type": "O",
+   "year": 1786,
+   "year_to": 1787,
+   "by": "vmachek"
+  },
+  {
+   "scan": 61,
+   "type": "O",
+   "year": 1787,
+   "year_to": 1788,
+   "by": "vmachek"
+  },
+  {
+   "scan": 62,
+   "type": "O",
+   "year": 1790,
+   "by": "vmachek"
+  },
+  {
+   "scan": 63,
+   "type": "O",
+   "year": 1792,
+   "year_to": 1793,
+   "by": "vmachek"
+  }
+ ],
+ "sources": [
+  {
+   "by": "vmachek",
+   "date": "2026-11-11"
+  },
+  {
+   "by": "vmachek",
+   "date": "2026-11-12"
+  }
+ ]
+}

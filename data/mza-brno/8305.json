@@ -16,12 +16,25 @@
    "year": 1845,
    "months": "VI",
    "by": "matriky-index"
+  },
+  {
+   "scan": 180,
+   "type": "N",
+   "year": 1845,
+   "months": "II–VI",
+   "page": "42–43",
+   "place": "Slatina",
+   "by": "vmachek"
   }
  ],
  "sources": [
   {
    "by": "matriky-index",
    "date": "2026-11-15"
+  },
+  {
+   "by": "vmachek",
+   "date": "2026-11-02"
   }
  ]
 }

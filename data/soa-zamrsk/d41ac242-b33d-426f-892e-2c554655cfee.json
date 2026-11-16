@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "d41ac242-b33d-426f-892e-2c554655cfee",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/d41ac242-b33d-426f-892e-2c554655cfee",
+ "signature": "8789",
+ "parish": "Dvůr Králové nad Labem",
+ "records": {
+  "Z": "1926–1937",
+  "iZ": "1926–1937"
+ },
+ "points": [
+  {
+   "scan": 177,
+   "type": "iZ",
+   "letters": "M",
+   "by": "vmachek"
+  }
+ ],
+ "sources": [
+  {
+   "by": "vmachek",
+   "date": "2026-11-11"
+  }
+ ]
+}

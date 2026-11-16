@@ -12,11 +12,26 @@
  "scans": 219,
  "points": [
   {
+   "scan": 21,
+   "type": "N",
+   "year": 1866,
+   "page": "18",
+   "by": "vmachek"
+  },
+  {
    "scan": 104,
    "type": "N",
    "year": 1875,
    "months": "II",
    "by": "matriky-index"
+  },
+  {
+   "scan": 104,
+   "type": "N",
+   "year": 1875,
+   "months": "I–II",
+   "page": "101",
+   "by": "vmachek"
   },
   {
    "scan": 122,
@@ -34,10 +49,29 @@
    "by": "matriky-index"
   },
   {
+   "scan": 125,
+   "type": "N",
+   "year": 1876,
+   "page": "122",
+   "by": "vmachek"
+  },
+  {
    "scan": 127,
    "type": "N",
    "year": 1877,
    "months": "I",
+   "by": "vmachek"
+  },
+  {
+   "scan": 161,
+   "type": "N",
+   "year": 1880,
+   "by": "vmachek"
+  },
+  {
+   "scan": 166,
+   "type": "N",
+   "year": 1880,
    "by": "vmachek"
   },
   {
@@ -46,6 +80,12 @@
    "year": 1880,
    "months": "XI",
    "by": "matriky-index"
+  },
+  {
+   "scan": 172,
+   "type": "N",
+   "year": 1880,
+   "by": "vmachek"
   }
  ],
  "sources": [

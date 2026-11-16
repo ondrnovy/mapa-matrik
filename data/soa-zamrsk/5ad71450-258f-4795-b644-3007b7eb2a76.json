@@ -1,0 +1,127 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "5ad71450-258f-4795-b644-3007b7eb2a76",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/5ad71450-258f-4795-b644-3007b7eb2a76",
+ "signature": "106-87",
+ "parish": "Náchod",
+ "records": {
+  "iN": "1670–1782"
+ },
+ "points": [
+  {
+   "scan": 61,
+   "type": "iN",
+   "year": 1671,
+   "year_to": 1703,
+   "letters": "L",
+   "by": "vmachek"
+  },
+  {
+   "scan": 62,
+   "type": "iN",
+   "year": 1671,
+   "year_to": 1703,
+   "letters": "L",
+   "by": "vmachek"
+  },
+  {
+   "scan": 82,
+   "type": "iN",
+   "letters": "O",
+   "by": "vmachek"
+  },
+  {
+   "scan": 84,
+   "type": "iN",
+   "year": 1671,
+   "year_to": 1687,
+   "letters": "P",
+   "by": "vmachek"
+  },
+  {
+   "scan": 85,
+   "type": "iN",
+   "year": 1671,
+   "year_to": 1687,
+   "letters": "P",
+   "by": "vmachek"
+  },
+  {
+   "scan": 86,
+   "type": "iN",
+   "year": 1688,
+   "year_to": 1702,
+   "letters": "P",
+   "by": "vmachek"
+  },
+  {
+   "scan": 87,
+   "type": "iN",
+   "year": 1700,
+   "year_to": 1730,
+   "letters": "P",
+   "by": "vmachek"
+  },
+  {
+   "scan": 88,
+   "type": "iN",
+   "year": 1700,
+   "year_to": 1730,
+   "letters": "P",
+   "by": "vmachek"
+  },
+  {
+   "scan": 89,
+   "type": "iN",
+   "year": 1730,
+   "year_to": 1741,
+   "letters": "P",
+   "by": "vmachek"
+  },
+  {
+   "scan": 90,
+   "type": "iN",
+   "year": 1741,
+   "year_to": 1751,
+   "letters": "P",
+   "by": "vmachek"
+  },
+  {
+   "scan": 91,
+   "type": "iN",
+   "year": 1751,
+   "letters": "P",
+   "by": "vmachek"
+  },
+  {
+   "scan": 92,
+   "type": "iN",
+   "year": 1760,
+   "year_to": 1769,
+   "letters": "P",
+   "by": "vmachek"
+  },
+  {
+   "scan": 124,
+   "type": "iN",
+   "letters": "W",
+   "by": "vmachek"
+  },
+  {
+   "scan": 134,
+   "type": "iN",
+   "year": 1670,
+   "year_to": 1686,
+   "letters": "Z",
+   "by": "vmachek"
+  }
+ ],
+ "sources": [
+  {
+   "by": "vmachek",
+   "date": "2026-11-12"
+  }
+ ]
+}

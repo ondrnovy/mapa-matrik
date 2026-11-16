@@ -11,6 +11,20 @@
  },
  "points": [
   {
+   "scan": 35,
+   "type": "O",
+   "year": 1734,
+   "months": "I",
+   "by": "vmachek"
+  },
+  {
+   "scan": 37,
+   "type": "O",
+   "year": 1736,
+   "months": "I",
+   "by": "vmachek"
+  },
+  {
    "scan": 63,
    "type": "O",
    "year": 1748,
@@ -22,6 +36,11 @@
   {
    "by": "matriky-index",
    "date": "2026-11-16"
+  },
+  {
+   "by": "vmachek",
+   "date": "2026-11-15"
   }
- ]
+ ],
+ "scans": 100
 }

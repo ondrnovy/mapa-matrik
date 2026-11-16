@@ -1,0 +1,134 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "4a39b308-ae64-4448-baeb-6b2688d5740a",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/4a39b308-ae64-4448-baeb-6b2688d5740a",
+ "signature": "106-32",
+ "parish": "Hronov",
+ "records": {
+  "N": "1652–1706",
+  "Z": "1652–1706",
+  "O": "1652–1706"
+ },
+ "points": [
+  {
+   "scan": 5,
+   "type": "N",
+   "year": 1654,
+   "by": "vmachek"
+  },
+  {
+   "scan": 6,
+   "type": "N",
+   "year": 1654,
+   "year_to": 1655,
+   "by": "vmachek"
+  },
+  {
+   "scan": 8,
+   "type": "N",
+   "year": 1699,
+   "year_to": 1702,
+   "note": "vepsané pozdější zápisy",
+   "by": "vmachek"
+  },
+  {
+   "scan": 10,
+   "type": "N",
+   "year": 1656,
+   "by": "vmachek"
+  },
+  {
+   "scan": 11,
+   "type": "N",
+   "year": 1657,
+   "by": "vmachek"
+  },
+  {
+   "scan": 12,
+   "type": "N",
+   "year": 1658,
+   "by": "vmachek"
+  },
+  {
+   "scan": 13,
+   "type": "N",
+   "year": 1658,
+   "year_to": 1660,
+   "by": "vmachek"
+  },
+  {
+   "scan": 14,
+   "type": "N",
+   "year": 1660,
+   "by": "vmachek"
+  },
+  {
+   "scan": 41,
+   "type": "O",
+   "year": 1656,
+   "year_to": 1659,
+   "by": "vmachek"
+  },
+  {
+   "scan": 42,
+   "type": "N",
+   "year": 1661,
+   "year_to": 1662,
+   "by": "vmachek"
+  },
+  {
+   "scan": 44,
+   "type": "N",
+   "year": 1663,
+   "year_to": 1664,
+   "by": "vmachek"
+  },
+  {
+   "scan": 46,
+   "type": "N",
+   "year": 1665,
+   "by": "vmachek"
+  },
+  {
+   "scan": 48,
+   "type": "N",
+   "year": 1667,
+   "by": "vmachek"
+  },
+  {
+   "scan": 49,
+   "type": "N",
+   "year": 1668,
+   "year_to": 1670,
+   "by": "vmachek"
+  },
+  {
+   "scan": 50,
+   "type": "O",
+   "year": 1668,
+   "by": "vmachek"
+  },
+  {
+   "scan": 51,
+   "type": "N",
+   "year": 1670,
+   "year_to": 1671,
+   "by": "vmachek"
+  },
+  {
+   "scan": 52,
+   "type": "N",
+   "year": 1672,
+   "year_to": 1676,
+   "by": "vmachek"
+  }
+ ],
+ "sources": [
+  {
+   "by": "vmachek",
+   "date": "2026-11-12"
+  }
+ ]
+}

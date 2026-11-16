@@ -1,0 +1,129 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "7abe4a13-174d-4874-a34c-114f479af779",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/7abe4a13-174d-4874-a34c-114f479af779",
+ "signature": "106-3",
+ "parish": "Náchod",
+ "records": {
+  "N": "1676–1723"
+ },
+ "scans": 578,
+ "points": [
+  {
+   "scan": 10,
+   "type": "N",
+   "page": "11",
+   "by": "vmachek"
+  },
+  {
+   "scan": 12,
+   "type": "N",
+   "page": "14–15",
+   "by": "vmachek"
+  },
+  {
+   "scan": 16,
+   "type": "N",
+   "page": "20–21",
+   "by": "vmachek"
+  },
+  {
+   "scan": 35,
+   "type": "N",
+   "page": "58–59",
+   "by": "vmachek"
+  },
+  {
+   "scan": 36,
+   "type": "N",
+   "page": "60",
+   "by": "vmachek"
+  },
+  {
+   "scan": 38,
+   "type": "N",
+   "page": "64",
+   "by": "vmachek"
+  },
+  {
+   "scan": 42,
+   "type": "N",
+   "page": "72",
+   "by": "vmachek"
+  },
+  {
+   "scan": 46,
+   "type": "N",
+   "page": "80",
+   "by": "vmachek"
+  },
+  {
+   "scan": 47,
+   "type": "N",
+   "page": "82",
+   "by": "vmachek"
+  },
+  {
+   "scan": 165,
+   "type": "N",
+   "page": "318",
+   "by": "vmachek"
+  },
+  {
+   "scan": 189,
+   "type": "N",
+   "page": "367",
+   "by": "vmachek"
+  },
+  {
+   "scan": 280,
+   "type": "N",
+   "page": "544",
+   "by": "vmachek"
+  },
+  {
+   "scan": 300,
+   "type": "N",
+   "page": "588",
+   "by": "vmachek"
+  },
+  {
+   "scan": 307,
+   "type": "N",
+   "page": "597",
+   "by": "vmachek"
+  },
+  {
+   "scan": 340,
+   "type": "N",
+   "page": "663",
+   "by": "vmachek"
+  },
+  {
+   "scan": 345,
+   "type": "N",
+   "page": "673",
+   "by": "vmachek"
+  },
+  {
+   "scan": 366,
+   "type": "N",
+   "page": "715",
+   "by": "vmachek"
+  },
+  {
+   "scan": 396,
+   "type": "N",
+   "page": "778–779",
+   "by": "vmachek"
+  }
+ ],
+ "sources": [
+  {
+   "by": "vmachek",
+   "date": "2026-11-12"
+  }
+ ]
+}

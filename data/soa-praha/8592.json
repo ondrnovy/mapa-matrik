@@ -12,11 +12,23 @@
  "scans": 291,
  "points": [
   {
+   "scan": 57,
+   "type": "Z",
+   "page": "fol. 108–109",
+   "by": "vmachek"
+  },
+  {
    "scan": 58,
    "type": "Z",
    "year": 1844,
    "months": "V",
    "by": "matriky-index"
+  },
+  {
+   "scan": 58,
+   "type": "Z",
+   "page": "fol. 110",
+   "by": "vmachek"
   },
   {
    "scan": 117,
@@ -48,6 +60,18 @@
    "year_to": 1870,
    "letters": "J",
    "by": "vmachek"
+  },
+  {
+   "scan": 264,
+   "type": "iZ",
+   "letters": "K",
+   "by": "vmachek"
+  },
+  {
+   "scan": 275,
+   "type": "iZ",
+   "letters": "R",
+   "by": "vmachek"
   }
  ],
  "sources": [
@@ -58,6 +82,10 @@
   {
    "by": "matriky-index",
    "date": "2026-11-16"
+  },
+  {
+   "by": "vmachek",
+   "date": "2026-11-14"
   }
  ]
 }

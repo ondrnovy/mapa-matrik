@@ -11,17 +11,120 @@
  },
  "points": [
   {
+   "scan": 100,
+   "type": "N",
+   "year": 1774,
+   "months": "VII–IX",
+   "by": "vmachek"
+  },
+  {
+   "scan": 104,
+   "type": "N",
+   "year": 1775,
+   "months": "VIII–XI",
+   "by": "vmachek"
+  },
+  {
+   "scan": 105,
+   "type": "N",
+   "year": 1775,
+   "year_to": 1776,
+   "by": "vmachek"
+  },
+  {
+   "scan": 106,
+   "type": "N",
+   "year": 1776,
+   "months": "III–V",
+   "page": "206–207",
+   "by": "vmachek"
+  },
+  {
+   "scan": 107,
+   "type": "N",
+   "year": 1776,
+   "months": "V–X",
+   "by": "vmachek"
+  },
+  {
+   "scan": 108,
+   "type": "N",
+   "year": 1776,
+   "months": "X–XII",
+   "by": "vmachek"
+  },
+  {
+   "scan": 109,
+   "type": "N",
+   "year": 1776,
+   "year_to": 1777,
+   "by": "vmachek"
+  },
+  {
+   "scan": 110,
+   "type": "N",
+   "year": 1777,
+   "months": "III–VI",
+   "by": "vmachek"
+  },
+  {
    "scan": 111,
    "type": "N",
    "year": 1777,
    "months": "VII",
    "by": "matriky-index"
+  },
+  {
+   "scan": 111,
+   "type": "N",
+   "year": 1777,
+   "months": "VI–IX",
+   "by": "vmachek"
+  },
+  {
+   "scan": 117,
+   "type": "N",
+   "year": 1777,
+   "months": "VII",
+   "by": "vmachek"
+  },
+  {
+   "scan": 118,
+   "type": "N",
+   "year": 1777,
+   "months": "VIII–XI",
+   "by": "vmachek"
+  },
+  {
+   "scan": 122,
+   "type": "N",
+   "year": 1780,
+   "months": "VI–X",
+   "by": "vmachek"
+  },
+  {
+   "scan": 124,
+   "type": "N",
+   "year": 1781,
+   "months": "III–VI",
+   "by": "vmachek"
+  },
+  {
+   "scan": 132,
+   "type": "N",
+   "year": 1783,
+   "months": "IV–VII",
+   "by": "vmachek"
   }
  ],
  "sources": [
   {
    "by": "matriky-index",
    "date": "2026-11-16"
+  },
+  {
+   "by": "vmachek",
+   "date": "2026-11-14"
   }
  ]
 }

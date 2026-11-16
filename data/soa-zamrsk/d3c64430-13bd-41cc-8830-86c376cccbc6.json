@@ -1,0 +1,32 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "d3c64430-13bd-41cc-8830-86c376cccbc6",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/d3c64430-13bd-41cc-8830-86c376cccbc6",
+ "signature": "9951",
+ "parish": "Horní Studenec",
+ "records": {
+  "O": "1868–1946"
+ },
+ "points": [
+  {
+   "scan": 3,
+   "type": "O",
+   "year": 1868,
+   "by": "vmachek"
+  },
+  {
+   "scan": 16,
+   "type": "O",
+   "year": 1875,
+   "by": "vmachek"
+  }
+ ],
+ "sources": [
+  {
+   "by": "vmachek",
+   "date": "2026-11-11"
+  }
+ ]
+}

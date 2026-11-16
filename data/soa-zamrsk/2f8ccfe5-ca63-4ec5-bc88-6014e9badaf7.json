@@ -1,0 +1,482 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "2f8ccfe5-ca63-4ec5-bc88-6014e9badaf7",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/2f8ccfe5-ca63-4ec5-bc88-6014e9badaf7",
+ "signature": "106-50",
+ "parish": "Náchod",
+ "records": {
+  "O": "1736–1780"
+ },
+ "points": [
+  {
+   "scan": 4,
+   "type": "O",
+   "year": 1736,
+   "by": "vmachek"
+  },
+  {
+   "scan": 25,
+   "type": "O",
+   "year": 1741,
+   "by": "vmachek"
+  },
+  {
+   "scan": 100,
+   "type": "O",
+   "year": 1754,
+   "page": "178–179",
+   "by": "vmachek"
+  },
+  {
+   "scan": 101,
+   "type": "O",
+   "page": "180",
+   "by": "vmachek"
+  },
+  {
+   "scan": 102,
+   "type": "O",
+   "page": "182",
+   "by": "vmachek"
+  },
+  {
+   "scan": 103,
+   "type": "O",
+   "page": "194",
+   "by": "vmachek"
+  },
+  {
+   "scan": 104,
+   "type": "O",
+   "page": "196",
+   "by": "vmachek"
+  },
+  {
+   "scan": 105,
+   "type": "O",
+   "page": "200",
+   "by": "vmachek"
+  },
+  {
+   "scan": 106,
+   "type": "O",
+   "page": "202",
+   "by": "vmachek"
+  },
+  {
+   "scan": 107,
+   "type": "O",
+   "page": "204",
+   "by": "vmachek"
+  },
+  {
+   "scan": 108,
+   "type": "O",
+   "page": "206",
+   "by": "vmachek"
+  },
+  {
+   "scan": 110,
+   "type": "O",
+   "page": "208",
+   "by": "vmachek"
+  },
+  {
+   "scan": 111,
+   "type": "O",
+   "page": "210",
+   "by": "vmachek"
+  },
+  {
+   "scan": 112,
+   "type": "O",
+   "page": "212",
+   "by": "vmachek"
+  },
+  {
+   "scan": 113,
+   "type": "O",
+   "page": "214",
+   "by": "vmachek"
+  },
+  {
+   "scan": 114,
+   "type": "O",
+   "page": "216",
+   "by": "vmachek"
+  },
+  {
+   "scan": 115,
+   "type": "O",
+   "page": "218",
+   "by": "vmachek"
+  },
+  {
+   "scan": 116,
+   "type": "O",
+   "page": "220",
+   "by": "vmachek"
+  },
+  {
+   "scan": 117,
+   "type": "O",
+   "page": "222",
+   "by": "vmachek"
+  },
+  {
+   "scan": 118,
+   "type": "O",
+   "page": "224",
+   "by": "vmachek"
+  },
+  {
+   "scan": 119,
+   "type": "O",
+   "page": "226",
+   "by": "vmachek"
+  },
+  {
+   "scan": 120,
+   "type": "O",
+   "page": "228",
+   "by": "vmachek"
+  },
+  {
+   "scan": 121,
+   "type": "O",
+   "page": "230",
+   "by": "vmachek"
+  },
+  {
+   "scan": 122,
+   "type": "O",
+   "page": "232",
+   "by": "vmachek"
+  },
+  {
+   "scan": 123,
+   "type": "O",
+   "page": "234",
+   "by": "vmachek"
+  },
+  {
+   "scan": 124,
+   "type": "O",
+   "page": "236",
+   "by": "vmachek"
+  },
+  {
+   "scan": 125,
+   "type": "O",
+   "page": "238",
+   "by": "vmachek"
+  },
+  {
+   "scan": 126,
+   "type": "O",
+   "page": "240",
+   "by": "vmachek"
+  },
+  {
+   "scan": 127,
+   "type": "O",
+   "page": "242",
+   "by": "vmachek"
+  },
+  {
+   "scan": 128,
+   "type": "O",
+   "page": "244",
+   "by": "vmachek"
+  },
+  {
+   "scan": 129,
+   "type": "O",
+   "page": "246",
+   "by": "vmachek"
+  },
+  {
+   "scan": 130,
+   "type": "O",
+   "page": "248",
+   "by": "vmachek"
+  },
+  {
+   "scan": 131,
+   "type": "O",
+   "page": "250",
+   "by": "vmachek"
+  },
+  {
+   "scan": 132,
+   "type": "O",
+   "page": "252",
+   "by": "vmachek"
+  },
+  {
+   "scan": 133,
+   "type": "O",
+   "page": "254",
+   "by": "vmachek"
+  },
+  {
+   "scan": 134,
+   "type": "O",
+   "page": "256",
+   "by": "vmachek"
+  },
+  {
+   "scan": 135,
+   "type": "O",
+   "page": "258",
+   "by": "vmachek"
+  },
+  {
+   "scan": 136,
+   "type": "O",
+   "page": "260",
+   "by": "vmachek"
+  },
+  {
+   "scan": 137,
+   "type": "O",
+   "page": "262",
+   "by": "vmachek"
+  },
+  {
+   "scan": 138,
+   "type": "O",
+   "page": "264",
+   "by": "vmachek"
+  },
+  {
+   "scan": 139,
+   "type": "O",
+   "page": "266",
+   "by": "vmachek"
+  },
+  {
+   "scan": 140,
+   "type": "O",
+   "page": "268",
+   "by": "vmachek"
+  },
+  {
+   "scan": 141,
+   "type": "O",
+   "page": "270",
+   "by": "vmachek"
+  },
+  {
+   "scan": 142,
+   "type": "O",
+   "page": "272",
+   "by": "vmachek"
+  },
+  {
+   "scan": 143,
+   "type": "O",
+   "page": "274",
+   "by": "vmachek"
+  },
+  {
+   "scan": 144,
+   "type": "O",
+   "page": "276",
+   "by": "vmachek"
+  },
+  {
+   "scan": 145,
+   "type": "O",
+   "page": "278",
+   "by": "vmachek"
+  },
+  {
+   "scan": 146,
+   "type": "O",
+   "page": "280",
+   "by": "vmachek"
+  },
+  {
+   "scan": 147,
+   "type": "O",
+   "page": "282",
+   "by": "vmachek"
+  },
+  {
+   "scan": 148,
+   "type": "O",
+   "page": "284",
+   "by": "vmachek"
+  },
+  {
+   "scan": 149,
+   "type": "O",
+   "page": "286",
+   "by": "vmachek"
+  },
+  {
+   "scan": 150,
+   "type": "O",
+   "page": "288",
+   "by": "vmachek"
+  },
+  {
+   "scan": 151,
+   "type": "O",
+   "page": "290",
+   "by": "vmachek"
+  },
+  {
+   "scan": 152,
+   "type": "O",
+   "page": "292",
+   "by": "vmachek"
+  },
+  {
+   "scan": 153,
+   "type": "O",
+   "page": "294",
+   "by": "vmachek"
+  },
+  {
+   "scan": 154,
+   "type": "O",
+   "page": "296",
+   "by": "vmachek"
+  },
+  {
+   "scan": 155,
+   "type": "O",
+   "page": "298",
+   "by": "vmachek"
+  },
+  {
+   "scan": 156,
+   "type": "O",
+   "page": "300",
+   "by": "vmachek"
+  },
+  {
+   "scan": 157,
+   "type": "O",
+   "page": "302",
+   "by": "vmachek"
+  },
+  {
+   "scan": 158,
+   "type": "O",
+   "page": "306",
+   "by": "vmachek"
+  },
+  {
+   "scan": 159,
+   "type": "O",
+   "page": "308",
+   "by": "vmachek"
+  },
+  {
+   "scan": 160,
+   "type": "O",
+   "page": "310",
+   "by": "vmachek"
+  },
+  {
+   "scan": 161,
+   "type": "O",
+   "page": "312",
+   "by": "vmachek"
+  },
+  {
+   "scan": 162,
+   "type": "O",
+   "page": "314",
+   "by": "vmachek"
+  },
+  {
+   "scan": 163,
+   "type": "O",
+   "page": "316",
+   "by": "vmachek"
+  },
+  {
+   "scan": 164,
+   "type": "O",
+   "page": "318",
+   "by": "vmachek"
+  },
+  {
+   "scan": 165,
+   "type": "O",
+   "page": "320",
+   "by": "vmachek"
+  },
+  {
+   "scan": 166,
+   "type": "O",
+   "page": "322",
+   "by": "vmachek"
+  },
+  {
+   "scan": 167,
+   "type": "O",
+   "page": "324",
+   "by": "vmachek"
+  },
+  {
+   "scan": 168,
+   "type": "O",
+   "page": "326",
+   "by": "vmachek"
+  },
+  {
+   "scan": 169,
+   "type": "O",
+   "page": "328",
+   "by": "vmachek"
+  },
+  {
+   "scan": 170,
+   "type": "O",
+   "page": "330",
+   "by": "vmachek"
+  },
+  {
+   "scan": 171,
+   "type": "O",
+   "page": "332",
+   "by": "vmachek"
+  },
+  {
+   "scan": 172,
+   "type": "O",
+   "page": "334",
+   "by": "vmachek"
+  },
+  {
+   "scan": 173,
+   "type": "O",
+   "year": 1768,
+   "months": "I",
+   "by": "vmachek"
+  },
+  {
+   "scan": 173,
+   "type": "O",
+   "page": "336",
+   "by": "vmachek"
+  }
+ ],
+ "sources": [
+  {
+   "by": "vmachek",
+   "date": "2026-11-12"
+  },
+  {
+   "by": "vmachek",
+   "date": "2026-11-13"
+  }
+ ]
+}

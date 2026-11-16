@@ -16,12 +16,51 @@
    "year": 1763,
    "months": "XI",
    "by": "matriky-index"
+  },
+  {
+   "scan": 83,
+   "type": "O",
+   "year": 1764,
+   "by": "vmachek"
+  },
+  {
+   "scan": 84,
+   "type": "O",
+   "year": 1764,
+   "by": "vmachek"
+  },
+  {
+   "scan": 85,
+   "type": "O",
+   "year": 1764,
+   "months": "XI",
+   "by": "vmachek"
+  },
+  {
+   "scan": 138,
+   "type": "iO",
+   "letters": "K",
+   "by": "vmachek"
+  },
+  {
+   "scan": 139,
+   "type": "iO",
+   "letters": "K",
+   "by": "vmachek"
   }
  ],
  "sources": [
   {
    "by": "matriky-index",
    "date": "2026-11-15"
+  },
+  {
+   "by": "vmachek",
+   "date": "2026-11-04"
+  },
+  {
+   "by": "vmachek",
+   "date": "2026-11-05"
   }
  ]
 }

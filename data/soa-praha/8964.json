@@ -1,0 +1,32 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "8964",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/8964",
+ "signature": "Zbraslavice 15",
+ "parish": "Zbraslavice",
+ "records": {
+  "iO": "1672–1810"
+ },
+ "points": [
+  {
+   "scan": 16,
+   "type": "iO",
+   "letters": "L",
+   "by": "vmachek"
+  },
+  {
+   "scan": 17,
+   "type": "iO",
+   "letters": "M",
+   "by": "vmachek"
+  }
+ ],
+ "sources": [
+  {
+   "by": "vmachek",
+   "date": "2026-11-14"
+  }
+ ]
+}

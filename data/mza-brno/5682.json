@@ -16,12 +16,40 @@
    "year": 1828,
    "months": "I",
    "by": "matriky-index"
+  },
+  {
+   "scan": 92,
+   "type": "O",
+   "year": 1827,
+   "year_to": 1828,
+   "place": "Sklené nad Oslavou",
+   "by": "vmachek"
+  },
+  {
+   "scan": 93,
+   "type": "O",
+   "year": 1828,
+   "months": "II–V",
+   "place": "Sklené nad Oslavou",
+   "by": "vmachek"
+  },
+  {
+   "scan": 94,
+   "type": "O",
+   "year": 1828,
+   "year_to": 1829,
+   "place": "Sklené nad Oslavou",
+   "by": "vmachek"
   }
  ],
  "sources": [
   {
    "by": "matriky-index",
    "date": "2026-11-15"
+  },
+  {
+   "by": "vmachek",
+   "date": "2026-11-03"
   }
  ]
 }

@@ -1,0 +1,59 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "3afe53fc-a7c9-43fa-b103-630198d751fe",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/3afe53fc-a7c9-43fa-b103-630198d751fe",
+ "signature": "2335",
+ "parish": "Havlíčkův Brod",
+ "records": {
+  "iZ": "1777–1881"
+ },
+ "points": [
+  {
+   "scan": 41,
+   "type": "iZ",
+   "letters": "F",
+   "by": "vmachek"
+  },
+  {
+   "scan": 47,
+   "type": "iZ",
+   "letters": "G",
+   "note": "pod G jsou i příjmení na J (starý pravopis)",
+   "by": "vmachek"
+  },
+  {
+   "scan": 48,
+   "type": "iZ",
+   "letters": "G",
+   "note": "pod G jsou i příjmení na J (starý pravopis)",
+   "by": "vmachek"
+  },
+  {
+   "scan": 49,
+   "type": "iZ",
+   "letters": "G",
+   "note": "pod G jsou i příjmení na J (starý pravopis)",
+   "by": "vmachek"
+  },
+  {
+   "scan": 50,
+   "type": "iZ",
+   "letters": "H",
+   "by": "vmachek"
+  },
+  {
+   "scan": 59,
+   "type": "iZ",
+   "letters": "K",
+   "by": "vmachek"
+  }
+ ],
+ "sources": [
+  {
+   "by": "vmachek",
+   "date": "2026-11-14"
+  }
+ ]
+}

@@ -16,12 +16,38 @@
    "year": 1780,
    "months": "III",
    "by": "matriky-index"
+  },
+  {
+   "scan": 13,
+   "type": "N",
+   "year": 1780,
+   "months": "III–IV",
+   "by": "vmachek"
+  },
+  {
+   "scan": 14,
+   "type": "N",
+   "year": 1780,
+   "months": "V–VI",
+   "by": "vmachek"
+  },
+  {
+   "scan": 15,
+   "type": "N",
+   "year": 1780,
+   "months": "VII–X",
+   "by": "vmachek"
   }
  ],
  "sources": [
   {
    "by": "matriky-index",
    "date": "2026-11-16"
+  },
+  {
+   "by": "vmachek",
+   "date": "2026-11-14"
   }
- ]
+ ],
+ "scans": 232
 }

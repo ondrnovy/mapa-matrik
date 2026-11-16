@@ -18,6 +18,18 @@
    "by": "matriky-index"
   },
   {
+   "scan": 24,
+   "type": "O",
+   "year": 1763,
+   "by": "vmachek"
+  },
+  {
+   "scan": 26,
+   "type": "O",
+   "year": 1764,
+   "by": "vmachek"
+  },
+  {
    "scan": 27,
    "type": "O",
    "year": 1764,
@@ -36,6 +48,10 @@
   {
    "by": "matriky-index",
    "date": "2026-11-15"
+  },
+  {
+   "by": "vmachek",
+   "date": "2026-11-14"
   }
  ]
 }

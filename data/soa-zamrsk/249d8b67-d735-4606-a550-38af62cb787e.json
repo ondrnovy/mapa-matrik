@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "249d8b67-d735-4606-a550-38af62cb787e",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/249d8b67-d735-4606-a550-38af62cb787e",
+ "signature": "5981",
+ "parish": "Chotěboř",
+ "records": {
+  "iN": "1875–1903"
+ },
+ "points": [
+  {
+   "scan": 58,
+   "type": "iN",
+   "letters": "M",
+   "by": "vmachek"
+  }
+ ],
+ "sources": [
+  {
+   "by": "vmachek",
+   "date": "2026-11-11"
+  }
+ ]
+}

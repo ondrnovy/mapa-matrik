@@ -11,17 +11,68 @@
  },
  "points": [
   {
+   "scan": 30,
+   "type": "N",
+   "year": 1844,
+   "place": "Horní Bory",
+   "by": "vmachek"
+  },
+  {
+   "scan": 61,
+   "type": "N",
+   "year": 1844,
+   "place": "Dolní Bory",
+   "by": "vmachek"
+  },
+  {
+   "scan": 62,
+   "type": "N",
+   "year": 1844,
+   "year_to": 1845,
+   "place": "Dolní Bory",
+   "by": "vmachek"
+  },
+  {
    "scan": 97,
    "type": "N",
    "year": 1830,
    "months": "VII",
    "by": "matriky-index"
+  },
+  {
+   "scan": 97,
+   "type": "N",
+   "year": 1829,
+   "year_to": 1830,
+   "months": "–VII",
+   "place": "Sklené nad Oslavou",
+   "by": "vmachek"
+  },
+  {
+   "scan": 98,
+   "type": "N",
+   "year": 1830,
+   "year_to": 1831,
+   "months": "VIII–",
+   "place": "Sklené nad Oslavou",
+   "by": "vmachek"
+  },
+  {
+   "scan": 100,
+   "type": "N",
+   "year": 1832,
+   "place": "Sklené nad Oslavou",
+   "by": "vmachek"
   }
  ],
  "sources": [
   {
    "by": "matriky-index",
    "date": "2026-11-15"
+  },
+  {
+   "by": "vmachek",
+   "date": "2026-11-03"
   }
  ]
 }

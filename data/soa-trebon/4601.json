@@ -18,6 +18,12 @@
    "by": "matriky-index"
   },
   {
+   "scan": 250,
+   "type": "N",
+   "year": 1836,
+   "by": "vmachek"
+  },
+  {
    "scan": 293,
    "type": "N",
    "year": 1838,
@@ -29,6 +35,10 @@
   {
    "by": "matriky-index",
    "date": "2026-11-15"
+  },
+  {
+   "by": "vmachek",
+   "date": "2026-11-14"
   }
  ]
 }

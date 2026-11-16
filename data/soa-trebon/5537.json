@@ -11,17 +11,79 @@
  },
  "points": [
   {
+   "scan": 47,
+   "type": "N",
+   "year": 1754,
+   "by": "vmachek"
+  },
+  {
+   "scan": 48,
+   "type": "N",
+   "year": 1754,
+   "months": "VIII–IX",
+   "by": "vmachek"
+  },
+  {
+   "scan": 52,
+   "type": "N",
+   "year": 1755,
+   "months": "VI–IX",
+   "by": "vmachek"
+  },
+  {
+   "scan": 53,
+   "type": "N",
+   "year": 1755,
+   "months": "IX–X",
+   "by": "vmachek"
+  },
+  {
+   "scan": 54,
+   "type": "N",
+   "year": 1755,
+   "months": "XII",
+   "by": "vmachek"
+  },
+  {
+   "scan": 64,
+   "type": "N",
+   "year": 1758,
+   "by": "vmachek"
+  },
+  {
+   "scan": 233,
+   "type": "N",
+   "year": 1778,
+   "months": "I",
+   "by": "vmachek"
+  },
+  {
    "scan": 234,
    "type": "N",
    "year": 1778,
    "months": "III",
    "by": "matriky-index"
+  },
+  {
+   "scan": 235,
+   "type": "N",
+   "year": 1778,
+   "months": "III–IV",
+   "by": "vmachek"
   }
  ],
  "sources": [
   {
    "by": "matriky-index",
    "date": "2026-11-15"
+  },
+  {
+   "by": "vmachek",
+   "date": "2026-11-04"
+  },
+  {
+   "by": "vmachek",
+   "date": "2026-11-14"
   }
  ]
 }

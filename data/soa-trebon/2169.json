@@ -18,11 +18,51 @@
    "by": "matriky-index"
   },
   {
+   "scan": 84,
+   "type": "N",
+   "year": 1781,
+   "months": "II–IV",
+   "place": "Bojenice",
+   "by": "vmachek"
+  },
+  {
+   "scan": 85,
+   "type": "N",
+   "year": 1781,
+   "months": "V–VII",
+   "place": "Bojenice",
+   "by": "vmachek"
+  },
+  {
+   "scan": 86,
+   "type": "N",
+   "year": 1781,
+   "months": "VIII–IX",
+   "place": "Bojenice",
+   "by": "vmachek"
+  },
+  {
    "scan": 87,
    "type": "N",
    "year": 1781,
    "months": "X",
    "by": "matriky-index"
+  },
+  {
+   "scan": 87,
+   "type": "N",
+   "year": 1781,
+   "months": "X–XII",
+   "place": "Bojenice",
+   "by": "vmachek"
+  },
+  {
+   "scan": 134,
+   "type": "N",
+   "year": 1786,
+   "year_to": 1787,
+   "place": "Zběšice",
+   "by": "vmachek"
   },
   {
    "scan": 135,
@@ -32,17 +72,49 @@
    "by": "matriky-index"
   },
   {
+   "scan": 135,
+   "type": "N",
+   "year": 1787,
+   "year_to": 1790,
+   "place": "Zběšice",
+   "by": "vmachek"
+  },
+  {
    "scan": 136,
    "type": "N",
    "year": 1791,
    "months": "III",
    "by": "matriky-index"
+  },
+  {
+   "scan": 136,
+   "type": "N",
+   "year": 1791,
+   "year_to": 1796,
+   "place": "Zběšice",
+   "by": "vmachek"
+  },
+  {
+   "scan": 137,
+   "type": "N",
+   "year": 1796,
+   "year_to": 1799,
+   "place": "Zběšice",
+   "by": "vmachek"
   }
  ],
  "sources": [
   {
    "by": "matriky-index",
    "date": "2026-11-15"
+  },
+  {
+   "by": "vmachek",
+   "date": "2026-11-04"
+  },
+  {
+   "by": "vmachek",
+   "date": "2026-11-14"
   }
  ]
 }

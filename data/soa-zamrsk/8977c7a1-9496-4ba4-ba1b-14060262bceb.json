@@ -1,0 +1,74 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "8977c7a1-9496-4ba4-ba1b-14060262bceb",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/8977c7a1-9496-4ba4-ba1b-14060262bceb",
+ "signature": "5983",
+ "parish": "Chotěboř",
+ "records": {
+  "O": "1882–1905"
+ },
+ "points": [
+  {
+   "scan": 58,
+   "type": "O",
+   "year": 1890,
+   "by": "vmachek"
+  },
+  {
+   "scan": 66,
+   "type": "O",
+   "year": 1891,
+   "by": "vmachek"
+  },
+  {
+   "scan": 74,
+   "type": "O",
+   "year": 1893,
+   "by": "vmachek"
+  },
+  {
+   "scan": 82,
+   "type": "O",
+   "year": 1894,
+   "by": "vmachek"
+  },
+  {
+   "scan": 90,
+   "type": "O",
+   "year": 1895,
+   "by": "vmachek"
+  },
+  {
+   "scan": 98,
+   "type": "O",
+   "year": 1896,
+   "by": "vmachek"
+  },
+  {
+   "scan": 106,
+   "type": "O",
+   "year": 1897,
+   "by": "vmachek"
+  },
+  {
+   "scan": 114,
+   "type": "O",
+   "year": 1898,
+   "by": "vmachek"
+  },
+  {
+   "scan": 122,
+   "type": "O",
+   "year": 1900,
+   "by": "vmachek"
+  }
+ ],
+ "sources": [
+  {
+   "by": "vmachek",
+   "date": "2026-11-12"
+  }
+ ]
+}

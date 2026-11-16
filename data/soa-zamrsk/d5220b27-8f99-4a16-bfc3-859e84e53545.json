@@ -1,0 +1,78 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "d5220b27-8f99-4a16-bfc3-859e84e53545",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/d5220b27-8f99-4a16-bfc3-859e84e53545",
+ "signature": "641",
+ "parish": "Horní Studenec",
+ "records": {
+  "N": "1770–1780",
+  "Z": "1770–1780",
+  "O": "1770–1780"
+ },
+ "scans": 49,
+ "points": [
+  {
+   "scan": 20,
+   "type": "N",
+   "year": 1777,
+   "page": "34–35",
+   "by": "vmachek"
+  },
+  {
+   "scan": 23,
+   "type": "N",
+   "year": 1778,
+   "year_to": 1779,
+   "page": "40–41",
+   "by": "vmachek"
+  },
+  {
+   "scan": 26,
+   "type": "N",
+   "year": 1780,
+   "by": "vmachek"
+  },
+  {
+   "scan": 27,
+   "type": "N",
+   "year": 1780,
+   "by": "vmachek"
+  },
+  {
+   "scan": 31,
+   "type": "O",
+   "year": 1770,
+   "months": "VIII",
+   "page": "58",
+   "by": "vmachek"
+  },
+  {
+   "scan": 36,
+   "type": "O",
+   "year": 1776,
+   "year_to": 1777,
+   "by": "vmachek"
+  },
+  {
+   "scan": 37,
+   "type": "O",
+   "year": 1778,
+   "year_to": 1780,
+   "by": "vmachek"
+  },
+  {
+   "scan": 38,
+   "type": "O",
+   "year": 1780,
+   "by": "vmachek"
+  }
+ ],
+ "sources": [
+  {
+   "by": "vmachek",
+   "date": "2026-11-13"
+  }
+ ]
+}

@@ -25,17 +25,49 @@
    "by": "matriky-index"
   },
   {
+   "scan": 112,
+   "type": "O",
+   "year": 1825,
+   "months": "I",
+   "page": "110",
+   "by": "vmachek"
+  },
+  {
+   "scan": 113,
+   "type": "O",
+   "year": 1825,
+   "months": "I–II",
+   "page": "111",
+   "by": "vmachek"
+  },
+  {
    "scan": 114,
    "type": "O",
    "year": 1825,
    "months": "II",
    "by": "matriky-index"
+  },
+  {
+   "scan": 213,
+   "type": "iO",
+   "letters": "K",
+   "by": "vmachek"
+  },
+  {
+   "scan": 215,
+   "type": "iO",
+   "letters": "M",
+   "by": "vmachek"
   }
  ],
  "sources": [
   {
    "by": "matriky-index",
    "date": "2026-11-15"
+  },
+  {
+   "by": "vmachek",
+   "date": "2026-11-04"
   }
  ]
 }

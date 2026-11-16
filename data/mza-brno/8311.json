@@ -16,12 +16,32 @@
    "year": 1839,
    "months": "VIII",
    "by": "matriky-index"
+  },
+  {
+   "scan": 132,
+   "type": "O",
+   "year": 1839,
+   "page": "20",
+   "place": "Slatina",
+   "by": "vmachek"
+  },
+  {
+   "scan": 134,
+   "type": "O",
+   "year": 1841,
+   "year_to": 1842,
+   "place": "Slatina",
+   "by": "vmachek"
   }
  ],
  "sources": [
   {
    "by": "matriky-index",
    "date": "2026-11-15"
+  },
+  {
+   "by": "vmachek",
+   "date": "2026-11-02"
   }
  ]
 }

@@ -11,6 +11,38 @@
  },
  "points": [
   {
+   "scan": 430,
+   "type": "N",
+   "year": 1902,
+   "months": "III",
+   "by": "vmachek"
+  },
+  {
+   "scan": 445,
+   "type": "N",
+   "year": 1903,
+   "by": "vmachek"
+  },
+  {
+   "scan": 452,
+   "type": "N",
+   "year": 1903,
+   "by": "vmachek"
+  },
+  {
+   "scan": 457,
+   "type": "N",
+   "year": 1903,
+   "by": "vmachek"
+  },
+  {
+   "scan": 459,
+   "type": "N",
+   "year": 1904,
+   "months": "I",
+   "by": "vmachek"
+  },
+  {
    "scan": 460,
    "type": "N",
    "year": 1904,
@@ -22,6 +54,10 @@
   {
    "by": "matriky-index",
    "date": "2026-11-16"
+  },
+  {
+   "by": "vmachek",
+   "date": "2026-11-14"
   }
  ]
 }

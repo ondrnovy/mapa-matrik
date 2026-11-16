@@ -11,6 +11,12 @@
  },
  "points": [
   {
+   "scan": 2,
+   "type": "title",
+   "note": "obsah po vsích",
+   "by": "vmachek"
+  },
+  {
    "scan": 37,
    "type": "Z",
    "year": 1786,
@@ -18,17 +24,68 @@
    "by": "matriky-index"
   },
   {
+   "scan": 37,
+   "type": "Z",
+   "year": 1784,
+   "year_to": 1787,
+   "place": "Stará Huť",
+   "by": "vmachek"
+  },
+  {
+   "scan": 38,
+   "type": "Z",
+   "year": 1787,
+   "year_to": 1792,
+   "place": "Stará Huť",
+   "by": "vmachek"
+  },
+  {
    "scan": 39,
    "type": "Z",
    "year": 1792,
    "year_to": 1797,
    "by": "matriky-index"
+  },
+  {
+   "scan": 39,
+   "type": "Z",
+   "year": 1792,
+   "year_to": 1797,
+   "place": "Stará Huť",
+   "by": "vmachek"
+  },
+  {
+   "scan": 40,
+   "type": "Z",
+   "year": 1797,
+   "year_to": 1802,
+   "place": "Stará Huť",
+   "by": "vmachek"
+  },
+  {
+   "scan": 41,
+   "type": "Z",
+   "year": 1802,
+   "year_to": 1804,
+   "place": "Stará Huť",
+   "by": "vmachek"
+  },
+  {
+   "scan": 55,
+   "type": "Z",
+   "page": "142–143",
+   "place": "Nespeřice",
+   "by": "vmachek"
   }
  ],
  "sources": [
   {
    "by": "matriky-index",
    "date": "2026-11-16"
+  },
+  {
+   "by": "vmachek",
+   "date": "2026-11-14"
   }
  ]
 }

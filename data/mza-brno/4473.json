@@ -11,17 +11,46 @@
  },
  "points": [
   {
+   "scan": 13,
+   "type": "N",
+   "year": 1791,
+   "year_to": 1792,
+   "place": "Tvarožná",
+   "by": "vmachek"
+  },
+  {
    "scan": 14,
    "type": "N",
    "year": 1794,
    "months": "II",
    "by": "matriky-index"
+  },
+  {
+   "scan": 14,
+   "type": "N",
+   "year": 1793,
+   "year_to": 1794,
+   "page": "fol. 24–25",
+   "place": "Tvarožná",
+   "by": "vmachek"
+  },
+  {
+   "scan": 15,
+   "type": "N",
+   "year": 1794,
+   "year_to": 1795,
+   "place": "Tvarožná",
+   "by": "vmachek"
   }
  ],
  "sources": [
   {
    "by": "matriky-index",
    "date": "2026-11-15"
+  },
+  {
+   "by": "vmachek",
+   "date": "2026-11-02"
   }
  ]
 }

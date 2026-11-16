@@ -12,6 +12,13 @@
  "scans": 198,
  "points": [
   {
+   "scan": 20,
+   "type": "N",
+   "year": 1867,
+   "page": "17",
+   "by": "vmachek"
+  },
+  {
    "scan": 21,
    "type": "N",
    "year": 1867,
@@ -24,6 +31,13 @@
    "year": 1868,
    "months": "III",
    "by": "matriky-index"
+  },
+  {
+   "scan": 23,
+   "type": "N",
+   "year": 1868,
+   "page": "20",
+   "by": "vmachek"
   }
  ],
  "sources": [

@@ -1,0 +1,71 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "bee67914-91cd-422a-8794-d07e30e41367",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/bee67914-91cd-422a-8794-d07e30e41367",
+ "signature": "642",
+ "parish": "Horní Studenec",
+ "records": {
+  "N": "1781–1784"
+ },
+ "points": [
+  {
+   "scan": 4,
+   "type": "N",
+   "year": 1781,
+   "months": "I",
+   "by": "vmachek"
+  },
+  {
+   "scan": 5,
+   "type": "N",
+   "year": 1781,
+   "year_to": 1782,
+   "months": "VII–V",
+   "by": "vmachek"
+  },
+  {
+   "scan": 6,
+   "type": "N",
+   "year": 1782,
+   "year_to": 1783,
+   "months": "VI–II",
+   "by": "vmachek"
+  },
+  {
+   "scan": 7,
+   "type": "N",
+   "year": 1783,
+   "months": "III–XI",
+   "by": "vmachek"
+  },
+  {
+   "scan": 8,
+   "type": "N",
+   "year": 1783,
+   "year_to": 1784,
+   "months": "XII–V",
+   "by": "vmachek"
+  },
+  {
+   "scan": 9,
+   "type": "N",
+   "year": 1784,
+   "note": "dodatky",
+   "by": "vmachek"
+  },
+  {
+   "scan": 11,
+   "type": "N",
+   "note": "nemanželské děti",
+   "by": "vmachek"
+  }
+ ],
+ "sources": [
+  {
+   "by": "vmachek",
+   "date": "2026-11-13"
+  }
+ ]
+}

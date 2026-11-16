@@ -1,0 +1,45 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "e31e3df9-72ec-410f-b3a9-f764afbcd65c",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/e31e3df9-72ec-410f-b3a9-f764afbcd65c",
+ "signature": "667",
+ "parish": "Podmoklany",
+ "records": {
+  "Z": "1784–1835"
+ },
+ "scans": 10,
+ "points": [
+  {
+   "scan": 5,
+   "type": "Z",
+   "year": 1793,
+   "year_to": 1810,
+   "page": "2–3",
+   "by": "vmachek"
+  },
+  {
+   "scan": 6,
+   "type": "Z",
+   "year": 1811,
+   "year_to": 1823,
+   "page": "4–5",
+   "by": "vmachek"
+  },
+  {
+   "scan": 8,
+   "type": "Z",
+   "year": 1828,
+   "year_to": 1835,
+   "page": "8–9",
+   "by": "vmachek"
+  }
+ ],
+ "sources": [
+  {
+   "by": "vmachek",
+   "date": "2026-11-13"
+  }
+ ]
+}

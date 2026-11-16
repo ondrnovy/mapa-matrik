@@ -27,11 +27,33 @@
    "by": "matriky-index"
   },
   {
+   "scan": 62,
+   "type": "Z",
+   "year": 1880,
+   "year_to": 1881,
+   "months": "X–I",
+   "by": "vmachek"
+  },
+  {
    "scan": 63,
    "type": "Z",
    "year": 1881,
    "months": "I",
    "by": "matriky-index"
+  },
+  {
+   "scan": 64,
+   "type": "Z",
+   "year": 1881,
+   "months": "II",
+   "by": "vmachek"
+  },
+  {
+   "scan": 72,
+   "type": "Z",
+   "year": 1882,
+   "months": "II",
+   "by": "vmachek"
   }
  ],
  "sources": [

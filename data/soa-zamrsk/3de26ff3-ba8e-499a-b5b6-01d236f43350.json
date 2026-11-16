@@ -1,0 +1,158 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "3de26ff3-ba8e-499a-b5b6-01d236f43350",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/3de26ff3-ba8e-499a-b5b6-01d236f43350",
+ "signature": "20-45",
+ "parish": "Červený Kostelec",
+ "records": {
+  "iN": "1709–1814",
+  "iZ": "1709–1814",
+  "iO": "1709–1814"
+ },
+ "points": [
+  {
+   "scan": 24,
+   "type": "iN",
+   "year": 1765,
+   "year_to": 1782,
+   "letters": "L",
+   "by": "vmachek"
+  },
+  {
+   "scan": 25,
+   "type": "iN",
+   "year": 1765,
+   "year_to": 1782,
+   "letters": "L",
+   "by": "vmachek"
+  },
+  {
+   "scan": 58,
+   "type": "iZ",
+   "year": 1765,
+   "year_to": 1814,
+   "letters": "H",
+   "by": "vmachek"
+  },
+  {
+   "scan": 59,
+   "type": "iZ",
+   "year": 1765,
+   "year_to": 1814,
+   "letters": "H",
+   "by": "vmachek"
+  },
+  {
+   "scan": 60,
+   "type": "iZ",
+   "year": 1765,
+   "year_to": 1770,
+   "letters": "L",
+   "by": "vmachek"
+  },
+  {
+   "scan": 61,
+   "type": "iZ",
+   "year": 1785,
+   "year_to": 1808,
+   "letters": "L",
+   "by": "vmachek"
+  },
+  {
+   "scan": 85,
+   "type": "iO",
+   "year": 1765,
+   "year_to": 1814,
+   "letters": "L",
+   "by": "vmachek"
+  },
+  {
+   "scan": 86,
+   "type": "iO",
+   "year": 1765,
+   "year_to": 1814,
+   "letters": "M",
+   "by": "vmachek"
+  },
+  {
+   "scan": 90,
+   "type": "iO",
+   "year": 1765,
+   "year_to": 1814,
+   "letters": "R",
+   "by": "vmachek"
+  },
+  {
+   "scan": 100,
+   "type": "iO",
+   "year": 1709,
+   "year_to": 1765,
+   "letters": "D",
+   "by": "vmachek"
+  },
+  {
+   "scan": 106,
+   "type": "iO",
+   "year": 1709,
+   "year_to": 1765,
+   "letters": "K",
+   "by": "vmachek"
+  },
+  {
+   "scan": 107,
+   "type": "iO",
+   "year": 1709,
+   "year_to": 1765,
+   "letters": "K",
+   "by": "vmachek"
+  },
+  {
+   "scan": 109,
+   "type": "iO",
+   "year": 1709,
+   "year_to": 1765,
+   "letters": "L",
+   "by": "vmachek"
+  },
+  {
+   "scan": 110,
+   "type": "iO",
+   "year": 1709,
+   "year_to": 1765,
+   "letters": "L",
+   "by": "vmachek"
+  },
+  {
+   "scan": 112,
+   "type": "iO",
+   "year": 1709,
+   "year_to": 1765,
+   "letters": "O",
+   "by": "vmachek"
+  },
+  {
+   "scan": 113,
+   "type": "iO",
+   "year": 1709,
+   "year_to": 1765,
+   "letters": "P",
+   "by": "vmachek"
+  },
+  {
+   "scan": 114,
+   "type": "iO",
+   "year": 1709,
+   "year_to": 1765,
+   "letters": "P",
+   "by": "vmachek"
+  }
+ ],
+ "sources": [
+  {
+   "by": "vmachek",
+   "date": "2026-11-12"
+  }
+ ]
+}

@@ -18,17 +18,36 @@
    "by": "matriky-index"
   },
   {
+   "scan": 16,
+   "type": "Z",
+   "year": 1782,
+   "page": "26",
+   "by": "vmachek"
+  },
+  {
    "scan": 19,
    "type": "Z",
    "year": 1783,
    "months": "VI",
    "by": "matriky-index"
+  },
+  {
+   "scan": 19,
+   "type": "Z",
+   "year": 1783,
+   "page": "32–33",
+   "by": "vmachek"
   }
  ],
  "sources": [
   {
    "by": "matriky-index",
    "date": "2026-11-16"
+  },
+  {
+   "by": "vmachek",
+   "date": "2026-11-14"
   }
- ]
+ ],
+ "scans": 142
 }

@@ -1,0 +1,50 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "95f6eb3a-8100-4be3-a07d-311842caecad",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/95f6eb3a-8100-4be3-a07d-311842caecad",
+ "signature": "130-4",
+ "parish": "Police nad Metují",
+ "records": {
+  "N": "1731–1754",
+  "O": "1731–1754"
+ },
+ "points": [
+  {
+   "scan": 325,
+   "type": "O",
+   "year": 1739,
+   "months": "XI",
+   "by": "vmachek"
+  },
+  {
+   "scan": 327,
+   "type": "O",
+   "year": 1739,
+   "months": "XI",
+   "page": "80",
+   "by": "vmachek"
+  },
+  {
+   "scan": 332,
+   "type": "O",
+   "year": 1742,
+   "months": "VIII",
+   "page": "90",
+   "by": "vmachek"
+  },
+  {
+   "scan": 340,
+   "type": "O",
+   "year": 1744,
+   "by": "vmachek"
+  }
+ ],
+ "sources": [
+  {
+   "by": "vmachek",
+   "date": "2026-11-11"
+  }
+ ]
+}

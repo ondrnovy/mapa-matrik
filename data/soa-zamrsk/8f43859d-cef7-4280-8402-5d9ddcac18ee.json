@@ -1,0 +1,142 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "8f43859d-cef7-4280-8402-5d9ddcac18ee",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/8f43859d-cef7-4280-8402-5d9ddcac18ee",
+ "signature": "643",
+ "parish": "Horní Studenec",
+ "records": {
+  "N": "1784–1832"
+ },
+ "scans": 59,
+ "points": [
+  {
+   "scan": 4,
+   "type": "N",
+   "year": 1784,
+   "page": "1",
+   "by": "vmachek"
+  },
+  {
+   "scan": 5,
+   "type": "N",
+   "year": 1785,
+   "year_to": 1786,
+   "page": "2–3",
+   "by": "vmachek"
+  },
+  {
+   "scan": 6,
+   "type": "N",
+   "year": 1786,
+   "year_to": 1787,
+   "by": "vmachek"
+  },
+  {
+   "scan": 7,
+   "type": "N",
+   "year": 1788,
+   "by": "vmachek"
+  },
+  {
+   "scan": 8,
+   "type": "N",
+   "year": 1789,
+   "year_to": 1791,
+   "by": "vmachek"
+  },
+  {
+   "scan": 20,
+   "type": "N",
+   "year": 1803,
+   "page": "30–31",
+   "by": "vmachek"
+  },
+  {
+   "scan": 23,
+   "type": "N",
+   "year": 1806,
+   "page": "36–37",
+   "by": "vmachek"
+  },
+  {
+   "scan": 26,
+   "type": "N",
+   "year": 1809,
+   "page": "42–43",
+   "by": "vmachek"
+  },
+  {
+   "scan": 29,
+   "type": "N",
+   "year": 1811,
+   "year_to": 1812,
+   "page": "48–49",
+   "by": "vmachek"
+  },
+  {
+   "scan": 32,
+   "type": "N",
+   "year": 1814,
+   "page": "52–53",
+   "by": "vmachek"
+  },
+  {
+   "scan": 35,
+   "type": "N",
+   "year": 1816,
+   "page": "56–57",
+   "by": "vmachek"
+  },
+  {
+   "scan": 38,
+   "type": "N",
+   "year": 1818,
+   "page": "60–61",
+   "by": "vmachek"
+  },
+  {
+   "scan": 41,
+   "type": "N",
+   "year": 1821,
+   "page": "66–67",
+   "by": "vmachek"
+  },
+  {
+   "scan": 44,
+   "type": "N",
+   "year": 1824,
+   "page": "72–73",
+   "by": "vmachek"
+  },
+  {
+   "scan": 47,
+   "type": "N",
+   "year": 1825,
+   "year_to": 1826,
+   "page": "78–79",
+   "by": "vmachek"
+  },
+  {
+   "scan": 50,
+   "type": "N",
+   "year": 1828,
+   "page": "84–85",
+   "by": "vmachek"
+  },
+  {
+   "scan": 53,
+   "type": "N",
+   "year": 1830,
+   "page": "90",
+   "by": "vmachek"
+  }
+ ],
+ "sources": [
+  {
+   "by": "vmachek",
+   "date": "2026-11-13"
+  }
+ ]
+}

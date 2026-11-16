@@ -32,6 +32,13 @@
    "by": "matriky-index"
   },
   {
+   "scan": 128,
+   "type": "N",
+   "year": 1777,
+   "months": "VII",
+   "by": "vmachek"
+  },
+  {
    "scan": 227,
    "type": "Z",
    "year": 1769,
@@ -46,6 +53,10 @@
   {
    "by": "schranka",
    "date": "2026-11-16"
+  },
+  {
+   "by": "vmachek",
+   "date": "2026-11-04"
   }
  ]
 }

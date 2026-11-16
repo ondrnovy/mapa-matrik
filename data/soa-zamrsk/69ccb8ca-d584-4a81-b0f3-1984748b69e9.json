@@ -1,0 +1,87 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "69ccb8ca-d584-4a81-b0f3-1984748b69e9",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/69ccb8ca-d584-4a81-b0f3-1984748b69e9",
+ "signature": "84-7142",
+ "parish": "Bílé Poličany",
+ "records": {
+  "O": "1839–1910"
+ },
+ "scans": 437,
+ "points": [
+  {
+   "scan": 222,
+   "type": "O",
+   "year": 1897,
+   "months": "VIII",
+   "page": "241",
+   "place": "Doubravice",
+   "by": "vmachek"
+  },
+  {
+   "scan": 250,
+   "type": "O",
+   "year": 1869,
+   "year_to": 1870,
+   "by": "vmachek"
+  },
+  {
+   "scan": 270,
+   "type": "O",
+   "year": 1891,
+   "months": "XI",
+   "place": "Doubravice",
+   "by": "vmachek"
+  },
+  {
+   "scan": 277,
+   "type": "O",
+   "year": 1897,
+   "months": "II",
+   "place": "Doubravice",
+   "note": "pokračování na str. 241",
+   "by": "vmachek"
+  },
+  {
+   "scan": 300,
+   "type": "O",
+   "year": 1864,
+   "year_to": 1865,
+   "place": "Doubravice",
+   "by": "vmachek"
+  },
+  {
+   "scan": 310,
+   "type": "O",
+   "year": 1880,
+   "year_to": 1881,
+   "by": "vmachek"
+  },
+  {
+   "scan": 312,
+   "type": "O",
+   "year": 1887,
+   "place": "Doubravice",
+   "by": "vmachek"
+  },
+  {
+   "scan": 316,
+   "type": "O",
+   "year": 1894,
+   "year_to": 1895,
+   "by": "vmachek"
+  }
+ ],
+ "sources": [
+  {
+   "by": "vmachek",
+   "date": "2026-11-03"
+  },
+  {
+   "by": "vmachek",
+   "date": "2026-11-11"
+  }
+ ]
+}

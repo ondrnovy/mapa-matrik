@@ -1,0 +1,88 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "c03115b1-640a-451f-9fba-c14d4a9ea13e",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/c03115b1-640a-451f-9fba-c14d4a9ea13e",
+ "signature": "53-4181",
+ "parish": "Hronov",
+ "records": {
+  "iO": "1751–1834"
+ },
+ "points": [
+  {
+   "scan": 18,
+   "type": "iO",
+   "year": 1796,
+   "year_to": 1829,
+   "letters": "K",
+   "by": "vmachek"
+  },
+  {
+   "scan": 19,
+   "type": "iO",
+   "year": 1796,
+   "year_to": 1829,
+   "letters": "K",
+   "by": "vmachek"
+  },
+  {
+   "scan": 20,
+   "type": "iO",
+   "year": 1751,
+   "year_to": 1778,
+   "letters": "L",
+   "by": "vmachek"
+  },
+  {
+   "scan": 21,
+   "type": "iO",
+   "year": 1778,
+   "year_to": 1834,
+   "letters": "L",
+   "by": "vmachek"
+  },
+  {
+   "scan": 22,
+   "type": "iO",
+   "year": 1778,
+   "year_to": 1834,
+   "letters": "L",
+   "by": "vmachek"
+  },
+  {
+   "scan": 23,
+   "type": "iO",
+   "letters": "M",
+   "by": "vmachek"
+  },
+  {
+   "scan": 24,
+   "type": "iO",
+   "letters": "M",
+   "by": "vmachek"
+  },
+  {
+   "scan": 28,
+   "type": "iO",
+   "year": 1751,
+   "year_to": 1790,
+   "letters": "P",
+   "by": "vmachek"
+  },
+  {
+   "scan": 29,
+   "type": "iO",
+   "year": 1791,
+   "year_to": 1816,
+   "letters": "P",
+   "by": "vmachek"
+  }
+ ],
+ "sources": [
+  {
+   "by": "vmachek",
+   "date": "2026-11-11"
+  }
+ ]
+}

@@ -17,11 +17,27 @@
    "by": "schranka"
   },
   {
+   "scan": 45,
+   "type": "O",
+   "year": 1802,
+   "year_to": 1805,
+   "page": "87",
+   "by": "vmachek"
+  },
+  {
    "scan": 46,
    "type": "O",
    "year": 1808,
    "months": "II",
    "by": "matriky-index"
+  },
+  {
+   "scan": 46,
+   "type": "O",
+   "year": 1806,
+   "year_to": 1808,
+   "page": "88",
+   "by": "vmachek"
   }
  ],
  "sources": [
@@ -32,6 +48,10 @@
   {
    "by": "schranka",
    "date": "2026-11-16"
+  },
+  {
+   "by": "vmachek",
+   "date": "2026-11-09"
   }
  ]
 }

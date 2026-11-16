@@ -18,11 +18,51 @@
    "by": "schranka"
   },
   {
+   "scan": 17,
+   "type": "N",
+   "year": 1800,
+   "year_to": 1801,
+   "by": "vmachek"
+  },
+  {
+   "scan": 22,
+   "type": "Z",
+   "year": 1788,
+   "by": "vmachek"
+  },
+  {
+   "scan": 24,
+   "type": "Z",
+   "year": 1791,
+   "year_to": 1793,
+   "by": "vmachek"
+  },
+  {
+   "scan": 33,
+   "type": "O",
+   "year": 1788,
+   "by": "vmachek"
+  },
+  {
    "scan": 35,
    "type": "O",
    "year": 1797,
    "months": "II",
    "by": "matriky-index"
+  },
+  {
+   "scan": 35,
+   "type": "O",
+   "year": 1795,
+   "year_to": 1798,
+   "by": "vmachek"
+  },
+  {
+   "scan": 36,
+   "type": "O",
+   "year": 1799,
+   "year_to": 1801,
+   "by": "vmachek"
   }
  ],
  "sources": [
@@ -33,6 +73,10 @@
   {
    "by": "schranka",
    "date": "2026-11-16"
+  },
+  {
+   "by": "vmachek",
+   "date": "2026-11-04"
   }
  ]
 }

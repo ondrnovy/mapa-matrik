@@ -1,0 +1,50 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "8114",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/8114",
+ "signature": "Brno-Zábrdovice, kn. 17270, N 1897–1902",
+ "parish": "Brno-Zábrdovice",
+ "records": {
+  "N": "1897–1902"
+ },
+ "places": [
+  "Židenice"
+ ],
+ "place_codes": {
+  "Židenice": 490415
+ },
+ "points": [
+  {
+   "scan": 178,
+   "type": "N",
+   "year": 1900,
+   "months": "XI",
+   "place": "Židenice",
+   "by": "vmachek"
+  },
+  {
+   "scan": 200,
+   "type": "N",
+   "year": 1901,
+   "months": "IV",
+   "place": "Židenice",
+   "by": "vmachek"
+  },
+  {
+   "scan": 290,
+   "type": "N",
+   "year": 1902,
+   "months": "IX",
+   "place": "Židenice",
+   "by": "vmachek"
+  }
+ ],
+ "sources": [
+  {
+   "by": "vmachek",
+   "date": "2026-11-15"
+  }
+ ]
+}

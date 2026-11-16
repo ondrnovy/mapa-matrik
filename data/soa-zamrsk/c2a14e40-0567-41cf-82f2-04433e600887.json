@@ -1,0 +1,61 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "c2a14e40-0567-41cf-82f2-04433e600887",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/c2a14e40-0567-41cf-82f2-04433e600887",
+ "signature": "5976",
+ "parish": "Nový Studenec",
+ "records": {
+  "O": "1835–1915"
+ },
+ "scans": 68,
+ "points": [
+  {
+   "scan": 42,
+   "type": "O",
+   "year": 1890,
+   "months": "VI",
+   "by": "vmachek"
+  },
+  {
+   "scan": 45,
+   "type": "O",
+   "year": 1894,
+   "year_to": 1895,
+   "by": "vmachek"
+  },
+  {
+   "scan": 48,
+   "type": "O",
+   "year": 1897,
+   "year_to": 1898,
+   "by": "vmachek"
+  },
+  {
+   "scan": 49,
+   "type": "O",
+   "year": 1899,
+   "months": "V",
+   "by": "vmachek"
+  },
+  {
+   "scan": 50,
+   "type": "O",
+   "year": 1899,
+   "by": "vmachek"
+  },
+  {
+   "scan": 58,
+   "type": "O",
+   "year": 1908,
+   "by": "vmachek"
+  }
+ ],
+ "sources": [
+  {
+   "by": "vmachek",
+   "date": "2026-11-13"
+  }
+ ]
+}

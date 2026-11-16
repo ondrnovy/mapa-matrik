@@ -1,0 +1,28 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "29d538a6-cb32-4373-937b-732566ff46e0",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/29d538a6-cb32-4373-937b-732566ff46e0",
+ "signature": "53-4184",
+ "parish": "Hronov",
+ "records": {
+  "iZ": "1835–1872"
+ },
+ "points": [
+  {
+   "scan": 59,
+   "type": "iZ",
+   "year": 1835,
+   "year_to": 1872,
+   "letters": "P",
+   "by": "vmachek"
+  }
+ ],
+ "sources": [
+  {
+   "by": "vmachek",
+   "date": "2026-11-10"
+  }
+ ]
+}

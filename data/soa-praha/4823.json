@@ -11,6 +11,21 @@
  },
  "points": [
   {
+   "scan": 2,
+   "type": "title",
+   "note": "obsah po vsích",
+   "by": "vmachek"
+  },
+  {
+   "scan": 26,
+   "type": "O",
+   "year": 1785,
+   "year_to": 1787,
+   "page": "65",
+   "place": "Stará Huť",
+   "by": "vmachek"
+  },
+  {
    "scan": 28,
    "type": "O",
    "year": 1797,
@@ -22,6 +37,11 @@
   {
    "by": "matriky-index",
    "date": "2026-11-16"
+  },
+  {
+   "by": "vmachek",
+   "date": "2026-11-14"
   }
- ]
+ ],
+ "scans": 40
 }

@@ -1,0 +1,45 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "24e3dfd3-63ed-4330-955a-d9772f9f2c5b",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/24e3dfd3-63ed-4330-955a-d9772f9f2c5b",
+ "signature": "2971",
+ "parish": "Nový Studenec",
+ "records": {
+  "N": "1856–1896"
+ },
+ "scans": 125,
+ "points": [
+  {
+   "scan": 38,
+   "type": "N",
+   "year": 1870,
+   "by": "vmachek"
+  },
+  {
+   "scan": 54,
+   "type": "N",
+   "year": 1874,
+   "by": "vmachek"
+  },
+  {
+   "scan": 60,
+   "type": "N",
+   "year": 1876,
+   "by": "vmachek"
+  },
+  {
+   "scan": 91,
+   "type": "N",
+   "year": 1882,
+   "by": "vmachek"
+  }
+ ],
+ "sources": [
+  {
+   "by": "vmachek",
+   "date": "2026-11-11"
+  }
+ ]
+}

@@ -1,0 +1,192 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "b2de5250-01d4-40f7-8ed6-4b67a10a3209",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/b2de5250-01d4-40f7-8ed6-4b67a10a3209",
+ "signature": "20-2780",
+ "parish": "Červený Kostelec",
+ "records": {
+  "N": "1655–1700",
+  "O": "1655–1700"
+ },
+ "scans": 202,
+ "points": [
+  {
+   "scan": 6,
+   "type": "N",
+   "year": 1655,
+   "months": "VIII",
+   "by": "vmachek"
+  },
+  {
+   "scan": 7,
+   "type": "N",
+   "year": 1656,
+   "by": "vmachek"
+  },
+  {
+   "scan": 9,
+   "type": "N",
+   "year": 1657,
+   "by": "vmachek"
+  },
+  {
+   "scan": 10,
+   "type": "N",
+   "year": 1658,
+   "by": "vmachek"
+  },
+  {
+   "scan": 13,
+   "type": "N",
+   "year": 1659,
+   "by": "vmachek"
+  },
+  {
+   "scan": 15,
+   "type": "N",
+   "year": 1660,
+   "by": "vmachek"
+  },
+  {
+   "scan": 17,
+   "type": "N",
+   "year": 1661,
+   "by": "vmachek"
+  },
+  {
+   "scan": 21,
+   "type": "N",
+   "year": 1662,
+   "year_to": 1663,
+   "by": "vmachek"
+  },
+  {
+   "scan": 26,
+   "type": "N",
+   "year": 1664,
+   "by": "vmachek"
+  },
+  {
+   "scan": 29,
+   "type": "N",
+   "year": 1665,
+   "by": "vmachek"
+  },
+  {
+   "scan": 31,
+   "type": "N",
+   "year": 1666,
+   "by": "vmachek"
+  },
+  {
+   "scan": 33,
+   "type": "N",
+   "year": 1667,
+   "by": "vmachek"
+  },
+  {
+   "scan": 36,
+   "type": "N",
+   "year": 1668,
+   "by": "vmachek"
+  },
+  {
+   "scan": 38,
+   "type": "N",
+   "year": 1669,
+   "by": "vmachek"
+  },
+  {
+   "scan": 129,
+   "type": "O",
+   "year": 1676,
+   "by": "vmachek"
+  },
+  {
+   "scan": 130,
+   "type": "O",
+   "year": 1677,
+   "by": "vmachek"
+  },
+  {
+   "scan": 131,
+   "type": "O",
+   "year": 1678,
+   "by": "vmachek"
+  },
+  {
+   "scan": 132,
+   "type": "O",
+   "year": 1679,
+   "by": "vmachek"
+  },
+  {
+   "scan": 133,
+   "type": "O",
+   "year": 1680,
+   "by": "vmachek"
+  },
+  {
+   "scan": 134,
+   "type": "O",
+   "year": 1681,
+   "by": "vmachek"
+  },
+  {
+   "scan": 135,
+   "type": "O",
+   "year": 1682,
+   "by": "vmachek"
+  },
+  {
+   "scan": 136,
+   "type": "O",
+   "year": 1683,
+   "by": "vmachek"
+  },
+  {
+   "scan": 137,
+   "type": "O",
+   "year": 1684,
+   "by": "vmachek"
+  },
+  {
+   "scan": 138,
+   "type": "O",
+   "year": 1685,
+   "by": "vmachek"
+  },
+  {
+   "scan": 139,
+   "type": "O",
+   "year": 1686,
+   "by": "vmachek"
+  },
+  {
+   "scan": 140,
+   "type": "O",
+   "year": 1687,
+   "by": "vmachek"
+  },
+  {
+   "scan": 141,
+   "type": "O",
+   "year": 1688,
+   "by": "vmachek"
+  },
+  {
+   "scan": 142,
+   "type": "O",
+   "year": 1689,
+   "by": "vmachek"
+  }
+ ],
+ "sources": [
+  {
+   "by": "vmachek",
+   "date": "2026-11-12"
+  }
+ ]
+}

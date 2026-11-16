@@ -18,17 +18,35 @@
    "by": "matriky-index"
   },
   {
+   "scan": 17,
+   "type": "O",
+   "year": 1794,
+   "year_to": 1796,
+   "place": "Držkrajov",
+   "by": "vmachek"
+  },
+  {
    "scan": 85,
    "type": "O",
    "year": 1797,
    "months": "VII",
    "by": "matriky-index"
+  },
+  {
+   "scan": 90,
+   "type": "iO",
+   "place": "Osletín",
+   "by": "vmachek"
   }
  ],
  "sources": [
   {
    "by": "matriky-index",
    "date": "2026-11-15"
+  },
+  {
+   "by": "vmachek",
+   "date": "2026-11-04"
   }
  ]
 }

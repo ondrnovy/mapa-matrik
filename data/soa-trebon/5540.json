@@ -11,6 +11,14 @@
  },
  "points": [
   {
+   "scan": 16,
+   "type": "N",
+   "year": 1804,
+   "year_to": 1805,
+   "place": "Držkrajov",
+   "by": "vmachek"
+  },
+  {
    "scan": 17,
    "type": "N",
    "year": 1805,
@@ -18,17 +26,35 @@
    "by": "matriky-index"
   },
   {
+   "scan": 17,
+   "type": "N",
+   "year": 1805,
+   "year_to": 1807,
+   "place": "Držkrajov",
+   "by": "vmachek"
+  },
+  {
    "scan": 163,
    "type": "N",
    "year": 1807,
    "months": "II",
    "by": "matriky-index"
+  },
+  {
+   "scan": 180,
+   "type": "iN",
+   "letters": "H–K",
+   "by": "vmachek"
   }
  ],
  "sources": [
   {
    "by": "matriky-index",
    "date": "2026-11-15"
+  },
+  {
+   "by": "vmachek",
+   "date": "2026-11-04"
   }
  ]
 }

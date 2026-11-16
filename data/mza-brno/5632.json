@@ -16,12 +16,24 @@
    "year": 1802,
    "months": "II",
    "by": "matriky-index"
+  },
+  {
+   "scan": 72,
+   "type": "N",
+   "year": 1802,
+   "months": "I–VIII",
+   "place": "Sklené nad Oslavou",
+   "by": "vmachek"
   }
  ],
  "sources": [
   {
    "by": "matriky-index",
    "date": "2026-11-15"
+  },
+  {
+   "by": "vmachek",
+   "date": "2026-11-03"
   }
  ]
 }

@@ -11,17 +11,61 @@
  },
  "points": [
   {
+   "scan": 17,
+   "type": "O",
+   "year": 1787,
+   "year_to": 1792,
+   "place": "Černýšovice",
+   "by": "vmachek"
+  },
+  {
    "scan": 18,
    "type": "O",
    "year": 1795,
    "months": "VI",
    "by": "matriky-index"
+  },
+  {
+   "scan": 18,
+   "type": "O",
+   "year": 1792,
+   "year_to": 1799,
+   "place": "Černýšovice",
+   "by": "vmachek"
+  },
+  {
+   "scan": 30,
+   "type": "O",
+   "year": 1794,
+   "year_to": 1802,
+   "place": "Březnice",
+   "by": "vmachek"
+  },
+  {
+   "scan": 33,
+   "type": "O",
+   "year": 1812,
+   "year_to": 1816,
+   "place": "Březnice",
+   "by": "vmachek"
+  },
+  {
+   "scan": 35,
+   "type": "O",
+   "year": 1817,
+   "year_to": 1818,
+   "place": "Březnice",
+   "by": "vmachek"
   }
  ],
  "sources": [
   {
    "by": "matriky-index",
    "date": "2026-11-15"
+  },
+  {
+   "by": "vmachek",
+   "date": "2026-11-04"
   }
  ]
 }

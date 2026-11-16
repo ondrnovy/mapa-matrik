@@ -18,6 +18,20 @@
    "by": "matriky-index"
   },
   {
+   "scan": 61,
+   "type": "N",
+   "page": "120",
+   "by": "vmachek"
+  },
+  {
+   "scan": 68,
+   "type": "N",
+   "year": 1766,
+   "months": "IX–XII",
+   "page": "131–132",
+   "by": "vmachek"
+  },
+  {
    "scan": 69,
    "type": "N",
    "year": 1766,
@@ -39,17 +53,102 @@
    "by": "matriky-index"
   },
   {
+   "scan": 92,
+   "type": "N",
+   "year": 1774,
+   "months": "II–IV",
+   "by": "vmachek"
+  },
+  {
    "scan": 95,
    "type": "N",
    "year": 1775,
    "months": "V",
    "by": "matriky-index"
+  },
+  {
+   "scan": 103,
+   "type": "N",
+   "year": 1778,
+   "year_to": 1779,
+   "by": "vmachek"
+  },
+  {
+   "scan": 152,
+   "type": "iN",
+   "letters": "K",
+   "by": "vmachek"
+  },
+  {
+   "scan": 153,
+   "type": "iN",
+   "letters": "K",
+   "by": "vmachek"
+  },
+  {
+   "scan": 154,
+   "type": "iN",
+   "letters": "K",
+   "by": "vmachek"
+  },
+  {
+   "scan": 156,
+   "type": "iN",
+   "letters": "M",
+   "by": "vmachek"
+  },
+  {
+   "scan": 157,
+   "type": "iN",
+   "letters": "M",
+   "by": "vmachek"
+  },
+  {
+   "scan": 187,
+   "type": "Z",
+   "year": 1763,
+   "year_to": 1764,
+   "by": "vmachek"
+  },
+  {
+   "scan": 188,
+   "type": "Z",
+   "year": 1764,
+   "months": "III–VIII",
+   "by": "vmachek"
+  },
+  {
+   "scan": 189,
+   "type": "Z",
+   "year": 1764,
+   "year_to": 1765,
+   "by": "vmachek"
+  },
+  {
+   "scan": 238,
+   "type": "iZ",
+   "letters": "K",
+   "by": "vmachek"
+  },
+  {
+   "scan": 239,
+   "type": "iZ",
+   "letters": "K",
+   "by": "vmachek"
   }
  ],
  "sources": [
   {
    "by": "matriky-index",
    "date": "2026-11-15"
+  },
+  {
+   "by": "vmachek",
+   "date": "2026-11-05"
+  },
+  {
+   "by": "vmachek",
+   "date": "2026-11-04"
   }
  ]
 }

@@ -1,0 +1,35 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "fa73843f-5db1-4ef0-8b20-f9882e24a3f6",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/fa73843f-5db1-4ef0-8b20-f9882e24a3f6",
+ "signature": "167-39",
+ "parish": "Úpice",
+ "records": {
+  "iO": "1704–1784"
+ },
+ "points": [
+  {
+   "scan": 24,
+   "type": "iO",
+   "year": 1714,
+   "year_to": 1736,
+   "letters": "K",
+   "by": "vmachek"
+  },
+  {
+   "scan": 25,
+   "type": "iO",
+   "year": 1736,
+   "letters": "K",
+   "by": "vmachek"
+  }
+ ],
+ "sources": [
+  {
+   "by": "vmachek",
+   "date": "2026-11-11"
+  }
+ ]
+}
