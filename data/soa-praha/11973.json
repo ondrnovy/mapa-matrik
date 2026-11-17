@@ -58,18 +58,18 @@
   {
    "scan": 15,
    "type": "N",
-   "year": 1801,
-   "months": "IV",
-   "by": "matriky-index"
-  },
-  {
-   "scan": 15,
-   "type": "N",
    "year": 1800,
    "year_to": 1801,
    "page": "24–25 (fol. 12–13)",
    "place": "Modřejovice",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 15,
+   "type": "N",
+   "year": 1801,
+   "months": "IV",
+   "by": "matriky-index"
   },
   {
    "scan": 16,

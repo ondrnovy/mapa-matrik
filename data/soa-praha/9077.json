@@ -1,0 +1,62 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "9077",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/9077",
+ "signature": "Zdebuzeves 03 – N 1812–1829",
+ "parish": "Zdebuzeves",
+ "records": {
+  "N": "1812–1829"
+ },
+ "points": [
+  {
+   "scan": 3,
+   "type": "N",
+   "year": 1813,
+   "months": "II",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 8,
+   "type": "N",
+   "year": 1815,
+   "months": "I",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 12,
+   "type": "N",
+   "year": 1817,
+   "months": "II",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 15,
+   "type": "N",
+   "year": 1818,
+   "months": "V",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 23,
+   "type": "N",
+   "year": 1820,
+   "months": "IX",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 30,
+   "type": "N",
+   "year": 1823,
+   "months": "III",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-17"
+  }
+ ]
+}
