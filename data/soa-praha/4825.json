@@ -19,17 +19,17 @@
   {
    "scan": 37,
    "type": "Z",
-   "year": 1786,
-   "months": "II",
-   "by": "matriky-index"
-  },
-  {
-   "scan": 37,
-   "type": "Z",
    "year": 1784,
    "year_to": 1787,
    "place": "Stará Huť",
    "by": "vmachek"
+  },
+  {
+   "scan": 37,
+   "type": "Z",
+   "year": 1786,
+   "months": "II",
+   "by": "matriky-index"
   },
   {
    "scan": 38,
@@ -38,13 +38,6 @@
    "year_to": 1792,
    "place": "Stará Huť",
    "by": "vmachek"
-  },
-  {
-   "scan": 39,
-   "type": "Z",
-   "year": 1792,
-   "year_to": 1797,
-   "by": "matriky-index"
   },
   {
    "scan": 39,

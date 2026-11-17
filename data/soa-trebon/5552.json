@@ -13,17 +13,17 @@
   {
    "scan": 17,
    "type": "O",
-   "year": 1796,
-   "months": "V",
-   "by": "matriky-index"
-  },
-  {
-   "scan": 17,
-   "type": "O",
    "year": 1794,
    "year_to": 1796,
    "place": "Držkrajov",
    "by": "vmachek"
+  },
+  {
+   "scan": 17,
+   "type": "O",
+   "year": 1796,
+   "months": "V",
+   "by": "matriky-index"
   },
   {
    "scan": 85,

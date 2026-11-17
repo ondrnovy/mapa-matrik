@@ -35,18 +35,18 @@
   {
    "scan": 97,
    "type": "N",
-   "year": 1830,
-   "months": "VII",
-   "by": "matriky-index"
-  },
-  {
-   "scan": 97,
-   "type": "N",
    "year": 1829,
    "year_to": 1830,
    "months": "–VII",
    "place": "Sklené nad Oslavou",
    "by": "vmachek"
+  },
+  {
+   "scan": 97,
+   "type": "N",
+   "year": 1830,
+   "months": "VII",
+   "by": "matriky-index"
   },
   {
    "scan": 98,

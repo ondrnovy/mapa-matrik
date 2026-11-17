@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "11429",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/11429",
+ "signature": "Říčany 10 – N 1807–1851 Tehov, Všestary, Světice, Menčice",
+ "parish": "Říčany",
+ "records": {
+  "N": "1807–1851"
+ },
+ "points": [
+  {
+   "scan": 83,
+   "type": "N",
+   "year": 1820,
+   "year_to": 1831,
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-17"
+  }
+ ]
+}

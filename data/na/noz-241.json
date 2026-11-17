@@ -7,9 +7,24 @@
  "signature": "Hrusice, židovská kontrolní matrika NOZ",
  "parish": "Hrusice",
  "records": {
-  "O": "1847–1856"
+  "O": "1847–1856",
+  "N": "1809–1832"
  },
  "points": [
+  {
+   "scan": 3,
+   "type": "N",
+   "year": 1809,
+   "year_to": 1818,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 4,
+   "type": "N",
+   "year": 1819,
+   "year_to": 1832,
+   "by": "pe-pan"
+  },
   {
    "scan": 8,
    "type": "O",

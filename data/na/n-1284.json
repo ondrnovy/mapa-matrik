@@ -1,0 +1,75 @@
+{
+ "schema": 1,
+ "archive": "na",
+ "portal": "zayt",
+ "portal_id": "n-1284",
+ "url": "https://zayt.org/collections/jewish-registers-1784-1949/n-1284",
+ "signature": "Mnichovo Hradiště",
+ "parish": "Mnichovo Hradiště",
+ "records": {
+  "N": "1820–1838"
+ },
+ "points": [
+  {
+   "scan": 3,
+   "type": "N",
+   "year": 1820,
+   "year_to": 1821,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 4,
+   "type": "N",
+   "year": 1821,
+   "year_to": 1822,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 5,
+   "type": "N",
+   "year": 1822,
+   "months": "IV–IX",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 6,
+   "type": "N",
+   "year": 1822,
+   "year_to": 1823,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 7,
+   "type": "N",
+   "year": 1824,
+   "year_to": 1825,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 8,
+   "type": "N",
+   "year": 1825,
+   "year_to": 1826,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 9,
+   "type": "N",
+   "year": 1826,
+   "year_to": 1828,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 10,
+   "type": "N",
+   "year": 1828,
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-17"
+  }
+ ]
+}

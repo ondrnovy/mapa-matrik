@@ -21,17 +21,17 @@
   {
    "scan": 18,
    "type": "O",
-   "year": 1795,
-   "months": "VI",
-   "by": "matriky-index"
-  },
-  {
-   "scan": 18,
-   "type": "O",
    "year": 1792,
    "year_to": 1799,
    "place": "Černýšovice",
    "by": "vmachek"
+  },
+  {
+   "scan": 18,
+   "type": "O",
+   "year": 1795,
+   "months": "VI",
+   "by": "matriky-index"
   },
   {
    "scan": 30,

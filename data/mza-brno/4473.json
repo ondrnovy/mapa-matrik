@@ -21,18 +21,18 @@
   {
    "scan": 14,
    "type": "N",
-   "year": 1794,
-   "months": "II",
-   "by": "matriky-index"
-  },
-  {
-   "scan": 14,
-   "type": "N",
    "year": 1793,
    "year_to": 1794,
    "page": "fol. 24–25",
    "place": "Tvarožná",
    "by": "vmachek"
+  },
+  {
+   "scan": 14,
+   "type": "N",
+   "year": 1794,
+   "months": "II",
+   "by": "matriky-index"
   },
   {
    "scan": 15,

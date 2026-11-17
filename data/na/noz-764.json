@@ -1,0 +1,42 @@
+{
+ "schema": 1,
+ "archive": "na",
+ "portal": "zayt",
+ "portal_id": "noz-764",
+ "url": "https://zayt.org/collections/jewish-control-registers-1780-1911/noz-764",
+ "signature": "Říčany, židovská kontrolní matrika NOZ",
+ "parish": "Říčany",
+ "records": {
+  "N": "1840–1873",
+  "Z": "1840–1873"
+ },
+ "points": [
+  {
+   "scan": 4,
+   "type": "N",
+   "year": 1852,
+   "year_to": 1853,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 8,
+   "type": "Z",
+   "year": 1845,
+   "months": "II",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 9,
+   "type": "Z",
+   "year": 1856,
+   "months": "VIII",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-17"
+  }
+ ]
+}

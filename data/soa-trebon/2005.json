@@ -46,16 +46,16 @@
   {
    "scan": 35,
    "type": "O",
-   "year": 1797,
-   "months": "II",
-   "by": "matriky-index"
+   "year": 1795,
+   "year_to": 1798,
+   "by": "vmachek"
   },
   {
    "scan": 35,
    "type": "O",
-   "year": 1795,
-   "year_to": 1798,
-   "by": "vmachek"
+   "year": 1797,
+   "months": "II",
+   "by": "matriky-index"
   },
   {
    "scan": 36,

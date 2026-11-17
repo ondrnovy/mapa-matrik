@@ -27,17 +27,17 @@
   {
    "scan": 46,
    "type": "O",
-   "year": 1808,
-   "months": "II",
-   "by": "matriky-index"
-  },
-  {
-   "scan": 46,
-   "type": "O",
    "year": 1806,
    "year_to": 1808,
    "page": "88",
    "by": "vmachek"
+  },
+  {
+   "scan": 46,
+   "type": "O",
+   "year": 1808,
+   "months": "II",
+   "by": "matriky-index"
   }
  ],
  "sources": [

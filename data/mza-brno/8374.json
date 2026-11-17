@@ -27,16 +27,16 @@
   {
    "scan": 35,
    "type": "N",
-   "year": 1669,
-   "months": "I",
-   "by": "matriky-index"
+   "year": 1668,
+   "year_to": 1669,
+   "by": "vmachek"
   },
   {
    "scan": 35,
    "type": "N",
-   "year": 1668,
-   "year_to": 1669,
-   "by": "vmachek"
+   "year": 1669,
+   "months": "I",
+   "by": "matriky-index"
   },
   {
    "scan": 39,
@@ -69,16 +69,16 @@
   {
    "scan": 106,
    "type": "N",
-   "year": 1700,
-   "months": "I",
-   "by": "matriky-index"
+   "year": 1699,
+   "year_to": 1700,
+   "by": "vmachek"
   },
   {
    "scan": 106,
    "type": "N",
-   "year": 1699,
-   "year_to": 1700,
-   "by": "vmachek"
+   "year": 1700,
+   "months": "I",
+   "by": "matriky-index"
   },
   {
    "scan": 119,

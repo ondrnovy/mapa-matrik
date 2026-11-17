@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "na",
+ "portal": "zayt",
+ "portal_id": "o-517",
+ "url": "https://zayt.org/collections/jewish-control-registers-1780-1911/o-517",
+ "signature": "FÚ Mnichovo Hradiště, židovská kontrolní matrika oddaných 1839–1852 s rejstříkem",
+ "parish": "Mnichovo Hradiště",
+ "records": {
+  "O": "1839–1852"
+ },
+ "points": [
+  {
+   "scan": 5,
+   "type": "O",
+   "year": 1841,
+   "months": "VIII",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-17"
+  }
+ ]
+}

@@ -112,16 +112,16 @@
   {
    "scan": 131,
    "type": "N",
-   "year": 1751,
-   "months": "IV",
-   "by": "matriky-index"
+   "year": 1750,
+   "year_to": 1751,
+   "by": "vmachek"
   },
   {
    "scan": 131,
    "type": "N",
-   "year": 1750,
-   "year_to": 1751,
-   "by": "vmachek"
+   "year": 1751,
+   "months": "IV",
+   "by": "matriky-index"
   },
   {
    "scan": 132,

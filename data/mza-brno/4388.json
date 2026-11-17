@@ -21,17 +21,17 @@
   {
    "scan": 127,
    "type": "O",
-   "year": 1804,
-   "months": "VII",
-   "by": "matriky-index"
-  },
-  {
-   "scan": 127,
-   "type": "O",
    "year": 1802,
    "year_to": 1804,
    "place": "Jiříkovice",
    "by": "vmachek"
+  },
+  {
+   "scan": 127,
+   "type": "O",
+   "year": 1804,
+   "months": "VII",
+   "by": "matriky-index"
   },
   {
    "scan": 132,

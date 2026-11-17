@@ -11,6 +11,34 @@
  },
  "points": [
   {
+   "scan": 24,
+   "type": "O",
+   "year": 1785,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 25,
+   "type": "O",
+   "year": 1786,
+   "year_to": 1787,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 26,
+   "type": "O",
+   "year": 1788,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 32,
+   "type": "O",
+   "year": 1797,
+   "months": "X",
+   "by": "pe-pan"
+  },
+  {
    "scan": 51,
    "type": "O",
    "year": 1797,
@@ -25,10 +53,73 @@
    "by": "pe-pan"
   },
   {
+   "scan": 57,
+   "type": "O",
+   "year": 1787,
+   "months": "VI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 59,
+   "type": "O",
+   "year": 1791,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 74,
+   "type": "O",
+   "year": 1785,
+   "year_to": 1787,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 75,
+   "type": "O",
+   "year": 1788,
+   "year_to": 1789,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 76,
+   "type": "O",
+   "year": 1790,
+   "months": "X",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 77,
+   "type": "O",
+   "year": 1795,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 78,
+   "type": "O",
+   "year": 1801,
+   "year_to": 1803,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 79,
+   "type": "O",
+   "year": 1806,
+   "year_to": 1811,
+   "by": "pe-pan"
+  },
+  {
    "scan": 80,
    "type": "O",
    "year": 1819,
    "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 95,
+   "type": "O",
+   "year": 1791,
+   "months": "II",
    "by": "pe-pan"
   },
   {

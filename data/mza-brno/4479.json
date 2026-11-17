@@ -14,13 +14,6 @@
    "scan": 2,
    "type": "O",
    "year": 1813,
-   "months": "XI",
-   "by": "matriky-index"
-  },
-  {
-   "scan": 2,
-   "type": "O",
-   "year": 1813,
    "months": "II–III",
    "place": "Tvarožná",
    "by": "vmachek"
@@ -35,17 +28,17 @@
   {
    "scan": 20,
    "type": "O",
-   "year": 1813,
-   "months": "II",
-   "by": "matriky-index"
-  },
-  {
-   "scan": 20,
-   "type": "O",
    "year": 1812,
    "year_to": 1813,
    "place": "Blažovice",
    "by": "vmachek"
+  },
+  {
+   "scan": 20,
+   "type": "O",
+   "year": 1813,
+   "months": "II",
+   "by": "matriky-index"
   }
  ],
  "sources": [

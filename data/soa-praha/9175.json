@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "9175",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/9175",
+ "signature": "Mukařov-PH 05 – N 1806–1827 s rejstříkem",
+ "parish": "Mukařov",
+ "records": {
+  "N": "1806–1827"
+ },
+ "points": [
+  {
+   "scan": 145,
+   "type": "N",
+   "year": 1814,
+   "year_to": 1820,
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-17"
+  }
+ ]
+}

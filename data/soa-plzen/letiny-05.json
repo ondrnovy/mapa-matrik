@@ -7,7 +7,8 @@
  "signature": "Letiny 05",
  "parish": "Letiny",
  "records": {
-  "O": "1802"
+  "O": "1802",
+  "Z": "1815–1818"
  },
  "points": [
   {
@@ -15,6 +16,20 @@
    "type": "O",
    "year": 1802,
    "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 190,
+   "type": "Z",
+   "year": 1815,
+   "months": "I",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 191,
+   "type": "Z",
+   "year": 1818,
+   "months": "VIII",
    "by": "pe-pan"
   }
  ],

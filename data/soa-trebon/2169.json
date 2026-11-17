@@ -45,13 +45,6 @@
    "scan": 87,
    "type": "N",
    "year": 1781,
-   "months": "X",
-   "by": "matriky-index"
-  },
-  {
-   "scan": 87,
-   "type": "N",
-   "year": 1781,
    "months": "X–XII",
    "place": "Bojenice",
    "by": "vmachek"
@@ -67,23 +60,16 @@
   {
    "scan": 135,
    "type": "N",
-   "year": 1788,
-   "months": "II",
-   "by": "matriky-index"
-  },
-  {
-   "scan": 135,
-   "type": "N",
    "year": 1787,
    "year_to": 1790,
    "place": "Zběšice",
    "by": "vmachek"
   },
   {
-   "scan": 136,
+   "scan": 135,
    "type": "N",
-   "year": 1791,
-   "months": "III",
+   "year": 1788,
+   "months": "II",
    "by": "matriky-index"
   },
   {

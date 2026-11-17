@@ -13,17 +13,17 @@
   {
    "scan": 27,
    "type": "O",
-   "year": 1802,
-   "months": "II",
-   "by": "matriky-index"
-  },
-  {
-   "scan": 27,
-   "type": "O",
    "year": 1801,
    "year_to": 1802,
    "place": "Tuřany",
    "by": "vmachek"
+  },
+  {
+   "scan": 27,
+   "type": "O",
+   "year": 1802,
+   "months": "II",
+   "by": "matriky-index"
   },
   {
    "scan": 28,

@@ -19,17 +19,17 @@
   {
    "scan": 69,
    "type": "N",
-   "year": 1785,
-   "months": "IX",
-   "by": "matriky-index"
-  },
-  {
-   "scan": 69,
-   "type": "N",
    "year": 1784,
    "year_to": 1785,
    "place": "Stará Huť",
    "by": "vmachek"
+  },
+  {
+   "scan": 69,
+   "type": "N",
+   "year": 1785,
+   "months": "IX",
+   "by": "matriky-index"
   },
   {
    "scan": 70,

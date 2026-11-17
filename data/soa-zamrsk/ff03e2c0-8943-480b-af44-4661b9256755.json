@@ -18,10 +18,24 @@
    "by": "pe-pan"
   },
   {
+   "scan": 132,
+   "type": "N",
+   "year": 1792,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
    "scan": 133,
    "type": "N",
-   "year": 1795,
-   "months": "XI",
+   "year": 1794,
+   "year_to": 1795,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 137,
+   "type": "N",
+   "year": 1799,
+   "months": "III",
    "by": "pe-pan"
   },
   {

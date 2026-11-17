@@ -44,7 +44,7 @@
    "scan": 14,
    "type": "N",
    "year": 1772,
-   "months": "IX",
+   "months": "IX–X",
    "by": "pe-pan"
   },
   {
@@ -52,6 +52,12 @@
    "type": "N",
    "year": 1773,
    "months": "V",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 17,
+   "type": "N",
+   "year": 1773,
    "by": "pe-pan"
   },
   {
@@ -66,6 +72,13 @@
    "type": "N",
    "year": 1774,
    "months": "V",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 24,
+   "type": "N",
+   "year": 1774,
+   "months": "VIII",
    "by": "pe-pan"
   },
   {
@@ -139,6 +152,12 @@
    "by": "pe-pan"
   },
   {
+   "scan": 37,
+   "type": "N",
+   "year": 1776,
+   "by": "pe-pan"
+  },
+  {
    "scan": 38,
    "type": "N",
    "year": 1776,
@@ -181,6 +200,12 @@
    "by": "pe-pan"
   },
   {
+   "scan": 44,
+   "type": "N",
+   "year": 1777,
+   "by": "pe-pan"
+  },
+  {
    "scan": 45,
    "type": "N",
    "year": 1777,
@@ -195,9 +220,17 @@
    "by": "pe-pan"
   },
   {
+   "scan": 47,
+   "type": "N",
+   "year": 1777,
+   "months": "X",
+   "by": "pe-pan"
+  },
+  {
    "scan": 48,
    "type": "N",
-   "year": 1778,
+   "year": 1777,
+   "year_to": 1778,
    "by": "pe-pan"
   },
   {
@@ -346,6 +379,34 @@
    "scan": 75,
    "type": "N",
    "year": 1781,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 81,
+   "type": "N",
+   "year": 1782,
+   "months": "III",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 90,
+   "type": "N",
+   "year": 1783,
+   "months": "VII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 94,
+   "type": "N",
+   "year": 1784,
+   "months": "II",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 95,
+   "type": "N",
+   "year": 1784,
+   "months": "III",
    "by": "pe-pan"
   },
   {
@@ -697,6 +758,48 @@
    "type": "O",
    "year": 1785,
    "year_to": 1787,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 210,
+   "type": "Z",
+   "year": 1772,
+   "months": "X",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 214,
+   "type": "Z",
+   "year": 1774,
+   "months": "I",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 223,
+   "type": "Z",
+   "year": 1776,
+   "months": "IX",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 238,
+   "type": "Z",
+   "year": 1780,
+   "months": "IV",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 250,
+   "type": "Z",
+   "year": 1784,
+   "months": "VI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 265,
+   "type": "Z",
+   "year": 1787,
+   "months": "V",
    "by": "pe-pan"
   },
   {

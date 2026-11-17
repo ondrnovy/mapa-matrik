@@ -1,0 +1,92 @@
+{
+ "schema": 1,
+ "archive": "na",
+ "portal": "zayt",
+ "portal_id": "noz-1031",
+ "url": "https://zayt.org/collections/jewish-control-registers-1780-1911/noz-1031",
+ "signature": "Zdebuzeves",
+ "parish": "Zdebuzeves",
+ "records": {
+  "N": "1840–1867",
+  "O": "1840–1867",
+  "Z": "1840–1867"
+ },
+ "points": [
+  {
+   "scan": 3,
+   "type": "N",
+   "year": 1840,
+   "year_to": 1841,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 4,
+   "type": "N",
+   "year": 1843,
+   "year_to": 1848,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 5,
+   "type": "N",
+   "year": 1849,
+   "year_to": 1851,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 6,
+   "type": "N",
+   "year": 1852,
+   "year_to": 1854,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 7,
+   "type": "N",
+   "year": 1855,
+   "months": "I",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 8,
+   "type": "N",
+   "year": 1860,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 9,
+   "type": "O",
+   "year": 1845,
+   "year_to": 1849,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 10,
+   "type": "O",
+   "year": 1849,
+   "months": "VI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 11,
+   "type": "Z",
+   "year": 1841,
+   "year_to": 1853,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 12,
+   "type": "Z",
+   "year": 1856,
+   "year_to": 1857,
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-17"
+  }
+ ]
+}
