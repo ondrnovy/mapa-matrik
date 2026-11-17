@@ -1,0 +1,251 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "7C845A3BEB0B45EE9AD605FE87E73044",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=7C845A3BEB0B45EE9AD605FE87E73044",
+ "signature": "TO Z1",
+ "parish": "Praha Malá Strana – sv. Tomáš",
+ "records": {
+  "Z": "1677–1740"
+ },
+ "points": [
+  {
+   "scan": 36,
+   "type": "Z",
+   "year": 1692,
+   "year_to": 1693,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 37,
+   "type": "Z",
+   "year": 1693,
+   "months": "II–VII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 38,
+   "type": "Z",
+   "year": 1693,
+   "months": "VII–XII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 39,
+   "type": "Z",
+   "year": 1694,
+   "months": "I–VI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 40,
+   "type": "Z",
+   "year": 1694,
+   "months": "VII–XII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 41,
+   "type": "Z",
+   "year": 1695,
+   "months": "I–V",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 42,
+   "type": "Z",
+   "year": 1695,
+   "months": "VI–XII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 43,
+   "type": "Z",
+   "year": 1695,
+   "year_to": 1696,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 44,
+   "type": "Z",
+   "year": 1696,
+   "year_to": 1697,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 45,
+   "type": "Z",
+   "year": 1697,
+   "months": "III–VI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 46,
+   "type": "Z",
+   "year": 1697,
+   "months": "VII–XII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 47,
+   "type": "Z",
+   "year": 1697,
+   "months": "IX–XII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 48,
+   "type": "Z",
+   "year": 1698,
+   "months": "I–IV",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 49,
+   "type": "Z",
+   "year": 1698,
+   "months": "IV–IX",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 50,
+   "type": "Z",
+   "year": 1698,
+   "year_to": 1699,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 51,
+   "type": "Z",
+   "year": 1699,
+   "months": "III–IX",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 52,
+   "type": "Z",
+   "year": 1699,
+   "year_to": 1700,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 53,
+   "type": "Z",
+   "year": 1700,
+   "months": "II–IV",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 54,
+   "type": "Z",
+   "year": 1700,
+   "months": "V–VIII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 55,
+   "type": "Z",
+   "year": 1700,
+   "year_to": 1701,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 56,
+   "type": "Z",
+   "year": 1701,
+   "months": "V–X",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 57,
+   "type": "Z",
+   "year": 1701,
+   "year_to": 1702,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 58,
+   "type": "Z",
+   "year": 1702,
+   "months": "III–VI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 59,
+   "type": "Z",
+   "year": 1702,
+   "months": "VII–XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 60,
+   "type": "Z",
+   "year": 1702,
+   "year_to": 1703,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 61,
+   "type": "Z",
+   "year": 1703,
+   "months": "IV–XII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 62,
+   "type": "Z",
+   "year": 1704,
+   "months": "I–VI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 63,
+   "type": "Z",
+   "year": 1704,
+   "months": "VI–X",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 64,
+   "type": "Z",
+   "year": 1704,
+   "year_to": 1705,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 65,
+   "type": "Z",
+   "year": 1705,
+   "months": "III–IV",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 66,
+   "type": "Z",
+   "year": 1705,
+   "months": "V–VII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 67,
+   "type": "Z",
+   "year": 1705,
+   "months": "VII–XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 68,
+   "type": "Z",
+   "year": 1705,
+   "year_to": 1706,
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-17"
+  }
+ ]
+}
