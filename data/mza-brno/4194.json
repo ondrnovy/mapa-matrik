@@ -11,6 +11,92 @@
  },
  "points": [
   {
+   "scan": 1,
+   "type": "N",
+   "year": 1666,
+   "place": "Pozořice",
+   "by": "vmachek"
+  },
+  {
+   "scan": 2,
+   "type": "N",
+   "year": 1666,
+   "year_to": 1668,
+   "place": "Pozořice",
+   "by": "vmachek"
+  },
+  {
+   "scan": 3,
+   "type": "N",
+   "year": 1668,
+   "year_to": 1670,
+   "place": "Pozořice",
+   "by": "vmachek"
+  },
+  {
+   "scan": 4,
+   "type": "N",
+   "year": 1669,
+   "year_to": 1670,
+   "place": "Pozořice",
+   "by": "vmachek"
+  },
+  {
+   "scan": 5,
+   "type": "N",
+   "year": 1671,
+   "year_to": 1672,
+   "place": "Pozořice",
+   "by": "vmachek"
+  },
+  {
+   "scan": 6,
+   "type": "N",
+   "year": 1672,
+   "year_to": 1673,
+   "place": "Pozořice",
+   "by": "vmachek"
+  },
+  {
+   "scan": 7,
+   "type": "N",
+   "year": 1674,
+   "place": "Pozořice",
+   "by": "vmachek"
+  },
+  {
+   "scan": 8,
+   "type": "N",
+   "year": 1675,
+   "year_to": 1676,
+   "place": "Pozořice",
+   "by": "vmachek"
+  },
+  {
+   "scan": 9,
+   "type": "N",
+   "year": 1676,
+   "year_to": 1677,
+   "place": "Pozořice",
+   "by": "vmachek"
+  },
+  {
+   "scan": 10,
+   "type": "N",
+   "year": 1677,
+   "year_to": 1679,
+   "place": "Pozořice",
+   "by": "vmachek"
+  },
+  {
+   "scan": 11,
+   "type": "N",
+   "year": 1678,
+   "year_to": 1679,
+   "place": "Pozořice",
+   "by": "vmachek"
+  },
+  {
    "scan": 12,
    "type": "N",
    "year": 1666,
@@ -93,6 +179,174 @@
    "type": "N",
    "year": 1678,
    "place": "Sivice",
+   "by": "vmachek"
+  },
+  {
+   "scan": 35,
+   "type": "N",
+   "year": 1666,
+   "place": "Kovalovice",
+   "by": "vmachek"
+  },
+  {
+   "scan": 36,
+   "type": "N",
+   "year": 1666,
+   "year_to": 1668,
+   "place": "Kovalovice",
+   "note": "místy i zápisy jiných vsí farnosti",
+   "by": "vmachek"
+  },
+  {
+   "scan": 37,
+   "type": "N",
+   "year": 1669,
+   "year_to": 1670,
+   "place": "Kovalovice",
+   "note": "místy i zápisy jiných vsí farnosti",
+   "by": "vmachek"
+  },
+  {
+   "scan": 38,
+   "type": "N",
+   "year": 1670,
+   "year_to": 1671,
+   "place": "Kovalovice",
+   "note": "místy i zápisy jiných vsí farnosti",
+   "by": "vmachek"
+  },
+  {
+   "scan": 39,
+   "type": "N",
+   "year": 1671,
+   "year_to": 1672,
+   "place": "Kovalovice",
+   "note": "místy i zápisy jiných vsí farnosti",
+   "by": "vmachek"
+  },
+  {
+   "scan": 40,
+   "type": "N",
+   "year": 1672,
+   "year_to": 1674,
+   "place": "Kovalovice",
+   "note": "místy i zápisy jiných vsí farnosti",
+   "by": "vmachek"
+  },
+  {
+   "scan": 41,
+   "type": "N",
+   "year": 1674,
+   "year_to": 1676,
+   "place": "Kovalovice",
+   "note": "místy i zápisy jiných vsí farnosti",
+   "by": "vmachek"
+  },
+  {
+   "scan": 42,
+   "type": "N",
+   "year": 1676,
+   "year_to": 1677,
+   "place": "Kovalovice",
+   "note": "místy i zápisy jiných vsí farnosti",
+   "by": "vmachek"
+  },
+  {
+   "scan": 43,
+   "type": "N",
+   "year": 1677,
+   "year_to": 1678,
+   "place": "Kovalovice",
+   "note": "místy i zápisy jiných vsí farnosti",
+   "by": "vmachek"
+  },
+  {
+   "scan": 44,
+   "type": "N",
+   "year": 1678,
+   "year_to": 1679,
+   "place": "Kovalovice",
+   "note": "místy i zápisy jiných vsí farnosti",
+   "by": "vmachek"
+  },
+  {
+   "scan": 50,
+   "type": "N",
+   "year": 1666,
+   "year_to": 1667,
+   "place": "Holubice",
+   "by": "vmachek"
+  },
+  {
+   "scan": 51,
+   "type": "N",
+   "year": 1668,
+   "year_to": 1670,
+   "place": "Holubice",
+   "by": "vmachek"
+  },
+  {
+   "scan": 52,
+   "type": "N",
+   "year": 1670,
+   "year_to": 1672,
+   "place": "Holubice",
+   "by": "vmachek"
+  },
+  {
+   "scan": 53,
+   "type": "N",
+   "year": 1672,
+   "year_to": 1673,
+   "place": "Holubice",
+   "by": "vmachek"
+  },
+  {
+   "scan": 54,
+   "type": "N",
+   "year": 1674,
+   "year_to": 1675,
+   "place": "Holubice",
+   "by": "vmachek"
+  },
+  {
+   "scan": 55,
+   "type": "N",
+   "year": 1675,
+   "year_to": 1677,
+   "place": "Holubice",
+   "by": "vmachek"
+  },
+  {
+   "scan": 56,
+   "type": "N",
+   "year": 1678,
+   "place": "Holubice",
+   "by": "vmachek"
+  },
+  {
+   "scan": 93,
+   "type": "N",
+   "year": 1679,
+   "place": "Pozořice",
+   "note": "nová matrika od 1679, tabulka; okraje utržené",
+   "by": "vmachek"
+  },
+  {
+   "scan": 94,
+   "type": "N",
+   "year": 1679,
+   "place": "Pozořice",
+   "note": "vlevo Pozořice II–VIII/1679, vpravo Sivice od III/1679",
+   "by": "vmachek"
+  },
+  {
+   "scan": 95,
+   "type": "N",
+   "year": 1679,
+   "year_to": 1680,
+   "place": "Sivice",
+   "note": "vlevo Sivice do II/1680, vpravo Šumice 1679",
    "by": "vmachek"
   },
   {
@@ -183,6 +437,14 @@
   {
    "by": "vmachek",
    "date": "2026-11-12"
+  },
+  {
+   "by": "vmachek",
+   "date": "2026-11-16"
+  },
+  {
+   "by": "vmachek",
+   "date": "2026-11-17"
   }
  ]
 }

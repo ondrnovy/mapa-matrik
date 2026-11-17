@@ -12,6 +12,12 @@
  },
  "points": [
   {
+   "scan": 5,
+   "type": "N",
+   "year": 1671,
+   "by": "vmachek"
+  },
+  {
    "scan": 36,
    "type": "N",
    "page": "64",
@@ -47,12 +53,65 @@
    "type": "N",
    "page": "202",
    "by": "vmachek"
+  },
+  {
+   "scan": 116,
+   "type": "O",
+   "year": 1670,
+   "months": "II",
+   "by": "vmachek"
+  },
+  {
+   "scan": 117,
+   "type": "O",
+   "year": 1670,
+   "months": "VI–XI",
+   "by": "vmachek"
+  },
+  {
+   "scan": 118,
+   "type": "O",
+   "year": 1671,
+   "months": "I",
+   "by": "vmachek"
+  },
+  {
+   "scan": 119,
+   "type": "O",
+   "year": 1671,
+   "months": "I–VII",
+   "by": "vmachek"
+  },
+  {
+   "scan": 120,
+   "type": "O",
+   "year": 1671,
+   "months": "IX–XII",
+   "by": "vmachek"
+  },
+  {
+   "scan": 121,
+   "type": "O",
+   "year": 1672,
+   "months": "I",
+   "by": "vmachek"
+  },
+  {
+   "scan": 124,
+   "type": "O",
+   "year": 1673,
+   "months": "I",
+   "by": "vmachek"
   }
  ],
  "sources": [
   {
    "by": "vmachek",
    "date": "2026-11-12"
+  },
+  {
+   "by": "vmachek",
+   "date": "2026-11-16"
   }
  ]
 }

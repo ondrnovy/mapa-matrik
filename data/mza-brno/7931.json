@@ -1,0 +1,133 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "7931",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/7931",
+ "signature": "Brno – sv. Tomáš, kn. 17032, O 1894–1899",
+ "parish": "Brno – sv. Tomáš",
+ "records": {
+  "O": "1894–1899"
+ },
+ "scans": 311,
+ "points": [
+  {
+   "scan": 195,
+   "type": "O",
+   "year": 1897,
+   "months": "VIII",
+   "page": "373–374",
+   "by": "vmachek"
+  },
+  {
+   "scan": 196,
+   "type": "O",
+   "year": 1897,
+   "months": "VIII–IX",
+   "page": "375–376",
+   "by": "vmachek"
+  },
+  {
+   "scan": 197,
+   "type": "O",
+   "year": 1897,
+   "months": "IX",
+   "page": "377–378",
+   "by": "vmachek"
+  },
+  {
+   "scan": 198,
+   "type": "O",
+   "year": 1897,
+   "months": "IX",
+   "page": "379–380",
+   "by": "vmachek"
+  },
+  {
+   "scan": 199,
+   "type": "O",
+   "year": 1897,
+   "months": "IX",
+   "page": "381–382",
+   "by": "vmachek"
+  },
+  {
+   "scan": 200,
+   "type": "O",
+   "year": 1897,
+   "months": "IX–X",
+   "page": "383–384",
+   "by": "vmachek"
+  },
+  {
+   "scan": 201,
+   "type": "O",
+   "year": 1897,
+   "months": "X",
+   "page": "385–386",
+   "by": "vmachek"
+  },
+  {
+   "scan": 202,
+   "type": "O",
+   "year": 1897,
+   "months": "X",
+   "page": "387–388",
+   "by": "vmachek"
+  },
+  {
+   "scan": 203,
+   "type": "O",
+   "year": 1897,
+   "months": "X",
+   "page": "389–390",
+   "by": "vmachek"
+  },
+  {
+   "scan": 204,
+   "type": "O",
+   "year": 1897,
+   "months": "X–XI",
+   "page": "391–392",
+   "by": "vmachek"
+  },
+  {
+   "scan": 205,
+   "type": "O",
+   "year": 1897,
+   "months": "XI",
+   "page": "393–394",
+   "by": "vmachek"
+  },
+  {
+   "scan": 206,
+   "type": "O",
+   "year": 1897,
+   "months": "XI",
+   "page": "395–396",
+   "by": "vmachek"
+  },
+  {
+   "scan": 207,
+   "type": "O",
+   "year": 1897,
+   "months": "XI",
+   "page": "397–398",
+   "by": "vmachek"
+  },
+  {
+   "scan": 208,
+   "type": "O",
+   "year": 1897,
+   "months": "XI",
+   "page": "399–400",
+   "by": "vmachek"
+  }
+ ],
+ "sources": [
+  {
+   "by": "vmachek",
+   "date": "2026-11-16"
+  }
+ ]
+}

@@ -123,12 +123,144 @@
    "year": 1672,
    "year_to": 1676,
    "by": "vmachek"
+  },
+  {
+   "scan": 54,
+   "type": "N",
+   "year": 1669,
+   "note": "promíchané roky",
+   "by": "vmachek"
+  },
+  {
+   "scan": 55,
+   "type": "N",
+   "year": 1670,
+   "note": "promíchané roky",
+   "by": "vmachek"
+  },
+  {
+   "scan": 56,
+   "type": "N",
+   "year": 1671,
+   "year_to": 1672,
+   "note": "promíchané roky",
+   "by": "vmachek"
+  },
+  {
+   "scan": 57,
+   "type": "N",
+   "year": 1673,
+   "note": "promíchané roky",
+   "by": "vmachek"
+  },
+  {
+   "scan": 58,
+   "type": "N",
+   "year": 1673,
+   "year_to": 1674,
+   "note": "promíchané roky",
+   "by": "vmachek"
+  },
+  {
+   "scan": 60,
+   "type": "N",
+   "year": 1676,
+   "note": "promíchané roky",
+   "by": "vmachek"
+  },
+  {
+   "scan": 62,
+   "type": "O",
+   "year": 1677,
+   "year_to": 1678,
+   "note": "promíchané roky",
+   "by": "vmachek"
+  },
+  {
+   "scan": 65,
+   "type": "N",
+   "year": 1679,
+   "note": "promíchané roky",
+   "by": "vmachek"
+  },
+  {
+   "scan": 66,
+   "type": "O",
+   "year": 1679,
+   "year_to": 1689,
+   "note": "promíchané roky",
+   "by": "vmachek"
+  },
+  {
+   "scan": 67,
+   "type": "N",
+   "year": 1680,
+   "note": "promíchané roky",
+   "by": "vmachek"
+  },
+  {
+   "scan": 68,
+   "type": "N",
+   "year": 1681,
+   "year_to": 1682,
+   "note": "promíchané roky",
+   "by": "vmachek"
+  },
+  {
+   "scan": 69,
+   "type": "O",
+   "year": 1688,
+   "note": "promíchané roky",
+   "by": "vmachek"
+  },
+  {
+   "scan": 70,
+   "type": "O",
+   "year": 1684,
+   "year_to": 1689,
+   "note": "promíchané roky",
+   "by": "vmachek"
+  },
+  {
+   "scan": 71,
+   "type": "O",
+   "year": 1685,
+   "year_to": 1686,
+   "note": "promíchané roky",
+   "by": "vmachek"
+  },
+  {
+   "scan": 73,
+   "type": "O",
+   "year": 1687,
+   "year_to": 1703,
+   "note": "promíchané roky",
+   "by": "vmachek"
+  },
+  {
+   "scan": 74,
+   "type": "N",
+   "year": 1684,
+   "year_to": 1686,
+   "note": "promíchané roky",
+   "by": "vmachek"
+  },
+  {
+   "scan": 76,
+   "type": "N",
+   "year": 1668,
+   "note": "promíchané roky",
+   "by": "vmachek"
   }
  ],
  "sources": [
   {
    "by": "vmachek",
    "date": "2026-11-12"
+  },
+  {
+   "by": "vmachek",
+   "date": "2026-11-16"
   }
  ]
 }
