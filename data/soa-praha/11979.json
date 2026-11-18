@@ -221,19 +221,19 @@
   {
    "scan": 124,
    "type": "O",
-   "year": 1751,
-   "year_to": 1752,
-   "page": "fol. 126v–127",
-   "by": "ondrnovy"
-  },
-  {
-   "scan": 124,
-   "type": "O",
    "year": 1750,
    "year_to": 1752,
    "months": "XI 1750 – I 1752",
    "page": "fol. 126v–127",
    "note": "nadpisy Anno 1751 vlevo, 1752 vpravo dole; negativ mikrofilmu",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 124,
+   "type": "O",
+   "year": 1751,
+   "year_to": 1752,
+   "page": "fol. 126v–127",
    "by": "ondrnovy"
   },
   {

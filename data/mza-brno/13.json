@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "13",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/13",
+ "signature": "Matriky, kniha č. 594",
+ "parish": "Matriky",
+ "records": {
+  "O": "1914–1929"
+ },
+ "points": [
+  {
+   "scan": 110,
+   "type": "O",
+   "year": 1921,
+   "months": "IV",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-18"
+  }
+ ]
+}

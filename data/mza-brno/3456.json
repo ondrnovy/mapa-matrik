@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "3456",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/3456",
+ "signature": "Matriky, kniha č. 580",
+ "parish": "Matriky",
+ "records": {
+  "N": "1879–1894"
+ },
+ "points": [
+  {
+   "scan": 173,
+   "type": "N",
+   "year": 1894,
+   "months": "V",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-18"
+  }
+ ]
+}
