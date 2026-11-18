@@ -8,7 +8,8 @@
  "parish": "Hlavňovice",
  "records": {
   "N": "1808–1824",
-  "O": "1808–1824"
+  "O": "1808–1824",
+  "Z": "1831"
  },
  "points": [
   {
@@ -30,6 +31,13 @@
    "type": "N",
    "year": 1816,
    "year_to": 1819,
+   "by": "matriky-index"
+  },
+  {
+   "scan": 60,
+   "type": "Z",
+   "year": 1831,
+   "months": "XI",
    "by": "matriky-index"
   }
  ],
