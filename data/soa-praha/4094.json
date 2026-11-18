@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "4094",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/4094",
+ "signature": "Borotice 08",
+ "parish": "Borotice",
+ "records": {
+  "O": "1771–1855"
+ },
+ "points": [
+  {
+   "scan": 323,
+   "type": "O",
+   "year": 1816,
+   "months": "XI",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-18"
+  }
+ ]
+}

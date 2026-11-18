@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "2c55774f-2c60-4148-82d8-2cd947644574",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/2c55774f-2c60-4148-82d8-2cd947644574",
+ "signature": "2159",
+ "parish": "Chroustovice",
+ "records": {
+  "O": "1801–1844"
+ },
+ "points": [
+  {
+   "scan": 140,
+   "type": "O",
+   "year": 1826,
+   "months": "II",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-18"
+  }
+ ]
+}

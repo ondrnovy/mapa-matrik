@@ -7,7 +7,8 @@
  "signature": "Petrovice 01",
  "parish": "Petrovice u Sušice",
  "records": {
-  "N": "1764"
+  "N": "1764",
+  "O": "1751–1758"
  },
  "points": [
   {
@@ -15,6 +16,20 @@
    "type": "N",
    "year": 1764,
    "months": "IV",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 511,
+   "type": "O",
+   "year": 1751,
+   "months": "XI",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 528,
+   "type": "O",
+   "year": 1758,
+   "months": "I",
    "by": "matriky-index"
   }
  ],
