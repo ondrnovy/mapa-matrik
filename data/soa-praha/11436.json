@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "11436",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/11436",
+ "signature": "Říčany 03 – N, O, Z 1753–1784",
+ "parish": "Říčany",
+ "records": {
+  "Z": "1753–1784"
+ },
+ "points": [
+  {
+   "scan": 261,
+   "type": "Z",
+   "year": 1778,
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-18"
+  }
+ ]
+}
