@@ -7,14 +7,160 @@
  "signature": "inv. č. 390",
  "parish": "inv. č.",
  "records": {
-  "N": "1790–1839"
+  "N": "1787–1839"
  },
  "points": [
+  {
+   "scan": 9,
+   "type": "N",
+   "year": 1807,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 10,
+   "type": "N",
+   "year": 1809,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 11,
+   "type": "N",
+   "year": 1810,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 12,
+   "type": "N",
+   "year": 1813,
+   "months": "II",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 13,
+   "type": "N",
+   "year": 1814,
+   "months": "XI",
+   "by": "pe-pan"
+  },
   {
    "scan": 14,
    "type": "N",
    "year": 1816,
    "months": "VI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 16,
+   "type": "N",
+   "year": 1787,
+   "year_to": 1819,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 17,
+   "type": "N",
+   "year": 1791,
+   "year_to": 1794,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 22,
+   "type": "N",
+   "year": 1807,
+   "months": "XI–XII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 23,
+   "type": "N",
+   "year": 1809,
+   "months": "XII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 26,
+   "type": "N",
+   "year": 1813,
+   "months": "II",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 27,
+   "type": "N",
+   "year": 1814,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 28,
+   "type": "N",
+   "year": 1816,
+   "months": "VI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 29,
+   "type": "N",
+   "year": 1816,
+   "months": "VI–VII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 30,
+   "type": "N",
+   "year": 1817,
+   "year_to": 1818,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 31,
+   "type": "N",
+   "year": 1819,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 33,
+   "type": "N",
+   "year": 1820,
+   "year_to": 1821,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 34,
+   "type": "N",
+   "year": 1822,
+   "months": "VI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 35,
+   "type": "N",
+   "year": 1823,
+   "months": "IV",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 36,
+   "type": "N",
+   "year": 1824,
+   "months": "V–VIII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 37,
+   "type": "N",
+   "year": 1825,
+   "year_to": 1826,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 41,
+   "type": "N",
+   "year": 1831,
+   "year_to": 1832,
    "by": "pe-pan"
   }
  ],

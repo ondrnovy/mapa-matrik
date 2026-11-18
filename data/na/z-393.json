@@ -1,0 +1,76 @@
+{
+ "schema": 1,
+ "archive": "na",
+ "portal": "zayt",
+ "portal_id": "z-393",
+ "url": "https://zayt.org/collections/jewish-registers-1784-1949/z-393",
+ "signature": "inv. č. 393",
+ "parish": "inv. č.",
+ "records": {
+  "Z": "1791–1839"
+ },
+ "points": [
+  {
+   "scan": 9,
+   "type": "Z",
+   "year": 1798,
+   "months": "VII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 10,
+   "type": "Z",
+   "year": 1807,
+   "months": "III",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 11,
+   "type": "Z",
+   "year": 1811,
+   "months": "VIII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 12,
+   "type": "Z",
+   "year": 1814,
+   "months": "VI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 13,
+   "type": "Z",
+   "year": 1818,
+   "year_to": 1819,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 15,
+   "type": "Z",
+   "year": 1825,
+   "months": "II",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 16,
+   "type": "Z",
+   "year": 1829,
+   "year_to": 1831,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 17,
+   "type": "Z",
+   "year": 1832,
+   "year_to": 1834,
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-18"
+  }
+ ]
+}
