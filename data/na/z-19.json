@@ -1,0 +1,69 @@
+{
+ "schema": 1,
+ "archive": "na",
+ "portal": "zayt",
+ "portal_id": "z-19",
+ "url": "https://zayt.org/collections/jewish-registers-1784-1949/z-19",
+ "signature": "inv. č. 19",
+ "parish": "inv. č.",
+ "records": {
+  "Z": "1788–1846"
+ },
+ "points": [
+  {
+   "scan": 3,
+   "type": "Z",
+   "year": 1790,
+   "months": "VI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 5,
+   "type": "Z",
+   "year": 1804,
+   "year_to": 1805,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 6,
+   "type": "Z",
+   "year": 1814,
+   "year_to": 1817,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 7,
+   "type": "Z",
+   "year": 1822,
+   "months": "III",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 8,
+   "type": "Z",
+   "year": 1825,
+   "year_to": 1829,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 9,
+   "type": "Z",
+   "year": 1836,
+   "months": "VI–X",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 10,
+   "type": "Z",
+   "year": 1837,
+   "months": "V–VII",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-19"
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "schema": 1,
+ "archive": "na",
+ "portal": "zayt",
+ "portal_id": "n-14",
+ "url": "https://zayt.org/collections/jewish-registers-1784-1949/n-14",
+ "signature": "inv. č. 14",
+ "parish": "inv. č.",
+ "records": {
+  "N": "1788–1846"
+ },
+ "points": [
+  {
+   "scan": 3,
+   "type": "N",
+   "year": 1788,
+   "months": "IV–XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 4,
+   "type": "N",
+   "year": 1790,
+   "year_to": 1792,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 5,
+   "type": "N",
+   "year": 1795,
+   "year_to": 1798,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 6,
+   "type": "N",
+   "year": 1801,
+   "year_to": 1803,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 7,
+   "type": "N",
+   "year": 1806,
+   "year_to": 1809,
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-19"
+  }
+ ]
+}

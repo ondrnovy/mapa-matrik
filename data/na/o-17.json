@@ -1,0 +1,55 @@
+{
+ "schema": 1,
+ "archive": "na",
+ "portal": "zayt",
+ "portal_id": "o-17",
+ "url": "https://zayt.org/collections/jewish-registers-1784-1949/o-17",
+ "signature": "inv. č. 17",
+ "parish": "inv. č.",
+ "records": {
+  "O": "1788–1846"
+ },
+ "points": [
+  {
+   "scan": 3,
+   "type": "O",
+   "year": 1788,
+   "months": "VI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 4,
+   "type": "O",
+   "year": 1788,
+   "months": "IX",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 5,
+   "type": "O",
+   "year": 1798,
+   "year_to": 1810,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 6,
+   "type": "O",
+   "year": 1815,
+   "year_to": 1826,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 7,
+   "type": "O",
+   "year": 1846,
+   "months": "III",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-19"
+  }
+ ]
+}

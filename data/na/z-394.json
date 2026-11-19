@@ -1,0 +1,69 @@
+{
+ "schema": 1,
+ "archive": "na",
+ "portal": "zayt",
+ "portal_id": "z-394",
+ "url": "https://zayt.org/collections/jewish-registers-1784-1949/z-394",
+ "signature": "inv. č. 394",
+ "parish": "inv. č.",
+ "records": {
+  "Z": "1863–1944"
+ },
+ "points": [
+  {
+   "scan": 4,
+   "type": "Z",
+   "year": 1863,
+   "year_to": 1864,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 19,
+   "type": "Z",
+   "year": 1878,
+   "months": "III",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 22,
+   "type": "Z",
+   "year": 1879,
+   "months": "III",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 25,
+   "type": "Z",
+   "year": 1880,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 28,
+   "type": "Z",
+   "year": 1881,
+   "months": "II",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 52,
+   "type": "Z",
+   "year": 1889,
+   "months": "III",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 57,
+   "type": "Z",
+   "year": 1891,
+   "months": "III",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-19"
+  }
+ ]
+}
