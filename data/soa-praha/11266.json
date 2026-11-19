@@ -103,18 +103,18 @@
   {
    "scan": 198,
    "type": "Z",
-   "year": 1905,
-   "page": "201"
-  },
-  {
-   "scan": 198,
-   "type": "Z",
    "year": 1904,
    "year_to": 1905,
    "months": "VIII–IV",
    "page": "201",
    "place": "Příčina",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 198,
+   "type": "Z",
+   "year": 1905,
+   "page": "201"
   },
   {
    "scan": 205,
