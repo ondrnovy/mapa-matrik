@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "9476",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/9476",
+ "signature": "Nehvizdy 07, Z 1836–1854",
+ "parish": "Nehvizdy",
+ "records": {
+  "Z": "1836–1854"
+ },
+ "points": [
+  {
+   "scan": 5,
+   "type": "Z",
+   "year": 1837,
+   "months": "IV",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-20"
+  }
+ ]
+}

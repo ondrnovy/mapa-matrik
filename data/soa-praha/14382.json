@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "14382",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/14382",
+ "signature": "Lysá nad Labem 52, Z 1860–1932, Zi 1860–1932",
+ "parish": "Lysá nad Labem",
+ "records": {
+  "Z": "1860–1932"
+ },
+ "points": [
+  {
+   "scan": 60,
+   "type": "Z",
+   "year": 1872,
+   "months": "V",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-20"
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "5980",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/5980",
+ "signature": "Chotusice 10, N 1865–1879",
+ "parish": "Chotusice",
+ "records": {
+  "N": "1865–1879"
+ },
+ "points": [
+  {
+   "scan": 231,
+   "type": "N",
+   "year": 1876,
+   "months": "I",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 270,
+   "type": "N",
+   "year": 1870,
+   "months": "IV",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-20"
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "5987",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/5987",
+ "signature": "Chotusice 17, O 1837–1891",
+ "parish": "Chotusice",
+ "records": {
+  "O": "1837–1891"
+ },
+ "points": [
+  {
+   "scan": 105,
+   "type": "O",
+   "year": 1838,
+   "months": "I",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-20"
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "14183",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/14183",
+ "signature": "Chotusice 39, O 1892–1935",
+ "parish": "Chotusice",
+ "records": {
+  "O": "1892–1935"
+ },
+ "points": [
+  {
+   "scan": 131,
+   "type": "O",
+   "year": 1894,
+   "months": "IX",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-20"
+  }
+ ]
+}

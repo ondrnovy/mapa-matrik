@@ -11,6 +11,27 @@
  },
  "points": [
   {
+   "scan": 42,
+   "type": "N",
+   "year": 1790,
+   "months": "II",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 54,
+   "type": "N",
+   "year": 1791,
+   "months": "X",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 80,
+   "type": "N",
+   "year": 1796,
+   "months": "IV",
+   "by": "pe-pan"
+  },
+  {
    "scan": 282,
    "type": "N",
    "year": 1821,

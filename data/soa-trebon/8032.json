@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "8032",
+ "url": "https://digi.ceskearchivy.cz/8032",
+ "signature": "Třeboň 18 1821-1840",
+ "parish": "Třeboň 18",
+ "records": {
+  "N": "1821–1840"
+ },
+ "points": [
+  {
+   "scan": 113,
+   "type": "N",
+   "year": 1823,
+   "months": "IX",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-20"
+  }
+ ]
+}

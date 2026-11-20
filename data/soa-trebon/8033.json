@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "8033",
+ "url": "https://digi.ceskearchivy.cz/8033",
+ "signature": "Třeboň 19 1840-1852",
+ "parish": "Třeboň 19",
+ "records": {
+  "N": "1840–1852"
+ },
+ "points": [
+  {
+   "scan": 108,
+   "type": "N",
+   "year": 1849,
+   "months": "XII",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-20"
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "8024",
+ "url": "https://digi.ceskearchivy.cz/8024",
+ "signature": "Třeboň 10 1844-1851",
+ "parish": "Třeboň 10",
+ "records": {
+  "N": "1844–1851"
+ },
+ "points": [
+  {
+   "scan": 267,
+   "type": "N",
+   "year": 1850,
+   "months": "III",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-20"
+  }
+ ]
+}

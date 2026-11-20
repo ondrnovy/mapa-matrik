@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "5149",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/5149",
+ "signature": "Dolní Jirčany 11, O 1789–1840",
+ "parish": "Dolní Jirčany",
+ "records": {
+  "O": "1789–1840"
+ },
+ "points": [
+  {
+   "scan": 35,
+   "type": "O",
+   "year": 1797,
+   "months": "II",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-20"
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "8237",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/8237",
+ "signature": "Lysá nad Labem 07, N 1791–1796",
+ "parish": "Lysá nad Labem",
+ "records": {
+  "N": "1791–1796"
+ },
+ "points": [
+  {
+   "scan": 27,
+   "type": "N",
+   "year": 1792,
+   "months": "VIII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 80,
+   "type": "N",
+   "year": 1795,
+   "months": "I",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 116,
+   "type": "N",
+   "year": 1796,
+   "months": "X",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-20"
+  }
+ ]
+}

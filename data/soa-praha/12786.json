@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "12786",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/12786",
+ "signature": "Svémyslice 03, Z 1784–1849",
+ "parish": "Svémyslice",
+ "records": {
+  "Z": "1784–1849"
+ },
+ "points": [
+  {
+   "scan": 90,
+   "type": "Z",
+   "year": 1830,
+   "months": "I",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-20"
+  }
+ ]
+}

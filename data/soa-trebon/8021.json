@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "8021",
+ "url": "https://digi.ceskearchivy.cz/8021",
+ "signature": "Třeboň 7 1801-1825",
+ "parish": "Třeboň 7",
+ "records": {
+  "N": "1801–1825"
+ },
+ "points": [
+  {
+   "scan": 422,
+   "type": "N",
+   "year": 1824,
+   "months": "V",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-20"
+  }
+ ]
+}

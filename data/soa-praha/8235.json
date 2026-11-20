@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "8235",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/8235",
+ "signature": "Lysá nad Labem 05, N 1760–1784",
+ "parish": "Lysá nad Labem",
+ "records": {
+  "N": "1760–1784"
+ },
+ "points": [
+  {
+   "scan": 160,
+   "type": "N",
+   "year": 1774,
+   "months": "II",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-20"
+  }
+ ]
+}

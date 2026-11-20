@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "28CD6F8C32C44E4CA5698947482E99D9",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=28CD6F8C32C44E4CA5698947482E99D9&scan=1",
+ "signature": "UH N7O7Z7, Uhříněves – Všech svatých, N+O+Z 1762–1774",
+ "parish": "UH",
+ "records": {
+  "O": "1762–1774"
+ },
+ "points": [
+  {
+   "scan": 126,
+   "type": "O",
+   "year": 1771,
+   "months": "XI",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-20"
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "8043",
+ "url": "https://digi.ceskearchivy.cz/8043",
+ "signature": "Třeboň 29 1796-1817",
+ "parish": "Třeboň 29",
+ "records": {
+  "O": "1796–1817"
+ },
+ "points": [
+  {
+   "scan": 71,
+   "type": "O",
+   "year": 1812,
+   "months": "XI",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-20"
+  }
+ ]
+}

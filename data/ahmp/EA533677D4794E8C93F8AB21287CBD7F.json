@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "EA533677D4794E8C93F8AB21287CBD7F",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=EA533677D4794E8C93F8AB21287CBD7F&scan=1",
+ "signature": "CHV N2, Chvaly – sv. Ludmila",
+ "parish": "CHV",
+ "records": {
+  "N": "1784–1813"
+ },
+ "points": [
+  {
+   "scan": 15,
+   "type": "N",
+   "year": 1790,
+   "months": "II",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-20"
+  }
+ ]
+}

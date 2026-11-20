@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "6189",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/6189",
+ "signature": "Jirny 16, O 1810–1830",
+ "parish": "Jirny",
+ "records": {
+  "O": "1810–1830"
+ },
+ "points": [
+  {
+   "scan": 7,
+   "type": "O",
+   "year": 1816,
+   "months": "V",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-20"
+  }
+ ]
+}

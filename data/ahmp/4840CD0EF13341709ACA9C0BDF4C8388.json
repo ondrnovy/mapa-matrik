@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "4840CD0EF13341709ACA9C0BDF4C8388",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=4840CD0EF13341709ACA9C0BDF4C8388&scan=1",
+ "signature": "UH Z10, Uhříněves – Všech svatých, Z 1808–1826",
+ "parish": "UH",
+ "records": {
+  "Z": "1808–1826"
+ },
+ "points": [
+  {
+   "scan": 69,
+   "type": "Z",
+   "year": 1813,
+   "months": "IV",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-20"
+  }
+ ]
+}

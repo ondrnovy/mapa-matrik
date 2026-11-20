@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "8236",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/8236",
+ "signature": "Lysá nad Labem 06, N 1784–1791",
+ "parish": "Lysá nad Labem",
+ "records": {
+  "N": "1784–1791"
+ },
+ "points": [
+  {
+   "scan": 70,
+   "type": "N",
+   "year": 1790,
+   "months": "VI",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-20"
+  }
+ ]
+}

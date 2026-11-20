@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "7073",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/7073",
+ "signature": "Kounice 10, O 1800–1867",
+ "parish": "Kounice",
+ "records": {
+  "O": "1800–1867"
+ },
+ "points": [
+  {
+   "scan": 3,
+   "type": "O",
+   "year": 1813,
+   "months": "I",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-20"
+  }
+ ]
+}

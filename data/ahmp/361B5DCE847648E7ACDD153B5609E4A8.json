@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "361B5DCE847648E7ACDD153B5609E4A8",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=361B5DCE847648E7ACDD153B5609E4A8&scan=1",
+ "signature": "UH Z11, Uhříněves – Všech svatých, Z 1827–1845",
+ "parish": "UH",
+ "records": {
+  "Z": "1827–1845"
+ },
+ "points": [
+  {
+   "scan": 101,
+   "type": "Z",
+   "year": 1827,
+   "months": "V",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-20"
+  }
+ ]
+}
