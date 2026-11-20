@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "694AD4D4953542259B8E20E9E9E704DF",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=694AD4D4953542259B8E20E9E9E704DF",
+ "signature": "VO Z6",
+ "parish": "Praha Nové Město – sv. Vojtěch",
+ "records": {
+  "Z": "1801–1808"
+ },
+ "points": [
+  {
+   "scan": 183,
+   "type": "Z",
+   "year": 1807,
+   "months": "XI",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-20"
+  }
+ ]
+}

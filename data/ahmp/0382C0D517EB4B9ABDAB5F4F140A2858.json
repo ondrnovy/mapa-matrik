@@ -1,0 +1,48 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "0382C0D517EB4B9ABDAB5F4F140A2858",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=0382C0D517EB4B9ABDAB5F4F140A2858",
+ "signature": "JCH N12",
+ "parish": "Praha Nové Město – sv. Jindřich",
+ "records": {
+  "N": "1752–1769"
+ },
+ "points": [
+  {
+   "scan": 139,
+   "type": "N",
+   "year": 1756,
+   "months": "VII–VIII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 242,
+   "type": "N",
+   "year": 1760,
+   "months": "I",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 285,
+   "type": "N",
+   "year": 1761,
+   "months": "III",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 299,
+   "type": "N",
+   "year": 1761,
+   "months": "VI",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-20"
+  }
+ ]
+}

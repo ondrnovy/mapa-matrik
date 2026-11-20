@@ -1,0 +1,48 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "7D4E969D306B474CB10A9ACED299A604",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=7D4E969D306B474CB10A9ACED299A604",
+ "signature": "VO Z2",
+ "parish": "Praha Nové Město – sv. Vojtěch",
+ "records": {
+  "Z": "1717–1763"
+ },
+ "points": [
+  {
+   "scan": 145,
+   "type": "Z",
+   "year": 1736,
+   "months": "V–VII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 156,
+   "type": "Z",
+   "year": 1738,
+   "months": "III",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 164,
+   "type": "Z",
+   "year": 1739,
+   "months": "IV–V",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 239,
+   "type": "Z",
+   "year": 1744,
+   "months": "VII–X",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-20"
+  }
+ ]
+}
