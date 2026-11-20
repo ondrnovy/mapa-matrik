@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "na",
+ "portal": "zayt",
+ "portal_id": "z-836",
+ "url": "https://zayt.org/collections/jewish-registers-1784-1949/z-836",
+ "signature": "Kolín, židovská matrika Z 1866–1915, 1917–1949, NA HBMa inv. 836",
+ "parish": "Kolín",
+ "records": {
+  "Z": "1866–1915"
+ },
+ "points": [
+  {
+   "scan": 279,
+   "type": "Z",
+   "year": 1917,
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-20"
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "na",
+ "portal": "zayt",
+ "portal_id": "z-359",
+ "url": "https://zayt.org/collections/jewish-control-registers-1780-1911/z-359",
+ "signature": "FÚ Kolín, kontrolní matrika Z 1840–1854",
+ "parish": "FÚ Kolín",
+ "records": {
+  "Z": "1840–1854"
+ },
+ "points": [
+  {
+   "scan": 44,
+   "type": "Z",
+   "year": 1850,
+   "months": "III",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-20"
+  }
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "schema": 1,
+ "archive": "na",
+ "portal": "zayt",
+ "portal_id": "z-832",
+ "url": "https://zayt.org/collections/jewish-registers-1784-1949/z-832",
+ "signature": "Kolín Z 1788–1829, inv. 832",
+ "parish": "Kolín Z",
+ "records": {
+  "Z": "1788–1829"
+ },
+ "points": [
+  {
+   "scan": 78,
+   "type": "Z",
+   "year": 1815,
+   "months": "IV",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 79,
+   "type": "Z",
+   "year": 1815,
+   "months": "V",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 80,
+   "type": "Z",
+   "year": 1817,
+   "months": "III",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 82,
+   "type": "Z",
+   "year": 1819,
+   "months": "IV",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 87,
+   "type": "Z",
+   "year": 1824,
+   "months": "VII–VIII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 90,
+   "type": "Z",
+   "year": 1827,
+   "months": "V–X",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 92,
+   "type": "Z",
+   "year": 1828,
+   "months": "VII",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-20"
+  }
+ ]
+}

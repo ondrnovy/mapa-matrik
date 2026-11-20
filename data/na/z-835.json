@@ -1,0 +1,41 @@
+{
+ "schema": 1,
+ "archive": "na",
+ "portal": "zayt",
+ "portal_id": "z-835",
+ "url": "https://zayt.org/collections/jewish-registers-1784-1949/z-835",
+ "signature": "Kolín, židovská matrika Z 1847–1865",
+ "parish": "Kolín",
+ "records": {
+  "Z": "1847–1865"
+ },
+ "points": [
+  {
+   "scan": 8,
+   "type": "Z",
+   "year": 1847,
+   "months": "XII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 13,
+   "type": "Z",
+   "year": 1848,
+   "months": "VI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 25,
+   "type": "Z",
+   "year": 1850,
+   "months": "III",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-20"
+  }
+ ]
+}

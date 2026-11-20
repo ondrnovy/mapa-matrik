@@ -1,0 +1,33 @@
+{
+ "schema": 1,
+ "archive": "na",
+ "portal": "zayt",
+ "portal_id": "z-833",
+ "url": "https://zayt.org/collections/jewish-registers-1784-1949/z-833",
+ "signature": "Kolín, židovská matrika Z 1830–1839",
+ "parish": "Kolín",
+ "records": {
+  "Z": "1830–1839"
+ },
+ "points": [
+  {
+   "scan": 28,
+   "type": "Z",
+   "year": 1836,
+   "months": "XII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 34,
+   "type": "Z",
+   "year": 1839,
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-20"
+  }
+ ]
+}
