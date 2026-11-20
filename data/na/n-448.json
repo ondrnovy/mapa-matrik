@@ -1,0 +1,61 @@
+{
+ "schema": 1,
+ "archive": "na",
+ "portal": "zayt",
+ "portal_id": "n-448",
+ "url": "https://zayt.org/collections/jewish-registers-1784-1949/n-448",
+ "signature": "Holice, židovská matrika N 1839–1872",
+ "parish": "Holice",
+ "records": {
+  "N": "1839–1872"
+ },
+ "points": [
+  {
+   "scan": 30,
+   "type": "N",
+   "year": 1852,
+   "months": "II",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 38,
+   "type": "N",
+   "year": 1853,
+   "months": "XII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 47,
+   "type": "N",
+   "year": 1855,
+   "year_to": 1856,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 51,
+   "type": "N",
+   "year": 1846,
+   "months": "VI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 57,
+   "type": "N",
+   "year": 1858,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 82,
+   "type": "N",
+   "year": 1821,
+   "months": "X",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-20"
+  }
+ ]
+}

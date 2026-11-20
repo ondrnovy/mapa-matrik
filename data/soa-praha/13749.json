@@ -1,0 +1,41 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "13749",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/13749",
+ "signature": "Vlašim 18, Z 1759–1823",
+ "parish": "Vlašim",
+ "records": {
+  "Z": "1759–1823"
+ },
+ "points": [
+  {
+   "scan": 102,
+   "type": "Z",
+   "year": 1805,
+   "months": "IV",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 166,
+   "type": "Z",
+   "year": 1805,
+   "months": "IV",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 183,
+   "type": "Z",
+   "year": 1805,
+   "months": "VI–VII",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-20"
+  }
+ ]
+}

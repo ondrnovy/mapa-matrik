@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "na",
+ "portal": "zayt",
+ "portal_id": "o-740",
+ "url": "https://zayt.org/collections/jewish-control-registers-1780-1911/o-740",
+ "signature": "FÚ Rokytnice v Orlických horách, kontrolní matrika oddaných 1787–1868",
+ "parish": "FÚ Rokytnice v Orlických horách",
+ "records": {
+  "O": "1787–1868"
+ },
+ "points": [
+  {
+   "scan": 8,
+   "type": "O",
+   "year": 1854,
+   "months": "X",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-20"
+  }
+ ]
+}

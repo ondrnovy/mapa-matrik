@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "na",
+ "portal": "zayt",
+ "portal_id": "o-1787",
+ "url": "https://zayt.org/collections/jewish-registers-1784-1949/o-1787",
+ "signature": "Rokytnice v Orlických horách O 1841–1870",
+ "parish": "Rokytnice v Orlických horách O",
+ "records": {
+  "O": "1841–1870"
+ },
+ "points": [
+  {
+   "scan": 6,
+   "type": "O",
+   "year": 1854,
+   "months": "X",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-20"
+  }
+ ]
+}

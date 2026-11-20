@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "na",
+ "portal": "zayt",
+ "portal_id": "o-1411",
+ "url": "https://zayt.org/collections/jewish-registers-1784-1949/o-1411",
+ "signature": "Nový Bydžov O 1839–1855",
+ "parish": "Nový Bydžov O",
+ "records": {
+  "O": "1839–1855"
+ },
+ "points": [
+  {
+   "scan": 35,
+   "type": "O",
+   "year": 1851,
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-20"
+  }
+ ]
+}
