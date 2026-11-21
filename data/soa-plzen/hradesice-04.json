@@ -1,0 +1,41 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "hradesice-04",
+ "url": "https://www.portafontium.eu/register/soap-pn/hradesice-04",
+ "signature": "Hradešice 04",
+ "parish": "Hradešice",
+ "records": {
+  "N": "1740–1768"
+ },
+ "points": [
+  {
+   "scan": 108,
+   "type": "N",
+   "year": 1760,
+   "months": "II",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 144,
+   "type": "N",
+   "year": 1765,
+   "months": "III",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 155,
+   "type": "N",
+   "year": 1766,
+   "months": "IX",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-21"
+  }
+ ]
+}

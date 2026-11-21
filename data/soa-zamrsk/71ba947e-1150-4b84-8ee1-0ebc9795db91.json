@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "71ba947e-1150-4b84-8ee1-0ebc9795db91",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/71ba947e-1150-4b84-8ee1-0ebc9795db91",
+ "signature": "2150",
+ "parish": "Chroustovice + filiální obvody Radhošť a Uhersko",
+ "records": {
+  "O": "1712–1742"
+ },
+ "points": [
+  {
+   "scan": 358,
+   "type": "O",
+   "year": 1740,
+   "months": "X",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-21"
+  }
+ ]
+}
