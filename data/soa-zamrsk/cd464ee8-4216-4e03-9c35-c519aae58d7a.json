@@ -11,6 +11,13 @@
  },
  "points": [
   {
+   "scan": 66,
+   "type": "N",
+   "year": 1757,
+   "months": "II",
+   "by": "matriky-index"
+  },
+  {
    "scan": 67,
    "type": "N",
    "year": 1757,
@@ -29,6 +36,13 @@
    "type": "N",
    "year": 1763,
    "months": "IV",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 175,
+   "type": "N",
+   "year": 1774,
+   "months": "X",
    "by": "matriky-index"
   }
  ],
