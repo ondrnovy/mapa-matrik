@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "2da47200-5978-4bb8-a74e-64e810246fad",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/2da47200-5978-4bb8-a74e-64e810246fad",
+ "signature": "2158",
+ "parish": "Chroustovice + filiální obvod Uhersko",
+ "records": {
+  "O": "1784–1800"
+ },
+ "points": [
+  {
+   "scan": 38,
+   "type": "O",
+   "year": 1796,
+   "months": "VI",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-21"
+  }
+ ]
+}
