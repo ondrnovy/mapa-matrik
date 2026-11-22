@@ -1,0 +1,70 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "2bc4dc56-6259-4f34-81ec-5f72a75c11a6",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/2bc4dc56-6259-4f34-81ec-5f72a75c11a6",
+ "signature": "216",
+ "parish": "Hlinsko",
+ "records": {
+  "N": "1707–1731",
+  "O": "1707–1731"
+ },
+ "points": [
+  {
+   "scan": 143,
+   "type": "N",
+   "year": 1725,
+   "months": "IV",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 156,
+   "type": "N",
+   "year": 1726,
+   "months": "VII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 165,
+   "type": "N",
+   "year": 1727,
+   "months": "V",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 175,
+   "type": "N",
+   "year": 1728,
+   "months": "VI",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 209,
+   "type": "N",
+   "year": 1731,
+   "months": "II",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 229,
+   "type": "O",
+   "year": 1710,
+   "months": "XI",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 254,
+   "type": "O",
+   "year": 1723,
+   "months": "VI",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-22"
+  }
+ ]
+}
