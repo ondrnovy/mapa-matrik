@@ -1,0 +1,34 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "11008",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/11008",
+ "signature": "Matriky, kniha č. 582",
+ "parish": "Matriky",
+ "records": {
+  "N": "1905–1915"
+ },
+ "points": [
+  {
+   "scan": 83,
+   "type": "N",
+   "year": 1910,
+   "months": "III",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 128,
+   "type": "N",
+   "year": 1907,
+   "months": "I",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-23"
+  }
+ ]
+}

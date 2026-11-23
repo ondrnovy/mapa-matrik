@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "47",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/47",
+ "signature": "Matriky, kniha č. 593",
+ "parish": "Matriky",
+ "records": {
+  "O": "1895–1913"
+ },
+ "points": [
+  {
+   "scan": 52,
+   "type": "O",
+   "year": 1909,
+   "months": "X",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-23"
+  }
+ ]
+}
