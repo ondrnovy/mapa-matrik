@@ -1,0 +1,39 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "4093",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/4093",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/4093/{scan}",
+ "signature": "Borotice 07",
+ "parish": "Borotice",
+ "district": "Příbram",
+ "records": {
+  "N": "1821–1848"
+ },
+ "order": "by_village",
+ "points": [
+  {
+   "scan": 220,
+   "type": "N",
+   "year": 1847,
+   "page": "218",
+   "place": "Slovanská Lhota",
+   "by": "xrojar-byte"
+  },
+  {
+   "scan": 222,
+   "type": "N",
+   "year": 1848,
+   "months": "X–XII",
+   "place": "Slovanská Lhota",
+   "by": "xrojar-byte"
+  }
+ ],
+ "sources": [
+  {
+   "by": "xrojar-byte",
+   "date": "2026-11-24"
+  }
+ ]
+}

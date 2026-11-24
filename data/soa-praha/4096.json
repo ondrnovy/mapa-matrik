@@ -18,6 +18,42 @@
    "by": "matriky-index"
   },
   {
+   "scan": 300,
+   "type": "Z",
+   "year": 1849,
+   "year_to": 1850,
+   "page": "445",
+   "place": "Slovanská Lhota",
+   "by": "xrojar-byte"
+  },
+  {
+   "scan": 301,
+   "type": "Z",
+   "year": 1850,
+   "year_to": 1851,
+   "page": "446",
+   "place": "Slovanská Lhota",
+   "by": "xrojar-byte"
+  },
+  {
+   "scan": 302,
+   "type": "Z",
+   "year": 1851,
+   "year_to": 1853,
+   "page": "447",
+   "place": "Slovanská Lhota",
+   "by": "xrojar-byte"
+  },
+  {
+   "scan": 303,
+   "type": "Z",
+   "year": 1853,
+   "year_to": 1855,
+   "page": "448",
+   "place": "Slovanská Lhota",
+   "by": "xrojar-byte"
+  },
+  {
    "scan": 325,
    "type": "Z",
    "year": 1873,
@@ -29,6 +65,10 @@
   {
    "by": "matriky-index",
    "date": "2026-11-18"
+  },
+  {
+   "by": "xrojar-byte",
+   "date": "2026-11-24"
   }
  ]
 }

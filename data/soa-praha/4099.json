@@ -1,0 +1,40 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "4099",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/4099",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/4099/{scan}",
+ "signature": "Borotice 13",
+ "parish": "Borotice",
+ "district": "Příbram",
+ "records": {
+  "iO": "1771–1855"
+ },
+ "notes": [
+  "Rejstřík oddaných podle ženicha, po písmenech, uvnitř písmene chronologicky (B sn. 2–3)."
+ ],
+ "points": [
+  {
+   "scan": 2,
+   "type": "iO",
+   "letters": "B",
+   "year": 1772,
+   "year_to": 1781,
+   "by": "xrojar-byte"
+  },
+  {
+   "scan": 3,
+   "type": "iO",
+   "letters": "B",
+   "year": 1782,
+   "by": "xrojar-byte"
+  }
+ ],
+ "sources": [
+  {
+   "by": "xrojar-byte",
+   "date": "2026-11-24"
+  }
+ ]
+}

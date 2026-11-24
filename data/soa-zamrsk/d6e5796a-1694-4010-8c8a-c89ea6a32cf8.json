@@ -6,22 +6,37 @@
  "url": "https://aron.vychodoceskearchivy.cz/apu/d6e5796a-1694-4010-8c8a-c89ea6a32cf8",
  "signature": "2152",
  "parish": "Chroustovice",
+ "district": "Chrudim",
  "records": {
-  "N": "1778–1784"
+  "N": "1778–1784",
+  "iN": "1737–1784"
  },
+ "order": "chronological",
+ "notes": [
+  "Kromě matriky N 1778–1784 (asi sn. 4–36) obsahuje rejstřík narozených fary ke starším knihám (A, B, C = sign. 2150, 2151); rejstřík odkazuje na původní foliaci knih (psanou nahoře). Rozsah rejstříku ověřen pro 1737–1777."
+ ],
  "points": [
   {
-   "scan": 7,
-   "type": "N",
-   "year": 1778,
-   "months": "VIII",
-   "by": "matriky-index"
+   "scan": 135,
+   "type": "iN",
+   "letters": "S",
+   "year": 1746,
+   "year_to": 1755,
+   "by": "xrojar-byte"
+  },
+  {
+   "scan": 136,
+   "type": "iN",
+   "letters": "S",
+   "year": 1755,
+   "year_to": 1764,
+   "by": "xrojar-byte"
   }
  ],
  "sources": [
   {
-   "by": "matriky-index",
-   "date": "2026-11-15"
+   "by": "xrojar-byte",
+   "date": "2026-11-24"
   }
  ]
 }

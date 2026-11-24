@@ -1,0 +1,61 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "4097",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/4097",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/4097/{scan}",
+ "signature": "Borotice 11",
+ "parish": "Borotice",
+ "district": "Příbram",
+ "records": {
+  "iN": "1785–1820"
+ },
+ "notes": [
+  "Rejstřík narozených po písmenech, uvnitř písmene chronologicky; Ch je zařazeno za H (sn. 10 dole – 11)."
+ ],
+ "points": [
+  {
+   "scan": 4,
+   "type": "iN",
+   "letters": "B",
+   "by": "xrojar-byte"
+  },
+  {
+   "scan": 6,
+   "type": "iN",
+   "letters": "C, Č",
+   "by": "xrojar-byte"
+  },
+  {
+   "scan": 8,
+   "type": "iN",
+   "letters": "F",
+   "by": "xrojar-byte"
+  },
+  {
+   "scan": 10,
+   "type": "iN",
+   "letters": "H, Ch",
+   "by": "xrojar-byte"
+  },
+  {
+   "scan": 11,
+   "type": "iN",
+   "letters": "Ch, J",
+   "by": "xrojar-byte"
+  },
+  {
+   "scan": 13,
+   "type": "iN",
+   "letters": "K",
+   "by": "xrojar-byte"
+  }
+ ],
+ "sources": [
+  {
+   "by": "xrojar-byte",
+   "date": "2026-11-24"
+  }
+ ]
+}

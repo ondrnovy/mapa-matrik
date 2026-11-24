@@ -25,6 +25,15 @@
    "by": "matriky-index"
   },
   {
+   "scan": 67,
+   "type": "N",
+   "year": 1757,
+   "months": "VII–VIII",
+   "page": "fol. 66",
+   "note": "číslo listu = původní foliace nahoře (rejstřík ve sign. 2152 na ni odkazuje)",
+   "by": "xrojar-byte"
+  },
+  {
    "scan": 68,
    "type": "N",
    "year": 1757,
@@ -32,11 +41,42 @@
    "by": "matriky-index"
   },
   {
+   "scan": 68,
+   "type": "N",
+   "year": 1757,
+   "months": "IX–XI",
+   "page": "fol. 67",
+   "by": "xrojar-byte"
+  },
+  {
+   "scan": 69,
+   "type": "N",
+   "year": 1757,
+   "months": "XI–XII",
+   "by": "xrojar-byte"
+  },
+  {
+   "scan": 75,
+   "type": "N",
+   "year": 1759,
+   "months": "V–IX",
+   "page": "fol. 74",
+   "by": "xrojar-byte"
+  },
+  {
    "scan": 96,
    "type": "N",
    "year": 1763,
    "months": "IV",
    "by": "matriky-index"
+  },
+  {
+   "scan": 96,
+   "type": "N",
+   "year": 1763,
+   "months": "III–IV",
+   "page": "fol. 95",
+   "by": "xrojar-byte"
   },
   {
    "scan": 175,
@@ -51,12 +91,24 @@
    "year": 1776,
    "months": "X",
    "by": "matriky-index"
+  },
+  {
+   "scan": 293,
+   "type": "O",
+   "year": 1770,
+   "months": "V–XI",
+   "page": "fol. 540",
+   "by": "xrojar-byte"
   }
  ],
  "sources": [
   {
    "by": "matriky-index",
    "date": "2026-11-18"
+  },
+  {
+   "by": "xrojar-byte",
+   "date": "2026-11-24"
   }
  ]
 }

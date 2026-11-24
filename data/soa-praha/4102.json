@@ -1,0 +1,121 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "4102",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/4102",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/4102/{scan}",
+ "signature": "Borotice 16",
+ "parish": "Borotice",
+ "district": "Příbram",
+ "records": {
+  "N": "1849–1875"
+ },
+ "order": "by_village",
+ "points": [
+  {
+   "scan": 497,
+   "type": "N",
+   "year": 1855,
+   "page": "600",
+   "place": "Slovanská Lhota",
+   "by": "xrojar-byte"
+  },
+  {
+   "scan": 498,
+   "type": "N",
+   "year": 1855,
+   "year_to": 1856,
+   "place": "Slovanská Lhota",
+   "by": "xrojar-byte"
+  },
+  {
+   "scan": 499,
+   "type": "N",
+   "year": 1856,
+   "place": "Slovanská Lhota",
+   "by": "xrojar-byte"
+  },
+  {
+   "scan": 500,
+   "type": "N",
+   "year": 1856,
+   "year_to": 1857,
+   "page": "603",
+   "place": "Slovanská Lhota",
+   "by": "xrojar-byte"
+  },
+  {
+   "scan": 501,
+   "type": "N",
+   "year": 1857,
+   "page": "604",
+   "place": "Slovanská Lhota",
+   "by": "xrojar-byte"
+  },
+  {
+   "scan": 504,
+   "type": "N",
+   "year": 1859,
+   "place": "Slovanská Lhota",
+   "by": "xrojar-byte"
+  },
+  {
+   "scan": 505,
+   "type": "N",
+   "year": 1859,
+   "place": "Slovanská Lhota",
+   "by": "xrojar-byte"
+  },
+  {
+   "scan": 506,
+   "type": "N",
+   "year": 1859,
+   "year_to": 1860,
+   "place": "Slovanská Lhota",
+   "by": "xrojar-byte"
+  },
+  {
+   "scan": 507,
+   "type": "N",
+   "year": 1860,
+   "place": "Slovanská Lhota",
+   "by": "xrojar-byte"
+  },
+  {
+   "scan": 510,
+   "type": "N",
+   "year": 1862,
+   "place": "Slovanská Lhota",
+   "by": "xrojar-byte"
+  },
+  {
+   "scan": 511,
+   "type": "N",
+   "year": 1862,
+   "place": "Slovanská Lhota",
+   "by": "xrojar-byte"
+  },
+  {
+   "scan": 512,
+   "type": "N",
+   "year": 1862,
+   "place": "Slovanská Lhota",
+   "by": "xrojar-byte"
+  },
+  {
+   "scan": 514,
+   "type": "N",
+   "year": 1863,
+   "year_to": 1864,
+   "place": "Slovanská Lhota",
+   "by": "xrojar-byte"
+  }
+ ],
+ "sources": [
+  {
+   "by": "xrojar-byte",
+   "date": "2026-11-24"
+  }
+ ]
+}

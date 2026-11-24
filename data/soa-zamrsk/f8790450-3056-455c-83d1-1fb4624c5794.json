@@ -5,23 +5,117 @@
  "portal_id": "f8790450-3056-455c-83d1-1fb4624c5794",
  "url": "https://aron.vychodoceskearchivy.cz/apu/f8790450-3056-455c-83d1-1fb4624c5794",
  "signature": "2157",
- "parish": "Chroustovice + filiální obvody Radhošť a Uhersko",
+ "parish": "Chroustovice",
+ "district": "Chrudim",
  "records": {
-  "O": "1778–1784"
+  "O": "1778–1784",
+  "iO": "1665–1784"
  },
+ "order": "chronological",
+ "notes": [
+  "O 1778–4/1784 po rocích jako „Consignatio copulatorum“; od sn. 28 rejstřík oddaných fary 1665–1784 po písmenech, v každém písmenu oddíly podle knih A–D (D = tato kniha); čísla v rejstříku = původní listy knih."
+ ],
  "points": [
+  {
+   "scan": 11,
+   "type": "O",
+   "year": 1781,
+   "note": "leden–únor 1781",
+   "by": "xrojar-byte"
+  },
+  {
+   "scan": 12,
+   "type": "O",
+   "year": 1781,
+   "year_to": 1782,
+   "by": "xrojar-byte"
+  },
+  {
+   "scan": 13,
+   "type": "O",
+   "year": 1782,
+   "note": "vpravo Consignatio copulatorum 1782",
+   "by": "xrojar-byte"
+  },
   {
    "scan": 14,
    "type": "O",
    "year": 1783,
-   "months": "II",
-   "by": "matriky-index"
+   "months": "II–",
+   "note": "Consignatio copulatorum 1783",
+   "by": "xrojar-byte"
+  },
+  {
+   "scan": 28,
+   "type": "iO",
+   "letters": "I, J",
+   "by": "xrojar-byte"
+  },
+  {
+   "scan": 34,
+   "type": "iO",
+   "letters": "M",
+   "by": "xrojar-byte"
+  },
+  {
+   "scan": 40,
+   "type": "iO",
+   "letters": "P",
+   "by": "xrojar-byte"
+  },
+  {
+   "scan": 43,
+   "type": "iO",
+   "letters": "R",
+   "by": "xrojar-byte"
+  },
+  {
+   "scan": 44,
+   "type": "iO",
+   "letters": "S",
+   "note": "začátek písmene",
+   "by": "xrojar-byte"
+  },
+  {
+   "scan": 46,
+   "type": "iO",
+   "letters": "S",
+   "note": "vlevo kniha B do 1741 a začátek knihy C, vpravo kniha C do 1758",
+   "by": "xrojar-byte"
+  },
+  {
+   "scan": 47,
+   "type": "iO",
+   "letters": "S",
+   "note": "kniha C 1758–1777, vpravo kniha D",
+   "by": "xrojar-byte"
+  },
+  {
+   "scan": 49,
+   "type": "iO",
+   "letters": "U",
+   "note": "začátek písmene",
+   "by": "xrojar-byte"
+  },
+  {
+   "scan": 50,
+   "type": "iO",
+   "letters": "W",
+   "note": "začátek písmene",
+   "by": "xrojar-byte"
+  },
+  {
+   "scan": 53,
+   "type": "iO",
+   "letters": "Z",
+   "note": "začátek písmene",
+   "by": "xrojar-byte"
   }
  ],
  "sources": [
   {
-   "by": "matriky-index",
-   "date": "2026-11-18"
+   "by": "xrojar-byte",
+   "date": "2026-11-24"
   }
  ]
 }
