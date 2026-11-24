@@ -1,0 +1,79 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "29e3f91ac933f2f4:2c7af293:146ec53500c:-7e9c",
+ "url": "https://digi.archives.cz/da/permalink?xid=29e3f91ac933f2f4:2c7af293:146ec53500c:-7e9c",
+ "signature": "Vs IV 22",
+ "parish": "Hovězí",
+ "district": "Vsetín",
+ "places": [
+  "Hovězí"
+ ],
+ "place_codes": {
+  "Hovězí": 46345
+ },
+ "records": {
+  "O": "1878–1936"
+ },
+ "index": {
+  "volume": "rejstřík Vs IV 23"
+ },
+ "points": [
+  {
+   "scan": 24,
+   "type": "O",
+   "year": 1883,
+   "months": "I",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 37,
+   "type": "O",
+   "year": 1886,
+   "months": "XI",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 55,
+   "type": "O",
+   "year": 1891,
+   "months": "VIII",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 71,
+   "type": "O",
+   "year": 1896,
+   "months": "VI",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 138,
+   "type": "O",
+   "year": 1909,
+   "months": "II",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 163,
+   "type": "O",
+   "year": 1912,
+   "months": "VI",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 201,
+   "type": "O",
+   "year": 1919,
+   "months": "III",
+   "by": "strbackatomas"
+  }
+ ],
+ "sources": [
+  {
+   "by": "strbackatomas",
+   "date": "2026-11-24"
+  }
+ ]
+}

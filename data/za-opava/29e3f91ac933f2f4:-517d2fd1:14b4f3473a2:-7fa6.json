@@ -1,0 +1,35 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "29e3f91ac933f2f4:-517d2fd1:14b4f3473a2:-7fa6",
+ "url": "https://digi.archives.cz/da/permalink?xid=29e3f91ac933f2f4:-517d2fd1:14b4f3473a2:-7fa6",
+ "signature": "Vs II 23",
+ "parish": "Halenkov",
+ "district": "Vsetín",
+ "places": [
+  "Halenkov"
+ ],
+ "place_codes": {
+  "Halenkov": 36871
+ },
+ "records": {
+  "N": "1905–1915",
+  "iN": "1905–1915"
+ },
+ "points": [
+  {
+   "scan": 147,
+   "type": "N",
+   "year": 1911,
+   "months": "II",
+   "by": "strbackatomas"
+  }
+ ],
+ "sources": [
+  {
+   "by": "strbackatomas",
+   "date": "2026-11-24"
+  }
+ ]
+}

@@ -1,0 +1,98 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be87ea58-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be87ea58-f13c-102f-8255-0050568c0263",
+ "signature": "Vs IV 6",
+ "parish": "Hovězí",
+ "district": "Vsetín",
+ "places": [
+  "Hovězí"
+ ],
+ "place_codes": {
+  "Hovězí": 46345
+ },
+ "records": {
+  "O": "1834–1877",
+  "iO": "1834–1877"
+ },
+ "points": [
+  {
+   "scan": 3,
+   "type": "O",
+   "year": 1836,
+   "months": "II",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 5,
+   "type": "O",
+   "year": 1837,
+   "months": "V",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 16,
+   "type": "O",
+   "year": 1841,
+   "months": "II",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 23,
+   "type": "O",
+   "year": 1842,
+   "months": "XI",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 59,
+   "type": "O",
+   "year": 1852,
+   "months": "XI",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 63,
+   "type": "O",
+   "year": 1855,
+   "months": "II",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 79,
+   "type": "O",
+   "year": 1862,
+   "months": "XI",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 84,
+   "type": "O",
+   "year": 1867,
+   "months": "III",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 97,
+   "type": "O",
+   "year": 1872,
+   "months": "II",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 100,
+   "type": "O",
+   "year": 1873,
+   "months": "XI",
+   "by": "strbackatomas"
+  }
+ ],
+ "sources": [
+  {
+   "by": "strbackatomas",
+   "date": "2026-11-24"
+  }
+ ]
+}

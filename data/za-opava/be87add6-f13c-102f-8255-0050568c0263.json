@@ -1,0 +1,61 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be87add6-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be87add6-f13c-102f-8255-0050568c0263",
+ "signature": "VM VIII 3",
+ "parish": "Rožnov pod Radhoštěm",
+ "district": "Vsetín",
+ "places": [
+  "Rožnov pod Radhoštěm",
+  "Brňov",
+  "Bystřička",
+  "Dolní Bečva",
+  "Hážovice",
+  "Malá Bystřice",
+  "Malá Lhota"
+ ],
+ "place_codes": {
+  "Rožnov pod Radhoštěm": 414808,
+  "Bystřička": 17141,
+  "Dolní Bečva": 28525,
+  "Malá Bystřice": 90042,
+  "Malá Lhota": 90123
+ },
+ "records": {
+  "N": "1771–1795"
+ },
+ "notes": [
+  "Od 1784 zápisy po obcích; Rožnov 1790 = sn. 130–133."
+ ],
+ "points": [
+  {
+   "scan": 131,
+   "type": "N",
+   "year": 1790,
+   "months": "III",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 200,
+   "type": "N",
+   "year": 1792,
+   "months": "X",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 201,
+   "type": "N",
+   "year": 1793,
+   "months": "X",
+   "by": "strbackatomas"
+  }
+ ],
+ "sources": [
+  {
+   "by": "strbackatomas",
+   "date": "2026-11-24"
+  }
+ ]
+}

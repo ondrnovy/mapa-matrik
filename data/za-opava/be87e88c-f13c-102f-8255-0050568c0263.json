@@ -1,0 +1,44 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be87e88c-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be87e88c-f13c-102f-8255-0050568c0263",
+ "signature": "Vs IV 2",
+ "parish": "Hovězí",
+ "district": "Vsetín",
+ "places": [
+  "Halenkov",
+  "Hovězí"
+ ],
+ "place_codes": {
+  "Halenkov": 36871,
+  "Hovězí": 46345
+ },
+ "records": {
+  "N": "1796–1828",
+  "iN": "1796–1828"
+ },
+ "points": [
+  {
+   "scan": 21,
+   "type": "N",
+   "year": 1799,
+   "months": "III",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 87,
+   "type": "N",
+   "year": 1810,
+   "months": "X",
+   "by": "strbackatomas"
+  }
+ ],
+ "sources": [
+  {
+   "by": "strbackatomas",
+   "date": "2026-11-24"
+  }
+ ]
+}

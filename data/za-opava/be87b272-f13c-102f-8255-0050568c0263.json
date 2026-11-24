@@ -1,0 +1,70 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be87b272-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be87b272-f13c-102f-8255-0050568c0263",
+ "signature": "VM VIII 12",
+ "parish": "Rožnov pod Radhoštěm",
+ "district": "Vsetín",
+ "places": [
+  "Rožnov pod Radhoštěm"
+ ],
+ "place_codes": {
+  "Rožnov pod Radhoštěm": 414808
+ },
+ "records": {
+  "Z": "1796–1860",
+  "iZ": "1796–1860"
+ },
+ "points": [
+  {
+   "scan": 43,
+   "type": "Z",
+   "year": 1812,
+   "months": "IV",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 71,
+   "type": "Z",
+   "year": 1826,
+   "months": "II",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 75,
+   "type": "Z",
+   "year": 1827,
+   "months": "XII",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 86,
+   "type": "Z",
+   "year": 1833,
+   "months": "IV",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 173,
+   "type": "Z",
+   "year": 1847,
+   "months": "IX",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 181,
+   "type": "Z",
+   "year": 1848,
+   "months": "IV",
+   "by": "strbackatomas"
+  }
+ ],
+ "sources": [
+  {
+   "by": "strbackatomas",
+   "date": "2026-11-24"
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "29e3f91ac933f2f4:-2641c770:149084a24a7:-7ef0",
+ "url": "https://digi.archives.cz/da/permalink?xid=29e3f91ac933f2f4:-2641c770:149084a24a7:-7ef0",
+ "signature": "Vs II 18",
+ "parish": "Halenkov",
+ "district": "Vsetín",
+ "places": [
+  "Hovězí",
+  "Huslenky"
+ ],
+ "place_codes": {
+  "Hovězí": 46345,
+  "Huslenky": 49760
+ },
+ "records": {
+  "N": "1908–1924",
+  "iN": "1908–1924"
+ },
+ "points": [
+  {
+   "scan": 83,
+   "type": "N",
+   "year": 1916,
+   "months": "XII",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 107,
+   "type": "N",
+   "year": 1919,
+   "months": "X",
+   "by": "strbackatomas"
+  }
+ ],
+ "sources": [
+  {
+   "by": "strbackatomas",
+   "date": "2026-11-24"
+  }
+ ]
+}

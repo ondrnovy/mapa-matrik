@@ -1,0 +1,74 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be87e9ea-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be87e9ea-f13c-102f-8255-0050568c0263",
+ "signature": "Vs IV 5",
+ "parish": "Hovězí",
+ "district": "Vsetín",
+ "places": [
+  "Halenkov",
+  "Hovězí",
+  "Zděchov"
+ ],
+ "place_codes": {
+  "Halenkov": 36871,
+  "Hovězí": 46345,
+  "Zděchov": 192228
+ },
+ "records": {
+  "O": "1784–1833",
+  "iO": "1784–1833"
+ },
+ "points": [
+  {
+   "scan": 8,
+   "type": "O",
+   "year": 1786,
+   "months": "V",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 21,
+   "type": "O",
+   "year": 1793,
+   "months": "IV",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 30,
+   "type": "O",
+   "year": 1799,
+   "months": "I",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 42,
+   "type": "O",
+   "year": 1807,
+   "months": "II",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 53,
+   "type": "O",
+   "year": 1821,
+   "months": "III",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 57,
+   "type": "O",
+   "year": 1825,
+   "months": "II",
+   "by": "strbackatomas"
+  }
+ ],
+ "sources": [
+  {
+   "by": "strbackatomas",
+   "date": "2026-11-24"
+  }
+ ]
+}

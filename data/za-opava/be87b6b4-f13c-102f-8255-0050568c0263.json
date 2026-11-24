@@ -1,0 +1,40 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be87b6b4-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be87b6b4-f13c-102f-8255-0050568c0263",
+ "signature": "VM VIII 21",
+ "parish": "Rožnov pod Radhoštěm",
+ "district": "Vsetín",
+ "places": [
+  "Tylovice"
+ ],
+ "place_codes": {},
+ "records": {
+  "Z": "1796–1905",
+  "iZ": "1796–1905"
+ },
+ "points": [
+  {
+   "scan": 25,
+   "type": "Z",
+   "year": 1839,
+   "months": "IV",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 33,
+   "type": "Z",
+   "year": 1844,
+   "months": "IV",
+   "by": "strbackatomas"
+  }
+ ],
+ "sources": [
+  {
+   "by": "strbackatomas",
+   "date": "2026-11-24"
+  }
+ ]
+}

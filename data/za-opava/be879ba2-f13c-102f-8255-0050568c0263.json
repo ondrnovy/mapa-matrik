@@ -1,0 +1,37 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be879ba2-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be879ba2-f13c-102f-8255-0050568c0263",
+ "signature": "VM V 17",
+ "parish": "Hutisko",
+ "district": "Vsetín",
+ "places": [
+  "Hutisko",
+  "Solanec pod Soláněm"
+ ],
+ "place_codes": {
+  "Hutisko": 50016,
+  "Solanec pod Soláněm": 50067
+ },
+ "records": {
+  "N": "1854–1879",
+  "iN": "1854–1879"
+ },
+ "points": [
+  {
+   "scan": 39,
+   "type": "N",
+   "year": 1862,
+   "months": "V",
+   "by": "strbackatomas"
+  }
+ ],
+ "sources": [
+  {
+   "by": "strbackatomas",
+   "date": "2026-11-24"
+  }
+ ]
+}

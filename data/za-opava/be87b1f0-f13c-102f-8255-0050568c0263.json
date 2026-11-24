@@ -1,0 +1,35 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be87b1f0-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be87b1f0-f13c-102f-8255-0050568c0263",
+ "signature": "VM VIII 11",
+ "parish": "Rožnov pod Radhoštěm",
+ "district": "Vsetín",
+ "places": [
+  "Rožnov pod Radhoštěm"
+ ],
+ "place_codes": {
+  "Rožnov pod Radhoštěm": 414808
+ },
+ "records": {
+  "O": "1796–1864",
+  "iO": "1796–1864"
+ },
+ "points": [
+  {
+   "scan": 22,
+   "type": "O",
+   "year": 1821,
+   "months": "II",
+   "by": "strbackatomas"
+  }
+ ],
+ "sources": [
+  {
+   "by": "strbackatomas",
+   "date": "2026-11-24"
+  }
+ ]
+}

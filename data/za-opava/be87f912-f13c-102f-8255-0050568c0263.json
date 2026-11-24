@@ -1,0 +1,35 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be87f912-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be87f912-f13c-102f-8255-0050568c0263",
+ "signature": "Vs VI 2",
+ "parish": "Nový Hrozenkov",
+ "district": "Vsetín",
+ "places": [
+  "Nový Hrozenkov"
+ ],
+ "place_codes": {
+  "Nový Hrozenkov": 107387
+ },
+ "records": {
+  "N": "1784–1819",
+  "iN": "1784–1819"
+ },
+ "points": [
+  {
+   "scan": 150,
+   "type": "N",
+   "year": 1812,
+   "months": "V",
+   "by": "strbackatomas"
+  }
+ ],
+ "sources": [
+  {
+   "by": "strbackatomas",
+   "date": "2026-11-24"
+  }
+ ]
+}

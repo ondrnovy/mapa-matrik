@@ -1,0 +1,42 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be87eecc-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be87eecc-f13c-102f-8255-0050568c0263",
+ "signature": "Vs IV 15",
+ "parish": "Hovězí",
+ "district": "Vsetín",
+ "places": [
+  "Hovězí"
+ ],
+ "place_codes": {
+  "Hovězí": 46345
+ },
+ "records": {
+  "Z": "1853–1894",
+  "iZ": "1853–1894"
+ },
+ "points": [
+  {
+   "scan": 80,
+   "type": "Z",
+   "year": 1881,
+   "months": "IV",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 85,
+   "type": "Z",
+   "year": 1883,
+   "months": "III",
+   "by": "strbackatomas"
+  }
+ ],
+ "sources": [
+  {
+   "by": "strbackatomas",
+   "date": "2026-11-24"
+  }
+ ]
+}

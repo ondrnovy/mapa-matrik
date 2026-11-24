@@ -1,0 +1,63 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be87fade-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be87fade-f13c-102f-8255-0050568c0263",
+ "signature": "Vs VI 6",
+ "parish": "Nový Hrozenkov",
+ "district": "Vsetín",
+ "places": [
+  "Nový Hrozenkov"
+ ],
+ "place_codes": {
+  "Nový Hrozenkov": 107387
+ },
+ "records": {
+  "N": "1865–1873",
+  "iN": "1865–1873"
+ },
+ "points": [
+  {
+   "scan": 28,
+   "type": "N",
+   "year": 1866,
+   "months": "IX",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 29,
+   "type": "N",
+   "year": 1866,
+   "months": "XI",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 64,
+   "type": "N",
+   "year": 1869,
+   "months": "II",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 102,
+   "type": "N",
+   "year": 1871,
+   "months": "IV",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 138,
+   "type": "N",
+   "year": 1873,
+   "months": "II",
+   "by": "strbackatomas"
+  }
+ ],
+ "sources": [
+  {
+   "by": "strbackatomas",
+   "date": "2026-11-24"
+  }
+ ]
+}

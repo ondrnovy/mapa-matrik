@@ -1,0 +1,39 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be87e152-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be87e152-f13c-102f-8255-0050568c0263",
+ "signature": "Vs II 7",
+ "parish": "Halenkov",
+ "district": "Vsetín",
+ "places": [
+  "Halenkov",
+  "Hovězí",
+  "Nový Hrozenkov"
+ ],
+ "place_codes": {
+  "Halenkov": 36871,
+  "Hovězí": 46345,
+  "Nový Hrozenkov": 107387
+ },
+ "records": {
+  "Z": "1789–1819",
+  "iZ": "1789–1819"
+ },
+ "points": [
+  {
+   "scan": 5,
+   "type": "Z",
+   "year": 1793,
+   "months": "I",
+   "by": "strbackatomas"
+  }
+ ],
+ "sources": [
+  {
+   "by": "strbackatomas",
+   "date": "2026-11-24"
+  }
+ ]
+}

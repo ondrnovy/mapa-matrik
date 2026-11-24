@@ -1,0 +1,61 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be87d14e-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be87d14e-f13c-102f-8255-0050568c0263",
+ "signature": "Vs I 2",
+ "parish": "Vsetín",
+ "district": "Vsetín",
+ "places": [
+  "Dolní Jasenka",
+  "Halenkov",
+  "Hovězí",
+  "Huslenky",
+  "Nový Hrozenkov",
+  "Vsetín",
+  "Zděchov"
+ ],
+ "place_codes": {
+  "Halenkov": 36871,
+  "Hovězí": 46345,
+  "Huslenky": 49760,
+  "Nový Hrozenkov": 107387,
+  "Vsetín": 414786,
+  "Zděchov": 192228
+ },
+ "records": {
+  "N": "1694–1727",
+  "Z": "1708–1723",
+  "O": "1708–1733"
+ },
+ "points": [
+  {
+   "scan": 317,
+   "type": "N",
+   "year": 1712,
+   "months": "VI",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 354,
+   "type": "N",
+   "year": 1715,
+   "months": "III",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 381,
+   "type": "N",
+   "year": 1716,
+   "months": "XI",
+   "by": "strbackatomas"
+  }
+ ],
+ "sources": [
+  {
+   "by": "strbackatomas",
+   "date": "2026-11-24"
+  }
+ ]
+}

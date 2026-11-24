@@ -1,0 +1,41 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be87ed46-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be87ed46-f13c-102f-8255-0050568c0263",
+ "signature": "Vs IV 12",
+ "parish": "Hovězí",
+ "district": "Vsetín",
+ "places": [
+  "Hovězí"
+ ],
+ "place_codes": {
+  "Hovězí": 46345
+ },
+ "records": {
+  "N": "1888–1907"
+ },
+ "points": [
+  {
+   "scan": 41,
+   "type": "N",
+   "year": 1894,
+   "months": "IX",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 74,
+   "type": "N",
+   "year": 1899,
+   "months": "VII",
+   "by": "strbackatomas"
+  }
+ ],
+ "sources": [
+  {
+   "by": "strbackatomas",
+   "date": "2026-11-24"
+  }
+ ]
+}

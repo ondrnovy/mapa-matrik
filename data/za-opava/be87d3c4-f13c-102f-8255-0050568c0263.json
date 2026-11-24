@@ -1,0 +1,45 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be87d3c4-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be87d3c4-f13c-102f-8255-0050568c0263",
+ "signature": "Vs I 4",
+ "parish": "Vsetín",
+ "district": "Vsetín",
+ "places": [
+  "Halenkov",
+  "Hovězí",
+  "Nový Hrozenkov",
+  "Vsetín",
+  "Zděchov"
+ ],
+ "place_codes": {
+  "Halenkov": 36871,
+  "Hovězí": 46345,
+  "Nový Hrozenkov": 107387,
+  "Vsetín": 414786,
+  "Zděchov": 192228
+ },
+ "records": {
+  "N": "1732–1772",
+  "Z": "1732–1772",
+  "O": "1732–1772",
+  "iO": "1732–1772"
+ },
+ "points": [
+  {
+   "scan": 14,
+   "type": "O",
+   "year": 1739,
+   "months": "XI",
+   "by": "strbackatomas"
+  }
+ ],
+ "sources": [
+  {
+   "by": "strbackatomas",
+   "date": "2026-11-24"
+  }
+ ]
+}

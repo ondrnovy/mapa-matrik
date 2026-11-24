@@ -1,0 +1,77 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be87e328-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be87e328-f13c-102f-8255-0050568c0263",
+ "signature": "Vs II 11",
+ "parish": "Halenkov",
+ "district": "Vsetín",
+ "places": [
+  "Halenkov"
+ ],
+ "place_codes": {
+  "Halenkov": 36871
+ },
+ "records": {
+  "O": "1856–1899",
+  "iO": "1856–1899"
+ },
+ "points": [
+  {
+   "scan": 5,
+   "type": "O",
+   "year": 1858,
+   "months": "XI",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 10,
+   "type": "O",
+   "year": 1861,
+   "months": "II",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 15,
+   "type": "O",
+   "year": 1863,
+   "months": "XI",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 29,
+   "type": "O",
+   "year": 1872,
+   "months": "XI",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 75,
+   "type": "O",
+   "year": 1889,
+   "months": "IX",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 83,
+   "type": "O",
+   "year": 1892,
+   "months": "II–V",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 89,
+   "type": "O",
+   "year": 1894,
+   "months": "II",
+   "by": "strbackatomas"
+  }
+ ],
+ "sources": [
+  {
+   "by": "strbackatomas",
+   "date": "2026-11-24"
+  }
+ ]
+}

@@ -1,0 +1,98 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be87fb56-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be87fb56-f13c-102f-8255-0050568c0263",
+ "signature": "Vs VI 7",
+ "parish": "Nový Hrozenkov",
+ "district": "Vsetín",
+ "places": [
+  "Nový Hrozenkov"
+ ],
+ "place_codes": {
+  "Nový Hrozenkov": 107387
+ },
+ "records": {
+  "O": "1784–1849",
+  "iO": "1784–1849"
+ },
+ "points": [
+  {
+   "scan": 17,
+   "type": "O",
+   "year": 1790,
+   "months": "VII",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 23,
+   "type": "O",
+   "year": 1793,
+   "months": "XI",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 31,
+   "type": "O",
+   "year": 1798,
+   "months": "XI",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 34,
+   "type": "O",
+   "year": 1801,
+   "months": "V",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 37,
+   "type": "O",
+   "year": 1802,
+   "months": "II",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 64,
+   "type": "O",
+   "year": 1827,
+   "months": "II",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 65,
+   "type": "O",
+   "year": 1827,
+   "months": "II",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 69,
+   "type": "O",
+   "year": 1833,
+   "months": "II",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 71,
+   "type": "O",
+   "year": 1834,
+   "months": "II",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 72,
+   "type": "O",
+   "year": 1835,
+   "months": "V",
+   "by": "strbackatomas"
+  }
+ ],
+ "sources": [
+  {
+   "by": "strbackatomas",
+   "date": "2026-11-24"
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be87e06c-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be87e06c-f13c-102f-8255-0050568c0263",
+ "signature": "Vs II 5",
+ "parish": "Halenkov",
+ "district": "Vsetín",
+ "places": [
+  "Halenkov",
+  "Hovězí",
+  "Nový Hrozenkov"
+ ],
+ "place_codes": {
+  "Halenkov": 36871,
+  "Hovězí": 46345,
+  "Nový Hrozenkov": 107387
+ },
+ "records": {
+  "O": "1789–1826",
+  "iO": "1789–1826"
+ },
+ "points": [
+  {
+   "scan": 27,
+   "type": "O",
+   "year": 1818,
+   "months": "XI",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 57,
+   "type": "O",
+   "year": 1824,
+   "months": "V",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 57,
+   "type": "O",
+   "year": 1826,
+   "months": "XI",
+   "by": "strbackatomas"
+  }
+ ],
+ "sources": [
+  {
+   "by": "strbackatomas",
+   "date": "2026-11-24"
+  }
+ ]
+}

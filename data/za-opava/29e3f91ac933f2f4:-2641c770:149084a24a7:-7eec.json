@@ -1,0 +1,44 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "29e3f91ac933f2f4:-2641c770:149084a24a7:-7eec",
+ "url": "https://digi.archives.cz/da/permalink?xid=29e3f91ac933f2f4:-2641c770:149084a24a7:-7eec",
+ "signature": "Vs II 22",
+ "parish": "Halenkov",
+ "district": "Vsetín",
+ "places": [
+  "Halenkov",
+  "Hovězí"
+ ],
+ "place_codes": {
+  "Halenkov": 36871,
+  "Hovězí": 46345
+ },
+ "records": {
+  "Z": "1918–1949",
+  "iZ": "1918–1949"
+ },
+ "points": [
+  {
+   "scan": 5,
+   "type": "Z",
+   "year": 1918,
+   "months": "XI",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 15,
+   "type": "Z",
+   "year": 1923,
+   "months": "V–VIII",
+   "by": "strbackatomas"
+  }
+ ],
+ "sources": [
+  {
+   "by": "strbackatomas",
+   "date": "2026-11-24"
+  }
+ ]
+}

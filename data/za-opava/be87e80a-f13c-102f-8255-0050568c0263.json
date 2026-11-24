@@ -1,0 +1,79 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be87e80a-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be87e80a-f13c-102f-8255-0050568c0263",
+ "signature": "Vs IV 1",
+ "parish": "Hovězí",
+ "district": "Vsetín",
+ "places": [
+  "Halenkov",
+  "Hovězí",
+  "Zděchov"
+ ],
+ "place_codes": {
+  "Halenkov": 36871,
+  "Hovězí": 46345,
+  "Zděchov": 192228
+ },
+ "records": {
+  "N": "1762–1795",
+  "Z": "1762–1795",
+  "O": "1762–1795",
+  "iN": "1762–1795"
+ },
+ "notes": [
+  "Halenkov a Hovězí do 1777 vedeny v Novém Hrozenkově."
+ ],
+ "points": [
+  {
+   "scan": 20,
+   "type": "N",
+   "year": 1770,
+   "months": "VII",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 23,
+   "type": "N",
+   "year": 1772,
+   "months": "IV",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 25,
+   "type": "N",
+   "year": 1773,
+   "months": "V",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 43,
+   "type": "N",
+   "year": 1779,
+   "months": "I",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 141,
+   "type": "N",
+   "year": 1791,
+   "months": "I",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 245,
+   "type": "O",
+   "year": 1782,
+   "months": "I",
+   "by": "strbackatomas"
+  }
+ ],
+ "sources": [
+  {
+   "by": "strbackatomas",
+   "date": "2026-11-24"
+  }
+ ]
+}

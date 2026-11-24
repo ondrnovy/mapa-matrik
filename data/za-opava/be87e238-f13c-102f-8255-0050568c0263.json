@@ -1,0 +1,35 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be87e238-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be87e238-f13c-102f-8255-0050568c0263",
+ "signature": "Vs II 9",
+ "parish": "Halenkov",
+ "district": "Vsetín",
+ "places": [
+  "Halenkov"
+ ],
+ "place_codes": {
+  "Halenkov": 36871
+ },
+ "records": {
+  "N": "1882–1894",
+  "iN": "1882–1894"
+ },
+ "points": [
+  {
+   "scan": 186,
+   "type": "N",
+   "year": 1892,
+   "months": "V",
+   "by": "strbackatomas"
+  }
+ ],
+ "sources": [
+  {
+   "by": "strbackatomas",
+   "date": "2026-11-24"
+  }
+ ]
+}

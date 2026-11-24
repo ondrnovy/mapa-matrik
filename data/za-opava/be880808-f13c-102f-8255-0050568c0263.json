@@ -1,0 +1,41 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be880808-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be880808-f13c-102f-8255-0050568c0263",
+ "signature": "Vs IX 2",
+ "parish": "Velké Karlovice",
+ "district": "Vsetín",
+ "places": [
+  "Horní Bečva",
+  "Prostřední Bečva",
+  "Solanec pod Soláněm",
+  "Velké Karlovice"
+ ],
+ "place_codes": {
+  "Horní Bečva": 42161,
+  "Prostřední Bečva": 133752,
+  "Solanec pod Soláněm": 50067,
+  "Velké Karlovice": 179019
+ },
+ "records": {
+  "N": "1786–1883",
+  "iN": "1786–1883"
+ },
+ "points": [
+  {
+   "scan": 118,
+   "type": "N",
+   "year": 1812,
+   "months": "X",
+   "by": "strbackatomas"
+  }
+ ],
+ "sources": [
+  {
+   "by": "strbackatomas",
+   "date": "2026-11-24"
+  }
+ ]
+}

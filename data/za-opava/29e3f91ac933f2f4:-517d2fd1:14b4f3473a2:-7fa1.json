@@ -1,0 +1,42 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "29e3f91ac933f2f4:-517d2fd1:14b4f3473a2:-7fa1",
+ "url": "https://digi.archives.cz/da/permalink?xid=29e3f91ac933f2f4:-517d2fd1:14b4f3473a2:-7fa1",
+ "signature": "Vs II 28",
+ "parish": "Halenkov",
+ "district": "Vsetín",
+ "places": [
+  "Halenkov"
+ ],
+ "place_codes": {
+  "Halenkov": 36871
+ },
+ "records": {
+  "O": "1900–1931",
+  "iO": "1900–1931"
+ },
+ "points": [
+  {
+   "scan": 93,
+   "type": "O",
+   "year": 1914,
+   "months": "V",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 114,
+   "type": "O",
+   "year": 1919,
+   "months": "III",
+   "by": "strbackatomas"
+  }
+ ],
+ "sources": [
+  {
+   "by": "strbackatomas",
+   "date": "2026-11-24"
+  }
+ ]
+}
