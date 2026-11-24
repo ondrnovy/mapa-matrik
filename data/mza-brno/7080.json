@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "7080",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/7080",
+ "signature": "Velký Újezd N 1723–1760, kniha 11075",
+ "parish": "Velký Újezd",
+ "records": {
+  "N": "1723–1760"
+ },
+ "points": [
+  {
+   "scan": 70,
+   "type": "N",
+   "year": 1743,
+   "months": "I–VI",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-24"
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "7085",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/7085",
+ "signature": "Velký Újezd N 1761–1783, kniha 11076",
+ "parish": "Velký Újezd",
+ "records": {
+  "N": "1761–1783"
+ },
+ "points": [
+  {
+   "scan": 55,
+   "type": "N",
+   "year": 1771,
+   "months": "II",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 68,
+   "type": "N",
+   "year": 1774,
+   "months": "XI",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 75,
+   "type": "N",
+   "year": 1776,
+   "months": "III",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-24"
+  }
+ ]
+}

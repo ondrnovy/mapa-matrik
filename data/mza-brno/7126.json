@@ -1,0 +1,56 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "7126",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/7126",
+ "signature": "Velký Újezd O+Z 1723–1784, kniha 11084",
+ "parish": "Velký Újezd",
+ "records": {
+  "O": "1723–1784",
+  "Z": "1723–1784"
+ },
+ "points": [
+  {
+   "scan": 28,
+   "type": "O",
+   "year": 1742,
+   "months": "I",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 60,
+   "type": "O",
+   "year": 1758,
+   "months": "XI",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 96,
+   "type": "O",
+   "year": 1773,
+   "months": "VIII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 124,
+   "type": "Z",
+   "year": 1732,
+   "months": "IX",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 161,
+   "type": "Z",
+   "year": 1758,
+   "months": "IX",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-24"
+  }
+ ]
+}

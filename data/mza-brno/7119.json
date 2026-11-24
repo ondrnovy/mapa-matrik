@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "7119",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/7119",
+ "signature": "Velký Újezd N 1828–1861, kniha 11078",
+ "parish": "Velký Újezd",
+ "records": {
+  "N": "1828–1861"
+ },
+ "points": [
+  {
+   "scan": 133,
+   "type": "N",
+   "year": 1841,
+   "months": "I",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-24"
+  }
+ ]
+}
