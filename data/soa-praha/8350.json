@@ -1,0 +1,34 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "8350",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/8350",
+ "signature": "Maršovice 07, kniha narozených 1842–1856",
+ "parish": "Maršovice",
+ "records": {
+  "N": "1842–1856"
+ },
+ "points": [
+  {
+   "scan": 24,
+   "type": "N",
+   "year": 1844,
+   "months": "I",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 56,
+   "type": "N",
+   "year": 1846,
+   "months": "XI",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-24"
+  }
+ ]
+}

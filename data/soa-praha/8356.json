@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "8356",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/8356",
+ "signature": "Maršovice 13, kniha zemřelých 1815–1874",
+ "parish": "Maršovice",
+ "records": {
+  "Z": "1815–1874"
+ },
+ "points": [
+  {
+   "scan": 162,
+   "type": "Z",
+   "year": 1869,
+   "months": "III",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-24"
+  }
+ ]
+}

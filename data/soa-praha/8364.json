@@ -1,0 +1,41 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "8364",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/8364",
+ "signature": "Maršovice 21, kniha narozených 1875–1898",
+ "parish": "Maršovice",
+ "records": {
+  "N": "1875–1898"
+ },
+ "points": [
+  {
+   "scan": 25,
+   "type": "N",
+   "year": 1878,
+   "months": "VI",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 30,
+   "type": "N",
+   "year": 1879,
+   "months": "VIII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 45,
+   "type": "N",
+   "year": 1883,
+   "months": "IV",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-24"
+  }
+ ]
+}

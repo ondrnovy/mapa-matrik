@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "9728",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/9728",
+ "signature": "Neveklov 09, kniha oddaných asi 1784–1823",
+ "parish": "Neveklov",
+ "records": {
+  "O": "1784–1823"
+ },
+ "points": [
+  {
+   "scan": 10,
+   "type": "O",
+   "year": 1805,
+   "months": "VIII",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-24"
+  }
+ ]
+}
