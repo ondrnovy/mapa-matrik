@@ -1,0 +1,187 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "drahonuv-ujezd-07",
+ "url": "https://www.portafontium.eu/register/soap-pn/drahonuv-ujezd-07",
+ "signature": "Drahoňův Újezd 07",
+ "parish": "Drahoňův Újezd",
+ "records": {
+  "N": "1683–1789",
+  "O": "1683–1789"
+ },
+ "points": [
+  {
+   "scan": 25,
+   "type": "O",
+   "year": 1710,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 35,
+   "type": "O",
+   "year": 1717,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 41,
+   "type": "O",
+   "year": 1722,
+   "months": "X",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 44,
+   "type": "O",
+   "year": 1724,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 68,
+   "type": "O",
+   "year": 1735,
+   "months": "X",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 82,
+   "type": "O",
+   "year": 1738,
+   "months": "IV",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 83,
+   "type": "O",
+   "year": 1738,
+   "months": "IV",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 110,
+   "type": "O",
+   "year": 1743,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 149,
+   "type": "O",
+   "year": 1752,
+   "months": "I",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 166,
+   "type": "O",
+   "year": 1755,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 175,
+   "type": "O",
+   "year": 1757,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 206,
+   "type": "O",
+   "year": 1764,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 209,
+   "type": "O",
+   "year": 1765,
+   "months": "VII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 213,
+   "type": "O",
+   "year": 1765,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 220,
+   "type": "O",
+   "year": 1767,
+   "months": "I",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 236,
+   "type": "O",
+   "year": 1769,
+   "months": "I",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 244,
+   "type": "O",
+   "year": 1770,
+   "months": "I",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 253,
+   "type": "O",
+   "year": 1771,
+   "months": "VI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 265,
+   "type": "O",
+   "year": 1773,
+   "months": "V",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 286,
+   "type": "O",
+   "year": 1777,
+   "months": "X",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 297,
+   "type": "O",
+   "year": 1779,
+   "months": "VII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 304,
+   "type": "O",
+   "year": 1779,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 310,
+   "type": "O",
+   "year": 1780,
+   "months": "V",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 410,
+   "type": "N",
+   "year": 1774,
+   "months": "XII",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-24"
+  }
+ ]
+}
