@@ -108,13 +108,6 @@
   {
    "scan": 162,
    "type": "O",
-   "year": 1786,
-   "months": "XI",
-   "by": "strbackatomas"
-  },
-  {
-   "scan": 162,
-   "type": "O",
    "year": 1784,
    "year_to": 1786,
    "page": "2–3",
@@ -123,10 +116,10 @@
    "by": "strbackatomas"
   },
   {
-   "scan": 163,
+   "scan": 162,
    "type": "O",
-   "year": 1789,
-   "months": "II",
+   "year": 1786,
+   "months": "XI",
    "by": "strbackatomas"
   },
   {
@@ -137,6 +130,13 @@
    "page": "4–5",
    "place": "Tylovice",
    "note": "oddíl Tylovice",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 163,
+   "type": "O",
+   "year": 1789,
+   "months": "II",
    "by": "strbackatomas"
   },
   {
@@ -192,6 +192,10 @@
  "sources": [
   {
    "by": "strbackatomas",
+   "date": "2026-11-24"
+  },
+  {
+   "by": "matriky-index",
    "date": "2026-11-24"
   }
  ]

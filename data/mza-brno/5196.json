@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "5196",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/5196",
+ "signature": "O, Z Rohatec 1785–1856",
+ "parish": "Rohatec",
+ "records": {
+  "O": "1785–1856"
+ },
+ "points": [
+  {
+   "scan": 13,
+   "type": "O",
+   "year": 1815,
+   "months": "V",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-24"
+  }
+ ]
+}

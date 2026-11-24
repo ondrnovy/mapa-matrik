@@ -60,18 +60,18 @@
   {
    "scan": 5,
    "type": "Z",
-   "year": 1793,
-   "months": "I",
-   "by": "strbackatomas"
-  },
-  {
-   "scan": 5,
-   "type": "Z",
    "year": 1792,
    "year_to": 1793,
    "months": "X–IV",
    "page": "39",
    "place": "Halenkov",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 5,
+   "type": "Z",
+   "year": 1793,
+   "months": "I",
    "by": "strbackatomas"
   },
   {
@@ -86,6 +86,10 @@
  "sources": [
   {
    "by": "strbackatomas",
+   "date": "2026-11-24"
+  },
+  {
+   "by": "matriky-index",
    "date": "2026-11-24"
   }
  ]

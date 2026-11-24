@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "4932",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/4932",
+ "signature": "N, O, Z Čejkovice 1798–1812, ř.-kat. fara Čejkovice, kniha č. 5180",
+ "parish": "Čejkovice",
+ "records": {
+  "O": "1798–1812"
+ },
+ "points": [
+  {
+   "scan": 95,
+   "type": "O",
+   "year": 1803,
+   "months": "VI",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-24"
+  }
+ ]
+}

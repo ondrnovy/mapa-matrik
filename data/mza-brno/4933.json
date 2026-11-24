@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "4933",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/4933",
+ "signature": "N, O, Z Čejkovice 1813–1842, ř.-kat. fara Čejkovice, kniha č. 5181",
+ "parish": "Čejkovice",
+ "records": {
+  "N": "1813–1842"
+ },
+ "points": [
+  {
+   "scan": 117,
+   "type": "N",
+   "year": 1816,
+   "months": "V",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-24"
+  }
+ ]
+}
