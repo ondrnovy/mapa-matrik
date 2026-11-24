@@ -19,6 +19,30 @@
  },
  "points": [
   {
+   "scan": 9,
+   "type": "Z",
+   "year": 1870,
+   "months": "I–II",
+   "page": "16–17",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 17,
+   "type": "Z",
+   "year": 1871,
+   "months": "XI",
+   "page": "32–33",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 18,
+   "type": "Z",
+   "year": 1872,
+   "months": "I–II",
+   "page": "34–35",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 35,
    "type": "Z",
    "year": 1874,
@@ -59,6 +83,30 @@
    "year": 1888,
    "months": "IV",
    "by": "FiikCz"
+  },
+  {
+   "scan": 150,
+   "type": "iZ",
+   "letters": "O",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 151,
+   "type": "iZ",
+   "letters": "O",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 152,
+   "type": "iZ",
+   "letters": "P",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 154,
+   "type": "iZ",
+   "letters": "S, Š",
+   "by": "strbackatomas"
   }
  ],
  "sources": [

@@ -19,6 +19,27 @@
  },
  "points": [
   {
+   "scan": 23,
+   "type": "Z",
+   "year": 1813,
+   "page": "42–43",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 27,
+   "type": "Z",
+   "year": 1815,
+   "page": "50–51",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 44,
+   "type": "Z",
+   "year": 1823,
+   "page": "84–85",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 71,
    "type": "Z",
    "year": 1836,
@@ -26,10 +47,38 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 97,
+   "type": "Z",
+   "year": 1842,
+   "months": "V",
+   "page": "191–192",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 107,
+   "type": "Z",
+   "page": "211–212",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 115,
    "type": "Z",
    "year": 1844,
    "months": "XII",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 116,
+   "type": "Z",
+   "year": 1845,
+   "months": "I",
+   "page": "229–230",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 126,
+   "type": "Z",
+   "page": "249–250",
    "by": "strbackatomas"
   },
   {
@@ -42,8 +91,50 @@
   {
    "scan": 145,
    "type": "Z",
+   "page": "287–288",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 145,
+   "type": "Z",
    "year": 1850,
    "months": "IV",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 162,
+   "type": "iZ",
+   "year": 1807,
+   "year_to": 1829,
+   "letters": "H",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 163,
+   "type": "iZ",
+   "year": 1830,
+   "year_to": 1852,
+   "letters": "H",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 170,
+   "type": "iZ",
+   "letters": "D",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 176,
+   "type": "iZ",
+   "letters": "T",
+   "note": "rejstřík T od pravé strany",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 177,
+   "type": "iZ",
+   "letters": "T",
+   "note": "rejstřík T na levé straně",
    "by": "strbackatomas"
   }
  ],

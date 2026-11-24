@@ -19,10 +19,32 @@
  },
  "points": [
   {
+   "scan": 78,
+   "type": "N",
+   "year": 1875,
+   "months": "III–IV",
+   "page": "fol. 78",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 79,
    "type": "N",
    "year": 1875,
    "months": "VI",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 93,
+   "type": "N",
+   "year": 1876,
+   "months": "IX–X",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 95,
+   "type": "N",
+   "year": 1876,
+   "months": "XI–XII",
    "by": "strbackatomas"
   },
   {
@@ -37,6 +59,72 @@
    "type": "N",
    "year": 1880,
    "months": "VI",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 129,
+   "type": "N",
+   "page": "fol. 129",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 140,
+   "type": "N",
+   "year": 1881,
+   "months": "IX–XI",
+   "page": "fol. 139",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 141,
+   "type": "N",
+   "year": 1881,
+   "months": "XI–XII",
+   "page": "fol. 140",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 184,
+   "type": "N",
+   "year": 1886,
+   "months": "VII–VIII",
+   "page": "fol. 183",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 185,
+   "type": "N",
+   "year": 1886,
+   "months": "VIII–X",
+   "page": "fol. 184",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 205,
+   "type": "iN",
+   "letters": "D",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 214,
+   "type": "iN",
+   "year": 1866,
+   "year_to": 1885,
+   "letters": "N",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 217,
+   "type": "iN",
+   "year": 1874,
+   "year_to": 1887,
+   "letters": "S–Š",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 218,
+   "type": "iN",
+   "letters": "T",
    "by": "strbackatomas"
   }
  ],

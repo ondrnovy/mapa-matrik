@@ -19,10 +19,134 @@
  },
  "points": [
   {
+   "scan": 5,
+   "type": "N",
+   "year": 1796,
+   "months": "VII–XII",
+   "page": "6–7",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 6,
+   "type": "N",
+   "year": 1796,
+   "year_to": 1797,
+   "months": "XII–III",
+   "page": "8–9",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 7,
+   "type": "N",
+   "year": 1797,
+   "months": "III–V",
+   "page": "10–11",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 8,
+   "type": "N",
+   "year": 1797,
+   "months": "VI–VIII",
+   "page": "12–13",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 9,
+   "type": "N",
+   "year": 1797,
+   "months": "VIII–XI",
+   "page": "14–15",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 10,
+   "type": "N",
+   "year": 1797,
+   "year_to": 1798,
+   "months": "XI–II",
+   "page": "16–17",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 11,
+   "type": "N",
+   "year": 1798,
+   "months": "II–III",
+   "page": "18–19",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 12,
+   "type": "N",
+   "year": 1798,
+   "months": "III–VI",
+   "page": "20–21",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 13,
+   "type": "N",
+   "year": 1798,
+   "months": "VI–X",
+   "page": "22–23",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 14,
+   "type": "N",
+   "year": 1798,
+   "year_to": 1799,
+   "months": "X–II",
+   "page": "24–25",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 15,
+   "type": "N",
+   "year": 1799,
+   "months": "II–V",
+   "page": "26–27",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 16,
    "type": "N",
    "year": 1799,
    "months": "V",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 17,
+   "type": "N",
+   "year": 1799,
+   "months": "VI–IX",
+   "page": "30–31",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 18,
+   "type": "N",
+   "year": 1799,
+   "months": "X–XII",
+   "page": "32–33",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 19,
+   "type": "N",
+   "year": 1799,
+   "year_to": 1800,
+   "months": "XII–II",
+   "page": "34–35",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 20,
+   "type": "N",
+   "year": 1800,
+   "months": "II–IV",
+   "page": "36–37",
    "by": "strbackatomas"
   },
   {
@@ -33,6 +157,88 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 22,
+   "type": "N",
+   "year": 1800,
+   "months": "VI–IX",
+   "page": "40–41",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 23,
+   "type": "N",
+   "year": 1800,
+   "months": "IX–XII",
+   "page": "42–43",
+   "note": "konec roku",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 24,
+   "type": "N",
+   "year": 1801,
+   "months": "I–III",
+   "page": "44–45",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 25,
+   "type": "N",
+   "year": 1801,
+   "months": "IV–VI",
+   "page": "46–47",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 26,
+   "type": "N",
+   "year": 1801,
+   "months": "VI–IX",
+   "page": "48–49",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 27,
+   "type": "N",
+   "year": 1801,
+   "months": "IX–XII",
+   "page": "50–51",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 28,
+   "type": "N",
+   "year": 1801,
+   "months": "XII",
+   "page": "52–53",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 29,
+   "type": "N",
+   "year": 1802,
+   "months": "I–III",
+   "page": "54–55",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 30,
+   "type": "N",
+   "year": 1802,
+   "months": "III–V",
+   "page": "56–57",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 31,
+   "type": "N",
+   "year": 1802,
+   "months": "V–IX",
+   "page": "58–59",
+   "note": "od VI 1802 nová ruka",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 32,
    "type": "N",
    "year": 1802,
@@ -40,10 +246,72 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 33,
+   "type": "N",
+   "year": 1802,
+   "year_to": 1803,
+   "months": "XII–II",
+   "page": "61–62",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 95,
+   "type": "N",
+   "year": 1823,
+   "months": "VII–IX",
+   "page": "187–188",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 97,
    "type": "N",
    "year": 1823,
    "months": "XII",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 108,
+   "type": "N",
+   "year": 1826,
+   "months": "V–VII",
+   "page": "213–214",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 150,
+   "type": "N",
+   "year": 1834,
+   "months": "X–XI",
+   "page": "296–297",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 249,
+   "type": "iN",
+   "page": "38–39",
+   "letters": "G",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 250,
+   "type": "iN",
+   "page": "42–43",
+   "letters": "K",
+   "note": "rejstřík str. 40–41 (H, J) ve skenech chybí",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 251,
+   "type": "iN",
+   "year": 1806,
+   "year_to": 1819,
+   "letters": "K",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 262,
+   "type": "iN",
+   "letters": "Z",
    "by": "strbackatomas"
   }
  ],

@@ -31,10 +31,191 @@
  ],
  "points": [
   {
+   "scan": 80,
+   "type": "N",
+   "year": 1780,
+   "months": "I",
+   "note": "začátek roku 1780",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 81,
+   "type": "N",
+   "year": 1780,
+   "months": "II–III",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 82,
+   "type": "N",
+   "year": 1780,
+   "months": "III–V",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 83,
+   "type": "N",
+   "year": 1780,
+   "months": "V–VI",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 84,
+   "type": "N",
+   "year": 1780,
+   "months": "VI–VIII",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 85,
+   "type": "N",
+   "year": 1780,
+   "months": "VIII–IX",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 86,
+   "type": "N",
+   "year": 1780,
+   "months": "X–XI",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 87,
+   "type": "N",
+   "year": 1780,
+   "months": "XI–XII",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 95,
+   "type": "N",
+   "year": 1781,
+   "year_to": 1782,
+   "months": "XII–I",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 130,
+   "type": "N",
+   "year": 1789,
+   "year_to": 1790,
+   "months": "XII–III",
+   "page": "49–50",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 131,
    "type": "N",
    "year": 1790,
    "months": "III",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 132,
+   "type": "N",
+   "year": 1790,
+   "months": "IV–VIII",
+   "page": "53–54",
+   "place": "Rožnov pod Radhoštěm",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 133,
+   "type": "N",
+   "year": 1790,
+   "months": "IX–XI",
+   "page": "55–56",
+   "place": "Rožnov pod Radhoštěm",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 134,
+   "type": "N",
+   "page": "57–58",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 136,
+   "type": "N",
+   "page": "61–62",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 137,
+   "type": "N",
+   "page": "63–64",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 138,
+   "type": "N",
+   "page": "65–66",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 141,
+   "type": "N",
+   "page": "71–72",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 142,
+   "type": "N",
+   "page": "73–74",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 144,
+   "type": "N",
+   "page": "77–78",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 146,
+   "type": "N",
+   "page": "81–82",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 148,
+   "type": "N",
+   "page": "85–86",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 150,
+   "type": "N",
+   "year": 1794,
+   "page": "89–90",
+   "place": "Rožnov pod Radhoštěm",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 151,
+   "type": "N",
+   "page": "91–92",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 154,
+   "type": "N",
+   "page": "97–98",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 158,
+   "type": "N",
+   "year": 1784,
+   "year_to": 1785,
+   "place": "Dolní Bečva",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 185,
+   "type": "N",
+   "year": 1783,
+   "note": "jiná obec než Rožnov",
    "by": "strbackatomas"
   },
   {
@@ -45,10 +226,61 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 200,
+   "type": "N",
+   "year": 1792,
+   "year_to": 1793,
+   "page": "13–14",
+   "place": "Tylovice",
+   "note": "oddíl Tylovice",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 201,
    "type": "N",
    "year": 1793,
    "months": "X",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 201,
+   "type": "N",
+   "year": 1793,
+   "page": "15–16",
+   "place": "Tylovice",
+   "note": "oddíl Tylovice",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 241,
+   "type": "iN",
+   "year": 1784,
+   "year_to": 1791,
+   "place": "Rožnov pod Radhoštěm",
+   "letters": "G, H, J, K",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 242,
+   "type": "iN",
+   "place": "Rožnov pod Radhoštěm",
+   "letters": "L–P",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 244,
+   "type": "iN",
+   "place": "Rožnov pod Radhoštěm",
+   "letters": "U–Z",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 245,
+   "type": "iN",
+   "year": 1791,
+   "year_to": 1795,
+   "place": "Rožnov pod Radhoštěm",
+   "letters": "I–J, K, M, S",
    "by": "strbackatomas"
   }
  ],

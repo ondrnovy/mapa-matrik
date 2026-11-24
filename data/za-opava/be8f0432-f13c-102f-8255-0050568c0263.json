@@ -19,6 +19,14 @@
  },
  "points": [
   {
+   "scan": 167,
+   "type": "Z",
+   "year": 1918,
+   "months": "IV–V",
+   "page": "332–333",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 168,
    "type": "Z",
    "year": 1918,
@@ -26,10 +34,32 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 169,
+   "type": "Z",
+   "year": 1918,
+   "months": "IX",
+   "page": "336–337",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 171,
+   "type": "Z",
+   "year": 1918,
+   "months": "X",
+   "page": "340–341",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 174,
    "type": "Z",
    "year": 1918,
    "months": "XII",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 214,
+   "type": "iZ",
+   "letters": "J",
    "by": "strbackatomas"
   }
  ],

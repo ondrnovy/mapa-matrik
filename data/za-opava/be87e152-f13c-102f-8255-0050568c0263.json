@@ -23,10 +23,63 @@
  },
  "points": [
   {
+   "scan": 1,
+   "type": "Z",
+   "year": 1789,
+   "months": "I–VI",
+   "place": "Halenkov",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 2,
+   "type": "Z",
+   "year": 1789,
+   "year_to": 1790,
+   "months": "VII–VI",
+   "place": "Halenkov",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 3,
+   "type": "Z",
+   "year": 1790,
+   "year_to": 1791,
+   "months": "VI–III",
+   "place": "Halenkov",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 4,
+   "type": "Z",
+   "year": 1791,
+   "year_to": 1792,
+   "months": "III–X",
+   "place": "Halenkov",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 5,
    "type": "Z",
    "year": 1793,
    "months": "I",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 5,
+   "type": "Z",
+   "year": 1792,
+   "year_to": 1793,
+   "months": "X–IV",
+   "page": "39",
+   "place": "Halenkov",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 6,
+   "type": "Z",
+   "year": 1793,
+   "months": "V–XII",
+   "place": "Halenkov",
    "by": "strbackatomas"
   }
  ],

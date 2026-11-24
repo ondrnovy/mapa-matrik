@@ -19,10 +19,122 @@
  },
  "points": [
   {
+   "scan": 102,
+   "type": "N",
+   "year": 1750,
+   "months": "I",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 159,
+   "type": "N",
+   "year": 1752,
+   "months": "I",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 228,
+   "type": "N",
+   "year": 1758,
+   "months": "VIII",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 231,
+   "type": "N",
+   "year": 1759,
+   "months": "I",
+   "note": "začátek roku 1759",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 234,
+   "type": "N",
+   "year": 1759,
+   "months": "III",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 240,
+   "type": "N",
+   "year": 1759,
+   "months": "X",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 258,
+   "type": "N",
+   "year": 1761,
+   "months": "I",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 272,
+   "type": "N",
+   "year": 1762,
+   "note": "začátek roku 1762 (pravá strana)",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 300,
+   "type": "N",
+   "year": 1765,
+   "months": "I",
+   "note": "začátek roku 1765",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 302,
+   "type": "N",
+   "year": 1765,
+   "by": "strbackatomas"
+  },
+  {
    "scan": 303,
    "type": "N",
    "year": 1765,
    "months": "VI",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 310,
+   "type": "N",
+   "year": 1766,
+   "year_to": 1767,
+   "note": "začátek roku 1767 (pravá strana)",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 320,
+   "type": "N",
+   "year": 1767,
+   "months": "XI–XII",
+   "page": "318–319",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 321,
+   "type": "N",
+   "year": 1767,
+   "year_to": 1768,
+   "months": "XII–I",
+   "page": "319–320",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 322,
+   "type": "N",
+   "year": 1768,
+   "months": "I–III",
+   "page": "320–321",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 347,
+   "type": "N",
+   "year": 1770,
+   "months": "I",
+   "note": "konec knihy",
    "by": "strbackatomas"
   }
  ],

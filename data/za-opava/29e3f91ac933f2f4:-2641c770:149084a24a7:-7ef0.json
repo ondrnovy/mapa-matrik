@@ -28,11 +28,34 @@
    "by": "FiikCz"
   },
   {
+   "scan": 41,
+   "type": "N",
+   "year": 1912,
+   "page": "list 41",
+   "place": "Hovězí",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 45,
    "type": "N",
    "year": 1912,
    "months": "X",
    "by": "FiikCz"
+  },
+  {
+   "scan": 61,
+   "type": "N",
+   "year": 1914,
+   "months": "IV–V",
+   "page": "list 61",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 68,
+   "type": "N",
+   "year": 1915,
+   "page": "list 68",
+   "by": "strbackatomas"
   },
   {
    "scan": 69,
@@ -42,6 +65,59 @@
    "by": "FiikCz"
   },
   {
+   "scan": 69,
+   "type": "N",
+   "year": 1915,
+   "page": "list 69",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 70,
+   "type": "N",
+   "year": 1915,
+   "page": "list 70",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 71,
+   "type": "N",
+   "year": 1915,
+   "page": "list 71",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 72,
+   "type": "N",
+   "year": 1915,
+   "months": "V–VI",
+   "page": "list 72",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 73,
+   "type": "N",
+   "year": 1915,
+   "months": "VI–VII",
+   "page": "list 73",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 74,
+   "type": "N",
+   "year": 1915,
+   "months": "VII–IX",
+   "page": "list 74",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 81,
+   "type": "N",
+   "year": 1916,
+   "page": "list 81",
+   "place": "Hovězí",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 83,
    "type": "N",
    "year": 1916,
@@ -49,10 +125,48 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 84,
+   "type": "N",
+   "year": 1917,
+   "months": "I",
+   "page": "list 84",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 86,
+   "type": "N",
+   "year": 1917,
+   "months": "II",
+   "page": "list 86",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 101,
+   "type": "N",
+   "year": 1919,
+   "months": "I",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 107,
    "type": "N",
    "year": 1919,
    "months": "X",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 108,
+   "type": "N",
+   "year": 1919,
+   "months": "X–XI",
+   "note": "konec roku",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 110,
+   "type": "N",
+   "year": 1920,
+   "note": "začátek roku",
    "by": "strbackatomas"
   }
  ],

@@ -30,11 +30,63 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 1,
+   "type": "O",
+   "year": 1827,
+   "months": "II–VI",
+   "page": "fol. 1",
+   "place": "Halenkov",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 2,
    "type": "O",
    "year": 1828,
    "months": "XI",
    "by": "FiikCz"
+  },
+  {
+   "scan": 3,
+   "type": "O",
+   "year": 1831,
+   "months": "I–V",
+   "place": "Halenkov",
+   "note": "pravá strana",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 4,
+   "type": "O",
+   "year": 1831,
+   "year_to": 1834,
+   "page": "fol. 6–7",
+   "place": "Halenkov",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 5,
+   "type": "O",
+   "year": 1834,
+   "year_to": 1836,
+   "page": "fol. 8–9",
+   "place": "Halenkov",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 6,
+   "type": "O",
+   "year": 1836,
+   "year_to": 1838,
+   "page": "fol. 10–11",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 7,
+   "type": "O",
+   "year": 1838,
+   "year_to": 1841,
+   "page": "fol. 12–13",
+   "by": "strbackatomas"
   },
   {
    "scan": 8,
@@ -51,6 +103,54 @@
    "by": "FiikCz"
   },
   {
+   "scan": 8,
+   "type": "O",
+   "year": 1841,
+   "year_to": 1842,
+   "page": "fol. 14–15",
+   "place": "Halenkov",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 9,
+   "type": "O",
+   "year": 1842,
+   "year_to": 1843,
+   "months": "XI–XI",
+   "place": "Halenkov",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 10,
+   "type": "O",
+   "year": 1844,
+   "place": "Halenkov",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 11,
+   "type": "O",
+   "year": 1845,
+   "page": "fol. 21",
+   "place": "Halenkov",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 14,
+   "type": "O",
+   "year": 1846,
+   "place": "Halenkov",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 15,
+   "type": "O",
+   "year": 1846,
+   "year_to": 1847,
+   "page": "28–29",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 15,
    "type": "O",
    "year": 1847,
@@ -58,10 +158,123 @@
    "by": "FiikCz"
   },
   {
+   "scan": 18,
+   "type": "O",
+   "year": 1848,
+   "months": "IX–XI",
+   "page": "fol. 34–35",
+   "place": "Halenkov",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 19,
+   "type": "O",
+   "year": 1849,
+   "months": "I–II",
+   "page": "36–37",
+   "place": "Halenkov",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 20,
+   "type": "O",
+   "year": 1849,
+   "months": "II–VII",
+   "page": "38–39",
+   "place": "Halenkov",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 21,
+   "type": "O",
+   "year": 1849,
+   "months": "VIII–XI",
+   "page": "40–41",
+   "place": "Halenkov",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 22,
+   "type": "O",
+   "year": 1849,
+   "year_to": 1850,
+   "months": "XI–V",
+   "page": "42–43",
+   "place": "Halenkov",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 23,
+   "type": "O",
+   "year": 1850,
+   "months": "VI–XI",
+   "page": "44–45",
+   "place": "Halenkov",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 24,
+   "type": "O",
+   "year": 1851,
+   "months": "III–VIII",
+   "page": "46–47",
+   "place": "Halenkov",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 25,
+   "type": "O",
+   "year": 1851,
+   "year_to": 1852,
+   "months": "XI–VI",
+   "page": "48–49",
+   "place": "Halenkov",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 26,
+   "type": "O",
+   "year": 1852,
+   "year_to": 1853,
+   "months": "IX–VII",
+   "page": "50–51",
+   "place": "Halenkov",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 27,
+   "type": "O",
+   "year": 1853,
+   "year_to": 1854,
+   "months": "XI–V",
+   "page": "52–53",
+   "place": "Halenkov",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 28,
+   "type": "O",
+   "year": 1854,
+   "year_to": 1855,
+   "page": "54–55",
+   "place": "Halenkov",
+   "note": "konec oddílu Halenkov",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 31,
    "type": "O",
    "year": 1827,
    "months": "II",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 31,
+   "type": "O",
+   "year": 1827,
+   "year_to": 1828,
+   "page": "fol. 1",
+   "place": "Hovězí",
    "by": "strbackatomas"
   },
   {
@@ -72,6 +285,15 @@
    "by": "FiikCz"
   },
   {
+   "scan": 32,
+   "type": "O",
+   "year": 1828,
+   "year_to": 1831,
+   "page": "fol. 2–3",
+   "place": "Hovězí",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 33,
    "type": "O",
    "year": 1831,
@@ -79,10 +301,135 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 33,
+   "type": "O",
+   "year": 1831,
+   "year_to": 1835,
+   "page": "fol. 4–5",
+   "place": "Hovězí",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 41,
+   "type": "O",
+   "year": 1847,
+   "year_to": 1848,
+   "page": "fol. 20–21",
+   "place": "Hovězí",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 44,
    "type": "O",
    "year": 1850,
    "months": "II",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 44,
+   "type": "O",
+   "year": 1849,
+   "year_to": 1850,
+   "page": "26–27",
+   "place": "Hovězí",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 45,
+   "type": "O",
+   "year": 1850,
+   "year_to": 1851,
+   "page": "28–29",
+   "place": "Hovězí",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 46,
+   "type": "O",
+   "year": 1851,
+   "year_to": 1852,
+   "page": "30–31",
+   "place": "Hovězí",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 47,
+   "type": "O",
+   "year": 1853,
+   "page": "32–33",
+   "place": "Hovězí",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 48,
+   "type": "O",
+   "year": 1854,
+   "page": "34–35",
+   "place": "Hovězí",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 49,
+   "type": "O",
+   "year": 1855,
+   "place": "Hovězí",
+   "note": "konec oddílu Hovězí",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 50,
+   "type": "O",
+   "year": 1827,
+   "year_to": 1832,
+   "page": "66",
+   "place": "Nový Hrozenkov",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 51,
+   "type": "O",
+   "year": 1833,
+   "year_to": 1842,
+   "page": "67",
+   "place": "Nový Hrozenkov",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 54,
+   "type": "O",
+   "year": 1850,
+   "year_to": 1852,
+   "page": "8–9",
+   "place": "Nový Hrozenkov",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 55,
+   "type": "O",
+   "year": 1853,
+   "year_to": 1855,
+   "page": "10–11",
+   "place": "Nový Hrozenkov",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 57,
+   "type": "iO",
+   "letters": "H–L",
+   "note": "rejstřík ženichů",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 58,
+   "type": "iO",
+   "note": "rejstřík ženichů",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 59,
+   "type": "iO",
+   "letters": "U–Z",
+   "note": "rejstřík ženichů",
    "by": "strbackatomas"
   }
  ],

@@ -19,10 +19,35 @@
  },
  "points": [
   {
+   "scan": 3,
+   "type": "N",
+   "year": 1856,
+   "months": "III–V",
+   "page": "2–3",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 4,
+   "type": "N",
+   "year": 1856,
+   "months": "VI–VII",
+   "page": "4–5",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 60,
    "type": "N",
    "year": 1866,
    "months": "I",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 65,
+   "type": "N",
+   "year": 1866,
+   "year_to": 1867,
+   "months": "XII–I",
+   "page": "127",
    "by": "strbackatomas"
   },
   {
@@ -33,10 +58,42 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 100,
+   "type": "N",
+   "year": 1872,
+   "months": "IV–VI",
+   "page": "195–196",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 102,
    "type": "N",
    "year": 1872,
    "months": "IX",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 115,
+   "type": "N",
+   "page": "225–226",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 120,
+   "type": "N",
+   "page": "235–236",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 129,
+   "type": "N",
+   "page": "253–254",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 130,
+   "type": "N",
+   "page": "255–256",
    "by": "strbackatomas"
   },
   {
@@ -54,11 +111,89 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 166,
+   "type": "N",
+   "page": "327–328",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 199,
    "type": "N",
    "year": 1880,
    "months": "XI",
    "by": "FiikCz"
+  },
+  {
+   "scan": 223,
+   "type": "iN",
+   "year": 1856,
+   "year_to": 1881,
+   "letters": "H",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 224,
+   "type": "iN",
+   "letters": "H, I, J",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 225,
+   "type": "iN",
+   "year": 1856,
+   "year_to": 1870,
+   "page": "227–228",
+   "letters": "K",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 226,
+   "type": "iN",
+   "letters": "K",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 227,
+   "type": "iN",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 228,
+   "type": "iN",
+   "letters": "M, N",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 231,
+   "type": "iN",
+   "letters": "S",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 232,
+   "type": "iN",
+   "letters": "S",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 233,
+   "type": "iN",
+   "letters": "T",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 234,
+   "type": "iN",
+   "year": 1858,
+   "year_to": 1881,
+   "letters": "U, W",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 235,
+   "type": "iN",
+   "letters": "X–Z",
+   "by": "strbackatomas"
   }
  ],
  "sources": [

@@ -26,10 +26,26 @@
    "by": "FiikCz"
   },
   {
+   "scan": 30,
+   "type": "Z",
+   "year": 1791,
+   "months": "X–XI",
+   "page": "56–57",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 34,
    "type": "Z",
    "year": 1792,
    "months": "XII",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 44,
+   "type": "Z",
+   "year": 1795,
+   "months": "III–VII",
+   "page": "84–85",
    "by": "strbackatomas"
   },
   {
@@ -40,10 +56,72 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 108,
+   "type": "Z",
+   "year": 1820,
+   "page": "212–213",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 115,
+   "type": "Z",
+   "page": "226–227",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 140,
+   "type": "Z",
+   "year": 1827,
+   "page": "276–277",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 145,
+   "type": "Z",
+   "year": 1832,
+   "months": "IX–XII",
+   "page": "286–287",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 146,
+   "type": "Z",
+   "year": 1832,
+   "year_to": 1833,
+   "months": "XII–II",
+   "page": "288",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 146,
    "type": "Z",
    "year": 1833,
    "months": "I",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 153,
+   "type": "iZ",
+   "letters": "M",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 154,
+   "type": "iZ",
+   "letters": "M, O",
+   "note": "pravá strana",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 157,
+   "type": "iZ",
+   "letters": "Z, Ž",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 158,
+   "type": "iZ",
+   "letters": "Z, Ž",
    "by": "strbackatomas"
   }
  ],

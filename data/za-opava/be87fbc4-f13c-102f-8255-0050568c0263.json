@@ -47,6 +47,15 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 18,
+   "type": "O",
+   "year": 1856,
+   "year_to": 1857,
+   "months": "IX–II",
+   "page": "34–35",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 21,
    "type": "O",
    "year": 1858,
@@ -63,6 +72,15 @@
   {
    "scan": 34,
    "type": "O",
+   "year": 1861,
+   "year_to": 1862,
+   "months": "V–II",
+   "page": "66–67",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 34,
+   "type": "O",
    "year": 1862,
    "months": "II",
    "by": "strbackatomas"
@@ -75,11 +93,35 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 36,
+   "type": "O",
+   "year": 1862,
+   "months": "III–VII",
+   "page": "70–71",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 37,
    "type": "O",
    "year": 1862,
    "months": "VIII",
    "by": "FiikCz"
+  },
+  {
+   "scan": 40,
+   "type": "O",
+   "year": 1863,
+   "months": "II",
+   "page": "78–79",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 50,
+   "type": "O",
+   "year": 1865,
+   "months": "II–IX",
+   "page": "98–99",
+   "by": "strbackatomas"
   },
   {
    "scan": 66,
@@ -115,6 +157,34 @@
    "year": 1882,
    "months": "XI",
    "by": "FiikCz"
+  },
+  {
+   "scan": 121,
+   "type": "iO",
+   "year": 1850,
+   "year_to": 1878,
+   "letters": "O",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 122,
+   "type": "iO",
+   "letters": "O, P",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 123,
+   "type": "iO",
+   "letters": "R",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 124,
+   "type": "iO",
+   "year": 1862,
+   "year_to": 1882,
+   "letters": "S",
+   "by": "strbackatomas"
   }
  ],
  "sources": [

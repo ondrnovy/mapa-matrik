@@ -19,6 +19,26 @@
  },
  "points": [
   {
+   "scan": 4,
+   "type": "Z",
+   "year": 1834,
+   "year_to": 1835,
+   "page": "6–7",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 8,
+   "type": "Z",
+   "year": 1836,
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 9,
+   "type": "Z",
+   "year": 1836,
+   "by": "strbackatomas"
+  },
+  {
    "scan": 35,
    "type": "Z",
    "year": 1842,
@@ -33,6 +53,13 @@
    "by": "FiikCz"
   },
   {
+   "scan": 68,
+   "type": "Z",
+   "year": 1849,
+   "page": "134–135",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 70,
    "type": "Z",
    "year": 1849,
@@ -45,6 +72,30 @@
    "year": 1849,
    "months": "IX",
    "by": "FiikCz"
+  },
+  {
+   "scan": 71,
+   "type": "Z",
+   "year": 1849,
+   "months": "IX",
+   "page": "140–141",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 72,
+   "type": "Z",
+   "year": 1849,
+   "months": "IX",
+   "page": "142–143",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 73,
+   "type": "Z",
+   "year": 1849,
+   "months": "IX–XI",
+   "page": "144–145",
+   "by": "strbackatomas"
   },
   {
    "scan": 131,
@@ -66,6 +117,41 @@
    "year": 1862,
    "months": "I",
    "by": "FiikCz"
+  },
+  {
+   "scan": 195,
+   "type": "iZ",
+   "letters": "O",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 196,
+   "type": "iZ",
+   "letters": "O",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 197,
+   "type": "iZ",
+   "letters": "P",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 198,
+   "type": "iZ",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 200,
+   "type": "iZ",
+   "letters": "S, Sch, Š",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 201,
+   "type": "iZ",
+   "letters": "S, Sch, Š",
+   "by": "strbackatomas"
   }
  ],
  "sources": [

@@ -28,10 +28,137 @@
  ],
  "points": [
   {
+   "scan": 6,
+   "type": "N",
+   "year": 1763,
+   "year_to": 1764,
+   "months": "VI–II",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 7,
+   "type": "N",
+   "year": 1764,
+   "months": "III–XI",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 8,
+   "type": "N",
+   "year": 1764,
+   "year_to": 1765,
+   "months": "XII–V",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 9,
+   "type": "N",
+   "year": 1765,
+   "months": "V–XI",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 10,
+   "type": "N",
+   "year": 1765,
+   "year_to": 1766,
+   "months": "XII–IV",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 11,
+   "type": "N",
+   "year": 1766,
+   "months": "IV–XI",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 12,
+   "type": "N",
+   "year": 1766,
+   "year_to": 1767,
+   "months": "XI–VI",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 13,
+   "type": "N",
+   "year": 1767,
+   "months": "VII–X",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 14,
+   "type": "N",
+   "year": 1767,
+   "year_to": 1768,
+   "months": "XI–III",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 15,
+   "type": "N",
+   "year": 1768,
+   "months": "III–VII",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 16,
+   "type": "N",
+   "year": 1768,
+   "months": "VII–XII",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 17,
+   "type": "N",
+   "year": 1769,
+   "months": "I–VII",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 18,
+   "type": "N",
+   "year": 1769,
+   "months": "VII–XI",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 19,
+   "type": "N",
+   "year": 1769,
+   "year_to": 1770,
+   "months": "XI–IV",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 20,
    "type": "N",
    "year": 1770,
    "months": "VII",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 21,
+   "type": "N",
+   "year": 1770,
+   "year_to": 1771,
+   "months": "IX–I",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 22,
+   "type": "N",
+   "year": 1771,
+   "months": "I–V",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 23,
+   "type": "N",
+   "year": 1771,
+   "year_to": 1772,
+   "months": "VI–V",
    "by": "strbackatomas"
   },
   {
@@ -42,10 +169,55 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 24,
+   "type": "N",
+   "year": 1772,
+   "months": "VI–X",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 25,
+   "type": "N",
+   "year": 1772,
+   "year_to": 1773,
+   "months": "X–VI",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 25,
    "type": "N",
    "year": 1773,
    "months": "V",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 26,
+   "type": "N",
+   "year": 1773,
+   "months": "VI–X",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 27,
+   "type": "N",
+   "year": 1773,
+   "year_to": 1774,
+   "months": "X–II",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 28,
+   "type": "N",
+   "year": 1774,
+   "months": "III–VI",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 29,
+   "type": "N",
+   "year": 1774,
+   "year_to": 1775,
+   "months": "VI–V",
    "by": "strbackatomas"
   },
   {
@@ -56,10 +228,88 @@
    "by": "FiikCz"
   },
   {
+   "scan": 30,
+   "type": "N",
+   "year": 1775,
+   "year_to": 1776,
+   "months": "V–III",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 31,
+   "type": "N",
+   "year": 1776,
+   "months": "III–VIII",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 32,
+   "type": "N",
+   "year": 1776,
+   "year_to": 1777,
+   "months": "VIII–V",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 33,
+   "type": "N",
+   "year": 1777,
+   "months": "V–VII",
+   "note": "začátek matriky filiálky Hovězí",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 40,
+   "type": "N",
+   "year": 1778,
+   "months": "VII–IX",
+   "page": "37–38",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 42,
+   "type": "N",
+   "year": 1778,
+   "months": "XI–XII",
+   "page": "39–40",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 43,
    "type": "N",
    "year": 1779,
    "months": "I",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 56,
+   "type": "N",
+   "months": "IV–VIII",
+   "page": "53–54",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 58,
+   "type": "N",
+   "year": 1781,
+   "year_to": 1782,
+   "months": "XI–I",
+   "page": "55–56",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 60,
+   "type": "N",
+   "months": "III–VI",
+   "page": "57–58",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 80,
+   "type": "N",
+   "year": 1785,
+   "months": "VII–VIII",
+   "page": "fol. 78",
    "by": "strbackatomas"
   },
   {
@@ -76,10 +326,466 @@
    "by": "FiikCz"
   },
   {
+   "scan": 200,
+   "type": "iN",
+   "letters": "H",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 214,
+   "type": "iN",
+   "letters": "S",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 218,
+   "type": "iN",
+   "year": 1784,
+   "year_to": 1795,
+   "letters": "T",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 225,
+   "type": "O",
+   "year": 1762,
+   "year_to": 1765,
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 226,
+   "type": "O",
+   "year": 1766,
+   "year_to": 1767,
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 227,
+   "type": "O",
+   "year": 1767,
+   "year_to": 1769,
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 228,
+   "type": "O",
+   "year": 1770,
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 229,
+   "type": "O",
+   "year": 1770,
+   "year_to": 1772,
+   "months": "IX–II",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 230,
+   "type": "O",
+   "year": 1772,
+   "year_to": 1773,
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 231,
+   "type": "O",
+   "year": 1773,
+   "year_to": 1774,
+   "months": "XI–II",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 232,
+   "type": "O",
+   "year": 1774,
+   "year_to": 1775,
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 233,
+   "type": "O",
+   "year": 1775,
+   "year_to": 1777,
+   "months": "XI–IV",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 234,
+   "type": "O",
+   "year": 1777,
+   "months": "V–VII",
+   "note": "od VII 1777 matrika přechází z Nového Hrozenkova do kostela v Hovězí",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 235,
+   "type": "O",
+   "year": 1777,
+   "months": "VIII–XI",
+   "note": "nová matrika filiálky Hovězí, s čísly domů",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 236,
+   "type": "O",
+   "year": 1777,
+   "year_to": 1778,
+   "months": "XI–II",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 237,
+   "type": "O",
+   "year": 1778,
+   "months": "II–VII",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 238,
+   "type": "O",
+   "year": 1778,
+   "months": "VII–XII",
+   "note": "konec sňatků 1778",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 240,
+   "type": "O",
+   "year": 1779,
+   "year_to": 1780,
+   "page": "241–242",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 241,
+   "type": "O",
+   "year": 1780,
+   "months": "I–VIII",
+   "page": "242–243",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 242,
+   "type": "O",
+   "year": 1780,
+   "months": "VIII–XI",
+   "page": "243–244",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 243,
+   "type": "O",
+   "year": 1780,
+   "months": "XI–XII",
+   "page": "244–245",
+   "note": "konec sňatků 1780",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 244,
+   "type": "O",
+   "year": 1781,
+   "months": "II–XI",
+   "page": "245–246",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 245,
+   "type": "O",
+   "year": 1781,
+   "year_to": 1782,
+   "months": "XI–IV",
+   "page": "246–247",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 245,
    "type": "O",
    "year": 1782,
    "months": "I",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 250,
+   "type": "Z",
+   "year": 1762,
+   "year_to": 1763,
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 265,
+   "type": "Z",
+   "year": 1774,
+   "page": "272",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 266,
+   "type": "Z",
+   "year": 1774,
+   "year_to": 1775,
+   "page": "273",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 267,
+   "type": "Z",
+   "year": 1775,
+   "year_to": 1776,
+   "months": "X–VI",
+   "page": "274",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 268,
+   "type": "Z",
+   "year": 1776,
+   "year_to": 1777,
+   "months": "VI–III",
+   "page": "275",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 269,
+   "type": "Z",
+   "year": 1777,
+   "months": "IV–IX",
+   "page": "276",
+   "note": "VII 1777 konec matriky Nového Hrozenkova, dál nová matrika filiálky Hovězí",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 270,
+   "type": "Z",
+   "year": 1777,
+   "months": "IX–XI",
+   "page": "277",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 271,
+   "type": "Z",
+   "year": 1777,
+   "year_to": 1778,
+   "months": "XI–I",
+   "page": "278",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 272,
+   "type": "Z",
+   "year": 1778,
+   "months": "I–III",
+   "page": "279",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 273,
+   "type": "Z",
+   "year": 1778,
+   "months": "III–V",
+   "page": "280",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 274,
+   "type": "Z",
+   "year": 1778,
+   "months": "V–IX",
+   "page": "281",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 275,
+   "type": "Z",
+   "year": 1778,
+   "months": "IX–XII",
+   "page": "282",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 276,
+   "type": "Z",
+   "year": 1778,
+   "months": "XII",
+   "page": "283",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 277,
+   "type": "Z",
+   "year": 1778,
+   "year_to": 1779,
+   "months": "XII–I",
+   "page": "284",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 278,
+   "type": "Z",
+   "year": 1779,
+   "months": "I–IV",
+   "page": "285",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 279,
+   "type": "Z",
+   "year": 1779,
+   "months": "IV–VIII",
+   "page": "286",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 280,
+   "type": "Z",
+   "year": 1779,
+   "year_to": 1780,
+   "months": "VIII–I",
+   "page": "287",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 281,
+   "type": "Z",
+   "year": 1780,
+   "months": "I–IV",
+   "page": "288",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 282,
+   "type": "Z",
+   "year": 1780,
+   "months": "IV–VII",
+   "page": "289",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 283,
+   "type": "Z",
+   "year": 1780,
+   "year_to": 1781,
+   "months": "VII–I",
+   "page": "290",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 284,
+   "type": "Z",
+   "year": 1781,
+   "months": "I–IV",
+   "page": "291",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 285,
+   "type": "Z",
+   "year": 1781,
+   "months": "IV–IX",
+   "page": "292",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 286,
+   "type": "Z",
+   "year": 1781,
+   "months": "IX–XII",
+   "page": "293",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 287,
+   "type": "Z",
+   "year": 1781,
+   "year_to": 1782,
+   "months": "XII–II",
+   "page": "294",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 288,
+   "type": "Z",
+   "year": 1782,
+   "months": "II–III",
+   "page": "295",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 289,
+   "type": "Z",
+   "year": 1782,
+   "months": "III–VII",
+   "page": "296",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 290,
+   "type": "Z",
+   "year": 1782,
+   "months": "VII–XI",
+   "page": "297",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 291,
+   "type": "Z",
+   "year": 1782,
+   "year_to": 1783,
+   "months": "XI–III",
+   "page": "298",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 292,
+   "type": "Z",
+   "year": 1783,
+   "months": "III–VIII",
+   "page": "299",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 293,
+   "type": "Z",
+   "year": 1783,
+   "year_to": 1784,
+   "months": "VIII–I",
+   "page": "300",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 294,
+   "type": "Z",
+   "year": 1784,
+   "months": "I–III",
+   "page": "301",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 295,
+   "type": "Z",
+   "year": 1784,
+   "months": "III–VII",
+   "page": "302",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 296,
+   "type": "Z",
+   "year": 1784,
+   "months": "VII–VIII",
+   "page": "303",
+   "note": "od IX 1784 nová matrika německy",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 297,
+   "type": "Z",
+   "year": 1784,
+   "page": "304",
+   "place": "Hovězí",
+   "note": "začátek úmrtní matriky obce Hovězí od IX 1784",
    "by": "strbackatomas"
   }
  ],

@@ -19,10 +19,58 @@
  },
  "points": [
   {
+   "scan": 5,
+   "type": "O",
+   "year": 1786,
+   "page": "6–7",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 8,
+   "type": "O",
+   "year": 1787,
+   "page": "12–13",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 11,
+   "type": "O",
+   "year": 1788,
+   "page": "18–19",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 14,
+   "type": "O",
+   "year": 1788,
+   "year_to": 1789,
+   "page": "24–25",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 17,
    "type": "O",
    "year": 1790,
    "months": "VII",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 20,
+   "type": "O",
+   "year": 1791,
+   "page": "36–37",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 21,
+   "type": "O",
+   "year": 1792,
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 22,
+   "type": "O",
+   "year": 1792,
    "by": "strbackatomas"
   },
   {
@@ -40,10 +88,39 @@
    "by": "FiikCz"
   },
   {
+   "scan": 26,
+   "type": "O",
+   "year": 1795,
+   "page": "48–49",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 28,
+   "type": "O",
+   "year": 1796,
+   "page": "52–53",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 30,
+   "type": "O",
+   "year": 1797,
+   "page": "56–57",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 31,
    "type": "O",
    "year": 1798,
    "months": "XI",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 34,
+   "type": "O",
+   "year": 1800,
+   "year_to": 1801,
+   "page": "64–65",
    "by": "strbackatomas"
   },
   {
@@ -54,10 +131,34 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 35,
+   "type": "O",
+   "year": 1801,
+   "months": "V–XI",
+   "page": "66–67",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 36,
+   "type": "O",
+   "year": 1801,
+   "year_to": 1802,
+   "page": "68–69",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 37,
    "type": "O",
    "year": 1802,
    "months": "II",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 38,
+   "type": "O",
+   "year": 1802,
+   "year_to": 1803,
+   "page": "72–73",
    "by": "strbackatomas"
   },
   {
@@ -89,6 +190,29 @@
    "by": "FiikCz"
   },
   {
+   "scan": 62,
+   "type": "O",
+   "year": 1824,
+   "year_to": 1825,
+   "months": "I–II",
+   "page": "120–121",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 63,
+   "type": "O",
+   "year": 1825,
+   "year_to": 1826,
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 64,
+   "type": "O",
+   "year": 1826,
+   "year_to": 1827,
+   "by": "strbackatomas"
+  },
+  {
    "scan": 64,
    "type": "O",
    "year": 1827,
@@ -110,11 +234,32 @@
    "by": "FiikCz"
   },
   {
+   "scan": 66,
+   "type": "O",
+   "year": 1828,
+   "year_to": 1829,
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 67,
+   "type": "O",
+   "year": 1829,
+   "year_to": 1830,
+   "by": "strbackatomas"
+  },
+  {
    "scan": 68,
    "type": "O",
    "year": 1830,
    "months": "II–VI",
    "by": "FiikCz"
+  },
+  {
+   "scan": 68,
+   "type": "O",
+   "year": 1830,
+   "year_to": 1831,
+   "by": "strbackatomas"
   },
   {
    "scan": 69,
@@ -138,6 +283,105 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 73,
+   "type": "O",
+   "year": 1836,
+   "months": "II–V",
+   "note": "vizitace 1836",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 74,
+   "type": "O",
+   "year": 1836,
+   "year_to": 1837,
+   "months": "XI–I",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 75,
+   "type": "O",
+   "year": 1837,
+   "months": "I–II",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 76,
+   "type": "O",
+   "year": 1837,
+   "months": "II–IV",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 77,
+   "type": "O",
+   "year": 1837,
+   "months": "IV–VII",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 78,
+   "type": "O",
+   "year": 1837,
+   "months": "VIII–XI",
+   "note": "konec roku",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 79,
+   "type": "O",
+   "year": 1837,
+   "year_to": 1838,
+   "page": "154",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 80,
+   "type": "O",
+   "year": 1838,
+   "months": "VII–XI",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 81,
+   "type": "O",
+   "year": 1838,
+   "months": "XI",
+   "note": "konec roku",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 82,
+   "type": "O",
+   "year": 1839,
+   "months": "I–II",
+   "page": "158",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 85,
+   "type": "O",
+   "year": 1839,
+   "months": "X–XI",
+   "page": "164–165",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 90,
+   "type": "O",
+   "year": 1841,
+   "page": "174",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 100,
+   "type": "O",
+   "year": 1844,
+   "months": "V–IX",
+   "page": "194–195",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 101,
    "type": "O",
    "year": 1845,
@@ -145,11 +389,35 @@
    "by": "FiikCz"
   },
   {
+   "scan": 104,
+   "type": "O",
+   "year": 1846,
+   "page": "202",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 112,
    "type": "O",
    "year": 1847,
    "months": "XI",
    "by": "FiikCz"
+  },
+  {
+   "scan": 128,
+   "type": "iO",
+   "letters": "K–N",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 129,
+   "type": "iO",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 130,
+   "type": "iO",
+   "letters": "T–Z",
+   "by": "strbackatomas"
   }
  ],
  "sources": [

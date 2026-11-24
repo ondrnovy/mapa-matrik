@@ -47,6 +47,28 @@
    "year": 1943,
    "months": "XII",
    "by": "FiikCz"
+  },
+  {
+   "scan": 83,
+   "type": "iZ",
+   "year": 1918,
+   "year_to": 1949,
+   "letters": "M",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 84,
+   "type": "iZ",
+   "letters": "N",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 90,
+   "type": "iZ",
+   "year": 1918,
+   "year_to": 1944,
+   "letters": "V",
+   "by": "strbackatomas"
   }
  ],
  "sources": [

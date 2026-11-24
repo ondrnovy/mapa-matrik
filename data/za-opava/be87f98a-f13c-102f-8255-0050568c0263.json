@@ -19,6 +19,14 @@
  },
  "points": [
   {
+   "scan": 15,
+   "type": "N",
+   "year": 1822,
+   "months": "I–III",
+   "page": "fol. 29–30",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 21,
    "type": "N",
    "year": 1823,
@@ -38,6 +46,29 @@
    "year": 1822,
    "months": "XII",
    "by": "FiikCz"
+  },
+  {
+   "scan": 25,
+   "type": "N",
+   "year": 1824,
+   "months": "I",
+   "page": "fol. 49",
+   "note": "levá strana",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 26,
+   "type": "N",
+   "year": 1824,
+   "months": "II–III",
+   "page": "fol. 51–52",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 27,
+   "type": "N",
+   "page": "fol. 53–54",
+   "by": "strbackatomas"
   },
   {
    "scan": 28,
@@ -103,11 +134,93 @@
    "by": "FiikCz"
   },
   {
+   "scan": 113,
+   "type": "N",
+   "year": 1839,
+   "months": "I",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 115,
+   "type": "N",
+   "year": 1839,
+   "months": "IV",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 118,
+   "type": "N",
+   "year": 1839,
+   "months": "VII",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 120,
    "type": "N",
    "year": 1839,
    "months": "IX",
    "by": "FiikCz"
+  },
+  {
+   "scan": 120,
+   "type": "N",
+   "year": 1839,
+   "months": "IX",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 121,
+   "type": "N",
+   "year": 1839,
+   "months": "X",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 122,
+   "type": "N",
+   "year": 1839,
+   "months": "X–XII",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 123,
+   "type": "N",
+   "year": 1839,
+   "months": "XI–XII",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 124,
+   "type": "N",
+   "year": 1839,
+   "months": "XI–XII",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 125,
+   "type": "N",
+   "year": 1840,
+   "months": "I",
+   "page": "250–251",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 126,
+   "type": "N",
+   "year": 1840,
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 127,
+   "type": "N",
+   "year": 1840,
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 128,
+   "type": "N",
+   "year": 1840,
+   "by": "strbackatomas"
   },
   {
    "scan": 129,
@@ -138,6 +251,13 @@
    "by": "FiikCz"
   },
   {
+   "scan": 137,
+   "type": "N",
+   "year": 1841,
+   "months": "I",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 140,
    "type": "N",
    "year": 1841,
@@ -157,6 +277,13 @@
    "year": 1842,
    "months": "I",
    "by": "FiikCz"
+  },
+  {
+   "scan": 150,
+   "type": "N",
+   "year": 1842,
+   "months": "I",
+   "by": "strbackatomas"
   },
   {
    "scan": 160,
@@ -185,6 +312,14 @@
    "year": 1846,
    "months": "I",
    "by": "FiikCz"
+  },
+  {
+   "scan": 200,
+   "type": "N",
+   "year": 1846,
+   "months": "VI",
+   "page": "400–401",
+   "by": "strbackatomas"
   }
  ],
  "sources": [

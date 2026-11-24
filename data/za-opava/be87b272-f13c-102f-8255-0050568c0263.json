@@ -19,10 +19,91 @@
  },
  "points": [
   {
+   "scan": 7,
+   "type": "Z",
+   "year": 1798,
+   "months": "IV–VII",
+   "page": "12–13",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 9,
+   "type": "Z",
+   "year": 1798,
+   "months": "X–XII",
+   "page": "16–17",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 10,
+   "type": "Z",
+   "year": 1798,
+   "year_to": 1799,
+   "months": "XII–II",
+   "page": "fol. 18–19",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 15,
+   "type": "Z",
+   "year": 1800,
+   "year_to": 1801,
+   "months": "XII–I",
+   "page": "fol. 28–29",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 29,
+   "type": "Z",
+   "year": 1805,
+   "page": "fol. 56–57",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 33,
+   "type": "Z",
+   "year": 1807,
+   "months": "I–III",
+   "page": "fol. 64–65",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 35,
+   "type": "Z",
+   "year": 1808,
+   "page": "fol. 68–69",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 43,
    "type": "Z",
    "year": 1812,
    "months": "IV",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 44,
+   "type": "Z",
+   "year": 1812,
+   "months": "IV–IX",
+   "page": "fol. 86–87",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 48,
+   "type": "Z",
+   "year": 1814,
+   "months": "III–X",
+   "page": "fol. 94–95",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 49,
+   "type": "Z",
+   "year": 1814,
+   "year_to": 1815,
+   "months": "X–V",
+   "page": "fol. 96–97",
    "by": "strbackatomas"
   },
   {
@@ -47,6 +128,30 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 161,
+   "type": "Z",
+   "year": 1846,
+   "months": "V–VIII",
+   "page": "fol. 320–321",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 166,
+   "type": "Z",
+   "year": 1847,
+   "months": "III",
+   "page": "fol. 330–331",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 171,
+   "type": "Z",
+   "year": 1847,
+   "months": "VII",
+   "page": "fol. 340–341",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 173,
    "type": "Z",
    "year": 1847,
@@ -54,10 +159,120 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 175,
+   "type": "Z",
+   "year": 1847,
+   "months": "XI–XII",
+   "page": "fol. 348–349",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 180,
+   "type": "Z",
+   "year": 1848,
+   "months": "II–III",
+   "page": "fol. 358–359",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 181,
    "type": "Z",
    "year": 1848,
    "months": "IV",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 199,
+   "type": "Z",
+   "year": 1851,
+   "months": "VII–IX",
+   "page": "fol. 396–397",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 215,
+   "type": "Z",
+   "year": 1854,
+   "months": "IV",
+   "page": "fol. 428–429",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 266,
+   "type": "iZ",
+   "year": 1796,
+   "year_to": 1816,
+   "page": "277",
+   "letters": "J",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 267,
+   "type": "iZ",
+   "year": 1817,
+   "year_to": 1860,
+   "page": "278–279",
+   "letters": "J",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 268,
+   "type": "iZ",
+   "page": "282",
+   "letters": "K",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 269,
+   "type": "iZ",
+   "letters": "K",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 270,
+   "type": "iZ",
+   "letters": "L",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 271,
+   "type": "iZ",
+   "letters": "K",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 274,
+   "type": "iZ",
+   "letters": "M",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 276,
+   "type": "iZ",
+   "letters": "O",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 280,
+   "type": "iZ",
+   "letters": "R",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 282,
+   "type": "iZ",
+   "year": 1796,
+   "year_to": 1819,
+   "page": "300–301",
+   "letters": "S",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 283,
+   "type": "iZ",
+   "year": 1819,
+   "year_to": 1850,
+   "letters": "S",
    "by": "strbackatomas"
   }
  ],

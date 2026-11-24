@@ -19,10 +19,57 @@
  },
  "points": [
   {
+   "scan": 6,
+   "type": "O",
+   "year": 1918,
+   "page": "list 6",
+   "note": "konec roku",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 7,
+   "type": "O",
+   "year": 1919,
+   "months": "II",
+   "page": "list 7",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 8,
+   "type": "O",
+   "year": 1919,
+   "months": "II–V",
+   "page": "list 8",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 34,
+   "type": "O",
+   "year": 1925,
+   "months": "I–II",
+   "page": "list 34",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 37,
+   "type": "O",
+   "year": 1925,
+   "page": "list 37",
+   "note": "konec roku",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 38,
    "type": "O",
    "year": 1926,
    "months": "II",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 60,
+   "type": "O",
+   "year": 1933,
+   "page": "list 60",
    "by": "strbackatomas"
   },
   {
@@ -33,6 +80,22 @@
    "by": "FiikCz"
   },
   {
+   "scan": 68,
+   "type": "O",
+   "year": 1935,
+   "months": "II–III",
+   "page": "list 67",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 83,
+   "type": "O",
+   "year": 1937,
+   "months": "XI",
+   "page": "list 82",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 87,
    "type": "O",
    "year": 1939,
@@ -40,10 +103,27 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 91,
+   "type": "O",
+   "year": 1940,
+   "months": "I–V",
+   "page": "list 89",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 101,
    "type": "O",
    "year": 1942,
    "months": "IX",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 102,
+   "type": "O",
+   "year": 1942,
+   "months": "XI",
+   "page": "list 100",
+   "note": "konec roku",
    "by": "strbackatomas"
   }
  ],

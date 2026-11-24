@@ -19,10 +19,67 @@
  },
  "points": [
   {
+   "scan": 2,
+   "type": "O",
+   "year": 1796,
+   "year_to": 1797,
+   "months": "XI–XI",
+   "page": "fol. 2–3",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 3,
+   "type": "O",
+   "year": 1797,
+   "year_to": 1799,
+   "months": "XI–I",
+   "page": "fol. 4–5",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 4,
+   "type": "O",
+   "year": 1799,
+   "year_to": 1800,
+   "months": "I–II",
+   "page": "fol. 6–7",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 22,
    "type": "O",
    "year": 1821,
    "months": "II",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 33,
+   "type": "O",
+   "year": 1831,
+   "months": "I–VIII",
+   "page": "64–65",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 34,
+   "type": "O",
+   "year": 1831,
+   "year_to": 1832,
+   "page": "67–68",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 59,
+   "type": "O",
+   "year": 1842,
+   "months": "VII–X",
+   "page": "117–118",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 166,
+   "type": "iO",
+   "letters": "J",
    "by": "strbackatomas"
   }
  ],

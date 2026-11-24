@@ -29,10 +29,301 @@
  },
  "points": [
   {
+   "scan": 12,
+   "type": "O",
+   "months": "X–XI",
+   "page": "20–21",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 13,
+   "type": "O",
+   "year": 1739,
+   "months": "I–XI",
+   "page": "22–23",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 14,
    "type": "O",
    "year": 1739,
    "months": "XI",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 20,
+   "type": "O",
+   "year": 1744,
+   "months": "I",
+   "page": "36–37",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 21,
+   "type": "O",
+   "year": 1744,
+   "months": "II–VIII",
+   "page": "38–39",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 22,
+   "type": "O",
+   "year": 1744,
+   "months": "VIII–XI",
+   "page": "40–41",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 30,
+   "type": "O",
+   "year": 1748,
+   "months": "I–V",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 31,
+   "type": "O",
+   "year": 1748,
+   "months": "V–VIII",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 32,
+   "type": "O",
+   "year": 1748,
+   "months": "IX–XI",
+   "page": "60–61",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 33,
+   "type": "O",
+   "year": 1748,
+   "months": "XI",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 34,
+   "type": "O",
+   "year": 1749,
+   "months": "I–IV",
+   "page": "64–65",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 35,
+   "type": "O",
+   "year": 1749,
+   "months": "V–X",
+   "page": "66–67",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 36,
+   "type": "O",
+   "year": 1749,
+   "months": "XI",
+   "page": "68–69",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 37,
+   "type": "O",
+   "year": 1749,
+   "year_to": 1750,
+   "months": "XI–II",
+   "page": "70–71",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 38,
+   "type": "O",
+   "year": 1750,
+   "months": "III–VII",
+   "page": "72–73",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 39,
+   "type": "O",
+   "year": 1750,
+   "months": "VIII–XI",
+   "page": "74–75",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 40,
+   "type": "O",
+   "year": 1750,
+   "months": "XI",
+   "page": "76–77",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 41,
+   "type": "O",
+   "year": 1750,
+   "year_to": 1751,
+   "months": "XI–I",
+   "page": "78–79",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 42,
+   "type": "O",
+   "year": 1751,
+   "months": "I–V",
+   "page": "80–81",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 43,
+   "type": "O",
+   "year": 1751,
+   "months": "V–VII",
+   "page": "82–83",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 44,
+   "type": "O",
+   "year": 1751,
+   "months": "VII–X",
+   "page": "84–85",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 45,
+   "type": "O",
+   "year": 1751,
+   "months": "X–XI",
+   "page": "86–87",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 46,
+   "type": "O",
+   "year": 1751,
+   "months": "XI",
+   "page": "88–89",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 47,
+   "type": "O",
+   "year": 1751,
+   "year_to": 1752,
+   "months": "XI–I",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 48,
+   "type": "O",
+   "year": 1752,
+   "months": "I–VI",
+   "page": "92–93",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 95,
+   "type": "O",
+   "year": 1766,
+   "year_to": 1767,
+   "months": "X–II",
+   "page": "185–186",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 96,
+   "type": "O",
+   "year": 1767,
+   "months": "IV–XI",
+   "page": "187–188",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 97,
+   "type": "O",
+   "year": 1767,
+   "year_to": 1768,
+   "months": "XI–I",
+   "page": "189–190",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 98,
+   "type": "O",
+   "year": 1768,
+   "months": "I–X",
+   "page": "191–192",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 99,
+   "type": "O",
+   "year": 1768,
+   "year_to": 1769,
+   "months": "X–I",
+   "page": "193–194",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 100,
+   "type": "O",
+   "year": 1769,
+   "months": "I–VIII",
+   "page": "195–196",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 101,
+   "type": "O",
+   "year": 1769,
+   "months": "IX–XI",
+   "page": "197–198",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 102,
+   "type": "O",
+   "year": 1769,
+   "year_to": 1770,
+   "months": "XI–II",
+   "page": "199–200",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 200,
+   "type": "N",
+   "page": "249–250",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 201,
+   "type": "N",
+   "note": "konec oddílu křtů",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 202,
+   "type": "Z",
+   "year": 1754,
+   "months": "I",
+   "note": "začátek oddílu úmrtí",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 206,
+   "type": "Z",
+   "year": 1755,
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 230,
+   "type": "Z",
+   "year": 1765,
+   "months": "I",
    "by": "strbackatomas"
   }
  ],

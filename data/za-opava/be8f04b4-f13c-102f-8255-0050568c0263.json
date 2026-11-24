@@ -18,10 +18,25 @@
  },
  "points": [
   {
+   "scan": 1,
+   "type": "O",
+   "year": 1856,
+   "year_to": 1857,
+   "page": "1",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 5,
    "type": "O",
    "year": 1860,
    "months": "II",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 6,
+   "type": "O",
+   "year": 1861,
+   "page": "10–11",
    "by": "strbackatomas"
   },
   {
@@ -36,6 +51,18 @@
    "type": "O",
    "year": 1884,
    "months": "II",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 76,
+   "type": "iO",
+   "letters": "L, M",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 80,
+   "type": "iO",
+   "letters": "W, Z",
    "by": "strbackatomas"
   }
  ],

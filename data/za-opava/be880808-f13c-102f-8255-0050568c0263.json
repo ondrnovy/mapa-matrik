@@ -25,6 +25,38 @@
  },
  "points": [
   {
+   "scan": 80,
+   "type": "N",
+   "year": 1800,
+   "page": "154–155",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 115,
+   "type": "N",
+   "year": 1811,
+   "months": "VI–XII",
+   "page": "224–225",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 116,
+   "type": "N",
+   "year": 1811,
+   "year_to": 1812,
+   "months": "XII–II",
+   "page": "226–227",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 117,
+   "type": "N",
+   "year": 1812,
+   "months": "II–VII",
+   "page": "228–229",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 118,
    "type": "N",
    "year": 1812,

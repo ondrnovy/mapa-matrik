@@ -19,6 +19,22 @@
  },
  "points": [
   {
+   "scan": 55,
+   "type": "Z",
+   "year": 1873,
+   "year_to": 1874,
+   "months": "XII–III",
+   "page": "106–107",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 61,
+   "type": "Z",
+   "year": 1876,
+   "page": "118–119",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 80,
    "type": "Z",
    "year": 1881,
@@ -30,6 +46,50 @@
    "type": "Z",
    "year": 1883,
    "months": "III",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 117,
+   "type": "Z",
+   "year": 1891,
+   "page": "227–228",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 118,
+   "type": "Z",
+   "year": 1891,
+   "year_to": 1892,
+   "page": "229–230",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 137,
+   "type": "iZ",
+   "year": 1872,
+   "year_to": 1889,
+   "letters": "K",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 140,
+   "type": "iZ",
+   "year": 1892,
+   "year_to": 1894,
+   "letters": "K, M, N, O",
+   "note": "pravá strana",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 144,
+   "type": "iZ",
+   "letters": "S, T, U, V, W",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 145,
+   "type": "iZ",
+   "letters": "Z",
    "by": "strbackatomas"
   }
  ],

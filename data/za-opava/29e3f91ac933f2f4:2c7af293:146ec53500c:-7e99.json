@@ -40,10 +40,38 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 157,
+   "type": "Z",
+   "year": 1922,
+   "by": "strbackatomas"
+  },
+  {
    "scan": 158,
    "type": "Z",
    "year": 1922,
    "months": "XII",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 282,
+   "type": "iZ",
+   "letters": "Ch, J",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 284,
+   "type": "iZ",
+   "year": 1895,
+   "year_to": 1911,
+   "letters": "K",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 285,
+   "type": "iZ",
+   "year": 1911,
+   "year_to": 1929,
+   "letters": "K",
    "by": "strbackatomas"
   }
  ],

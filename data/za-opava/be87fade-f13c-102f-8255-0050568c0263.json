@@ -26,6 +26,14 @@
    "by": "FiikCz"
   },
   {
+   "scan": 26,
+   "type": "N",
+   "year": 1866,
+   "months": "VIII",
+   "page": "fol. 26",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 28,
    "type": "N",
    "year": 1866,
@@ -40,10 +48,35 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 31,
+   "type": "N",
+   "year": 1866,
+   "year_to": 1867,
+   "months": "XII–I",
+   "page": "fol. 31",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 50,
+   "type": "N",
+   "year": 1868,
+   "months": "V",
+   "page": "fol. 49",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 64,
    "type": "N",
    "year": 1869,
    "months": "II",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 69,
+   "type": "N",
+   "year": 1869,
+   "months": "VI",
+   "page": "fol. 68",
    "by": "strbackatomas"
   },
   {
@@ -61,10 +94,46 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 106,
+   "type": "N",
+   "year": 1871,
+   "months": "VIII–IX",
+   "page": "fol. 105",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 137,
+   "type": "N",
+   "year": 1873,
+   "months": "I–II",
+   "page": "fol. 135",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 138,
    "type": "N",
    "year": 1873,
    "months": "II",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 140,
+   "type": "N",
+   "year": 1873,
+   "page": "fol. 158",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 149,
+   "type": "iN",
+   "year": 1865,
+   "year_to": 1873,
+   "letters": "O",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 150,
+   "type": "iN",
    "by": "strbackatomas"
   }
  ],

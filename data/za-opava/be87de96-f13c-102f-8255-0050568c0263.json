@@ -23,10 +23,59 @@
  },
  "points": [
   {
+   "scan": 4,
+   "type": "N",
+   "year": 1790,
+   "year_to": 1791,
+   "months": "VII–II",
+   "page": "6–7",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 5,
+   "type": "N",
+   "year": 1791,
+   "months": "III–XI",
+   "page": "8–9",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 6,
+   "type": "N",
+   "year": 1792,
+   "months": "II–IV",
+   "page": "10–11",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 8,
+   "type": "N",
+   "year": 1793,
+   "year_to": 1794,
+   "months": "XI–I",
+   "page": "14–15",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 10,
    "type": "N",
    "year": 1795,
    "months": "IV",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 14,
+   "type": "N",
+   "year": 1797,
+   "page": "26–27",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 16,
+   "type": "N",
+   "year": 1797,
+   "year_to": 1798,
+   "page": "30–31",
    "by": "strbackatomas"
   },
   {
@@ -37,6 +86,36 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 18,
+   "type": "N",
+   "year": 1798,
+   "page": "34–35",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 20,
+   "type": "N",
+   "year": 1799,
+   "page": "38–39",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 21,
+   "type": "N",
+   "year": 1799,
+   "year_to": 1800,
+   "months": "XII–III",
+   "page": "40–41",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 22,
+   "type": "N",
+   "year": 1800,
+   "page": "42–43",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 26,
    "type": "N",
    "year": 1802,
@@ -44,10 +123,200 @@
    "by": "FiikCz"
   },
   {
+   "scan": 112,
+   "type": "N",
+   "year": 1818,
+   "place": "Halenkov",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 113,
+   "type": "N",
+   "year": 1818,
+   "year_to": 1819,
+   "place": "Halenkov",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 114,
+   "type": "N",
+   "year": 1819,
+   "place": "Halenkov",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 115,
+   "type": "N",
+   "year": 1819,
+   "place": "Halenkov",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 116,
+   "type": "N",
+   "year": 1819,
+   "place": "Halenkov",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 117,
+   "type": "N",
+   "year": 1819,
+   "months": "XI–XII",
+   "page": "fol. 222–223",
+   "note": "konec knihy",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 118,
+   "type": "iN",
+   "place": "Halenkov",
+   "letters": "A–B",
+   "note": "začátek rejstříku oddílu Halenkov (od V 1798)",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 119,
+   "type": "iN",
+   "letters": "B–G",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 120,
+   "type": "iN",
+   "year": 1789,
+   "year_to": 1796,
+   "place": "Halenkov",
+   "note": "český rejstřík oddílu Halenkov od 1789",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 121,
+   "type": "iN",
+   "letters": "L–P",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 122,
+   "type": "iN",
+   "letters": "R, S, T",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 123,
+   "type": "iN",
+   "letters": "W, Z",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 130,
+   "type": "N",
+   "year": 1795,
+   "year_to": 1796,
+   "months": "IX–II",
+   "place": "Hovězí",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 131,
+   "type": "N",
+   "year": 1796,
+   "year_to": 1797,
+   "months": "V–III",
+   "page": "136–137",
+   "place": "Hovězí",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 132,
+   "type": "N",
+   "year": 1797,
+   "months": "V–IX",
+   "page": "138–139",
+   "place": "Hovězí",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 137,
+   "type": "N",
+   "year": 1799,
+   "year_to": 1800,
+   "months": "XII–VIII",
+   "page": "148–149",
+   "place": "Hovězí",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 138,
+   "type": "N",
+   "year": 1800,
+   "year_to": 1801,
+   "months": "VIII–II",
+   "page": "150–151",
+   "place": "Hovězí",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 139,
+   "type": "N",
+   "year": 1801,
+   "months": "II–X",
+   "page": "152–153",
+   "place": "Hovězí",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 140,
+   "type": "N",
+   "year": 1801,
+   "year_to": 1802,
+   "months": "X–III",
+   "page": "154–155",
+   "place": "Hovězí",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 141,
+   "type": "N",
+   "year": 1802,
+   "months": "III–VII",
+   "page": "156–157",
+   "place": "Hovězí",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 142,
    "type": "N",
    "year": 1802,
    "months": "X",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 142,
+   "type": "N",
+   "year": 1802,
+   "months": "VII–XII",
+   "page": "158–159",
+   "place": "Hovězí",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 143,
+   "type": "N",
+   "year": 1802,
+   "year_to": 1803,
+   "months": "XII–IV",
+   "page": "160–161",
+   "place": "Hovězí",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 144,
+   "type": "N",
+   "year": 1803,
+   "months": "IV–X",
+   "page": "162–163",
+   "place": "Hovězí",
    "by": "strbackatomas"
   },
   {
@@ -58,10 +327,161 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 145,
+   "type": "N",
+   "year": 1803,
+   "months": "X–XII",
+   "page": "164–165",
+   "place": "Hovězí",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 146,
+   "type": "N",
+   "year": 1804,
+   "months": "I–III",
+   "page": "166–167",
+   "place": "Hovězí",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 147,
    "type": "N",
    "year": 1804,
    "months": "IV",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 147,
+   "type": "N",
+   "year": 1804,
+   "months": "IV–VIII",
+   "page": "168–169",
+   "place": "Hovězí",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 148,
+   "type": "N",
+   "year": 1804,
+   "page": "170–171",
+   "place": "Hovězí",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 152,
+   "type": "N",
+   "year": 1806,
+   "page": "178–179",
+   "place": "Hovězí",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 165,
+   "type": "N",
+   "year": 1810,
+   "page": "104",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 185,
+   "type": "N",
+   "year": 1817,
+   "page": "144",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 192,
+   "type": "iN",
+   "place": "Hovězí",
+   "letters": "A, B, E",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 193,
+   "type": "iN",
+   "place": "Hovězí",
+   "letters": "E–H",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 194,
+   "type": "iN",
+   "year": 1798,
+   "year_to": 1802,
+   "place": "Hovězí",
+   "letters": "J, K, L, M",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 196,
+   "type": "iN",
+   "place": "Hovězí",
+   "letters": "T, W",
+   "note": "od pravé strany rejstřík Nový Hrozenkov",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 197,
+   "type": "iN",
+   "year": 1790,
+   "year_to": 1803,
+   "place": "Nový Hrozenkov",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 199,
+   "type": "iN",
+   "year": 1790,
+   "year_to": 1803,
+   "place": "Nový Hrozenkov",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 200,
+   "type": "iN",
+   "year": 1790,
+   "year_to": 1803,
+   "place": "Nový Hrozenkov",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 200,
+   "type": "N",
+   "year": 1802,
+   "year_to": 1803,
+   "page": "206–207",
+   "place": "Nový Hrozenkov",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 206,
+   "type": "N",
+   "year": 1810,
+   "year_to": 1811,
+   "page": "307–308",
+   "place": "Nový Hrozenkov",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 207,
+   "type": "N",
+   "year": 1812,
+   "year_to": 1813,
+   "page": "309–310",
+   "place": "Nový Hrozenkov",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 213,
+   "type": "iN",
+   "note": "rejstřík podle stránek, ne podle let",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 219,
+   "type": "iN",
+   "note": "rejstřík podle stránek, ne podle let",
    "by": "strbackatomas"
   }
  ],

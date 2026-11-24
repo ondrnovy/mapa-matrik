@@ -38,6 +38,33 @@
    "year": 1913,
    "months": "V",
    "by": "strbackatomas"
+  },
+  {
+   "scan": 28,
+   "type": "O",
+   "year": 1917,
+   "year_to": 1918,
+   "page": "53–54",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 30,
+   "type": "O",
+   "year": 1919,
+   "page": "57–58",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 32,
+   "type": "iO",
+   "letters": "C, D–F",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 34,
+   "type": "iO",
+   "letters": "K, L–M",
+   "by": "strbackatomas"
   }
  ],
  "sources": [

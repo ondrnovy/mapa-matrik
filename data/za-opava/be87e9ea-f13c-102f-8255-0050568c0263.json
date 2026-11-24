@@ -30,6 +30,14 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 9,
+   "type": "O",
+   "year": 1786,
+   "months": "VII–XI",
+   "page": "fol. 7–8",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 21,
    "type": "O",
    "year": 1793,
@@ -44,10 +52,88 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 32,
+   "type": "O",
+   "year": 1800,
+   "page": "fol. 52–53",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 36,
+   "type": "O",
+   "year": 1803,
+   "page": "fol. 59–60",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 37,
+   "type": "O",
+   "year": 1803,
+   "year_to": 1804,
+   "months": "XI–VI",
+   "page": "fol. 61–62",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 40,
+   "type": "O",
+   "year": 1806,
+   "page": "fol. 66–67",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 41,
+   "type": "O",
+   "year": 1806,
+   "months": "XI",
+   "page": "fol. 68–69",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 42,
    "type": "O",
    "year": 1807,
    "months": "II",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 45,
+   "type": "O",
+   "year": 1810,
+   "year_to": 1811,
+   "page": "fol. 74–75",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 47,
+   "type": "O",
+   "year": 1813,
+   "year_to": 1814,
+   "page": "fol. 78–79",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 48,
+   "type": "O",
+   "year": 1814,
+   "year_to": 1815,
+   "page": "fol. 80–81",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 50,
+   "type": "O",
+   "year": 1816,
+   "year_to": 1817,
+   "page": "fol. 84–85",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 53,
+   "type": "O",
+   "year": 1820,
+   "year_to": 1821,
+   "page": "fol. 90–91",
    "by": "strbackatomas"
   },
   {
@@ -58,10 +144,88 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 55,
+   "type": "O",
+   "year": 1823,
+   "page": "fol. 94–95",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 57,
    "type": "O",
    "year": 1825,
    "months": "II",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 65,
+   "type": "iO",
+   "year": 1784,
+   "year_to": 1805,
+   "place": "Hovězí",
+   "letters": "B",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 66,
+   "type": "iO",
+   "year": 1806,
+   "year_to": 1833,
+   "place": "Hovězí",
+   "letters": "B, Ch",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 70,
+   "type": "iO",
+   "year": 1784,
+   "year_to": 1817,
+   "place": "Hovězí",
+   "letters": "H",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 77,
+   "type": "iO",
+   "place": "Hovězí",
+   "letters": "N",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 83,
+   "type": "iO",
+   "year": 1784,
+   "year_to": 1829,
+   "place": "Hovězí",
+   "letters": "T",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 90,
+   "type": "O",
+   "year": 1788,
+   "page": "fol. 5–6",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 100,
+   "type": "O",
+   "year": 1814,
+   "year_to": 1818,
+   "place": "Zděchov",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 112,
+   "type": "iO",
+   "letters": "B",
+   "note": "rejstřík jiného malého oddílu",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 116,
+   "type": "iO",
+   "letters": "K",
    "by": "strbackatomas"
   }
  ],

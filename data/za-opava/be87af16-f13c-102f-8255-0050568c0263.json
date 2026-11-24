@@ -32,10 +32,32 @@
  ],
  "points": [
   {
+   "scan": 125,
+   "type": "O",
+   "year": 1783,
+   "by": "strbackatomas"
+  },
+  {
    "scan": 132,
    "type": "O",
    "year": 1788,
    "months": "IX",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 132,
+   "type": "O",
+   "year": 1788,
+   "page": "12–13",
+   "place": "Rožnov pod Radhoštěm",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 133,
+   "type": "O",
+   "year": 1789,
+   "year_to": 1790,
+   "page": "14–15",
    "by": "strbackatomas"
   },
   {
@@ -46,6 +68,44 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 136,
+   "type": "O",
+   "year": 1791,
+   "year_to": 1792,
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 150,
+   "type": "O",
+   "year": 1785,
+   "place": "Brňov",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 152,
+   "type": "O",
+   "year": 1784,
+   "year_to": 1789,
+   "place": "Hážovice",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 156,
+   "type": "O",
+   "year": 1784,
+   "year_to": 1785,
+   "place": "Velká Lhota",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 160,
+   "type": "O",
+   "year": 1784,
+   "year_to": 1785,
+   "place": "Střítež nad Bečvou",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 162,
    "type": "O",
    "year": 1786,
@@ -53,10 +113,79 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 162,
+   "type": "O",
+   "year": 1784,
+   "year_to": 1786,
+   "page": "2–3",
+   "place": "Tylovice",
+   "note": "oddíl Tylovice",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 163,
    "type": "O",
    "year": 1789,
    "months": "II",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 163,
+   "type": "O",
+   "year": 1787,
+   "year_to": 1791,
+   "page": "4–5",
+   "place": "Tylovice",
+   "note": "oddíl Tylovice",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 164,
+   "type": "O",
+   "year": 1792,
+   "year_to": 1795,
+   "page": "6–7",
+   "place": "Tylovice",
+   "note": "oddíl Tylovice",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 168,
+   "type": "O",
+   "year": 1784,
+   "year_to": 1785,
+   "place": "Vidče",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 170,
+   "type": "O",
+   "year": 1784,
+   "year_to": 1786,
+   "place": "Vigantice",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 172,
+   "type": "O",
+   "year": 1791,
+   "year_to": 1793,
+   "place": "Vigantice",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 173,
+   "type": "O",
+   "year": 1794,
+   "place": "Vigantice",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 184,
+   "type": "iO",
+   "year": 1746,
+   "year_to": 1748,
+   "letters": "K",
    "by": "strbackatomas"
   }
  ],

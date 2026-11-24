@@ -22,10 +22,153 @@
  },
  "points": [
   {
+   "scan": 1,
+   "type": "Z",
+   "year": 1820,
+   "months": "I–V",
+   "place": "Halenkov",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 2,
+   "type": "Z",
+   "year": 1820,
+   "year_to": 1821,
+   "months": "V–VIII",
+   "place": "Halenkov",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 3,
+   "type": "Z",
+   "year": 1821,
+   "year_to": 1822,
+   "months": "IX–XII",
+   "place": "Halenkov",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 4,
+   "type": "Z",
+   "year": 1823,
+   "year_to": 1824,
+   "place": "Halenkov",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 5,
+   "type": "Z",
+   "year": 1824,
+   "year_to": 1825,
+   "place": "Halenkov",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 6,
+   "type": "Z",
+   "year": 1825,
+   "place": "Halenkov",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 7,
+   "type": "Z",
+   "year": 1826,
+   "year_to": 1827,
+   "place": "Halenkov",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 8,
+   "type": "Z",
+   "year": 1827,
+   "year_to": 1828,
+   "place": "Halenkov",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 9,
+   "type": "Z",
+   "year": 1828,
+   "year_to": 1829,
+   "place": "Halenkov",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 10,
+   "type": "Z",
+   "year": 1829,
+   "year_to": 1830,
+   "page": "fol. 18–19",
+   "place": "Halenkov",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 11,
    "type": "Z",
    "year": 1830,
    "months": "X",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 11,
+   "type": "Z",
+   "year": 1830,
+   "year_to": 1831,
+   "page": "fol. 20–21",
+   "place": "Halenkov",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 20,
+   "type": "Z",
+   "year": 1835,
+   "place": "Halenkov",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 38,
+   "type": "Z",
+   "year": 1847,
+   "months": "I–III",
+   "page": "fol. 73–74",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 39,
+   "type": "Z",
+   "page": "fol. 75–76",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 40,
+   "type": "Z",
+   "page": "fol. 77–78",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 41,
+   "type": "Z",
+   "year": 1847,
+   "months": "X–XI",
+   "page": "fol. 79–80",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 42,
+   "type": "Z",
+   "year": 1847,
+   "months": "XI–XII",
+   "page": "fol. 81–82",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 43,
+   "type": "Z",
+   "year": 1847,
+   "year_to": 1848,
+   "months": "XII–III",
+   "page": "fol. 83–84",
    "by": "strbackatomas"
   },
   {
@@ -36,10 +179,73 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 44,
+   "type": "Z",
+   "page": "fol. 85–86",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 45,
+   "type": "Z",
+   "year": 1848,
+   "year_to": 1849,
+   "page": "fol. 87–88",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 46,
+   "type": "Z",
+   "year": 1849,
+   "page": "fol. 89–90",
+   "place": "Halenkov",
+   "note": "konec roku 1849 oddílu Halenkov",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 47,
+   "type": "Z",
+   "year": 1850,
+   "page": "fol. 91–92",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 48,
+   "type": "Z",
+   "year": 1851,
+   "page": "fol. 93–94",
+   "place": "Halenkov",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 49,
    "type": "Z",
    "year": 1852,
    "months": "II–XI",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 49,
+   "type": "Z",
+   "year": 1852,
+   "months": "I–XII",
+   "page": "fol. 95–96",
+   "place": "Halenkov",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 50,
+   "type": "Z",
+   "year": 1852,
+   "year_to": 1853,
+   "months": "XII–III",
+   "page": "fol. 97–98",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 53,
+   "type": "Z",
+   "year": 1854,
+   "year_to": 1855,
    "by": "strbackatomas"
   },
   {
@@ -50,10 +256,171 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 55,
+   "type": "Z",
+   "place": "Halenkov",
+   "note": "konec oddílu Halenkov",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 62,
+   "type": "Z",
+   "year": 1821,
+   "year_to": 1822,
+   "place": "Hovězí",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 77,
+   "type": "Z",
+   "year": 1842,
+   "year_to": 1843,
+   "months": "IX–X",
+   "page": "105–106",
+   "place": "Hovězí",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 78,
+   "type": "Z",
+   "year": 1843,
+   "months": "X–XII",
+   "page": "106–107",
+   "place": "Hovězí",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 79,
+   "type": "Z",
+   "year": 1843,
+   "year_to": 1844,
+   "months": "XII–I",
+   "page": "107–108",
+   "place": "Hovězí",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 80,
+   "type": "Z",
+   "year": 1844,
+   "months": "I–V",
+   "page": "108–109",
+   "place": "Hovězí",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 81,
+   "type": "Z",
+   "year": 1844,
+   "year_to": 1845,
+   "months": "VI–IV",
+   "page": "109–110",
+   "place": "Hovězí",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 82,
+   "type": "Z",
+   "year": 1845,
+   "year_to": 1846,
+   "months": "V–I",
+   "page": "110–111",
+   "place": "Hovězí",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 83,
+   "type": "Z",
+   "year": 1846,
+   "months": "I–VIII",
+   "page": "111–112",
+   "place": "Hovězí",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 84,
    "type": "Z",
    "year": 1847,
    "months": "II",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 84,
+   "type": "Z",
+   "year": 1846,
+   "year_to": 1847,
+   "months": "VIII–II",
+   "page": "112–113",
+   "place": "Hovězí",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 85,
+   "type": "Z",
+   "year": 1847,
+   "months": "II–V",
+   "page": "114",
+   "place": "Hovězí",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 86,
+   "type": "Z",
+   "year": 1847,
+   "months": "V–IX",
+   "page": "115",
+   "place": "Hovězí",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 87,
+   "type": "Z",
+   "year": 1847,
+   "months": "IX–XII",
+   "page": "116",
+   "place": "Hovězí",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 88,
+   "type": "Z",
+   "year": 1848,
+   "months": "I–IV",
+   "page": "117",
+   "place": "Hovězí",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 89,
+   "type": "Z",
+   "year": 1848,
+   "months": "V–XII",
+   "page": "118",
+   "place": "Hovězí",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 90,
+   "type": "Z",
+   "year": 1849,
+   "place": "Hovězí",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 91,
+   "type": "Z",
+   "year": 1850,
+   "year_to": 1851,
+   "place": "Hovězí",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 92,
+   "type": "Z",
+   "year": 1851,
+   "year_to": 1852,
+   "months": "IV–V",
+   "place": "Hovězí",
    "by": "strbackatomas"
   }
  ],

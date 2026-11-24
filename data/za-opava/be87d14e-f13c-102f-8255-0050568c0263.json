@@ -31,10 +31,746 @@
  },
  "points": [
   {
+   "scan": 230,
+   "type": "N",
+   "year": 1706,
+   "year_to": 1707,
+   "note": "konec roku 1706, začátek 1707",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 231,
+   "type": "N",
+   "year": 1707,
+   "months": "I",
+   "page": "116",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 232,
+   "type": "N",
+   "year": 1707,
+   "months": "I",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 233,
+   "type": "N",
+   "year": 1707,
+   "months": "I",
+   "page": "117",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 234,
+   "type": "N",
+   "year": 1707,
+   "months": "II",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 235,
+   "type": "N",
+   "year": 1707,
+   "months": "II",
+   "page": "118",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 238,
+   "type": "N",
+   "year": 1707,
+   "months": "III",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 239,
+   "type": "N",
+   "year": 1707,
+   "months": "III",
+   "page": "120",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 240,
+   "type": "N",
+   "year": 1707,
+   "months": "III–IV",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 241,
+   "type": "N",
+   "year": 1707,
+   "months": "IV",
+   "page": "121",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 242,
+   "type": "N",
+   "year": 1707,
+   "months": "IV",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 243,
+   "type": "N",
+   "year": 1707,
+   "months": "V",
+   "page": "122",
+   "note": "velká část vybledlá",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 244,
+   "type": "N",
+   "year": 1707,
+   "months": "V",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 245,
+   "type": "N",
+   "year": 1707,
+   "months": "VI",
+   "page": "123",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 246,
+   "type": "N",
+   "year": 1707,
+   "months": "VII",
+   "note": "spodní polovina vybledlá",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 247,
+   "type": "N",
+   "year": 1707,
+   "months": "VIII",
+   "page": "124",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 248,
+   "type": "N",
+   "year": 1707,
+   "months": "IX",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 249,
+   "type": "N",
+   "year": 1707,
+   "months": "IX–X",
+   "page": "125",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 250,
+   "type": "N",
+   "year": 1707,
+   "months": "X–XI",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 251,
+   "type": "N",
+   "year": 1707,
+   "months": "XI",
+   "page": "126",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 252,
+   "type": "N",
+   "year": 1707,
+   "months": "XI–XII",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 253,
+   "type": "N",
+   "year": 1707,
+   "year_to": 1708,
+   "page": "127",
+   "note": "konec roku 1707, začátek 1708",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 254,
+   "type": "N",
+   "year": 1708,
+   "months": "I",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 255,
+   "type": "N",
+   "year": 1708,
+   "months": "I–II",
+   "page": "128",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 256,
+   "type": "N",
+   "year": 1708,
+   "months": "II–III",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 257,
+   "type": "N",
+   "year": 1708,
+   "months": "III–IV",
+   "page": "129",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 258,
+   "type": "N",
+   "year": 1708,
+   "months": "IV–V",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 259,
+   "type": "N",
+   "year": 1708,
+   "months": "VI–VII",
+   "page": "130",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 260,
+   "type": "N",
+   "year": 1708,
+   "months": "VIII–X",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 261,
+   "type": "N",
+   "year": 1708,
+   "months": "X–XI",
+   "page": "131",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 262,
+   "type": "N",
+   "year": 1708,
+   "months": "XI",
+   "note": "spodní polovina vybledlá",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 263,
+   "type": "N",
+   "year": 1708,
+   "months": "XII",
+   "page": "132",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 264,
+   "type": "N",
+   "year": 1709,
+   "months": "I",
+   "note": "začátek roku 1709",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 265,
+   "type": "N",
+   "year": 1709,
+   "months": "I–III",
+   "page": "133",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 266,
+   "type": "N",
+   "months": "III–IV",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 267,
+   "type": "N",
+   "year": 1709,
+   "months": "IV",
+   "page": "134",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 268,
+   "type": "N",
+   "year": 1709,
+   "months": "V",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 269,
+   "type": "N",
+   "year": 1709,
+   "months": "VI",
+   "page": "135",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 270,
+   "type": "N",
+   "year": 1709,
+   "months": "VI–VII",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 271,
+   "type": "N",
+   "year": 1709,
+   "months": "VII–VIII",
+   "page": "136",
+   "note": "z velké části vybledlé",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 272,
+   "type": "N",
+   "year": 1709,
+   "months": "VIII–IX",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 273,
+   "type": "N",
+   "year": 1709,
+   "months": "IX–X",
+   "page": "137",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 274,
+   "type": "N",
+   "year": 1709,
+   "months": "XI",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 275,
+   "type": "N",
+   "year": 1709,
+   "months": "XI–XII",
+   "page": "138",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 276,
+   "type": "N",
+   "year": 1710,
+   "months": "I",
+   "note": "začátek roku 1710",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 277,
+   "type": "N",
+   "year": 1710,
+   "months": "II",
+   "page": "139",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 278,
+   "type": "N",
+   "year": 1710,
+   "months": "II–III",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 279,
+   "type": "N",
+   "year": 1710,
+   "months": "III",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 280,
+   "type": "N",
+   "year": 1710,
+   "months": "IV",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 281,
+   "type": "N",
+   "year": 1710,
+   "months": "V",
+   "page": "141",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 282,
+   "type": "N",
+   "year": 1710,
+   "months": "VI–VII",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 283,
+   "type": "N",
+   "year": 1710,
+   "months": "VII–IX",
+   "page": "140",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 284,
+   "type": "N",
+   "year": 1710,
+   "months": "IX–X",
+   "note": "vybledlé",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 285,
+   "type": "N",
+   "year": 1710,
+   "months": "X–XI",
+   "page": "142",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 286,
+   "type": "N",
+   "year": 1710,
+   "year_to": 1711,
+   "note": "konec roku 1710, začátek 1711",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 287,
+   "type": "N",
+   "year": 1711,
+   "months": "I–II",
+   "page": "144",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 288,
+   "type": "N",
+   "year": 1711,
+   "months": "II",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 289,
+   "type": "N",
+   "year": 1711,
+   "months": "III",
+   "page": "145",
+   "note": "nová ruka, latinsky",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 306,
+   "type": "N",
+   "year": 1711,
+   "year_to": 1712,
+   "note": "konec roku 1711, začátek 1712",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 307,
+   "type": "N",
+   "year": 1712,
+   "months": "I",
+   "page": "154",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 308,
+   "type": "N",
+   "year": 1712,
+   "months": "I–II",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 309,
+   "type": "N",
+   "year": 1712,
+   "months": "II",
+   "page": "155",
+   "note": "vybledlé",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 310,
+   "type": "N",
+   "year": 1712,
+   "months": "II",
+   "note": "vybledlé",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 311,
+   "type": "N",
+   "year": 1712,
+   "months": "III",
+   "page": "156",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 312,
+   "type": "N",
+   "year": 1712,
+   "months": "III",
+   "note": "vybledlé",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 313,
+   "type": "N",
+   "year": 1712,
+   "months": "III–IV",
+   "page": "157",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 314,
+   "type": "N",
+   "year": 1712,
+   "months": "IV",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 315,
+   "type": "N",
+   "year": 1712,
+   "months": "IV–V",
+   "page": "158",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 316,
+   "type": "N",
+   "year": 1712,
+   "months": "V",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 317,
    "type": "N",
    "year": 1712,
    "months": "VI",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 318,
+   "type": "N",
+   "year": 1712,
+   "months": "VI–VII",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 319,
+   "type": "N",
+   "year": 1712,
+   "months": "VII",
+   "page": "160",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 320,
+   "type": "N",
+   "year": 1712,
+   "months": "VIII",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 321,
+   "type": "N",
+   "year": 1712,
+   "months": "VIII–IX",
+   "page": "161",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 322,
+   "type": "N",
+   "year": 1712,
+   "months": "IX–X",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 323,
+   "type": "N",
+   "year": 1712,
+   "months": "X",
+   "page": "162",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 324,
+   "type": "N",
+   "year": 1712,
+   "months": "XI",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 325,
+   "type": "N",
+   "year": 1712,
+   "months": "XI–XII",
+   "page": "163",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 326,
+   "type": "N",
+   "year": 1712,
+   "year_to": 1713,
+   "note": "konec roku 1712, začátek 1713",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 327,
+   "type": "N",
+   "year": 1713,
+   "months": "I",
+   "page": "164",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 328,
+   "type": "N",
+   "year": 1713,
+   "months": "I–II",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 329,
+   "type": "N",
+   "year": 1713,
+   "months": "II–III",
+   "page": "165",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 330,
+   "type": "N",
+   "year": 1713,
+   "months": "III",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 331,
+   "type": "N",
+   "year": 1713,
+   "months": "IV–V",
+   "page": "166",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 332,
+   "type": "N",
+   "year": 1713,
+   "months": "V",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 333,
+   "type": "N",
+   "year": 1713,
+   "months": "VI",
+   "page": "167",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 334,
+   "type": "N",
+   "year": 1713,
+   "months": "VI–VII",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 335,
+   "type": "N",
+   "year": 1713,
+   "months": "VIII",
+   "page": "168",
+   "note": "vybledlé",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 336,
+   "type": "N",
+   "year": 1713,
+   "months": "VIII–X",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 337,
+   "type": "N",
+   "year": 1713,
+   "months": "X–XI",
+   "page": "169",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 338,
+   "type": "N",
+   "year": 1713,
+   "months": "XI–XII",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 339,
+   "type": "N",
+   "year": 1713,
+   "months": "XII",
+   "page": "170",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 340,
+   "type": "N",
+   "year": 1714,
+   "note": "začátek roku 1714",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 342,
+   "type": "N",
+   "year": 1714,
+   "months": "II–III",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 343,
+   "type": "N",
+   "year": 1714,
+   "months": "III–IV",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 351,
+   "type": "N",
+   "year": 1714,
+   "year_to": 1715,
+   "months": "XII–I",
+   "page": "176",
+   "note": "konec roku 1714, začátek 1715",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 353,
+   "type": "N",
+   "year": 1715,
+   "months": "III",
+   "page": "177",
    "by": "strbackatomas"
   },
   {
@@ -45,10 +781,31 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 380,
+   "type": "N",
+   "year": 1716,
+   "months": "XI",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 381,
    "type": "N",
    "year": 1716,
    "months": "XI",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 382,
+   "type": "N",
+   "year": 1716,
+   "months": "XII",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 383,
+   "type": "N",
+   "year": 1717,
+   "months": "I",
    "by": "strbackatomas"
   }
  ],

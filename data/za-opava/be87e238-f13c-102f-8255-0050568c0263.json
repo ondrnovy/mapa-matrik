@@ -19,10 +19,34 @@
  },
  "points": [
   {
+   "scan": 76,
+   "type": "N",
+   "page": "76",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 186,
    "type": "N",
    "year": 1892,
    "months": "V",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 241,
+   "type": "iN",
+   "letters": "K",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 247,
+   "type": "iN",
+   "letters": "Š",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 248,
+   "type": "iN",
+   "letters": "Š",
    "by": "strbackatomas"
   }
  ],

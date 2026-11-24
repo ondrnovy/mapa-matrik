@@ -22,10 +22,223 @@
  },
  "points": [
   {
+   "scan": 20,
+   "type": "N",
+   "months": "I–II",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 30,
+   "type": "N",
+   "year": 1785,
+   "page": "22–23",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 40,
+   "type": "N",
+   "year": 1786,
+   "months": "II–III",
+   "page": "42–43",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 41,
+   "type": "N",
+   "year": 1786,
+   "months": "III–V",
+   "page": "44–45",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 59,
+   "type": "N",
+   "year": 1787,
+   "year_to": 1788,
+   "months": "XII–I",
+   "page": "80–81",
+   "place": "Hovězí",
+   "note": "začátek oddílu Hovězí 1788",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 60,
+   "type": "N",
+   "year": 1788,
+   "months": "I–II",
+   "page": "82–83",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 61,
    "type": "N",
    "year": 1788,
    "months": "II",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 62,
+   "type": "N",
+   "year": 1788,
+   "months": "IV–V",
+   "page": "86–87",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 74,
+   "type": "N",
+   "year": 1789,
+   "months": "VII–IX",
+   "page": "111–112",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 79,
+   "type": "Z",
+   "year": 1784,
+   "months": "III–IV",
+   "page": "4–5",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 81,
+   "type": "Z",
+   "year": 1784,
+   "months": "VI–IX",
+   "page": "8–9",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 82,
+   "type": "Z",
+   "year": 1784,
+   "months": "IX–XI",
+   "page": "10–11",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 83,
+   "type": "Z",
+   "year": 1784,
+   "page": "13",
+   "place": "Halenkov",
+   "note": "začátek oddílu Halenkov 1784 (pravá strana)",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 84,
+   "type": "Z",
+   "year": 1784,
+   "page": "14",
+   "place": "Halenkov",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 87,
+   "type": "Z",
+   "year": 1785,
+   "page": "20",
+   "place": "Halenkov",
+   "note": "začátek oddílu Halenkov 1785 (pravá strana)",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 88,
+   "type": "Z",
+   "year": 1785,
+   "page": "21",
+   "place": "Halenkov",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 90,
+   "type": "Z",
+   "year": 1786,
+   "months": "I–IV",
+   "page": "23–24",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 95,
+   "type": "Z",
+   "year": 1786,
+   "page": "32",
+   "place": "Halenkov",
+   "note": "začátek oddílu Halenkov 1786 (pravá strana)",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 97,
+   "type": "Z",
+   "year": 1786,
+   "page": "35",
+   "place": "Halenkov",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 100,
+   "type": "Z",
+   "year": 1787,
+   "page": "42",
+   "place": "Halenkov",
+   "note": "začátek oddílu Halenkov 1787 (pravá strana)",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 102,
+   "type": "Z",
+   "year": 1787,
+   "page": "45",
+   "place": "Halenkov",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 104,
+   "type": "Z",
+   "year": 1788,
+   "page": "47–48",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 106,
+   "type": "Z",
+   "year": 1788,
+   "page": "52",
+   "place": "Halenkov",
+   "note": "začátek oddílu Halenkov 1788 (pravá strana)",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 108,
+   "type": "Z",
+   "year": 1788,
+   "page": "55",
+   "place": "Halenkov",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 110,
+   "type": "Z",
+   "year": 1789,
+   "page": "57–58",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 112,
+   "type": "Z",
+   "year": 1789,
+   "page": "61",
+   "place": "Halenkov",
+   "note": "Halenkov má od 1789 vlastní knihu Vs II 7",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 113,
+   "type": "Z",
+   "year": 1789,
+   "months": "XII",
+   "page": "62",
+   "note": "konec knihy",
    "by": "strbackatomas"
   }
  ],

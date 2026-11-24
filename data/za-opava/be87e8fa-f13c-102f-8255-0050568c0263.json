@@ -19,6 +19,24 @@
  },
  "points": [
   {
+   "scan": 12,
+   "type": "N",
+   "page": "fol. 20–21",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 14,
+   "type": "N",
+   "year": 1833,
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 15,
+   "type": "N",
+   "year": 1833,
+   "by": "strbackatomas"
+  },
+  {
    "scan": 32,
    "type": "N",
    "year": 1837,
@@ -26,10 +44,45 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 37,
+   "type": "N",
+   "year": 1838,
+   "months": "VIII–XI",
+   "page": "fol. 70–71",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 60,
+   "type": "N",
+   "year": 1841,
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 61,
+   "type": "N",
+   "year": 1841,
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 70,
+   "type": "N",
+   "page": "136–137",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 71,
    "type": "N",
    "year": 1842,
    "months": "V",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 108,
+   "type": "N",
+   "year": 1845,
+   "year_to": 1846,
+   "months": "XII–I",
+   "page": "212–213",
    "by": "strbackatomas"
   },
   {
@@ -44,6 +97,12 @@
    "type": "N",
    "year": 1848,
    "months": "VII",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 135,
+   "type": "N",
+   "page": "266–267",
    "by": "strbackatomas"
   },
   {
@@ -75,6 +134,12 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 205,
+   "type": "N",
+   "year": 1862,
+   "by": "strbackatomas"
+  },
+  {
    "scan": 208,
    "type": "N",
    "year": 1863,
@@ -86,6 +151,145 @@
    "type": "N",
    "year": 1863,
    "months": "VII",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 210,
+   "type": "N",
+   "year": 1863,
+   "months": "VIII–X",
+   "page": "fol. 416",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 211,
+   "type": "N",
+   "year": 1863,
+   "page": "fol. 418",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 212,
+   "type": "N",
+   "year": 1864,
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 213,
+   "type": "N",
+   "year": 1864,
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 215,
+   "type": "iN",
+   "letters": "B",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 215,
+   "type": "N",
+   "year": 1864,
+   "note": "konec knihy, začátek rejstříku",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 217,
+   "type": "iN",
+   "year": 1829,
+   "year_to": 1867,
+   "letters": "D",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 219,
+   "type": "iN",
+   "year": 1829,
+   "year_to": 1864,
+   "letters": "H",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 220,
+   "type": "iN",
+   "letters": "J",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 221,
+   "type": "iN",
+   "year": 1829,
+   "year_to": 1840,
+   "letters": "K",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 222,
+   "type": "iN",
+   "letters": "K",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 223,
+   "type": "iN",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 224,
+   "type": "iN",
+   "letters": "M",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 225,
+   "type": "iN",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 226,
+   "type": "iN",
+   "year": 1829,
+   "year_to": 1853,
+   "letters": "P",
+   "note": "rejstřík P na pravé straně",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 227,
+   "type": "iN",
+   "year": 1853,
+   "year_to": 1864,
+   "letters": "P",
+   "note": "rejstřík P na levé straně",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 228,
+   "type": "iN",
+   "letters": "R",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 229,
+   "type": "iN",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 230,
+   "type": "iN",
+   "letters": "T",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 231,
+   "type": "iN",
+   "letters": "V, W",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 232,
+   "type": "iN",
+   "letters": "Z",
    "by": "strbackatomas"
   }
  ],

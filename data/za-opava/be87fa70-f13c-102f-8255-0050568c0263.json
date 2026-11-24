@@ -19,10 +19,34 @@
  },
  "points": [
   {
+   "scan": 1,
+   "type": "N",
+   "year": 1850,
+   "page": "1",
+   "note": "rejstřík v knize není",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 57,
+   "type": "N",
+   "year": 1854,
+   "months": "X–XI",
+   "page": "112–113",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 61,
    "type": "N",
    "year": 1855,
    "months": "III",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 70,
+   "type": "N",
+   "year": 1856,
+   "months": "IV–V",
+   "page": "138–139",
    "by": "strbackatomas"
   },
   {
@@ -45,6 +69,29 @@
    "year": 1862,
    "months": "XI",
    "by": "FiikCz"
+  },
+  {
+   "scan": 205,
+   "type": "N",
+   "year": 1864,
+   "page": "357–358",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 210,
+   "type": "N",
+   "year": 1864,
+   "months": "X",
+   "page": "367–368",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 212,
+   "type": "N",
+   "year": 1864,
+   "page": "371–372",
+   "note": "konec knihy, uzávěrka",
+   "by": "strbackatomas"
   }
  ],
  "sources": [

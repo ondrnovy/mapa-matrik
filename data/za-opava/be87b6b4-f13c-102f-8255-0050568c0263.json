@@ -17,6 +17,14 @@
  },
  "points": [
   {
+   "scan": 6,
+   "type": "Z",
+   "year": 1803,
+   "year_to": 1804,
+   "page": "fol. 10–11",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 25,
    "type": "Z",
    "year": 1839,
@@ -28,6 +36,14 @@
    "type": "Z",
    "year": 1844,
    "months": "IV",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 155,
+   "type": "iZ",
+   "year": 1796,
+   "year_to": 1850,
+   "letters": "T",
    "by": "strbackatomas"
   }
  ],

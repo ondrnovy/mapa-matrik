@@ -25,10 +25,57 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 71,
+   "type": "N",
+   "year": 1899,
+   "months": "IV–V",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 72,
+   "type": "N",
+   "year": 1899,
+   "months": "V–VII",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 73,
+   "type": "N",
+   "year": 1899,
+   "months": "VII",
+   "note": "vizitace",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 74,
    "type": "N",
    "year": 1899,
    "months": "VII",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 85,
+   "type": "N",
+   "year": 1901,
+   "months": "I",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 144,
+   "type": "iN",
+   "letters": "D–G",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 145,
+   "type": "iN",
+   "letters": "H",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 149,
+   "type": "iN",
+   "letters": "M",
    "by": "strbackatomas"
   }
  ],

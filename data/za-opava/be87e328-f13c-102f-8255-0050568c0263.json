@@ -19,10 +19,41 @@
  },
  "points": [
   {
+   "scan": 1,
+   "type": "O",
+   "year": 1856,
+   "page": "1",
+   "place": "Halenkov",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 4,
+   "type": "O",
+   "year": 1858,
+   "page": "6–7",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 5,
    "type": "O",
    "year": 1858,
    "months": "XI",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 6,
+   "type": "O",
+   "year": 1858,
+   "year_to": 1859,
+   "months": "XI–III",
+   "page": "10–11",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 8,
+   "type": "O",
+   "year": 1860,
+   "page": "14–15",
    "by": "strbackatomas"
   },
   {
@@ -33,10 +64,39 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 11,
+   "type": "O",
+   "year": 1862,
+   "page": "20–21",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 15,
    "type": "O",
    "year": 1863,
    "months": "XI",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 20,
+   "type": "O",
+   "year": 1867,
+   "months": "VI–X",
+   "page": "38–39",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 21,
+   "type": "O",
+   "page": "40–41",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 27,
+   "type": "O",
+   "year": 1872,
+   "months": "I–II",
+   "page": "52–53",
    "by": "strbackatomas"
   },
   {
@@ -47,10 +107,42 @@
    "by": "FiikCz"
   },
   {
+   "scan": 28,
+   "type": "O",
+   "year": 1872,
+   "months": "V–VIII",
+   "page": "54–55",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 29,
    "type": "O",
    "year": 1872,
    "months": "XI",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 30,
+   "type": "O",
+   "year": 1873,
+   "page": "58–59",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 33,
+   "type": "O",
+   "year": 1874,
+   "year_to": 1875,
+   "months": "XII–II",
+   "page": "64–65",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 44,
+   "type": "O",
+   "year": 1879,
+   "months": "II–V",
+   "page": "86–87",
    "by": "strbackatomas"
   },
   {
@@ -63,8 +155,20 @@
   {
    "scan": 83,
    "type": "O",
+   "page": "164–165",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 83,
+   "type": "O",
    "year": 1892,
    "months": "II–V",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 85,
+   "type": "O",
+   "page": "168–169",
    "by": "strbackatomas"
   },
   {
@@ -72,6 +176,47 @@
    "type": "O",
    "year": 1894,
    "months": "II",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 116,
+   "type": "iO",
+   "year": 1856,
+   "year_to": 1879,
+   "note": "rejstřík K na pravé straně",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 117,
+   "type": "iO",
+   "year": 1879,
+   "letters": "K",
+   "note": "rejstřík K od 1879",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 118,
+   "type": "iO",
+   "letters": "M",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 119,
+   "type": "iO",
+   "letters": "M–O",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 120,
+   "type": "iO",
+   "year": 1856,
+   "year_to": 1899,
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 121,
+   "type": "iO",
+   "letters": "T",
    "by": "strbackatomas"
   }
  ],

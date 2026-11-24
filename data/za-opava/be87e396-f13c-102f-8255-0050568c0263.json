@@ -25,10 +25,24 @@
    "by": "FiikCz"
   },
   {
+   "scan": 27,
+   "type": "Z",
+   "year": 1868,
+   "months": "V–IX",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 31,
    "type": "Z",
    "year": 1869,
    "months": "XII",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 32,
+   "type": "Z",
+   "year": 1870,
+   "months": "III–IV",
    "by": "strbackatomas"
   },
   {
@@ -46,6 +60,29 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 38,
+   "type": "Z",
+   "year": 1871,
+   "year_to": 1872,
+   "months": "XII–III",
+   "page": "74–75",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 39,
+   "type": "Z",
+   "year": 1872,
+   "months": "IV–IX",
+   "page": "76–77",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 40,
+   "type": "Z",
+   "year": 1872,
+   "by": "strbackatomas"
+  },
+  {
    "scan": 46,
    "type": "Z",
    "year": 1874,
@@ -53,10 +90,67 @@
    "by": "FiikCz"
   },
   {
+   "scan": 60,
+   "type": "Z",
+   "year": 1876,
+   "page": "118–119",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 82,
    "type": "Z",
    "year": 1878,
    "months": "IX",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 82,
+   "type": "Z",
+   "year": 1878,
+   "months": "VII–XI",
+   "page": "162–163",
+   "place": "Halenkov",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 84,
+   "type": "Z",
+   "year": 1879,
+   "months": "I–II",
+   "page": "166–167",
+   "place": "Halenkov",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 92,
+   "type": "Z",
+   "year": 1880,
+   "months": "II",
+   "page": "182–183",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 100,
+   "type": "Z",
+   "year": 1881,
+   "months": "IV–VII",
+   "page": "198–199",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 116,
+   "type": "Z",
+   "year": 1884,
+   "months": "IV–V",
+   "page": "230–231",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 117,
+   "type": "Z",
+   "year": 1884,
+   "months": "V–VI",
+   "page": "232–233",
    "by": "strbackatomas"
   },
   {

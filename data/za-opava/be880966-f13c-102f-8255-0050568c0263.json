@@ -32,10 +32,54 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 30,
+   "type": "O",
+   "year": 1807,
+   "year_to": 1808,
+   "page": "56–57",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 31,
+   "type": "O",
+   "year": 1808,
+   "year_to": 1809,
+   "page": "58–59",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 32,
+   "type": "O",
+   "year": 1810,
+   "page": "60–61",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 56,
+   "type": "O",
+   "year": 1831,
+   "months": "I–II",
+   "page": "108–109",
+   "by": "strbackatomas"
+  },
+  {
    "scan": 57,
    "type": "O",
    "year": 1831,
    "months": "VIII",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 60,
+   "type": "O",
+   "year": 1833,
+   "page": "176–177",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 136,
+   "type": "iO",
+   "letters": "K",
    "by": "strbackatomas"
   }
  ],
