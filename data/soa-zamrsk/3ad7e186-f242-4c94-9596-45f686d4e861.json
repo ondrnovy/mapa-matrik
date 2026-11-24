@@ -1,0 +1,55 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "3ad7e186-f242-4c94-9596-45f686d4e861",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/3ad7e186-f242-4c94-9596-45f686d4e861",
+ "signature": "M-6",
+ "parish": "Jevíčko",
+ "records": {
+  "Z": "1789–1813"
+ },
+ "points": [
+  {
+   "scan": 16,
+   "type": "Z",
+   "year": 1798,
+   "months": "VI",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 51,
+   "type": "Z",
+   "year": 1793,
+   "months": "IV",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 59,
+   "type": "Z",
+   "year": 1798,
+   "months": "VIII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 70,
+   "type": "Z",
+   "year": 1806,
+   "months": "VI",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 73,
+   "type": "Z",
+   "year": 1808,
+   "months": "II",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-24"
+  }
+ ]
+}

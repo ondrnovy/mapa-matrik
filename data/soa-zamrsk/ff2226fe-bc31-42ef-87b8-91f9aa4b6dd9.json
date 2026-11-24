@@ -1,0 +1,77 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "ff2226fe-bc31-42ef-87b8-91f9aa4b6dd9",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/ff2226fe-bc31-42ef-87b8-91f9aa4b6dd9",
+ "signature": "M-6",
+ "parish": "Jevíčko",
+ "records": {
+  "N": "1736–1781",
+  "O": "1736–1781"
+ },
+ "points": [
+  {
+   "scan": 92,
+   "type": "N",
+   "year": 1765,
+   "months": "VIII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 96,
+   "type": "N",
+   "year": 1766,
+   "months": "V",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 100,
+   "type": "N",
+   "year": 1767,
+   "months": "V",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 108,
+   "type": "N",
+   "year": 1768,
+   "months": "X",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 117,
+   "type": "N",
+   "year": 1770,
+   "months": "VIII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 143,
+   "type": "O",
+   "year": 1763,
+   "months": "XI",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 145,
+   "type": "O",
+   "year": 1764,
+   "months": "XI",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 158,
+   "type": "O",
+   "year": 1772,
+   "months": "X",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-24"
+  }
+ ]
+}
