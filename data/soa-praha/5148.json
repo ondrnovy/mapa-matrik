@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "5148",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/5148",
+ "signature": "Dolní Jirčany 10",
+ "parish": "Dolní Jirčany",
+ "records": {
+  "N": "1840–1860"
+ },
+ "points": [
+  {
+   "scan": 242,
+   "type": "N",
+   "year": 1860,
+   "months": "IV",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-24"
+  }
+ ]
+}

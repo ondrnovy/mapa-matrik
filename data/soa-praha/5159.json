@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "5159",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/5159",
+ "signature": "Dolní Jirčany 21",
+ "parish": "Dolní Jirčany",
+ "records": {
+  "O": "1870–1902"
+ },
+ "points": [
+  {
+   "scan": 82,
+   "type": "O",
+   "year": 1884,
+   "months": "VIII",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-24"
+  }
+ ]
+}

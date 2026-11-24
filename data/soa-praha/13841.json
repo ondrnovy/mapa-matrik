@@ -1,0 +1,35 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "13841",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/13841",
+ "signature": "Čestlice 17, kniha narozených 1871–1907 a oddaných 1869–1907",
+ "parish": "Čestlice",
+ "records": {
+  "N": "1869–1907",
+  "O": "1869–1907"
+ },
+ "points": [
+  {
+   "scan": 78,
+   "type": "N",
+   "year": 1889,
+   "months": "XI",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 161,
+   "type": "O",
+   "year": 1874,
+   "months": "V",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-24"
+  }
+ ]
+}

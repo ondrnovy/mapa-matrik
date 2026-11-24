@@ -1,0 +1,43 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "4854",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/4854",
+ "signature": "Čestlice 10",
+ "parish": "Čestlice",
+ "records": {
+  "N": "1837–1868",
+  "O": "1837–1868",
+  "Z": "1837–1868"
+ },
+ "points": [
+  {
+   "scan": 37,
+   "type": "N",
+   "year": 1851,
+   "months": "I",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 171,
+   "type": "O",
+   "year": 1843,
+   "months": "II",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 215,
+   "type": "Z",
+   "year": 1840,
+   "months": "III",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-24"
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "4857",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/4857",
+ "signature": "Čestlice 13, kniha narozených 1879–1891",
+ "parish": "Čestlice",
+ "records": {
+  "N": "1879–1891"
+ },
+ "points": [
+  {
+   "scan": 224,
+   "type": "N",
+   "year": 1886,
+   "months": "VII",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-24"
+  }
+ ]
+}

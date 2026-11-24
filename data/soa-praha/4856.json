@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "4856",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/4856",
+ "signature": "Čestlice 12, kniha narozených 1858–1878 po vsích",
+ "parish": "Čestlice",
+ "records": {
+  "N": "1858–1878"
+ },
+ "points": [
+  {
+   "scan": 306,
+   "type": "N",
+   "year": 1859,
+   "months": "XI",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-24"
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "5143",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/5143",
+ "signature": "Dolní Jirčany 05, kniha narozených asi 1785–1807 po vsích",
+ "parish": "Dolní Jirčany",
+ "records": {
+  "N": "1785–1807"
+ },
+ "points": [
+  {
+   "scan": 22,
+   "type": "N",
+   "year": 1802,
+   "months": "XII",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-24"
+  }
+ ]
+}
