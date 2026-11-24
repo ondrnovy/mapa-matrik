@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "3850",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/3850",
+ "signature": "Benešov 10, kniha narozených farnosti Benešov 1832–1845",
+ "parish": "Benešov",
+ "records": {
+  "N": "1832–1845"
+ },
+ "points": [
+  {
+   "scan": 261,
+   "type": "N",
+   "year": 1832,
+   "months": "XI",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-24"
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "10605",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/10605",
+ "signature": "Okrouhlice 05, kniha oddaných farnosti Okrouhlice 1806–1843",
+ "parish": "Okrouhlice",
+ "records": {
+  "O": "1806–1843"
+ },
+ "points": [
+  {
+   "scan": 3,
+   "type": "O",
+   "year": 1809,
+   "months": "XI",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-24"
+  }
+ ]
+}

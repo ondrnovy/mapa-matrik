@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "3884",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/3884",
+ "signature": "Benešov 40, kniha narozených města Benešov 1872–1885",
+ "parish": "Benešov",
+ "records": {
+  "N": "1872–1885"
+ },
+ "points": [
+  {
+   "scan": 48,
+   "type": "N",
+   "year": 1873,
+   "months": "XI",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-24"
+  }
+ ]
+}

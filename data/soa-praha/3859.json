@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "3859",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/3859",
+ "signature": "Benešov 19, kniha zemřelých farnosti Benešov 1839–1852",
+ "parish": "Benešov",
+ "records": {
+  "Z": "1839–1852"
+ },
+ "points": [
+  {
+   "scan": 309,
+   "type": "Z",
+   "year": 1849,
+   "months": "V",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-24"
+  }
+ ]
+}

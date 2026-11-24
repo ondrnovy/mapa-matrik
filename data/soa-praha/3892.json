@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "3892",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/3892",
+ "signature": "Benešov 48, kniha zemřelých vsí farnosti Benešov 1853–1873",
+ "parish": "Benešov",
+ "records": {
+  "Z": "1853–1873"
+ },
+ "points": [
+  {
+   "scan": 27,
+   "type": "Z",
+   "year": 1855,
+   "months": "V",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-24"
+  }
+ ]
+}

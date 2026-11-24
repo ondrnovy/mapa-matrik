@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "3846",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/3846",
+ "signature": "Benešov 2, matrika farnosti Benešov: oddaní 1625–1633, 1649, 1651–1653; narození 1646, 1651–1653; zemřelí 1624–1630, 1630–1633, 1651–1653",
+ "parish": "Benešov",
+ "records": {
+  "Z": "1624–1653"
+ },
+ "points": [
+  {
+   "scan": 76,
+   "type": "Z",
+   "year": 1630,
+   "months": "VIII",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-24"
+  }
+ ]
+}

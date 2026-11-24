@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "3858",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/3858",
+ "signature": "Benešov 18, kniha zemřelých farnosti Benešov 1779–1838",
+ "parish": "Benešov",
+ "records": {
+  "Z": "1779–1838"
+ },
+ "points": [
+  {
+   "scan": 398,
+   "type": "Z",
+   "year": 1835,
+   "months": "VII",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-24"
+  }
+ ]
+}
