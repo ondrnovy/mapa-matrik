@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "90d4e0eb-aab9-490f-8608-dbc2f68f7658",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/90d4e0eb-aab9-490f-8608-dbc2f68f7658",
+ "signature": "25-7695",
+ "parish": "Dobré",
+ "records": {
+  "Z": "1839–1925"
+ },
+ "points": [
+  {
+   "scan": 17,
+   "type": "Z",
+   "year": 1895,
+   "months": "V",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-24"
+  }
+ ]
+}

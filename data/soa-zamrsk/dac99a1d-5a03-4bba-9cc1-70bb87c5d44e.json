@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "dac99a1d-5a03-4bba-9cc1-70bb87c5d44e",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/dac99a1d-5a03-4bba-9cc1-70bb87c5d44e",
+ "signature": "53-4166",
+ "parish": "Hronov",
+ "records": {
+  "O": "1825–1898"
+ },
+ "points": [
+  {
+   "scan": 42,
+   "type": "O",
+   "year": 1846,
+   "months": "XI",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-24"
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "334cfeb8-253f-4a93-9b98-77035ed3a3c6",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/334cfeb8-253f-4a93-9b98-77035ed3a3c6",
+ "signature": "95-10",
+ "parish": "Lužec nad Cidlinou",
+ "records": {
+  "O": "1836–1870"
+ },
+ "points": [
+  {
+   "scan": 50,
+   "type": "O",
+   "year": 1859,
+   "months": "III",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-24"
+  }
+ ]
+}

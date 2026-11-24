@@ -1,0 +1,34 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "3746",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/3746",
+ "signature": "Bakov nad Jizerou 02",
+ "parish": "Bakov nad Jizerou",
+ "records": {
+  "N": "1809–1834"
+ },
+ "points": [
+  {
+   "scan": 330,
+   "type": "N",
+   "year": 1825,
+   "months": "II",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 333,
+   "type": "N",
+   "year": 1827,
+   "months": "VI",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-24"
+  }
+ ]
+}

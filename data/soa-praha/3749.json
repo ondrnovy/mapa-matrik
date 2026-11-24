@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "3749",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/3749",
+ "signature": "Bakov nad Jizerou 05",
+ "parish": "Bakov nad Jizerou",
+ "records": {
+  "O": "1811–1858"
+ },
+ "points": [
+  {
+   "scan": 175,
+   "type": "O",
+   "year": 1821,
+   "months": "VII",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-24"
+  }
+ ]
+}

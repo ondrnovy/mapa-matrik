@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "76ac60d2-8573-4ce0-8923-647af674feac",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/76ac60d2-8573-4ce0-8923-647af674feac",
+ "signature": "9-3842",
+ "parish": "Borohrádek",
+ "records": {
+  "O": "1854–1900"
+ },
+ "points": [
+  {
+   "scan": 32,
+   "type": "O",
+   "year": 1871,
+   "months": "VII",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-24"
+  }
+ ]
+}
