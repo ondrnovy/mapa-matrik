@@ -96,19 +96,19 @@
   {
    "scan": 33,
    "type": "N",
+   "year": 1807,
+   "months": "IV",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 33,
+   "type": "N",
    "year": 1806,
    "year_to": 1807,
    "months": "XI 1806 – VIII 1807",
    "page": "str. 61–62",
    "place": "Bujesily",
    "by": "ondrnovy"
-  },
-  {
-   "scan": 33,
-   "type": "N",
-   "year": 1807,
-   "months": "IV",
-   "by": "matriky-index"
   },
   {
    "scan": 39,
@@ -208,11 +208,46 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 84,
+   "type": "N",
+   "year": 1812,
+   "page": "str. 183–184",
+   "place": "Olešná",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 87,
    "type": "N",
    "place": "Olešná",
    "year": 1813,
    "page": "189",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 88,
+   "type": "N",
+   "year": 1814,
+   "year_to": 1815,
+   "page": "str. 191–192",
+   "place": "Olešná",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 89,
+   "type": "N",
+   "year": 1815,
+   "months": "III–VI",
+   "page": "str. 193–194",
+   "place": "Olešná",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 90,
+   "type": "N",
+   "year": 1815,
+   "months": "VI–IX",
+   "page": "str. 195–196",
+   "place": "Olešná",
    "by": "ondrnovy"
   },
   {
@@ -238,6 +273,13 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 101,
+   "type": "iN",
+   "letters": "H–K",
+   "note": "rejstřík 1806–21 po písmenech a letech, se stranou knihy; sn. 102 = K–M",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 103,
    "type": "iN",
    "letters": "N–P",
@@ -252,6 +294,10 @@
   {
    "by": "matriky-index",
    "date": "2026-11-15"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-25"
   }
  ],
  "notes": [

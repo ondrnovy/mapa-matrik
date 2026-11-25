@@ -31,6 +31,23 @@
  },
  "points": [
   {
+   "scan": 100,
+   "type": "N",
+   "year": 1835,
+   "months": "IV–VI",
+   "page": "str. 97–98",
+   "note": "snímek = str. + 2",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 112,
+   "type": "N",
+   "year": 1836,
+   "months": "IV–VII",
+   "page": "str. 109–110",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 225,
    "type": "N",
    "year": 1849,
@@ -44,6 +61,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-23"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-26"
   }
  ]
 }

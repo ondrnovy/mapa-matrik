@@ -37,6 +37,15 @@
  },
  "points": [
   {
+   "scan": 5,
+   "type": "O",
+   "year": 1859,
+   "months": "II–III",
+   "page": "str. 4",
+   "note": "celá fara chronologicky, česky; snímek = str. + 1",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 24,
    "type": "O",
    "year": 1863,
@@ -48,6 +57,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-20"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-25"
   }
  ]
 }
