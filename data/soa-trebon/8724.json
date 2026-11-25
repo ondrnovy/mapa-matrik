@@ -8,8 +8,8 @@
  "parish": "N/O/Z Zálší (Horní Bukovsko) 1740–1763",
  "records": {
   "N": "1760–1763",
-  "Z": "1763",
-  "O": "1758"
+  "Z": "1751–1763",
+  "O": "1757–1763"
  },
  "points": [
   {
@@ -31,6 +31,30 @@
    "by": "schranka"
   },
   {
+   "scan": 106,
+   "type": "O",
+   "year": 1757,
+   "by": "schranka"
+  },
+  {
+   "scan": 113,
+   "type": "O",
+   "year": 1763,
+   "by": "schranka"
+  },
+  {
+   "scan": 135,
+   "type": "Z",
+   "year": 1751,
+   "by": "schranka"
+  },
+  {
+   "scan": 158,
+   "type": "Z",
+   "year": 1763,
+   "by": "schranka"
+  },
+  {
    "scan": 161,
    "type": "Z",
    "year": 1763,
@@ -41,6 +65,10 @@
   {
    "by": "schranka",
    "date": "2026-11-16"
+  },
+  {
+   "by": "schranka",
+   "date": "2026-11-25"
   }
  ]
 }

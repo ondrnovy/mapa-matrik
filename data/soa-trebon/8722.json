@@ -1,0 +1,32 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "8722",
+ "url": "https://digi.ceskearchivy.cz/8722",
+ "signature": "N/O/Z Zálší 1669–1717",
+ "parish": "N/O/Z Zálší 1669–1717",
+ "records": {
+  "N": "1697–1702"
+ },
+ "points": [
+  {
+   "scan": 54,
+   "type": "N",
+   "year": 1697,
+   "by": "schranka"
+  },
+  {
+   "scan": 65,
+   "type": "N",
+   "year": 1702,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-25"
+  }
+ ]
+}
