@@ -25,6 +25,14 @@
  },
  "points": [
   {
+   "scan": 15,
+   "type": "N",
+   "year": 1798,
+   "year_to": 1799,
+   "place": "Pulčín",
+   "by": "FiikCz"
+  },
+  {
    "scan": 16,
    "type": "N",
    "year": 1799,
@@ -58,6 +66,14 @@
    "year": 1803,
    "year_to": 1805,
    "months": "X–VII",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 19,
+   "type": "N",
+   "year": 1803,
+   "year_to": 1805,
+   "place": "Pulčín",
    "by": "FiikCz"
   },
   {

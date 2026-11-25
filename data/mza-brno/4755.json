@@ -1,0 +1,55 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "4755",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/4755",
+ "signature": "Valašské Klobouky, kn. 4821, N 1784–1805",
+ "parish": "Valašské Klobouky",
+ "district": "Zlín",
+ "places": [
+  "Lačnov",
+  "Poteč",
+  "Študlov",
+  "Tichov",
+  "Lipina",
+  "Mirošov",
+  "Smolina",
+  "Valašské Příkazy",
+  "Valašské Klobouky"
+ ],
+ "place_codes": {
+  "Lačnov": 78867
+ },
+ "records": {
+  "N": "1784–1805",
+  "iN": "1784–1805"
+ },
+ "order": "by_village",
+ "notes": [
+  "Oddíly po obcích s rejstříky: Lačnov sn. ~180–212, rejstřík sn. 213–216; Študlov rejstřík sn. 319–321."
+ ],
+ "points": [
+  {
+   "scan": 184,
+   "type": "N",
+   "year": 1788,
+   "year_to": 1789,
+   "place": "Lačnov",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 215,
+   "type": "iN",
+   "letters": "J, K",
+   "place": "Lačnov",
+   "by": "FiikCz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "FiikCz",
+   "date": "2026-11-25"
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "3068",
+ "url": "https://digi.ceskearchivy.cz/3068",
+ "signature": "Čkyně, kniha 17, index NOZ 1821–1873",
+ "parish": "Čkyně",
+ "district": "Prachatice",
+ "places": [
+  "Čkyně",
+  "Dolany",
+  "Horosedly",
+  "Předenice",
+  "Záhoří"
+ ],
+ "place_codes": {
+  "Čkyně": 24210,
+  "Horosedly": 24244
+ },
+ "records": {
+  "iN": "1821–1873",
+  "iO": "1821–1873",
+  "iZ": "1821–1873"
+ },
+ "notes": [
+  "Index po písmenech, uvnitř písmene po letech; odkaz na tom a stranu. Nemanželské děti pod příjmením matky."
+ ],
+ "points": [
+  {
+   "scan": 38,
+   "type": "iN",
+   "letters": "Ch, Č",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 46,
+   "type": "iN",
+   "letters": "S, Š",
+   "by": "FiikCz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "FiikCz",
+   "date": "2026-11-25"
+  }
+ ]
+}

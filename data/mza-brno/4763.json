@@ -1,0 +1,53 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "4763",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/4763",
+ "signature": "Valašské Klobouky, kn. 4849, O 1806–1857",
+ "parish": "Valašské Klobouky",
+ "district": "Zlín",
+ "places": [
+  "Lačnov",
+  "Poteč",
+  "Študlov",
+  "Tichov",
+  "Lipina",
+  "Mirošov",
+  "Smolina",
+  "Valašské Příkazy"
+ ],
+ "place_codes": {
+  "Lačnov": 78867
+ },
+ "records": {
+  "O": "1806–1857",
+  "iO": "1806–1857"
+ },
+ "order": "by_village",
+ "notes": [
+  "Oddíly po obcích, každá s vlastním rejstříkem ženichů (Lačnov sn. ~14–32, rejstřík sn. 32)."
+ ],
+ "points": [
+  {
+   "scan": 19,
+   "type": "O",
+   "year": 1811,
+   "place": "Lačnov",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 32,
+   "type": "iO",
+   "letters": "M",
+   "place": "Lačnov",
+   "by": "FiikCz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "FiikCz",
+   "date": "2026-11-25"
+  }
+ ]
+}

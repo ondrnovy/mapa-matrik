@@ -1,0 +1,41 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "9649",
+ "url": "https://digi.ceskearchivy.cz/9649",
+ "signature": "Čkyně, kniha 13A, O 1864–1932",
+ "parish": "Čkyně",
+ "district": "Prachatice",
+ "places": [
+  "Čkyně",
+  "Dolany",
+  "Horosedly",
+  "Předenice",
+  "Záhoří"
+ ],
+ "place_codes": {
+  "Čkyně": 24210,
+  "Horosedly": 24244
+ },
+ "records": {
+  "O": "1864–1932"
+ },
+ "notes": [
+  "Dobrovolnický textový rejstřík (záložka Rejstříky); odkaz page=N vede na snímek N+1."
+ ],
+ "points": [
+  {
+   "scan": 39,
+   "type": "O",
+   "year": 1874,
+   "by": "FiikCz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "FiikCz",
+   "date": "2026-11-25"
+  }
+ ]
+}

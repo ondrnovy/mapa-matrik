@@ -1,0 +1,47 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "3062",
+ "url": "https://digi.ceskearchivy.cz/3062",
+ "signature": "Čkyně, kniha 11, N 1821–1851",
+ "parish": "Čkyně",
+ "district": "Prachatice",
+ "places": [
+  "Čkyně",
+  "Dolany",
+  "Horosedly",
+  "Předenice",
+  "Záhoří"
+ ],
+ "place_codes": {
+  "Čkyně": 24210,
+  "Horosedly": 24244
+ },
+ "records": {
+  "N": "1821–1851"
+ },
+ "notes": [
+  "Číslo snímku ≈ folio."
+ ],
+ "points": [
+  {
+   "scan": 95,
+   "type": "N",
+   "year": 1840,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 100,
+   "type": "N",
+   "year": 1847,
+   "by": "FiikCz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "FiikCz",
+   "date": "2026-11-25"
+  }
+ ]
+}
