@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "2214",
+ "url": "https://digi.ceskearchivy.cz/2214",
+ "signature": "O Bílá Hůrka 1722–1796",
+ "parish": "O Bílá Hůrka 1722–1796",
+ "records": {
+  "O": "1722–1796"
+ },
+ "points": [
+  {
+   "scan": 175,
+   "type": "O",
+   "year": 1788,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-25"
+  }
+ ]
+}
