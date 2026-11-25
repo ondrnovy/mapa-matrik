@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "4133",
+ "url": "https://digi.ceskearchivy.cz/4133",
+ "signature": "N Chrášťany 1860–1869",
+ "parish": "N Chrášťany 1860–1869",
+ "records": {
+  "N": "1860–1869"
+ },
+ "points": [
+  {
+   "scan": 181,
+   "type": "N",
+   "year": 1865,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-25"
+  }
+ ]
+}

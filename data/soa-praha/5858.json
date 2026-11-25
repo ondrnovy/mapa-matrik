@@ -63,6 +63,15 @@
    "page": "2–3"
   },
   {
+   "scan": 6,
+   "type": "O",
+   "year": 1781,
+   "year_to": 1782,
+   "months": "I 1781 – VI 1782",
+   "page": "str. 6–7",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 16,
    "type": "O",
    "year": 1793,
@@ -75,6 +84,67 @@
    "year": 1794,
    "year_to": 1795,
    "page": "30–31",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 22,
+   "type": "O",
+   "year": 1797,
+   "months": "V–X",
+   "page": "str. 38–39",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 26,
+   "type": "O",
+   "year": 1800,
+   "year_to": 1801,
+   "months": "VII 1800 – II 1801",
+   "page": "str. 46–47",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 29,
+   "type": "O",
+   "year": 1803,
+   "year_to": 1804,
+   "months": "V 1803 – I 1804",
+   "page": "str. 52–53",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 30,
+   "type": "O",
+   "year": 1804,
+   "months": "I–VII",
+   "page": "str. 54–55",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 31,
+   "type": "O",
+   "year": 1804,
+   "year_to": 1805,
+   "months": "X 1804 – VI 1805",
+   "page": "str. 56–57",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 46,
+   "type": "O",
+   "year": 1814,
+   "year_to": 1815,
+   "months": "X 1814 – V 1815",
+   "page": "str. 86–87",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 47,
+   "type": "O",
+   "year": 1815,
+   "year_to": 1816,
+   "months": "VII 1815 – II 1816",
+   "page": "str. 88–89",
    "by": "ondrnovy"
   },
   {
@@ -163,6 +233,14 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-23"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-25"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-26"
   }
  ]
 }

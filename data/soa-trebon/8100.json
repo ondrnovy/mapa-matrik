@@ -11,9 +11,23 @@
  },
  "points": [
   {
+   "scan": 15,
+   "type": "N",
+   "year": 1769,
+   "page": "pag. 18",
+   "by": "schranka"
+  },
+  {
    "scan": 18,
    "type": "N",
    "year": 1770,
+   "by": "schranka"
+  },
+  {
+   "scan": 30,
+   "type": "N",
+   "year": 1771,
+   "page": "pag. 48",
    "by": "schranka"
   },
   {
@@ -23,9 +37,55 @@
    "by": "schranka"
   },
   {
+   "scan": 39,
+   "type": "N",
+   "year": 1773,
+   "page": "pag. 66",
+   "by": "schranka"
+  },
+  {
+   "scan": 44,
+   "type": "N",
+   "year": 1774,
+   "by": "schranka"
+  },
+  {
+   "scan": 47,
+   "type": "N",
+   "year": 1775,
+   "page": "pag. 82",
+   "by": "schranka"
+  },
+  {
+   "scan": 59,
+   "type": "N",
+   "year": 1777,
+   "by": "schranka"
+  },
+  {
+   "scan": 60,
+   "type": "N",
+   "year": 1777,
+   "page": "pag. 108",
+   "by": "schranka"
+  },
+  {
    "scan": 69,
    "type": "N",
    "year": 1778,
+   "by": "schranka"
+  },
+  {
+   "scan": 75,
+   "type": "N",
+   "year": 1779,
+   "page": "pag. 136",
+   "by": "schranka"
+  },
+  {
+   "scan": 84,
+   "type": "N",
+   "year": 1780,
    "by": "schranka"
   },
   {
@@ -47,6 +107,12 @@
    "by": "schranka"
   },
   {
+   "scan": 108,
+   "type": "N",
+   "year": 1783,
+   "by": "schranka"
+  },
+  {
    "scan": 118,
    "type": "N",
    "year": 1784,
@@ -56,6 +122,12 @@
    "scan": 124,
    "type": "N",
    "year": 1787,
+   "by": "schranka"
+  },
+  {
+   "scan": 158,
+   "type": "N",
+   "year": 1790,
    "by": "schranka"
   },
   {
@@ -69,6 +141,10 @@
   {
    "by": "schranka",
    "date": "2026-11-16"
+  },
+  {
+   "by": "schranka",
+   "date": "2026-11-25"
   }
  ]
 }

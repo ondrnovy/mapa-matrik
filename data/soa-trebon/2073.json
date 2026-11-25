@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "2073",
+ "url": "https://digi.ceskearchivy.cz/2073",
+ "signature": "O Bechyně 1800–1817",
+ "parish": "O Bechyně 1800–1817",
+ "records": {
+  "O": "1800–1817"
+ },
+ "points": [
+  {
+   "scan": 26,
+   "type": "O",
+   "year": 1806,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-25"
+  }
+ ]
+}

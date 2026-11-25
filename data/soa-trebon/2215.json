@@ -1,0 +1,32 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "2215",
+ "url": "https://digi.ceskearchivy.cz/2215",
+ "signature": "O Bílá Hůrka 1797–1898",
+ "parish": "O Bílá Hůrka 1797–1898",
+ "records": {
+  "O": "1797–1898"
+ },
+ "points": [
+  {
+   "scan": 130,
+   "type": "O",
+   "year": 1815,
+   "by": "schranka"
+  },
+  {
+   "scan": 138,
+   "type": "O",
+   "year": 1851,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-25"
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "8699",
+ "url": "https://digi.ceskearchivy.cz/8699",
+ "signature": "O+Z Zahájí 1733–1784",
+ "parish": "O+Z Zahájí 1733–1784",
+ "records": {
+  "O": "1759"
+ },
+ "points": [
+  {
+   "scan": 25,
+   "type": "O",
+   "year": 1759,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-25"
+  }
+ ]
+}

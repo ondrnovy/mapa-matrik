@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "7671",
+ "url": "https://digi.ceskearchivy.cz/7671",
+ "signature": "Z Sudoměřice u Bechyně 1844–1880",
+ "parish": "Z Sudoměřice u Bechyně 1844–1880",
+ "records": {
+  "Z": "1844–1880"
+ },
+ "points": [
+  {
+   "scan": 48,
+   "type": "Z",
+   "year": 1848,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-25"
+  }
+ ]
+}

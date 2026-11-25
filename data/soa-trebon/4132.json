@@ -11,6 +11,12 @@
  },
  "points": [
   {
+   "scan": 102,
+   "type": "N",
+   "year": 1853,
+   "by": "schranka"
+  },
+  {
    "scan": 283,
    "type": "N",
    "year": 1858,
@@ -21,6 +27,10 @@
   {
    "by": "schranka",
    "date": "2026-11-16"
+  },
+  {
+   "by": "schranka",
+   "date": "2026-11-25"
   }
  ]
 }

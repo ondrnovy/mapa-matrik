@@ -34,6 +34,15 @@
    "scan": 7,
    "type": "iO",
    "letters": "L–M"
+  },
+  {
+   "scan": 11,
+   "type": "iO",
+   "year": 1733,
+   "year_to": 1776,
+   "letters": "S",
+   "note": "ženichové i nevěsty, rok + strana knihy Čistá 05",
+   "by": "ondrnovy"
   }
  ],
  "sections": [],
@@ -44,6 +53,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-10"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-25"
   }
  ]
 }

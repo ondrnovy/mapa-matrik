@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "4140",
+ "url": "https://digi.ceskearchivy.cz/4140",
+ "signature": "O Chrášťany 1863–1901",
+ "parish": "O Chrášťany 1863–1901",
+ "records": {
+  "O": "1863–1901"
+ },
+ "points": [
+  {
+   "scan": 238,
+   "type": "O",
+   "year": 1888,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-25"
+  }
+ ]
+}

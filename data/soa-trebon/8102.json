@@ -11,6 +11,13 @@
  },
  "points": [
   {
+   "scan": 15,
+   "type": "N",
+   "year": 1805,
+   "page": "Pag. 9",
+   "by": "schranka"
+  },
+  {
    "scan": 32,
    "type": "N",
    "year": 1808,
@@ -27,12 +34,23 @@
    "type": "N",
    "year": 1810,
    "by": "schranka"
+  },
+  {
+   "scan": 79,
+   "type": "N",
+   "year": 1812,
+   "page": "Pag. 70",
+   "by": "schranka"
   }
  ],
  "sources": [
   {
    "by": "schranka",
    "date": "2026-11-16"
+  },
+  {
+   "by": "schranka",
+   "date": "2026-11-25"
   }
  ]
 }

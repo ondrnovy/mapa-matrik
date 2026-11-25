@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "7162",
+ "url": "https://digi.ceskearchivy.cz/7162",
+ "signature": "N Sepekov 1784–1804",
+ "parish": "N Sepekov 1784–1804",
+ "records": {
+  "N": "1784–1804"
+ },
+ "points": [
+  {
+   "scan": 79,
+   "type": "N",
+   "year": 1804,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-25"
+  }
+ ]
+}

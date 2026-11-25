@@ -15,12 +15,22 @@
    "type": "Z",
    "year": 1872,
    "by": "schranka"
+  },
+  {
+   "scan": 218,
+   "type": "Z",
+   "year": 1888,
+   "by": "schranka"
   }
  ],
  "sources": [
   {
    "by": "schranka",
    "date": "2026-11-16"
+  },
+  {
+   "by": "schranka",
+   "date": "2026-11-25"
   }
  ]
 }

@@ -37,6 +37,18 @@
    "by": "vmachek"
   },
   {
+   "scan": 92,
+   "type": "O",
+   "year": 1768,
+   "by": "schranka"
+  },
+  {
+   "scan": 100,
+   "type": "O",
+   "year": 1772,
+   "by": "schranka"
+  },
+  {
    "scan": 138,
    "type": "iO",
    "letters": "K",
@@ -61,6 +73,10 @@
   {
    "by": "vmachek",
    "date": "2026-11-05"
+  },
+  {
+   "by": "schranka",
+   "date": "2026-11-25"
   }
  ]
 }

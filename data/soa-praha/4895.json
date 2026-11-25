@@ -1,0 +1,67 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "4895",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/4895",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/4895/{scan}",
+ "signature": "Čistá 12",
+ "parish": "Čistá",
+ "district": "Rakovník",
+ "records": {
+  "N": "1823–1835"
+ },
+ "order": "chronological",
+ "places": [
+  "Čistá"
+ ],
+ "place_codes": {
+  "Čistá": 23965
+ },
+ "scans": 101,
+ "language": "čeština",
+ "points": [
+  {
+   "scan": 89,
+   "type": "N",
+   "year": 1834,
+   "months": "II–III",
+   "page": "fol. 86",
+   "place": "Čistá",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 90,
+   "type": "N",
+   "year": 1834,
+   "months": "III–IV",
+   "page": "fol. 87",
+   "place": "Čistá",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 93,
+   "type": "N",
+   "year": 1834,
+   "months": "VI–VIII",
+   "page": "fol. 90",
+   "place": "Čistá",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 95,
+   "type": "N",
+   "year": 1834,
+   "months": "X–XI",
+   "page": "fol. 92",
+   "place": "Čistá",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-25"
+  }
+ ]
+}

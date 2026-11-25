@@ -17,6 +17,12 @@
    "by": "schranka"
   },
   {
+   "scan": 12,
+   "type": "O",
+   "year": 1773,
+   "by": "schranka"
+  },
+  {
    "scan": 14,
    "type": "O",
    "year": 1774,
@@ -41,9 +47,22 @@
    "by": "schranka"
   },
   {
+   "scan": 26,
+   "type": "O",
+   "year": 1781,
+   "by": "schranka"
+  },
+  {
    "scan": 27,
    "type": "O",
    "year": 1781,
+   "by": "schranka"
+  },
+  {
+   "scan": 30,
+   "type": "O",
+   "year": 1782,
+   "page": "fol. 26",
    "by": "schranka"
   }
  ],
@@ -51,6 +70,10 @@
   {
    "by": "schranka",
    "date": "2026-11-16"
+  },
+  {
+   "by": "schranka",
+   "date": "2026-11-25"
   }
  ]
 }

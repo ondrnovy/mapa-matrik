@@ -1,0 +1,32 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "8700",
+ "url": "https://digi.ceskearchivy.cz/8700",
+ "signature": "O Zahájí 1784–1822",
+ "parish": "O Zahájí 1784–1822",
+ "records": {
+  "O": "1784–1822"
+ },
+ "points": [
+  {
+   "scan": 21,
+   "type": "O",
+   "year": 1792,
+   "by": "schranka"
+  },
+  {
+   "scan": 28,
+   "type": "O",
+   "year": 1815,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-25"
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "2184",
+ "url": "https://digi.ceskearchivy.cz/2184",
+ "signature": "Z Bernartice 1835–1847",
+ "parish": "Z Bernartice 1835–1847",
+ "records": {
+  "Z": "1835–1847"
+ },
+ "points": [
+  {
+   "scan": 7,
+   "type": "Z",
+   "year": 1836,
+   "by": "schranka"
+  },
+  {
+   "scan": 33,
+   "type": "Z",
+   "year": 1844,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-25"
+  }
+ ]
+}

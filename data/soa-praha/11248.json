@@ -50,6 +50,14 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 31,
+   "type": "iN",
+   "place": "Žďár",
+   "letters": "E–F",
+   "note": "společný rejstřík N/O/Z",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 32,
    "type": "iN",
    "place": "Žďár",
@@ -75,6 +83,90 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 45,
+   "type": "O",
+   "year": 1807,
+   "year_to": 1809,
+   "page": "pag. 4–5",
+   "place": "Zavidov",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 48,
+   "type": "O",
+   "year": 1817,
+   "year_to": 1821,
+   "page": "pag. 7",
+   "place": "Zavidov",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 49,
+   "type": "O",
+   "year": 1822,
+   "year_to": 1824,
+   "page": "pag. 8–9",
+   "place": "Zavidov",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 52,
+   "type": "N",
+   "year": 1788,
+   "year_to": 1790,
+   "months": "II 1788 – I 1790",
+   "page": "fol. 2v–3",
+   "place": "Zavidov",
+   "note": "latinsky",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 53,
+   "type": "N",
+   "year": 1790,
+   "year_to": 1791,
+   "months": "I 1790 – IX 1791",
+   "page": "fol. 3v–4",
+   "place": "Zavidov",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 86,
+   "type": "N",
+   "year": 1824,
+   "year_to": 1825,
+   "months": "XI 1824 – IV 1825",
+   "page": "pag. 36",
+   "place": "Zavidov",
+   "note": "česky",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 87,
+   "type": "N",
+   "year": 1825,
+   "months": "VI–XII",
+   "page": "pag. 36v–37",
+   "place": "Zavidov",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 110,
+   "type": "iN",
+   "place": "Zavidov",
+   "letters": "D–F",
+   "note": "společný rejstřík N/O/Z Zavidova (sloupce oddán, pokřtěn, zemřel); sn. 109 = A–C, 112 = K–L",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 114,
+   "type": "iN",
+   "place": "Zavidov",
+   "letters": "P–U",
+   "note": "S, T, U Zavidova částečně v rejstříku Sence (sn. 196); konec oddílu sn. 115",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 118,
    "type": "O",
    "year": 1797,
@@ -96,19 +188,19 @@
   {
    "scan": 120,
    "type": "O",
+   "year": 1809,
+   "months": "V",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 120,
+   "type": "O",
    "year": 1808,
    "year_to": 1812,
    "page": "fol. 4v–5",
    "place": "Příčina",
    "note": "pokračování fol. 6 na sn. 211",
    "by": "ondrnovy"
-  },
-  {
-   "scan": 120,
-   "type": "O",
-   "year": 1809,
-   "months": "V",
-   "by": "matriky-index"
   },
   {
    "scan": 127,
@@ -305,18 +397,18 @@
   {
    "scan": 244,
    "type": "Z",
+   "year": 1812,
+   "months": "I",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 244,
+   "type": "Z",
    "year": 1811,
    "year_to": 1812,
    "page": "fol. 10v–11",
    "place": "Příčina",
    "by": "ondrnovy"
-  },
-  {
-   "scan": 244,
-   "type": "Z",
-   "year": 1812,
-   "months": "I",
-   "by": "matriky-index"
   },
   {
    "scan": 256,
@@ -349,6 +441,10 @@
   {
    "by": "matriky-index",
    "date": "2026-11-15"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-25"
   }
  ]
 }

@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "2212",
+ "url": "https://digi.ceskearchivy.cz/2212",
+ "signature": "N Bílá Hůrka 1797–1845",
+ "parish": "N Bílá Hůrka 1797–1845",
+ "records": {
+  "N": "1797–1845"
+ },
+ "points": [
+  {
+   "scan": 196,
+   "type": "N",
+   "year": 1825,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-25"
+  }
+ ]
+}

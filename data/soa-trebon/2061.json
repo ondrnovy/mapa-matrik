@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "2061",
+ "url": "https://digi.ceskearchivy.cz/2061",
+ "signature": "N Bechyně 1784–1802",
+ "parish": "N Bechyně 1784–1802",
+ "records": {
+  "N": "1784–1802"
+ },
+ "points": [
+  {
+   "scan": 85,
+   "type": "N",
+   "year": 1788,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-25"
+  }
+ ]
+}

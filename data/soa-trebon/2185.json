@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "2185",
+ "url": "https://digi.ceskearchivy.cz/2185",
+ "signature": "Z Bernartice 1848–1856",
+ "parish": "Z Bernartice 1848–1856",
+ "records": {
+  "Z": "1848–1856"
+ },
+ "points": [
+  {
+   "scan": 33,
+   "type": "Z",
+   "year": 1852,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-25"
+  }
+ ]
+}
