@@ -1,0 +1,47 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "nezamyslice-11",
+ "url": "https://www.portafontium.eu/register/soap-pn/nezamyslice-11",
+ "signature": "Nezamyslice 11",
+ "parish": "Nezamyslice",
+ "district": "Klatovy",
+ "records": {
+  "N": "1812–1851"
+ },
+ "order": "chronological",
+ "places": [
+  "Hejná"
+ ],
+ "place_codes": {
+  "Hejná": 38164
+ },
+ "scans": 68,
+ "points": [
+  {
+   "scan": 44,
+   "type": "N",
+   "year": 1835,
+   "year_to": 1836,
+   "page": "str. 42",
+   "place": "Hejná",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 47,
+   "type": "N",
+   "year": 1838,
+   "page": "str. 45",
+   "place": "Hejná",
+   "note": "snímek = str. + 2",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-26"
+  }
+ ]
+}
