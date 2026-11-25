@@ -33,6 +33,34 @@
    "type": "title"
   },
   {
+   "scan": 22,
+   "type": "N",
+   "year": 1846,
+   "year_to": 1847,
+   "page": "fol. 21",
+   "place": "Žďár",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 23,
+   "type": "N",
+   "year": 1847,
+   "months": "IV–VII",
+   "page": "fol. 22",
+   "place": "Žďár",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 24,
+   "type": "N",
+   "year": 1847,
+   "year_to": 1848,
+   "months": "IX 1847 – VII 1848",
+   "page": "fol. 23",
+   "place": "Žďár",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 27,
    "type": "N",
    "year": 1850,
@@ -89,6 +117,16 @@
    "place": "Příčina"
   },
   {
+   "scan": 206,
+   "type": "N",
+   "year": 1846,
+   "months": "III–VII",
+   "page": "fol. 211",
+   "place": "Příčina",
+   "note": "mezi zápisy Příčiny i přepsaný zápis ze Žďárů (odkaz z fol. 21)",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 250,
    "type": "N",
    "year": 1860,
@@ -141,6 +179,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-19"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-23"
   }
  ]
 }

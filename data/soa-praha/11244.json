@@ -17,6 +17,33 @@
  "language": "latinsky",
  "points": [
   {
+   "scan": 77,
+   "type": "O",
+   "year": 1766,
+   "year_to": 1767,
+   "months": "XII 1766 – IV 1767",
+   "page": "fol. 78v–79",
+   "note": "česky, po vsích",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 81,
+   "type": "O",
+   "year": 1769,
+   "year_to": 1770,
+   "months": "X 1769 – VI 1770",
+   "page": "fol. 82v–83",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 84,
+   "type": "O",
+   "year": 1772,
+   "months": "VII–XI",
+   "page": "fol. 85v–86",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 86,
    "type": "O",
    "year": 1773,
@@ -49,6 +76,15 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 93,
+   "type": "O",
+   "year": 1779,
+   "year_to": 1780,
+   "months": "XI 1779 – X 1780",
+   "page": "fol. 94v–95",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 101,
    "type": "iO",
    "letters": "F–H",
@@ -73,9 +109,21 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 106,
+   "type": "iO",
+   "letters": "P–S",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 107,
    "type": "iO",
    "letters": "S–T",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 108,
+   "type": "iO",
+   "letters": "T–W",
    "by": "ondrnovy"
   }
  ],
@@ -87,6 +135,10 @@
   {
    "by": "matriky-index",
    "date": "2026-11-15"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-25"
   }
  ]
 }
