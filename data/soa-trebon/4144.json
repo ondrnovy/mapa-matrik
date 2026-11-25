@@ -1,0 +1,44 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "4144",
+ "url": "https://digi.ceskearchivy.cz/4144",
+ "signature": "Z Chrášťany 1796–1852",
+ "parish": "Z Chrášťany 1796–1852",
+ "records": {
+  "Z": "1796–1852"
+ },
+ "points": [
+  {
+   "scan": 45,
+   "type": "Z",
+   "year": 1801,
+   "by": "schranka"
+  },
+  {
+   "scan": 53,
+   "type": "Z",
+   "year": 1820,
+   "by": "schranka"
+  },
+  {
+   "scan": 169,
+   "type": "Z",
+   "year": 1843,
+   "by": "schranka"
+  },
+  {
+   "scan": 201,
+   "type": "Z",
+   "year": 1845,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-25"
+  }
+ ]
+}

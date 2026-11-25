@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "2171",
+ "url": "https://digi.ceskearchivy.cz/2171",
+ "signature": "N Bernartice 1826–1837",
+ "parish": "N Bernartice 1826–1837",
+ "records": {
+  "N": "1826–1837"
+ },
+ "points": [
+  {
+   "scan": 193,
+   "type": "N",
+   "year": 1829,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-25"
+  }
+ ]
+}

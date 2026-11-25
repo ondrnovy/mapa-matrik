@@ -1,0 +1,38 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "8694",
+ "url": "https://digi.ceskearchivy.cz/8694",
+ "signature": "N Zahájí 1722–1784",
+ "parish": "N Zahájí 1722–1784",
+ "records": {
+  "N": "1722–1784"
+ },
+ "points": [
+  {
+   "scan": 52,
+   "type": "N",
+   "year": 1734,
+   "by": "schranka"
+  },
+  {
+   "scan": 163,
+   "type": "N",
+   "year": 1763,
+   "by": "schranka"
+  },
+  {
+   "scan": 193,
+   "type": "N",
+   "year": 1770,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-25"
+  }
+ ]
+}
