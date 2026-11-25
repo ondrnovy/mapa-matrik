@@ -1,0 +1,66 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "albrechtice-11",
+ "url": "https://www.portafontium.eu/register/soap-kt/albrechtice-11",
+ "signature": "Albrechtice 11",
+ "parish": "Albrechtice (Sušice)",
+ "district": "Klatovy",
+ "records": {
+  "O": "1808–1856",
+  "iO": "1820–1856"
+ },
+ "order": "by_village",
+ "places": [
+  "Albrechtice",
+  "Budětice",
+  "Ostružno",
+  "Šimanov",
+  "Podmokly",
+  "Kadešice",
+  "Humpolec",
+  "Milčice",
+  "Záluží"
+ ],
+ "place_codes": {
+  "Albrechtice": 159697,
+  "Budětice": 15300,
+  "Ostružno": 116254,
+  "Šimanov": 142344,
+  "Podmokly": 124044,
+  "Kadešice": 142328,
+  "Humpolec": 159719,
+  "Milčice": 159701,
+  "Záluží": 302198
+ },
+ "scans": 133,
+ "language": "němčina",
+ "points": [
+  {
+   "scan": 70,
+   "type": "O",
+   "year": 1831,
+   "year_to": 1833,
+   "page": "str. 175–176",
+   "place": "Budětice",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 100,
+   "type": "O",
+   "year": 1831,
+   "year_to": 1835,
+   "page": "str. 245–246",
+   "place": "Ostružno",
+   "note": "kniha po vsích; rejstřík ženichů 1820–56 na konci sn. ~112–133",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-26"
+  }
+ ]
+}
