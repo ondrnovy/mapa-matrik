@@ -63,6 +63,23 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 31,
+   "type": "iN",
+   "year": 1861,
+   "year_to": 1872,
+   "letters": "P",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 32,
+   "type": "iN",
+   "year": 1873,
+   "year_to": 1880,
+   "letters": "P",
+   "note": "městečko i vsi chronologicky, s foliem knihy N",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 37,
    "type": "iN",
    "year": 1879,
@@ -114,6 +131,14 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 100,
+   "type": "iO",
+   "year": 1861,
+   "year_to": 1888,
+   "letters": "P",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 102,
    "type": "iO",
    "year": 1875,
@@ -136,6 +161,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-23"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-25"
   }
  ]
 }

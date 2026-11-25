@@ -1,0 +1,48 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "5868",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/5868",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/5868/{scan}",
+ "signature": "Čistá 26",
+ "parish": "Čistá",
+ "district": "Rakovník",
+ "records": {
+  "N": "1868–1899"
+ },
+ "order": "chronological",
+ "places": [
+  "Čistá"
+ ],
+ "place_codes": {
+  "Čistá": 23965
+ },
+ "scans": 297,
+ "language": "čeština",
+ "points": [
+  {
+   "scan": 96,
+   "type": "N",
+   "year": 1878,
+   "months": "I–II",
+   "page": "fol. 92",
+   "note": "1 snímek = 1 folio, snímek = folio + 4",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 98,
+   "type": "N",
+   "year": 1878,
+   "months": "IV–V",
+   "page": "fol. 94",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-25"
+  }
+ ]
+}

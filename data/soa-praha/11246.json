@@ -19,6 +19,15 @@
  "language": "česky, latinsky",
  "points": [
   {
+   "scan": 19,
+   "type": "N",
+   "year": 1751,
+   "months": "VIII–XII",
+   "page": "fol. 16v–17",
+   "note": "česky, chronologicky po vsích",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 20,
    "type": "N",
    "year": 1751,
@@ -44,6 +53,45 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 78,
+   "type": "N",
+   "year": 1764,
+   "year_to": 1765,
+   "months": "XII 1764 – I 1765",
+   "page": "fol. 75v–76",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 79,
+   "type": "N",
+   "year": 1765,
+   "page": "fol. 76v–77",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 120,
+   "type": "N",
+   "year": 1775,
+   "months": "IV–VI",
+   "page": "fol. 116v–117",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 121,
+   "type": "N",
+   "year": 1775,
+   "months": "VII–X",
+   "page": "fol. 117v–118",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 168,
+   "type": "iN",
+   "letters": "E–F",
+   "note": "uvnitř písmene podle folia; F fol. 1–105, pokračování na sn. 169",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 169,
    "type": "iN",
    "letters": "F–H",
@@ -60,6 +108,12 @@
    "type": "iN",
    "letters": "L–M",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 175,
+   "type": "iN",
+   "letters": "R–S",
+   "by": "ondrnovy"
   }
  ],
  "sources": [
@@ -74,6 +128,14 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-26"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-23"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-25"
   }
  ]
 }

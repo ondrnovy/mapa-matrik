@@ -1,0 +1,153 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "11247",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/11247",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/11247/{scan}",
+ "signature": "Petrovice-RA 06",
+ "parish": "Petrovice",
+ "district": "Rakovník",
+ "records": {
+  "N": "1785–1827",
+  "O": "1785–1825",
+  "Z": "1785–1832",
+  "iN": "1785–1827",
+  "iO": "1785–1825",
+  "iZ": "1785–1832"
+ },
+ "order": "by_village",
+ "scans": 232,
+ "places": [
+  "Petrovice",
+  "Nový Dvůr",
+  "Řeřichy",
+  "Šanov"
+ ],
+ "place_codes": {
+  "Petrovice": 119920,
+  "Nový Dvůr": 403725,
+  "Řeřichy": 145319,
+  "Šanov": 161951
+ },
+ "language": "latina / němčina / čeština",
+ "points": [
+  {
+   "scan": 3,
+   "type": "O",
+   "year": 1785,
+   "year_to": 1786,
+   "page": "fol. 1",
+   "place": "Petrovice",
+   "note": "začátek oddaných vsi Petrovice (1785–1824 = sn. 3–16)",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 7,
+   "type": "O",
+   "year": 1797,
+   "year_to": 1802,
+   "page": "str. IV–V",
+   "place": "Petrovice",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 9,
+   "type": "O",
+   "year": 1806,
+   "year_to": 1808,
+   "page": "str. VI–VII",
+   "place": "Petrovice",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 15,
+   "type": "O",
+   "year": 1819,
+   "year_to": 1822,
+   "page": "str. XIII",
+   "place": "Petrovice",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 16,
+   "type": "O",
+   "year": 1822,
+   "year_to": 1823,
+   "page": "str. XIV–XV",
+   "place": "Petrovice",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 18,
+   "type": "N",
+   "year": 1785,
+   "year_to": 1787,
+   "months": "VI 1785 – III 1787",
+   "page": "fol. 1v–2",
+   "place": "Petrovice",
+   "note": "začátek narozených vsi Petrovice",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 38,
+   "type": "N",
+   "year": 1799,
+   "months": "I–V",
+   "page": "str. XXII",
+   "place": "Petrovice",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 45,
+   "type": "N",
+   "year": 1803,
+   "page": "fol. 29",
+   "place": "Petrovice",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 46,
+   "type": "N",
+   "year": 1804,
+   "page": "str. XXX",
+   "place": "Petrovice",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 50,
+   "type": "Z",
+   "year": 1791,
+   "year_to": 1793,
+   "page": "str. IV",
+   "place": "Petrovice",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 69,
+   "type": "iN",
+   "place": "Petrovice",
+   "letters": "F–H",
+   "note": "rejstřík vsi Petrovice: sloupce oddán / pokřtěn / zemřel s foliem; sn. 68 = C–D, 70 = J–L",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 73,
+   "type": "iN",
+   "place": "Petrovice",
+   "letters": "S–T",
+   "note": "sn. 72 = P–Š",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-23"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-25"
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "schema": 1,
+ "archive": "soa-litomerice",
+ "portal": "digi.soalitomerice.cz",
+ "portal_id": "127/10",
+ "url": "https://digi.soalitomerice.cz/digitalnibadatelna/",
+ "signature": "127/10",
+ "parish": "Nové Sedlo (Neusattl u Žatce)",
+ "district": "Louny",
+ "records": {
+  "O": "1890–1927"
+ },
+ "order": "chronological",
+ "places": [
+  "Nové Sedlo",
+  "Stroupeček"
+ ],
+ "place_codes": {
+  "Nové Sedlo": 106712
+ },
+ "scans": 67,
+ "language": "němčina",
+ "points": [
+  {
+   "scan": 25,
+   "type": "O",
+   "year": 1909,
+   "year_to": 1910,
+   "months": "X 1909 – II 1910",
+   "page": "pag. 23",
+   "note": "obrázky mnoha snímků server nevydává (Server Exception / 404), střídavě",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 33,
+   "type": "O",
+   "year": 1912,
+   "months": "VIII–XI",
+   "page": "pag. 30",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 36,
+   "type": "O",
+   "year": 1914,
+   "months": "V–VIII",
+   "page": "pag. 33",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 38,
+   "type": "O",
+   "year": 1915,
+   "months": "V–X",
+   "page": "pag. 35",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-25"
+  }
+ ]
+}

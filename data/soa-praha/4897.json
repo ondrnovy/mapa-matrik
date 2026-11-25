@@ -1,0 +1,48 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "4897",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/4897",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/4897/{scan}",
+ "signature": "Čistá 14",
+ "parish": "Čistá",
+ "district": "Rakovník",
+ "records": {
+  "N": "1835–1850"
+ },
+ "order": "chronological",
+ "places": [
+  "Čistá"
+ ],
+ "place_codes": {
+  "Čistá": 23965
+ },
+ "scans": 203,
+ "language": "čeština",
+ "points": [
+  {
+   "scan": 165,
+   "type": "N",
+   "year": 1848,
+   "months": "II–III",
+   "page": "fol. 164",
+   "note": "1 snímek = 1 folio, snímek = folio + 1",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 166,
+   "type": "N",
+   "year": 1848,
+   "months": "III–IV",
+   "page": "fol. 165",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-25"
+  }
+ ]
+}

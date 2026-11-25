@@ -38,6 +38,15 @@
  },
  "points": [
   {
+   "scan": 26,
+   "type": "iN",
+   "year": 1889,
+   "year_to": 1900,
+   "letters": "P",
+   "note": "společný rejstřík N/O/Z chronologicky, sloupec matrika + folio",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 27,
    "type": "iN",
    "year": 1900,
@@ -101,6 +110,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-15"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-25"
   }
  ]
 }
