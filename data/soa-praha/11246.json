@@ -28,6 +28,22 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 28,
+   "type": "N",
+   "year": 1753,
+   "months": "X–XII",
+   "page": "fol. 25v–26",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 29,
+   "type": "N",
+   "year": 1754,
+   "months": "I–III",
+   "page": "fol. 26v–27",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 169,
    "type": "iN",
    "letters": "F–H",
@@ -54,6 +70,10 @@
   {
    "by": "matriky-index",
    "date": "2026-11-15"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-26"
   }
  ]
 }

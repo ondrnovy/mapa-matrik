@@ -96,6 +96,15 @@
    "page": "116–117"
   },
   {
+   "scan": 268,
+   "type": "O",
+   "year": 1774,
+   "year_to": 1775,
+   "months": "VI 1774 – VIII 1775",
+   "page": "str. 122–123",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 307,
    "type": "Z",
    "year": 1744,
@@ -139,6 +148,10 @@
   {
    "by": "matriky-index",
    "date": "2026-11-15"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-25"
   }
  ]
 }

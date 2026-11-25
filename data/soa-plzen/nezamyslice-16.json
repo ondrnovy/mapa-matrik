@@ -26,12 +26,66 @@
    "page": "2",
    "place": "Hejná",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 24,
+   "type": "O",
+   "year": 1837,
+   "year_to": 1841,
+   "page": "str. 23",
+   "place": "Hejná",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 28,
+   "type": "O",
+   "year": 1844,
+   "year_to": 1846,
+   "page": "str. 27",
+   "place": "Hejná",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 33,
+   "type": "O",
+   "year": 1850,
+   "year_to": 1851,
+   "page": "str. 32",
+   "place": "Hejná",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 37,
+   "type": "O",
+   "year": 1855,
+   "year_to": 1856,
+   "page": "str. 36",
+   "place": "Hejná",
+   "note": "kniha Hejné obsahuje i Karlovce; snímek = str. + 1",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 39,
+   "type": "O",
+   "year": 1859,
+   "year_to": 1860,
+   "page": "str. 38",
+   "place": "Hejná",
+   "by": "ondrnovy"
   }
  ],
  "sources": [
   {
    "by": "ondrnovy",
    "date": "2026-11-23"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-25"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-26"
   }
  ]
 }

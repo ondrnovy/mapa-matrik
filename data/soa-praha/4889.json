@@ -74,6 +74,22 @@
    "months": "XI"
   },
   {
+   "scan": 10,
+   "type": "N",
+   "year": 1780,
+   "months": "VII–XI",
+   "page": "str. 12–13",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 12,
+   "type": "N",
+   "year": 1781,
+   "months": "III–VI",
+   "page": "str. 16–17",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 13,
    "type": "N",
    "year": 1781
@@ -84,6 +100,16 @@
    "year": 1781,
    "months": "XI",
    "page": "20–21"
+  },
+  {
+   "scan": 14,
+   "type": "N",
+   "year": 1781,
+   "year_to": 1782,
+   "months": "XI 1781 – II 1782",
+   "page": "str. 20–21",
+   "note": "snímek ≈ str./2 + 4",
+   "by": "ondrnovy"
   },
   {
    "scan": 19,
@@ -289,12 +315,36 @@
    "months": "XI–XII"
   },
   {
+   "scan": 87,
+   "type": "N",
+   "year": 1799,
+   "months": "X–XII",
+   "page": "str. 162–163",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 89,
+   "type": "N",
+   "year": 1800,
+   "months": "IV–V",
+   "page": "str. 166–167",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 100,
    "type": "N",
    "year": 1802,
    "months": "VII–IX",
    "page": "188–189",
    "note": "tištěný formulář, ~9 zápisů na stranu",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 105,
+   "type": "N",
+   "year": 1803,
+   "months": "VIII–XI",
+   "page": "str. 198–199",
    "by": "ondrnovy"
   }
  ],
@@ -315,6 +365,10 @@
   {
    "by": "matriky-index",
    "date": "2026-11-15"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-25"
   }
  ]
 }

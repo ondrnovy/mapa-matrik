@@ -35,6 +35,39 @@
  },
  "points": [
   {
+   "scan": 44,
+   "type": "iN",
+   "year": 1820,
+   "year_to": 1826,
+   "letters": "H",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 45,
+   "type": "iN",
+   "year": 1826,
+   "year_to": 1830,
+   "letters": "H",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 47,
+   "type": "iN",
+   "year": 1834,
+   "year_to": 1837,
+   "letters": "H",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 49,
+   "type": "iN",
+   "year": 1842,
+   "year_to": 1846,
+   "letters": "H",
+   "note": "společný rejstřík N/O/Z chronologicky; sn. 48 = H 1837–41, sn. 42 = H 1814–20",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 51,
    "type": "iN",
    "year": 1810,
@@ -48,6 +81,14 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-23"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-25"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-26"
   }
  ]
 }
