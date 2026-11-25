@@ -53,11 +53,29 @@
    "by": "matriky-index"
   },
   {
+   "scan": 86,
+   "type": "N",
+   "year": 1771,
+   "by": "schranka"
+  },
+  {
+   "scan": 88,
+   "type": "N",
+   "year": 1773,
+   "by": "schranka"
+  },
+  {
    "scan": 92,
    "type": "N",
    "year": 1774,
    "months": "II–IV",
    "by": "vmachek"
+  },
+  {
+   "scan": 93,
+   "type": "N",
+   "year": 1774,
+   "by": "schranka"
   },
   {
    "scan": 95,
@@ -67,11 +85,29 @@
    "by": "matriky-index"
   },
   {
+   "scan": 97,
+   "type": "N",
+   "year": 1776,
+   "by": "schranka"
+  },
+  {
+   "scan": 101,
+   "type": "N",
+   "year": 1777,
+   "by": "schranka"
+  },
+  {
    "scan": 103,
    "type": "N",
    "year": 1778,
    "year_to": 1779,
    "by": "vmachek"
+  },
+  {
+   "scan": 106,
+   "type": "N",
+   "year": 1780,
+   "by": "schranka"
   },
   {
    "scan": 152,
@@ -149,6 +185,10 @@
   {
    "by": "vmachek",
    "date": "2026-11-04"
+  },
+  {
+   "by": "schranka",
+   "date": "2026-11-25"
   }
  ]
 }

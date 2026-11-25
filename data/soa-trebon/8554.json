@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "8554",
+ "url": "https://digi.ceskearchivy.cz/8554",
+ "signature": "O Volyně 1771–1784",
+ "parish": "O Volyně 1771–1784",
+ "records": {
+  "O": "1771–1784"
+ },
+ "points": [
+  {
+   "scan": 11,
+   "type": "O",
+   "year": 1774,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-25"
+  }
+ ]
+}

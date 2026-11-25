@@ -8,9 +8,22 @@
  "parish": "N O Z Žimutice 1732–1777",
  "records": {
   "N": "1732–1777",
-  "Z": "1748"
+  "Z": "1748–1750",
+  "O": "1754"
  },
  "points": [
+  {
+   "scan": 8,
+   "type": "N",
+   "year": 1733,
+   "by": "schranka"
+  },
+  {
+   "scan": 9,
+   "type": "N",
+   "year": 1733,
+   "by": "schranka"
+  },
   {
    "scan": 20,
    "type": "N",
@@ -18,9 +31,33 @@
    "by": "schranka"
   },
   {
+   "scan": 106,
+   "type": "N",
+   "year": 1755,
+   "by": "schranka"
+  },
+  {
+   "scan": 156,
+   "type": "N",
+   "year": 1768,
+   "by": "schranka"
+  },
+  {
+   "scan": 237,
+   "type": "O",
+   "year": 1754,
+   "by": "schranka"
+  },
+  {
    "scan": 309,
    "type": "Z",
    "year": 1748,
+   "by": "schranka"
+  },
+  {
+   "scan": 313,
+   "type": "Z",
+   "year": 1750,
    "by": "schranka"
   }
  ],
@@ -28,6 +65,10 @@
   {
    "by": "schranka",
    "date": "2026-11-16"
+  },
+  {
+   "by": "schranka",
+   "date": "2026-11-25"
   }
  ]
 }

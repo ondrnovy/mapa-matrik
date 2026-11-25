@@ -1,0 +1,50 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "8921",
+ "url": "https://digi.ceskearchivy.cz/8921",
+ "signature": "Z Žimutice 1840–1929",
+ "parish": "Z Žimutice 1840–1929",
+ "records": {
+  "Z": "1840–1929"
+ },
+ "points": [
+  {
+   "scan": 92,
+   "type": "Z",
+   "year": 1864,
+   "by": "schranka"
+  },
+  {
+   "scan": 96,
+   "type": "Z",
+   "year": 1873,
+   "by": "schranka"
+  },
+  {
+   "scan": 114,
+   "type": "Z",
+   "year": 1914,
+   "by": "schranka"
+  },
+  {
+   "scan": 115,
+   "type": "Z",
+   "year": 1920,
+   "by": "schranka"
+  },
+  {
+   "scan": 186,
+   "type": "Z",
+   "year": 1856,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-25"
+  }
+ ]
+}

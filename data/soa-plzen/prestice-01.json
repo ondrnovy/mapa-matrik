@@ -7,11 +7,29 @@
  "signature": "Přeštice 01",
  "parish": "Přeštice",
  "records": {
-  "N": "1684–1721",
+  "N": "1675–1721",
   "Z": "1696–1709",
   "O": "1683–1697"
  },
  "points": [
+  {
+   "scan": 5,
+   "type": "N",
+   "year": 1675,
+   "by": "schranka"
+  },
+  {
+   "scan": 7,
+   "type": "N",
+   "year": 1677,
+   "by": "schranka"
+  },
+  {
+   "scan": 12,
+   "type": "N",
+   "year": 1681,
+   "by": "schranka"
+  },
   {
    "scan": 18,
    "type": "N",
@@ -101,6 +119,10 @@
   {
    "by": "schranka",
    "date": "2026-11-16"
+  },
+  {
+   "by": "schranka",
+   "date": "2026-11-25"
   }
  ],
  "scans": 358

@@ -9,13 +9,31 @@
  "records": {
   "Z": "1713–1725",
   "N": "1677–1732",
-  "O": "1716"
+  "O": "1704–1716"
  },
  "points": [
   {
    "scan": 33,
    "type": "N",
    "year": 1702,
+   "by": "schranka"
+  },
+  {
+   "scan": 86,
+   "type": "N",
+   "year": 1727,
+   "by": "schranka"
+  },
+  {
+   "scan": 99,
+   "type": "N",
+   "year": 1731,
+   "by": "schranka"
+  },
+  {
+   "scan": 129,
+   "type": "O",
+   "year": 1704,
    "by": "schranka"
   },
   {
@@ -47,6 +65,10 @@
   {
    "by": "schranka",
    "date": "2026-11-16"
+  },
+  {
+   "by": "schranka",
+   "date": "2026-11-25"
   }
  ]
 }
