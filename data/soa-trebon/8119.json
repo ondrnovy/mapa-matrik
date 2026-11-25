@@ -17,6 +17,12 @@
    "by": "schranka"
   },
   {
+   "scan": 38,
+   "type": "O",
+   "year": 1807,
+   "by": "schranka"
+  },
+  {
    "scan": 67,
    "type": "O",
    "year": 1814,
@@ -27,6 +33,10 @@
   {
    "by": "schranka",
    "date": "2026-11-16"
+  },
+  {
+   "by": "schranka",
+   "date": "2026-11-25"
   }
  ]
 }

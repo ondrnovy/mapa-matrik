@@ -1,0 +1,32 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "8544",
+ "url": "https://digi.ceskearchivy.cz/8544",
+ "signature": "N Volyně 1742–1771",
+ "parish": "N Volyně 1742–1771",
+ "records": {
+  "N": "1742–1771"
+ },
+ "points": [
+  {
+   "scan": 22,
+   "type": "N",
+   "year": 1745,
+   "by": "schranka"
+  },
+  {
+   "scan": 47,
+   "type": "N",
+   "year": 1749,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-25"
+  }
+ ]
+}

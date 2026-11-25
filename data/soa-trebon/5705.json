@@ -1,0 +1,57 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "5705",
+ "url": "https://digi.ceskearchivy.cz/5705",
+ "signature": "N/O/Z Bzí 1669–1716",
+ "parish": "N/O/Z Bzí 1669–1716",
+ "records": {
+  "O": "1679–1697",
+  "N": "1689–1702"
+ },
+ "points": [
+  {
+   "scan": 46,
+   "type": "N",
+   "year": 1689,
+   "by": "schranka"
+  },
+  {
+   "scan": 74,
+   "type": "N",
+   "year": 1702,
+   "by": "schranka"
+  },
+  {
+   "scan": 137,
+   "type": "O",
+   "year": 1679,
+   "by": "schranka"
+  },
+  {
+   "scan": 141,
+   "type": "O",
+   "year": 1686,
+   "by": "schranka"
+  },
+  {
+   "scan": 147,
+   "type": "O",
+   "year": 1696,
+   "by": "schranka"
+  },
+  {
+   "scan": 149,
+   "type": "O",
+   "year": 1697,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-25"
+  }
+ ]
+}
