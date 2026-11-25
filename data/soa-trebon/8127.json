@@ -11,6 +11,20 @@
  },
  "points": [
   {
+   "scan": 13,
+   "type": "Z",
+   "year": 1819,
+   "page": "pag. 20",
+   "by": "schranka"
+  },
+  {
+   "scan": 20,
+   "type": "Z",
+   "year": 1821,
+   "page": "pag. 34",
+   "by": "schranka"
+  },
+  {
    "scan": 30,
    "type": "Z",
    "year": 1824,
@@ -26,6 +40,13 @@
    "scan": 59,
    "type": "Z",
    "year": 1828,
+   "by": "schranka"
+  },
+  {
+   "scan": 100,
+   "type": "Z",
+   "year": 1835,
+   "page": "pag. 194",
    "by": "schranka"
   },
   {
@@ -57,6 +78,10 @@
   {
    "by": "schranka",
    "date": "2026-11-16"
+  },
+  {
+   "by": "schranka",
+   "date": "2026-11-25"
   }
  ]
 }

@@ -11,6 +11,19 @@
  },
  "points": [
   {
+   "scan": 73,
+   "type": "N",
+   "year": 1803,
+   "page": "Pag. 35",
+   "by": "schranka"
+  },
+  {
+   "scan": 81,
+   "type": "N",
+   "year": 1804,
+   "by": "schranka"
+  },
+  {
    "scan": 130,
    "type": "N",
    "year": 1802,
@@ -33,6 +46,10 @@
   {
    "by": "schranka",
    "date": "2026-11-16"
+  },
+  {
+   "by": "schranka",
+   "date": "2026-11-25"
   }
  ]
 }

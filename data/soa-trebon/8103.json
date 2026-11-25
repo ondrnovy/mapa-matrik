@@ -1,0 +1,41 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "8103",
+ "url": "https://digi.ceskearchivy.cz/8103",
+ "signature": "N Týn nad Vltavou 1814–1819",
+ "parish": "N Týn nad Vltavou 1814–1819",
+ "records": {
+  "N": "1814–1819"
+ },
+ "points": [
+  {
+   "scan": 22,
+   "type": "N",
+   "year": 1815,
+   "page": "P. 19",
+   "by": "schranka"
+  },
+  {
+   "scan": 47,
+   "type": "N",
+   "year": 1817,
+   "page": "P. 46",
+   "by": "schranka"
+  },
+  {
+   "scan": 59,
+   "type": "N",
+   "year": 1818,
+   "page": "P. 58",
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-25"
+  }
+ ]
+}

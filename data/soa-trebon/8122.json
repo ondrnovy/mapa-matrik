@@ -17,9 +17,35 @@
    "by": "schranka"
   },
   {
+   "scan": 83,
+   "type": "O",
+   "year": 1874,
+   "page": "fol. 77",
+   "by": "schranka"
+  },
+  {
+   "scan": 212,
+   "type": "O",
+   "year": 1887,
+   "page": "fol. 205",
+   "by": "schranka"
+  },
+  {
    "scan": 220,
    "type": "O",
    "year": 1888,
+   "by": "schranka"
+  },
+  {
+   "scan": 298,
+   "type": "iO",
+   "letters": "A",
+   "by": "schranka"
+  },
+  {
+   "scan": 299,
+   "type": "iO",
+   "letters": "B",
    "by": "schranka"
   }
  ],
@@ -27,6 +53,10 @@
   {
    "by": "schranka",
    "date": "2026-11-16"
+  },
+  {
+   "by": "schranka",
+   "date": "2026-11-25"
   }
  ]
 }
