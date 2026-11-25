@@ -8,7 +8,7 @@
  "parish": "N O Z Týn nad Vltavou 1724–1751",
  "records": {
   "N": "1724–1751",
-  "O": "1739–1740"
+  "O": "1725–1749"
  },
  "points": [
   {
@@ -33,6 +33,12 @@
    "scan": 55,
    "type": "N",
    "year": 1729,
+   "by": "schranka"
+  },
+  {
+   "scan": 79,
+   "type": "N",
+   "year": 1731,
    "by": "schranka"
   },
   {
@@ -72,6 +78,12 @@
    "by": "schranka"
   },
   {
+   "scan": 172,
+   "type": "N",
+   "year": 1740,
+   "by": "schranka"
+  },
+  {
    "scan": 173,
    "type": "N",
    "year": 1740,
@@ -81,6 +93,30 @@
    "scan": 211,
    "type": "N",
    "year": 1744,
+   "by": "schranka"
+  },
+  {
+   "scan": 213,
+   "type": "N",
+   "year": 1744,
+   "by": "schranka"
+  },
+  {
+   "scan": 233,
+   "type": "N",
+   "year": 1746,
+   "by": "schranka"
+  },
+  {
+   "scan": 249,
+   "type": "O",
+   "year": 1725,
+   "by": "schranka"
+  },
+  {
+   "scan": 262,
+   "type": "O",
+   "year": 1730,
    "by": "schranka"
   },
   {
@@ -96,6 +132,18 @@
    "by": "schranka"
   },
   {
+   "scan": 319,
+   "type": "O",
+   "year": 1748,
+   "by": "schranka"
+  },
+  {
+   "scan": 322,
+   "type": "O",
+   "year": 1749,
+   "by": "schranka"
+  },
+  {
    "scan": 412,
    "type": "N",
    "year": 1736,
@@ -106,6 +154,10 @@
   {
    "by": "schranka",
    "date": "2026-11-16"
+  },
+  {
+   "by": "schranka",
+   "date": "2026-11-25"
   }
  ]
 }

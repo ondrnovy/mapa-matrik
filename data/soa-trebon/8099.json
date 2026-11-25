@@ -7,15 +7,45 @@
  "signature": "N O Z Týn nad Vltavou 1749–1768",
  "parish": "N O Z Týn nad Vltavou 1749–1768",
  "records": {
-  "O": "1754–1765",
+  "O": "1753–1768",
   "N": "1749–1768",
-  "Z": "1754–1762"
+  "Z": "1753–1762"
  },
  "points": [
+  {
+   "scan": 7,
+   "type": "N",
+   "year": 1749,
+   "by": "schranka"
+  },
+  {
+   "scan": 13,
+   "type": "N",
+   "year": 1750,
+   "by": "schranka"
+  },
   {
    "scan": 28,
    "type": "N",
    "year": 1752,
+   "by": "schranka"
+  },
+  {
+   "scan": 32,
+   "type": "N",
+   "year": 1752,
+   "by": "schranka"
+  },
+  {
+   "scan": 33,
+   "type": "N",
+   "year": 1753,
+   "by": "schranka"
+  },
+  {
+   "scan": 37,
+   "type": "N",
+   "year": 1753,
    "by": "schranka"
   },
   {
@@ -25,9 +55,42 @@
    "by": "schranka"
   },
   {
+   "scan": 65,
+   "type": "N",
+   "year": 1757,
+   "by": "schranka"
+  },
+  {
    "scan": 66,
    "type": "N",
    "year": 1757,
+   "by": "schranka"
+  },
+  {
+   "scan": 140,
+   "type": "N",
+   "year": 1765,
+   "page": "pag. 262",
+   "by": "schranka"
+  },
+  {
+   "scan": 145,
+   "type": "N",
+   "year": 1766,
+   "page": "pag. 272",
+   "by": "schranka"
+  },
+  {
+   "scan": 167,
+   "type": "N",
+   "year": 1767,
+   "page": "pag. 316",
+   "by": "schranka"
+  },
+  {
+   "scan": 211,
+   "type": "Z",
+   "year": 1753,
    "by": "schranka"
   },
   {
@@ -37,9 +100,39 @@
    "by": "schranka"
   },
   {
+   "scan": 224,
+   "type": "Z",
+   "year": 1758,
+   "by": "schranka"
+  },
+  {
+   "scan": 229,
+   "type": "Z",
+   "year": 1759,
+   "by": "schranka"
+  },
+  {
+   "scan": 234,
+   "type": "Z",
+   "year": 1761,
+   "by": "schranka"
+  },
+  {
    "scan": 240,
    "type": "Z",
    "year": 1762,
+   "by": "schranka"
+  },
+  {
+   "scan": 242,
+   "type": "Z",
+   "year": 1762,
+   "by": "schranka"
+  },
+  {
+   "scan": 283,
+   "type": "O",
+   "year": 1753,
    "by": "schranka"
   },
   {
@@ -55,9 +148,21 @@
    "by": "schranka"
   },
   {
+   "scan": 303,
+   "type": "O",
+   "year": 1761,
+   "by": "schranka"
+  },
+  {
    "scan": 318,
    "type": "O",
    "year": 1765,
+   "by": "schranka"
+  },
+  {
+   "scan": 326,
+   "type": "O",
+   "year": 1768,
    "by": "schranka"
   }
  ],
@@ -65,6 +170,10 @@
   {
    "by": "schranka",
    "date": "2026-11-16"
+  },
+  {
+   "by": "schranka",
+   "date": "2026-11-25"
   }
  ]
 }

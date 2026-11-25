@@ -11,15 +11,47 @@
  },
  "points": [
   {
+   "scan": 18,
+   "type": "N",
+   "year": 1820,
+   "by": "schranka"
+  },
+  {
    "scan": 23,
    "type": "N",
    "year": 1821,
    "by": "schranka"
   },
   {
+   "scan": 41,
+   "type": "N",
+   "year": 1823,
+   "page": "fol. 37",
+   "by": "schranka"
+  },
+  {
    "scan": 87,
    "type": "N",
    "year": 1826,
+   "by": "schranka"
+  },
+  {
+   "scan": 111,
+   "type": "N",
+   "year": 1828,
+   "page": "fol. 106",
+   "by": "schranka"
+  },
+  {
+   "scan": 203,
+   "type": "N",
+   "year": 1820,
+   "by": "schranka"
+  },
+  {
+   "scan": 207,
+   "type": "N",
+   "year": 1822,
    "by": "schranka"
   },
   {
@@ -39,6 +71,10 @@
   {
    "by": "schranka",
    "date": "2026-11-16"
+  },
+  {
+   "by": "schranka",
+   "date": "2026-11-25"
   }
  ]
 }

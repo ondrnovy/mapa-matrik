@@ -7,7 +7,7 @@
  "signature": "NOZ Týn nad Vltavou 1685–1723",
  "parish": "NOZ Týn nad Vltavou 1685–1723",
  "records": {
-  "O": "1696–1722",
+  "O": "1693–1722",
   "N": "1685–1723"
  },
  "points": [
@@ -60,6 +60,12 @@
    "by": "schranka"
   },
   {
+   "scan": 169,
+   "type": "N",
+   "year": 1699,
+   "by": "schranka"
+  },
+  {
    "scan": 171,
    "type": "N",
    "year": 1699,
@@ -90,6 +96,12 @@
    "by": "schranka"
   },
   {
+   "scan": 343,
+   "type": "N",
+   "year": 1712,
+   "by": "schranka"
+  },
+  {
    "scan": 359,
    "type": "N",
    "year": 1713,
@@ -99,6 +111,12 @@
    "scan": 380,
    "type": "N",
    "year": 1715,
+   "by": "schranka"
+  },
+  {
+   "scan": 390,
+   "type": "N",
+   "year": 1716,
    "by": "schranka"
   },
   {
@@ -114,9 +132,27 @@
    "by": "schranka"
   },
   {
+   "scan": 409,
+   "type": "N",
+   "year": 1718,
+   "by": "schranka"
+  },
+  {
    "scan": 457,
    "type": "N",
    "year": 1721,
+   "by": "schranka"
+  },
+  {
+   "scan": 491,
+   "type": "O",
+   "year": 1693,
+   "by": "schranka"
+  },
+  {
+   "scan": 502,
+   "type": "O",
+   "year": 1695,
    "by": "schranka"
   },
   {
@@ -144,6 +180,12 @@
    "by": "schranka"
   },
   {
+   "scan": 621,
+   "type": "O",
+   "year": 1720,
+   "by": "schranka"
+  },
+  {
    "scan": 634,
    "type": "O",
    "year": 1722,
@@ -166,6 +208,10 @@
   {
    "by": "schranka",
    "date": "2026-11-16"
+  },
+  {
+   "by": "schranka",
+   "date": "2026-11-25"
   }
  ]
 }
