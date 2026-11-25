@@ -1,0 +1,32 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "8695",
+ "url": "https://digi.ceskearchivy.cz/8695",
+ "signature": "N Zahájí 1784–1822",
+ "parish": "N Zahájí 1784–1822",
+ "records": {
+  "N": "1784–1822"
+ },
+ "points": [
+  {
+   "scan": 69,
+   "type": "N",
+   "year": 1793,
+   "by": "schranka"
+  },
+  {
+   "scan": 92,
+   "type": "N",
+   "year": 1806,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-25"
+  }
+ ]
+}
