@@ -15,12 +15,22 @@
    "type": "N",
    "year": 1772,
    "by": "schranka"
+  },
+  {
+   "scan": 217,
+   "type": "N",
+   "year": 1807,
+   "by": "schranka"
   }
  ],
  "sources": [
   {
    "by": "schranka",
    "date": "2026-11-16"
+  },
+  {
+   "by": "schranka",
+   "date": "2026-11-25"
   }
  ]
 }

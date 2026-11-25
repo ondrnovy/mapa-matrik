@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "7453",
+ "url": "https://digi.ceskearchivy.cz/7453",
+ "signature": "Z Strakonice 1769–1784",
+ "parish": "Z Strakonice 1769–1784",
+ "records": {
+  "Z": "1769–1784"
+ },
+ "points": [
+  {
+   "scan": 14,
+   "type": "Z",
+   "year": 1773,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-25"
+  }
+ ]
+}

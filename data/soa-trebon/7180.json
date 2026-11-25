@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "7180",
+ "url": "https://digi.ceskearchivy.cz/7180",
+ "signature": "Z Sepekov 1833–1853",
+ "parish": "Z Sepekov 1833–1853",
+ "records": {
+  "Z": "1833–1853"
+ },
+ "points": [
+  {
+   "scan": 30,
+   "type": "Z",
+   "year": 1844,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-25"
+  }
+ ]
+}

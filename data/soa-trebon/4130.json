@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "4130",
+ "url": "https://digi.ceskearchivy.cz/4130",
+ "signature": "N Chrášťany 1796–1829",
+ "parish": "N Chrášťany 1796–1829",
+ "records": {
+  "N": "1796–1829"
+ },
+ "points": [
+  {
+   "scan": 456,
+   "type": "N",
+   "year": 1825,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-25"
+  }
+ ]
+}

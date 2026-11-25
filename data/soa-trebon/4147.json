@@ -1,0 +1,32 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "4147",
+ "url": "https://digi.ceskearchivy.cz/4147",
+ "signature": "Z Chrášťany 1892–1914",
+ "parish": "Z Chrášťany 1892–1914",
+ "records": {
+  "Z": "1892–1914"
+ },
+ "points": [
+  {
+   "scan": 100,
+   "type": "Z",
+   "year": 1901,
+   "by": "schranka"
+  },
+  {
+   "scan": 103,
+   "type": "Z",
+   "year": 1902,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-25"
+  }
+ ]
+}

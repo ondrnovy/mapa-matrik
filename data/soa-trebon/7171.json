@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "7171",
+ "url": "https://digi.ceskearchivy.cz/7171",
+ "signature": "O Sepekov 1784–1804",
+ "parish": "O Sepekov 1784–1804",
+ "records": {
+  "O": "1784–1804"
+ },
+ "points": [
+  {
+   "scan": 27,
+   "type": "O",
+   "year": 1793,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-25"
+  }
+ ]
+}
