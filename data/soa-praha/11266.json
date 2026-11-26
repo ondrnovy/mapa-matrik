@@ -86,6 +86,21 @@
    "page": "134"
   },
   {
+   "scan": 169,
+   "type": "Z",
+   "year": 1887,
+   "page": "172",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 181,
+   "type": "Z",
+   "year": 1893,
+   "year_to": 1894,
+   "page": "184",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 187,
    "type": "Z",
    "year": 1897,
@@ -103,6 +118,12 @@
   {
    "scan": 198,
    "type": "Z",
+   "year": 1905,
+   "page": "201"
+  },
+  {
+   "scan": 198,
+   "type": "Z",
    "year": 1904,
    "year_to": 1905,
    "months": "VIII–IV",
@@ -111,16 +132,18 @@
    "by": "ondrnovy"
   },
   {
-   "scan": 198,
-   "type": "Z",
-   "year": 1905,
-   "page": "201"
-  },
-  {
    "scan": 205,
    "type": "Z",
    "year": 1909,
    "page": "208"
+  },
+  {
+   "scan": 206,
+   "type": "Z",
+   "year": 1909,
+   "year_to": 1910,
+   "page": "209",
+   "by": "ondrnovy"
   },
   {
    "scan": 207,
@@ -181,6 +204,15 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 220,
+   "type": "iZ",
+   "year": 1874,
+   "year_to": 1915,
+   "letters": "L",
+   "note": "rejstřík N/O/Z Příčiny a Žďárů dohromady, s čp.",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 229,
    "type": "iN",
    "letters": "V"
@@ -206,6 +238,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-19"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-26"
   }
  ]
 }
