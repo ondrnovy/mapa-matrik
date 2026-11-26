@@ -1,0 +1,60 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "nezamyslice-32",
+ "url": "https://www.portafontium.eu/register/soap-pn/nezamyslice-32",
+ "signature": "Nezamyslice 32",
+ "parish": "Nezamyslice",
+ "district": "Klatovy",
+ "places": [
+  "Hejná",
+  "Karlovce"
+ ],
+ "place_codes": {
+  "Hejná": 38164,
+  "Karlovce": 197939
+ },
+ "records": {
+  "Z": "1850–1949"
+ },
+ "order": "chronological",
+ "language": "čeština",
+ "scans": 66,
+ "points": [
+  {
+   "scan": 5,
+   "type": "Z",
+   "year": 1852,
+   "year_to": 1853,
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 20,
+   "type": "Z",
+   "year": 1875,
+   "year_to": 1876,
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 26,
+   "type": "Z",
+   "year": 1884,
+   "year_to": 1886,
+   "page": "24",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 35,
+   "type": "Z",
+   "year": 1900,
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-26"
+  }
+ ]
+}

@@ -70,6 +70,46 @@
    "year_to": 1864,
    "page": "66",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 73,
+   "type": "Z",
+   "year": 1865,
+   "months": "I",
+   "page": "72",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 88,
+   "type": "Z",
+   "year": 1866,
+   "months": "X",
+   "page": "87",
+   "note": "cholera 1866",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 100,
+   "type": "Z",
+   "year": 1868,
+   "months": "IX–XI",
+   "page": "99",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 130,
+   "type": "Z",
+   "year": 1874,
+   "page": "128",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 150,
+   "type": "Z",
+   "year": 1877,
+   "months": "V–VII",
+   "page": "148",
+   "by": "ondrnovy"
   }
  ],
  "sources": [
