@@ -53,6 +53,14 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 35,
+   "type": "N",
+   "year": 1755,
+   "months": "VIII–X",
+   "page": "fol. 32v–33",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 78,
    "type": "N",
    "year": 1764,
@@ -113,6 +121,14 @@
    "scan": 175,
    "type": "iN",
    "letters": "R–S",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 177,
+   "type": "iN",
+   "year": 1747,
+   "year_to": 1784,
+   "letters": "T–W",
    "by": "ondrnovy"
   }
  ],
