@@ -1,0 +1,36 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "11064",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/11064",
+ "signature": "Rakovník 20",
+ "parish": "Rakovník",
+ "district": "Rakovník",
+ "places": [
+  "Rakovník",
+  "Skelná Huť"
+ ],
+ "records": {
+  "Z": "1812–1846"
+ },
+ "order": "chronological",
+ "language": "němčina",
+ "scans": 202,
+ "points": [
+  {
+   "scan": 186,
+   "type": "iZ",
+   "year": 1829,
+   "year_to": 1846,
+   "letters": "H",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-26"
+  }
+ ]
+}
