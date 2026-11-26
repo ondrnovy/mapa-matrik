@@ -243,6 +243,14 @@
    "letters": "K",
    "note": "odkazy na strany Slabce 30",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 99,
+   "type": "iZ",
+   "year": 1840,
+   "year_to": 1865,
+   "letters": "L",
+   "by": "ondrnovy"
   }
  ],
  "sources": [
@@ -261,6 +269,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-18"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-26"
   }
  ]
 }

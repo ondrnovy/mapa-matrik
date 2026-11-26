@@ -25,6 +25,21 @@
  "language": "čeština, latina",
  "points": [
   {
+   "scan": 31,
+   "type": "N",
+   "year": 1689,
+   "months": "I–II",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 36,
+   "type": "N",
+   "year": 1689,
+   "year_to": 1690,
+   "months": "XI 1689 – I 1690",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 42,
    "type": "N",
    "year": 1691,
@@ -50,6 +65,14 @@
    "months": "X–II",
    "page": "102–103",
    "note": "„A. 1693“ na pravé straně; čistý opis, česky",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 57,
+   "type": "N",
+   "year": 1693,
+   "year_to": 1694,
+   "months": "X 1693 – I 1694",
    "by": "ondrnovy"
   },
   {
@@ -130,6 +153,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-15"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-26"
   }
  ]
 }
