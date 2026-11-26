@@ -57,6 +57,22 @@
    "page": "34–35"
   },
   {
+   "scan": 51,
+   "type": "N",
+   "year": 1743,
+   "months": "VII–VIII",
+   "page": "90–91",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 73,
+   "type": "N",
+   "year": 1747,
+   "months": "I–VI",
+   "page": "134–135",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 81,
    "type": "N",
    "year": 1748,
@@ -152,6 +168,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-25"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-26"
   }
  ]
 }

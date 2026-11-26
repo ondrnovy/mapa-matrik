@@ -33,6 +33,14 @@
    "letters": "L"
   },
   {
+   "scan": 13,
+   "type": "iN",
+   "year": 1732,
+   "year_to": 1760,
+   "letters": "R",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 14,
    "type": "iN",
    "note": "jiné písmeno"
@@ -55,6 +63,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-10"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-26"
   }
  ]
 }
