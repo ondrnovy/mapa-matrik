@@ -32,6 +32,30 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 13,
+   "type": "Z",
+   "year": 1855,
+   "months": "VIII–IX",
+   "page": "12",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 22,
+   "type": "Z",
+   "year": 1856,
+   "months": "VII–IX",
+   "page": "21",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 25,
+   "type": "Z",
+   "year": 1857,
+   "months": "I–II",
+   "page": "24",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 51,
    "type": "Z",
    "year": 1860,
@@ -44,6 +68,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-13"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-26"
   }
  ]
 }
