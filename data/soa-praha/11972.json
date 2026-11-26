@@ -147,6 +147,15 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 145,
+   "type": "Z",
+   "year": 1852,
+   "year_to": 1853,
+   "page": "29",
+   "place": "Modřejovice",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 146,
    "type": "Z",
    "year": 1853,
@@ -177,6 +186,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-18"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-26"
   }
  ]
 }
