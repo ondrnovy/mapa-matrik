@@ -1,0 +1,49 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "11963",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/11963",
+ "signature": "Slabce 19",
+ "parish": "Slabce",
+ "places": [
+  "Svinařov"
+ ],
+ "place_codes": {
+  "Svinařov": 160814
+ },
+ "records": {
+  "N": "1821–1854",
+  "O": "1821–1854",
+  "Z": "1821–1854"
+ },
+ "scans": 65,
+ "language": "cs",
+ "order": "chronological",
+ "district": "Rakovník",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/11963/{scan}",
+ "points": [
+  {
+   "scan": 61,
+   "type": "Z",
+   "year": 1848,
+   "year_to": 1850,
+   "page": "10",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 62,
+   "type": "Z",
+   "year": 1851,
+   "year_to": 1853,
+   "page": "11",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-26"
+  }
+ ]
+}
