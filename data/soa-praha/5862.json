@@ -1,0 +1,53 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "5862",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/5862",
+ "signature": "Čistá 20",
+ "parish": "Čistá",
+ "district": "Rakovník",
+ "places": [
+  "Čistá",
+  "Všesulov",
+  "Šípy",
+  "Krakov"
+ ],
+ "place_codes": {
+  "Čistá": 23965,
+  "Všesulov": 187470,
+  "Šípy": 162612,
+  "Krakov": 72338
+ },
+ "records": {
+  "Z": "1836–1869"
+ },
+ "order": "by_village",
+ "language": "čeština",
+ "scans": 183,
+ "points": [
+  {
+   "scan": 20,
+   "type": "Z",
+   "year": 1842,
+   "page": "34–35",
+   "place": "Čistá",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 125,
+   "type": "Z",
+   "year": 1851,
+   "year_to": 1853,
+   "page": "244–245",
+   "place": "Všesulov",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-26"
+  }
+ ]
+}

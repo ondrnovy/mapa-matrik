@@ -1,0 +1,64 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "stary-plzenec-21",
+ "url": "https://www.portafontium.eu/register/soap-pn/stary-plzenec-21",
+ "signature": "Starý Plzenec 21",
+ "parish": "Starý Plzenec",
+ "district": "Plzeň-město",
+ "places": [
+  "Černice",
+  "Koterov",
+  "Letkov",
+  "Lhůta",
+  "Mokrouše",
+  "Starý Plzenec",
+  "Šťáhlavy",
+  "Sedlec",
+  "Tymákov"
+ ],
+ "place_codes": {
+  "Černice": 490326,
+  "Koterov": 71056,
+  "Letkov": 80624,
+  "Lhůta": 172081,
+  "Mokrouše": 172090,
+  "Starý Plzenec": 155152,
+  "Šťáhlavy": 163155,
+  "Sedlec": 155144,
+  "Tymákov": 172103
+ },
+ "records": {
+  "Z": "1785–1851"
+ },
+ "order": "by_village",
+ "language": "čeština",
+ "scans": 378,
+ "points": [
+  {
+   "scan": 158,
+   "type": "Z",
+   "year": 1785,
+   "page": "314–315",
+   "place": "Starý Plzenec",
+   "note": "začátek oddílu Starý Plzenec (str. 315)",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 199,
+   "type": "Z",
+   "year": 1808,
+   "year_to": 1809,
+   "page": "397–398",
+   "place": "Starý Plzenec",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-26"
+  }
+ ]
+}
