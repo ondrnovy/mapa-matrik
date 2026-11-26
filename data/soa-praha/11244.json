@@ -17,6 +17,30 @@
  "language": "latinsky",
  "points": [
   {
+   "scan": 39,
+   "type": "O",
+   "year": 1745,
+   "year_to": 1746,
+   "page": "fol. 40v–41",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 40,
+   "type": "O",
+   "year": 1746,
+   "year_to": 1747,
+   "page": "fol. 41v–42",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 71,
+   "type": "O",
+   "year": 1763,
+   "page": "fol. 72v–73",
+   "note": "snímky 68–72 nejsou podle folií po řadě",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 77,
    "type": "O",
    "year": 1766,
@@ -139,6 +163,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-25"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-26"
   }
  ]
 }

@@ -92,6 +92,15 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 46,
+   "type": "O",
+   "year": 1809,
+   "year_to": 1812,
+   "page": "5–6",
+   "place": "Zavidov",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 48,
    "type": "O",
    "year": 1817,
@@ -445,6 +454,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-25"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-26"
   }
  ]
 }

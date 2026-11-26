@@ -128,6 +128,15 @@
    "year": 1796,
    "page": "60",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 24,
+   "type": "O",
+   "year": 1800,
+   "year_to": 1805,
+   "page": "62–63",
+   "place": "Olešná",
+   "by": "ondrnovy"
   }
  ],
  "sources": [
@@ -138,6 +147,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-12"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-26"
   }
  ],
  "notes": [
