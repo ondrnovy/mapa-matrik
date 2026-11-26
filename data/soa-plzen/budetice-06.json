@@ -1,0 +1,49 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "budetice-06",
+ "url": "https://www.portafontium.eu/register/soap-pn/budetice-06",
+ "signature": "Budětice 06",
+ "parish": "Budětice",
+ "records": {
+  "N": "1784–1801",
+  "O": "1784–1801",
+  "Z": "1784–1801"
+ },
+ "order": "by_village",
+ "places": [
+  "Bojanovice",
+  "Budětice",
+  "Čepice",
+  "Lipová Lhota",
+  "Rabí",
+  "Vlkonice"
+ ],
+ "place_codes": {
+  "Bojanovice": 137090,
+  "Budětice": 15300,
+  "Čepice": 137103,
+  "Lipová Lhota": 15318,
+  "Rabí": 137111,
+  "Vlkonice": 184021
+ },
+ "language": "česky",
+ "points": [
+  {
+   "scan": 196,
+   "type": "Z",
+   "year": 1784,
+   "year_to": 1788,
+   "page": "fol. 174",
+   "place": "Čepice",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-26"
+  }
+ ]
+}
