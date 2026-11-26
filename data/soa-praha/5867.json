@@ -1,0 +1,48 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "5867",
+ "url": "https://ebadatelna.soapraha.cz/d/5867/1",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/5867/{scan}",
+ "signature": "Čistá 25",
+ "parish": "Čistá",
+ "district": "Rakovník",
+ "records": {
+  "iZ": "1778–1822"
+ },
+ "order": "chronological",
+ "language": "latina",
+ "points": [
+  {
+   "scan": 36,
+   "type": "iZ",
+   "year": 1778,
+   "year_to": 1817,
+   "letters": "P",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 38,
+   "type": "iZ",
+   "year": 1792,
+   "year_to": 1822,
+   "letters": "R",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 39,
+   "type": "iZ",
+   "year": 1778,
+   "year_to": 1802,
+   "letters": "S",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-26"
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "5860",
+ "url": "https://ebadatelna.soapraha.cz/d/5860/1",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/5860/{scan}",
+ "signature": "Čistá 18",
+ "parish": "Čistá",
+ "district": "Rakovník",
+ "records": {
+  "Z": "1778–1824"
+ },
+ "order": "chronological",
+ "language": "latina",
+ "points": [
+  {
+   "scan": 21,
+   "type": "Z",
+   "year": 1788,
+   "months": "III–V",
+   "page": "36–37",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 22,
+   "type": "Z",
+   "year": 1788,
+   "months": "VI–XI",
+   "page": "38–39",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-26"
+  }
+ ]
+}
