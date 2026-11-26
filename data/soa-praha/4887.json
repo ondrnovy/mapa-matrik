@@ -87,6 +87,20 @@
    "months": "X–I"
   },
   {
+   "scan": 59,
+   "type": "N",
+   "year": 1703,
+   "months": "II–V",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 60,
+   "type": "N",
+   "year": 1703,
+   "months": "V–VIII",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 61,
    "type": "N",
    "year": 1703,
@@ -116,6 +130,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-13"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-26"
   }
  ]
 }

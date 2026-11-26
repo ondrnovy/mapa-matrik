@@ -206,6 +206,13 @@
   {
    "scan": 221,
    "type": "O",
+   "year": 1756,
+   "months": "IX",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 221,
+   "type": "O",
    "year": 1755,
    "year_to": 1756,
    "months": "XI 1755 – X 1756",
@@ -213,13 +220,6 @@
    "place": "Kožlany",
    "note": "souhrn 1755: 16 sňatků",
    "by": "ondrnovy"
-  },
-  {
-   "scan": 221,
-   "type": "O",
-   "year": 1756,
-   "months": "IX",
-   "by": "matriky-index"
   },
   {
    "scan": 222,
@@ -268,6 +268,21 @@
    "year": 1729,
    "year_to": 1730,
    "months": "XII 1729 – III 1730",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 281,
+   "type": "Z",
+   "year": 1731,
+   "months": "I–III",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 287,
+   "type": "Z",
+   "year": 1732,
+   "year_to": 1733,
+   "note": "vlevo konec 1732, vpravo začátek 1733",
    "by": "ondrnovy"
   },
   {
@@ -362,6 +377,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-18"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-26"
   }
  ]
 }

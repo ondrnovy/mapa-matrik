@@ -41,12 +41,35 @@
    "place": "Kejnice",
    "note": "1 snímek = 1 strana; Kejnice str. 75–88, za nimi prázdné strany",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 107,
+   "type": "O",
+   "year": 1804,
+   "year_to": 1805,
+   "page": "str. 110",
+   "place": "Nezamyslice",
+   "note": "snímek = str. − 3",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 112,
+   "type": "O",
+   "year": 1810,
+   "year_to": 1812,
+   "page": "str. 115",
+   "place": "Nezamyslice",
+   "by": "ondrnovy"
   }
  ],
  "sources": [
   {
    "by": "ondrnovy",
    "date": "2026-11-23"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-26"
   }
  ]
 }

@@ -154,11 +154,28 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 169,
+   "type": "N",
+   "year": 1722,
+   "months": "III–IV",
+   "page": "str. 326–327",
+   "note": "česky, chronologicky; 1 snímek = dvojstrana",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 170,
    "type": "N",
    "year": 1722,
    "months": "V",
    "page": "328–329",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 172,
+   "type": "N",
+   "year": 1722,
+   "months": "VI–VII",
+   "page": "str. 332–333",
    "by": "ondrnovy"
   },
   {
@@ -206,6 +223,28 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 195,
+   "type": "O",
+   "year": 1712,
+   "year_to": 1713,
+   "note": "oddaní česky chronologicky, sn. ~185–215 = 1704–22",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 203,
+   "type": "O",
+   "year": 1717,
+   "page": "str. 400–401",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 213,
+   "type": "O",
+   "year": 1721,
+   "page": "str. 420–421",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 218,
    "type": "Z",
    "year": 1704,
@@ -244,6 +283,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-15"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-26"
   }
  ]
 }
