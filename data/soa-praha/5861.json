@@ -1,0 +1,62 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "5861",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/5861",
+ "signature": "Čistá 19",
+ "parish": "Čistá",
+ "records": {
+  "Z": "1805–1842"
+ },
+ "order": "by_village",
+ "language": "česky",
+ "places": [
+  "Čistá",
+  "Břežany",
+  "Všesulov",
+  "Lužany",
+  "Krakov"
+ ],
+ "place_codes": {
+  "Čistá": 23965,
+  "Břežany": 14877,
+  "Všesulov": 187470,
+  "Krakov": 72338
+ },
+ "scan_url": "https://ebadatelna.soapraha.cz/d/5861/{scan}",
+ "points": [
+  {
+   "scan": 60,
+   "type": "Z",
+   "year": 1819,
+   "year_to": 1821,
+   "page": "str. 112–113",
+   "place": "Břežany",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 73,
+   "type": "Z",
+   "year": 1819,
+   "year_to": 1824,
+   "page": "str. 138–139",
+   "place": "Všesulov",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 101,
+   "type": "Z",
+   "year": 1835,
+   "page": "str. 194–195",
+   "place": "Břežany",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-26"
+  }
+ ]
+}
