@@ -115,11 +115,101 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 47,
+   "type": "Z",
+   "year": 1785,
+   "page": "1",
+   "place": "Petrovice",
+   "note": "začátek Z vsi (vpravo), vlevo konec N",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 49,
+   "type": "Z",
+   "year": 1789,
+   "year_to": 1791,
+   "page": "3",
+   "place": "Petrovice",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 50,
    "type": "Z",
    "year": 1791,
    "year_to": 1793,
    "page": "str. IV",
+   "place": "Petrovice",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 51,
+   "type": "Z",
+   "year": 1793,
+   "year_to": 1795,
+   "page": "V",
+   "place": "Petrovice",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 52,
+   "type": "Z",
+   "year": 1795,
+   "year_to": 1796,
+   "page": "VI",
+   "place": "Petrovice",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 53,
+   "type": "Z",
+   "year": 1796,
+   "year_to": 1797,
+   "page": "VII",
+   "place": "Petrovice",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 54,
+   "type": "Z",
+   "year": 1797,
+   "year_to": 1798,
+   "page": "VIII",
+   "place": "Petrovice",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 55,
+   "type": "Z",
+   "year": 1798,
+   "year_to": 1799,
+   "page": "IX",
+   "place": "Petrovice",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 57,
+   "type": "Z",
+   "year": 1802,
+   "year_to": 1803,
+   "page": "XI",
+   "place": "Petrovice",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 59,
+   "type": "Z",
+   "year": 1804,
+   "year_to": 1805,
+   "page": "XIII",
+   "place": "Petrovice",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 61,
+   "type": "Z",
+   "year": 1807,
+   "year_to": 1808,
+   "page": "XV",
    "place": "Petrovice",
    "by": "ondrnovy"
   },
@@ -173,6 +263,45 @@
    "place": "Petrovice",
    "letters": "S–T",
    "note": "sn. 72 = P–Š",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 74,
+   "type": "iZ",
+   "year": 1785,
+   "year_to": 1822,
+   "place": "Petrovice",
+   "letters": "T–W",
+   "note": "rejstřík N/O/Z vsi",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 210,
+   "type": "Z",
+   "year": 1785,
+   "year_to": 1788,
+   "page": "1",
+   "place": "Řeřichy",
+   "note": "začátek Z vsi",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 215,
+   "type": "Z",
+   "year": 1803,
+   "year_to": 1806,
+   "page": "6",
+   "place": "Řeřichy",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 228,
+   "type": "iZ",
+   "year": 1785,
+   "year_to": 1832,
+   "place": "Řeřichy",
+   "letters": "U",
+   "note": "rejstřík N/O/Z vsi",
    "by": "ondrnovy"
   }
  ],
