@@ -60,6 +60,14 @@
    "letters": "S",
    "note": "rejstřík chronologicky v rámci písmene, rok + strana knihy (do 1777 Čistá 05, od 1778 Čistá 06)",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 21,
+   "type": "iN",
+   "year": 1773,
+   "year_to": 1790,
+   "letters": "W",
+   "by": "ondrnovy"
   }
  ],
  "sections": [],
