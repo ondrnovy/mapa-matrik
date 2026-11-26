@@ -33,6 +33,20 @@
  },
  "points": [
   {
+   "scan": 5,
+   "type": "O",
+   "year": 1826,
+   "months": "XI",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 22,
+   "type": "O",
+   "year": 1833,
+   "months": "I–VI",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 50,
    "type": "O",
    "year": 1844,
@@ -57,6 +71,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-23"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-26"
   }
  ]
 }
