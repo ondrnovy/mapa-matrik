@@ -1,0 +1,40 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "kralovice-37",
+ "url": "https://www.portafontium.eu/register/soap-pn/kralovice-37",
+ "signature": "Kralovice 37",
+ "parish": "Kralovice",
+ "district": "Plzeň-sever",
+ "places": [
+  "Výrov"
+ ],
+ "place_codes": {
+  "Výrov": 187691
+ },
+ "records": {
+  "N": "1861–1895",
+  "O": "1861–1894",
+  "Z": "1861–1895"
+ },
+ "order": "chronological",
+ "language": "čeština",
+ "scans": 117,
+ "points": [
+  {
+   "scan": 102,
+   "type": "Z",
+   "year": 1873,
+   "page": "fol. 104",
+   "place": "Výrov",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-26"
+  }
+ ]
+}
