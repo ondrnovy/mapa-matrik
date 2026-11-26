@@ -26,6 +26,13 @@
   {
    "scan": 6,
    "type": "Z",
+   "year": 1837,
+   "months": "III",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 6,
+   "type": "Z",
    "year": 1835,
    "year_to": 1837,
    "months": "X–V",
@@ -35,10 +42,10 @@
    "by": "ondrnovy"
   },
   {
-   "scan": 6,
+   "scan": 9,
    "type": "Z",
-   "year": 1837,
-   "months": "III",
+   "year": 1843,
+   "year_to": 1844,
    "by": "matriky-index"
   },
   {
@@ -52,11 +59,14 @@
    "by": "ondrnovy"
   },
   {
-   "scan": 9,
+   "scan": 90,
    "type": "Z",
-   "year": 1843,
-   "year_to": 1844,
-   "by": "matriky-index"
+   "year": 1832,
+   "year_to": 1833,
+   "page": "181",
+   "place": "Řeřichy",
+   "note": "začátek oddílu vsi",
+   "by": "ondrnovy"
   },
   {
    "scan": 112,
@@ -112,6 +122,10 @@
   {
    "by": "matriky-index",
    "date": "2026-11-15"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-26"
   }
  ]
 }

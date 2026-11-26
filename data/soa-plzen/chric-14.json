@@ -68,6 +68,23 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 59,
+   "type": "iN",
+   "year": 1786,
+   "year_to": 1796,
+   "letters": "P",
+   "note": "rejstřík N/O/Z chronologicky, sloupec pagina = strana knihy vsi",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 60,
+   "type": "iN",
+   "year": 1802,
+   "year_to": 1811,
+   "letters": "P",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 64,
    "type": "iN",
    "letters": "P",
@@ -139,6 +156,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-10"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-26"
   }
  ]
 }
