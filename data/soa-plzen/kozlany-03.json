@@ -24,6 +24,40 @@
  "language": "čeština, latina",
  "points": [
   {
+   "scan": 3,
+   "type": "N",
+   "year": 1703,
+   "months": "IX–X",
+   "page": "1",
+   "note": "začátek oddílu N",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 6,
+   "type": "N",
+   "year": 1704,
+   "months": "I",
+   "page": "6–7",
+   "note": "začátek roku",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 13,
+   "type": "N",
+   "year": 1704,
+   "year_to": 1705,
+   "page": "20–21",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 21,
+   "type": "N",
+   "year": 1705,
+   "year_to": 1706,
+   "page": "36–37",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 38,
    "type": "N",
    "year": 1708,
