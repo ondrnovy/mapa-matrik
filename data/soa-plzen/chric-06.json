@@ -1,0 +1,45 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "chric-06",
+ "url": "https://www.portafontium.eu/register/soap-pn/chric-06",
+ "signature": "Chříč 06",
+ "parish": "Chříč",
+ "district": "Plzeň-sever",
+ "places": [
+  "Holovousy"
+ ],
+ "place_codes": {
+  "Holovousy": 54542
+ },
+ "records": {
+  "N": "1810–1849"
+ },
+ "order": "chronological",
+ "language": "čeština",
+ "scans": 65,
+ "points": [
+  {
+   "scan": 21,
+   "type": "N",
+   "year": 1822,
+   "year_to": 1823,
+   "page": "289",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 22,
+   "type": "N",
+   "year": 1824,
+   "page": "290",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-26"
+  }
+ ]
+}
