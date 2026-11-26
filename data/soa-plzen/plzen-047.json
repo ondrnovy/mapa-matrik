@@ -1,0 +1,40 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "plzen-047",
+ "url": "https://www.portafontium.eu/register/soap-pn/plzen-047",
+ "signature": "Plzeň 047",
+ "parish": "Plzeň",
+ "records": {
+  "iO": "1733–1901"
+ },
+ "places": [
+  "Plzeň"
+ ],
+ "scans": 334,
+ "points": [
+  {
+   "scan": 193,
+   "type": "iO",
+   "year": 1895,
+   "year_to": 1900,
+   "letters": "N",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 194,
+   "type": "iO",
+   "year": 1900,
+   "year_to": 1901,
+   "letters": "N",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-26"
+  }
+ ]
+}
