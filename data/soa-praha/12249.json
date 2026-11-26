@@ -65,12 +65,24 @@
    "type": "iO",
    "letters": "N",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 117,
+   "type": "iZ",
+   "year": 1808,
+   "year_to": 1874,
+   "letters": "N",
+   "by": "ondrnovy"
   }
  ],
  "sources": [
   {
    "by": "ondrnovy",
    "date": "2026-11-12"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-26"
   }
  ]
 }
