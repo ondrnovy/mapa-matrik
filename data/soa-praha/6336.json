@@ -1,0 +1,57 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "6336",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/6336",
+ "signature": "Jesenice-RA 11",
+ "parish": "Jesenice",
+ "places": [
+  "Nová Ves"
+ ],
+ "records": {
+  "N": "1789–1833",
+  "O": "1789–1842",
+  "Z": "1789–1833"
+ },
+ "scans": 95,
+ "language": "de",
+ "order": "chronological",
+ "district": "Rakovník",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/6336/{scan}",
+ "points": [
+  {
+   "scan": 23,
+   "type": "N",
+   "year": 1807,
+   "year_to": 1808,
+   "months": "VIII 1807 – IV 1808",
+   "page": "20",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 55,
+   "type": "O",
+   "year": 1789,
+   "year_to": 1794,
+   "page": "1",
+   "place": "Nová Ves",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 56,
+   "type": "O",
+   "year": 1795,
+   "year_to": 1800,
+   "page": "2",
+   "place": "Nová Ves",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-26"
+  }
+ ]
+}
