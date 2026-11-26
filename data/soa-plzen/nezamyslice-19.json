@@ -1,0 +1,54 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "nezamyslice-19",
+ "url": "https://www.portafontium.eu/register/soap-pn/nezamyslice-19",
+ "signature": "Nezamyslice 19",
+ "parish": "Nezamyslice",
+ "district": "Klatovy",
+ "places": [
+  "Hejná"
+ ],
+ "place_codes": {
+  "Hejná": 38164
+ },
+ "records": {
+  "Z": "1787–1836"
+ },
+ "order": "chronological",
+ "language": "čeština",
+ "scans": 44,
+ "points": [
+  {
+   "scan": 30,
+   "type": "Z",
+   "year": 1819,
+   "year_to": 1820,
+   "page": "29",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 37,
+   "type": "Z",
+   "year": 1826,
+   "year_to": 1827,
+   "page": "36",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 44,
+   "type": "Z",
+   "year": 1836,
+   "page": "43",
+   "note": "konec knihy, dál Nezamyslice 18 fol. 120",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-26"
+  }
+ ]
+}
