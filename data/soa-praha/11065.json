@@ -1,0 +1,35 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "11065",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/11065",
+ "signature": "Rakovník 21",
+ "parish": "Rakovník",
+ "district": "Rakovník",
+ "places": [
+  "Rakovník"
+ ],
+ "records": {
+  "Z": "1846–1871"
+ },
+ "order": "chronological",
+ "language": "čeština",
+ "scans": 253,
+ "points": [
+  {
+   "scan": 231,
+   "type": "iZ",
+   "year": 1861,
+   "year_to": 1871,
+   "letters": "H–J",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-26"
+  }
+ ]
+}
