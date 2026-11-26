@@ -1,0 +1,94 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "11254",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/11254",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/11254/{scan}",
+ "signature": "Petrovice-RA 13",
+ "parish": "Petrovice",
+ "district": "Rakovník",
+ "places": [
+  "Petrovice",
+  "Nový Dvůr"
+ ],
+ "place_codes": {
+  "Petrovice": 119920
+ },
+ "records": {
+  "Z": "1816–1865",
+  "iZ": "1816–1865"
+ },
+ "order": "chronological",
+ "language": "němčina, čeština, latina",
+ "scans": 123,
+ "points": [
+  {
+   "scan": 11,
+   "type": "Z",
+   "year": 1822,
+   "year_to": 1823,
+   "page": "8",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 25,
+   "type": "Z",
+   "year": 1832,
+   "months": "III–VI",
+   "page": "22",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 35,
+   "type": "Z",
+   "year": 1835,
+   "page": "32",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 39,
+   "type": "Z",
+   "year": 1838,
+   "page": "36",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 58,
+   "type": "Z",
+   "year": 1849,
+   "page": "55",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 102,
+   "type": "iZ",
+   "year": 1816,
+   "year_to": 1865,
+   "letters": "C",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 105,
+   "type": "iZ",
+   "year": 1816,
+   "year_to": 1865,
+   "letters": "F",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 108,
+   "type": "iZ",
+   "year": 1816,
+   "year_to": 1865,
+   "letters": "H",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-26"
+  }
+ ]
+}
