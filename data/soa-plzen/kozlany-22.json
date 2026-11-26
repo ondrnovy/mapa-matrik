@@ -216,6 +216,22 @@
    "scan": 136,
    "type": "iZ",
    "letters": "M–N"
+  },
+  {
+   "scan": 142,
+   "type": "iZ",
+   "year": 1900,
+   "year_to": 1949,
+   "letters": "T–U",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 143,
+   "type": "iZ",
+   "year": 1900,
+   "year_to": 1949,
+   "letters": "V–Z",
+   "by": "ondrnovy"
   }
  ],
  "sections": [],
@@ -235,6 +251,10 @@
   {
    "by": "matriky-index",
    "date": "2026-11-15"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-26"
   }
  ]
 }

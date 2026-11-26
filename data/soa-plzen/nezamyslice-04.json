@@ -36,6 +36,31 @@
  "district": "Klatovy",
  "points": [
   {
+   "scan": 44,
+   "type": "O",
+   "year": 1778,
+   "year_to": 1779,
+   "months": "XI–V",
+   "page": "41v–42 (orig. 40–41)",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 46,
+   "type": "O",
+   "year": 1779,
+   "year_to": 1780,
+   "note": "začátek roku 1780",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 47,
+   "type": "O",
+   "year": 1780,
+   "year_to": 1781,
+   "note": "začátek roku 1781",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 160,
    "type": "N",
    "year": 1777,
