@@ -72,6 +72,21 @@
    "page": "100"
   },
   {
+   "scan": 90,
+   "type": "Z",
+   "year": 1870,
+   "page": "102",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 100,
+   "type": "Z",
+   "year": 1875,
+   "page": "112",
+   "note": "konec Z, dál rejstříky po vsích",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 106,
    "type": "iN",
    "letters": "F"
@@ -80,6 +95,16 @@
    "scan": 108,
    "type": "iN",
    "letters": "H"
+  },
+  {
+   "scan": 108,
+   "type": "iZ",
+   "year": 1858,
+   "year_to": 1875,
+   "place": "Příčina",
+   "letters": "H",
+   "note": "rejstřík N/O/Z vsi; sloupec úmrtí posunutý o řádek",
+   "by": "ondrnovy"
   },
   {
    "scan": 109,
@@ -94,6 +119,24 @@
    "scan": 111,
    "type": "iN",
    "letters": "L"
+  },
+  {
+   "scan": 111,
+   "type": "iZ",
+   "year": 1858,
+   "year_to": 1875,
+   "place": "Příčina",
+   "letters": "L",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 115,
+   "type": "iZ",
+   "year": 1858,
+   "year_to": 1875,
+   "place": "Žďáry",
+   "letters": "P",
+   "by": "ondrnovy"
   }
  ],
  "sections": [],
@@ -108,6 +151,11 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-17"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-26"
   }
- ]
+ ],
+ "scans": 125
 }
