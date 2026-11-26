@@ -1,0 +1,51 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "nezamyslice-04",
+ "url": "https://www.portafontium.eu/register/soap-pn/nezamyslice-04",
+ "signature": "Nezamyslice 04",
+ "parish": "Nezamyslice",
+ "places": [
+  "Čimice",
+  "Damětice",
+  "Domoraz",
+  "Frymburk",
+  "Hejná",
+  "Kalenice",
+  "Kejnice",
+  "Nezamyslice",
+  "Žichovice"
+ ],
+ "place_codes": {
+  "Čimice": 23914,
+  "Damětice": 195944,
+  "Domoraz": 30970,
+  "Frymburk": 195952,
+  "Hejná": 38164,
+  "Kejnice": 64726,
+  "Nezamyslice": 104388,
+  "Žichovice": 196932
+ },
+ "records": {
+  "N": "1733–1784",
+  "O": "1733–1784",
+  "Z": "1733–1784"
+ },
+ "scans": 272,
+ "district": "Klatovy",
+ "points": [
+  {
+   "scan": 160,
+   "type": "N",
+   "year": 1777,
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-26"
+  }
+ ]
+}
