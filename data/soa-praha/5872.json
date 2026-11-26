@@ -47,6 +47,15 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 26,
+   "type": "iZ",
+   "year": 1889,
+   "year_to": 1900,
+   "letters": "P",
+   "note": "společný rejstřík N/O/Z",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 27,
    "type": "iN",
    "year": 1900,
@@ -114,6 +123,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-25"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-26"
   }
  ]
 }
