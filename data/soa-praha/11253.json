@@ -26,6 +26,23 @@
  },
  "points": [
   {
+   "scan": 27,
+   "type": "O",
+   "year": 1832,
+   "page": "fol. 25",
+   "place": "Příčina",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 32,
+   "type": "O",
+   "year": 1842,
+   "year_to": 1845,
+   "page": "fol. 30",
+   "place": "Příčina",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 69,
    "type": "O",
    "year": 1846,
@@ -61,6 +78,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-23"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-26"
   }
  ]
 }
