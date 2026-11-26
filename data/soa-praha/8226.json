@@ -88,6 +88,15 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 70,
+   "type": "Z",
+   "year": 1841,
+   "year_to": 1842,
+   "page": "68–69",
+   "place": "Lužná",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 79,
    "type": "Z",
    "year": 1846,
@@ -209,6 +218,10 @@
   {
    "by": "matriky-index",
    "date": "2026-11-15"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-26"
   }
  ]
 }
