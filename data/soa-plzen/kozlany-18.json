@@ -36,6 +36,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-18"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-26"
   }
  ],
  "points": [
@@ -197,6 +201,13 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 88,
+   "type": "Z",
+   "year": 1866,
+   "page": "166–167",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 92,
    "type": "Z",
    "year": 1867,
@@ -222,6 +233,13 @@
    "type": "Z",
    "year": 1870,
    "page": "204",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 110,
+   "type": "Z",
+   "year": 1871,
+   "page": "210–211",
    "by": "ondrnovy"
   },
   {
@@ -274,6 +292,13 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 146,
+   "type": "Z",
+   "year": 1879,
+   "page": "282–283",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 147,
    "type": "Z",
    "year": 1879,
@@ -299,6 +324,13 @@
    "type": "Z",
    "year": 1882,
    "page": "314",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 166,
+   "type": "Z",
+   "year": 1883,
+   "page": "322–323",
    "by": "ondrnovy"
   },
   {
