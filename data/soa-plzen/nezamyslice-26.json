@@ -36,12 +36,42 @@
    "year": 1852,
    "place": "Kejnice",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 150,
+   "type": "Z",
+   "year": 1887,
+   "year_to": 1889,
+   "page": "167",
+   "place": "Kejnice",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 155,
+   "type": "Z",
+   "year": 1897,
+   "year_to": 1900,
+   "place": "Kejnice",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 158,
+   "type": "Z",
+   "year": 1906,
+   "year_to": 1910,
+   "place": "Kejnice",
+   "note": "konec oddílu vsi",
+   "by": "ondrnovy"
   }
  ],
  "sources": [
   {
    "by": "ondrnovy",
    "date": "2026-11-23"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-26"
   }
  ]
 }
