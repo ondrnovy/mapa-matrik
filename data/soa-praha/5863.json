@@ -61,6 +61,38 @@
   {
    "scan": 36,
    "type": "iZ"
+  },
+  {
+   "scan": 38,
+   "type": "iZ",
+   "year": 1752,
+   "year_to": 1777,
+   "letters": "P",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 39,
+   "type": "iZ",
+   "year": 1732,
+   "year_to": 1770,
+   "letters": "R",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 41,
+   "type": "iZ",
+   "year": 1732,
+   "year_to": 1743,
+   "letters": "S",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 42,
+   "type": "iZ",
+   "year": 1743,
+   "year_to": 1759,
+   "letters": "S",
+   "by": "ondrnovy"
   }
  ],
  "sections": [],

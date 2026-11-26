@@ -124,6 +124,42 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 62,
+   "type": "Z",
+   "year": 1809,
+   "year_to": 1810,
+   "page": "XVI",
+   "place": "Petrovice",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 63,
+   "type": "Z",
+   "year": 1810,
+   "year_to": 1811,
+   "page": "XVII",
+   "place": "Petrovice",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 66,
+   "type": "Z",
+   "year": 1813,
+   "year_to": 1815,
+   "page": "XX",
+   "place": "Petrovice",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 67,
+   "type": "Z",
+   "year": 1815,
+   "page": "XXI",
+   "place": "Petrovice",
+   "note": "konec Z vsi 1785–1815, vpravo začíná rejstřík",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 69,
    "type": "iN",
    "place": "Petrovice",
@@ -148,6 +184,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-25"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-26"
   }
  ]
 }

@@ -64,6 +64,14 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 115,
+   "type": "O",
+   "year": 1769,
+   "page": "28–29",
+   "note": "zapsány i sňatky z fary Chříč (Holovousy, Slatina)",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 118,
    "type": "O",
    "year": 1771,
@@ -79,6 +87,14 @@
    "months": "XI 1777 – VII 1778",
    "page": "58–59",
    "note": "sn. 128 = str. 54–55 (1776)",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 132,
+   "type": "O",
+   "year": 1778,
+   "year_to": 1779,
+   "page": "62–63",
    "by": "ondrnovy"
   },
   {
@@ -129,6 +145,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-18"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-26"
   }
  ]
 }
