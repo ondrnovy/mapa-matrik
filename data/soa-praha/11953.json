@@ -97,10 +97,32 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 108,
+   "type": "Z",
+   "year": 1869,
+   "year_to": 1870,
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 122,
+   "type": "Z",
+   "year": 1872,
+   "year_to": 1873,
+   "by": "ondrnovy"
+  },
+  {
    "scan": 130,
    "type": "Z",
    "year": 1874,
    "page": "128",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 134,
+   "type": "Z",
+   "year": 1874,
+   "months": "IX–XII",
+   "page": "132",
    "by": "ondrnovy"
   },
   {
@@ -109,6 +131,28 @@
    "year": 1877,
    "months": "V–VII",
    "page": "148",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 164,
+   "type": "Z",
+   "year": 1879,
+   "year_to": 1880,
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 178,
+   "type": "Z",
+   "year": 1882,
+   "months": "VI–IX",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 193,
+   "type": "Z",
+   "year": 1884,
+   "months": "XI–XII",
+   "note": "poslední zápisy knihy",
    "by": "ondrnovy"
   }
  ],
