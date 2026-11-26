@@ -1,0 +1,48 @@
+{
+ "schema": 1,
+ "archive": "soa-litomerice",
+ "portal": "soal",
+ "portal_id": "127-5",
+ "url": "https://digi.soalitomerice.cz/digitalnibadatelna/vysledekDetail/09ddd7cea03b9b8d:4e496e4e:12216bae987:-6b67",
+ "signature": "127/5",
+ "parish": "Nové Sedlo",
+ "places": [
+  "Nové Sedlo",
+  "Stroupeček"
+ ],
+ "place_codes": {
+  "Nové Sedlo": 106712
+ },
+ "records": {
+  "N": "1879–1909"
+ },
+ "scans": 202,
+ "language": "de",
+ "order": "chronological",
+ "district": "Louny",
+ "points": [
+  {
+   "scan": 175,
+   "type": "N",
+   "year": 1905,
+   "year_to": 1906,
+   "months": "XI 1905 – I 1906",
+   "page": "172",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 188,
+   "type": "N",
+   "year": 1908,
+   "months": "I–III",
+   "page": "185",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-26"
+  }
+ ]
+}
