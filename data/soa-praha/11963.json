@@ -24,6 +24,25 @@
  "scan_url": "https://ebadatelna.soapraha.cz/d/11963/{scan}",
  "points": [
   {
+   "scan": 52,
+   "type": "Z",
+   "year": 1821,
+   "year_to": 1823,
+   "page": "fol. 1",
+   "place": "Svinařov",
+   "note": "začátek Z",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 56,
+   "type": "Z",
+   "year": 1830,
+   "year_to": 1835,
+   "page": "fol. 5",
+   "place": "Svinařov",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 61,
    "type": "Z",
    "year": 1848,
