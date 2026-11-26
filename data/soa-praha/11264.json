@@ -1,0 +1,57 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "11264",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/11264",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/11264/{scan}",
+ "signature": "Petrovice-RA 19",
+ "parish": "Petrovice",
+ "district": "Rakovník",
+ "places": [
+  "Petrovice"
+ ],
+ "place_codes": {
+  "Petrovice": 119920
+ },
+ "records": {
+  "N": "1865–1884",
+  "Z": "1865–1902",
+  "iN": "1865–1884",
+  "iZ": "1865–1902"
+ },
+ "order": "chronological",
+ "language": "čeština",
+ "scans": 199,
+ "points": [
+  {
+   "scan": 114,
+   "type": "Z",
+   "year": 1877,
+   "page": "112",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 130,
+   "type": "Z",
+   "year": 1882,
+   "year_to": 1883,
+   "page": "128",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 175,
+   "type": "iZ",
+   "year": 1865,
+   "year_to": 1881,
+   "letters": "F",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-26"
+  }
+ ]
+}
