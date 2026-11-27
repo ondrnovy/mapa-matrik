@@ -474,6 +474,15 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 248,
+   "type": "Z",
+   "year": 1822,
+   "year_to": 1825,
+   "page": "fol. 15",
+   "place": "Příčina",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 249,
    "type": "Z",
    "year": 1826,
@@ -530,6 +539,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-26"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-27"
   }
  ]
 }

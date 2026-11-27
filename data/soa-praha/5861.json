@@ -51,12 +51,34 @@
    "page": "str. 194–195",
    "place": "Břežany",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 105,
+   "type": "Z",
+   "year": 1806,
+   "page": "203",
+   "place": "Krakov",
+   "note": "začátek oddílu Krakov (str. 203–223 do 1838)",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 114,
+   "type": "Z",
+   "year": 1835,
+   "year_to": 1838,
+   "page": "220–221",
+   "place": "Krakov",
+   "by": "ondrnovy"
   }
  ],
  "sources": [
   {
    "by": "ondrnovy",
    "date": "2026-11-26"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-27"
   }
  ]
 }

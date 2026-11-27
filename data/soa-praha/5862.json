@@ -43,6 +43,26 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 115,
+   "type": "Z",
+   "year": 1839,
+   "year_to": 1840,
+   "page": "225",
+   "place": "Všesulov",
+   "note": "začátek oddílu Šešlov (Všesulov) v této knize, X 1839",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 116,
+   "type": "Z",
+   "year": 1840,
+   "year_to": 1842,
+   "page": "226–227",
+   "place": "Všesulov",
+   "note": "Šešlov (Všesulov), XII 1840 – IV 1842",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 125,
    "type": "Z",
    "year": 1851,
@@ -50,12 +70,35 @@
    "page": "244–245",
    "place": "Všesulov",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 142,
+   "type": "Z",
+   "year": 1866,
+   "months": "IX–XII",
+   "page": "278",
+   "place": "Čistá",
+   "note": "pokračování oddílu městečka ze str. 224",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 147,
+   "type": "Z",
+   "year": 1838,
+   "page": "289",
+   "place": "Krakov",
+   "note": "začátek oddílu Krakov na pravé straně",
+   "by": "ondrnovy"
   }
  ],
  "sources": [
   {
    "by": "ondrnovy",
    "date": "2026-11-26"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-27"
   }
  ]
 }
