@@ -1,0 +1,47 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "4467",
+ "url": "https://ebadatelna.soapraha.cz/d/4467/1",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/4467/{scan}",
+ "signature": "Bykáň 24",
+ "parish": "Bykáň",
+ "district": "Kutná Hora",
+ "order": "chronological",
+ "records": {
+  "Z": "1784–1851"
+ },
+ "places": [
+  "Malešov"
+ ],
+ "place_codes": {
+  "Malešov": 90832
+ },
+ "points": [
+  {
+   "scan": 88,
+   "type": "Z",
+   "year": 1774,
+   "year_to": 1840,
+   "page": "170–177",
+   "note": "sn. 88–91 vložená židovská matrika zemřelých; křesťanské zápisy pokračují sn. 92 (XI 1846)",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 93,
+   "type": "Z",
+   "year": 1847,
+   "year_to": 1848,
+   "page": "180–181",
+   "place": "Malešov",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-27"
+  }
+ ]
+}
