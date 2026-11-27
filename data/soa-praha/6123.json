@@ -1,0 +1,52 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "6123",
+ "url": "https://ebadatelna.soapraha.cz/d/6123/1",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/6123/{scan}",
+ "signature": "Kaňk 05",
+ "parish": "Kaňk",
+ "district": "Kutná Hora",
+ "order": "chronological",
+ "records": {
+  "Z": "1784–1878"
+ },
+ "places": [
+  "Kaněk"
+ ],
+ "points": [
+  {
+   "scan": 34,
+   "type": "Z",
+   "year": 1813,
+   "year_to": 1814,
+   "page": "64–65",
+   "note": "X 1813 – II 1814; mezera v zápisech VIII–X 1813",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 60,
+   "type": "Z",
+   "year": 1834,
+   "year_to": 1835,
+   "months": "XII–VI",
+   "page": "116–117",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 85,
+   "type": "Z",
+   "year": 1848,
+   "months": "V–XI",
+   "page": "166–167",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-27"
+  }
+ ]
+}
