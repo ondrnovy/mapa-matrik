@@ -1,0 +1,61 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "11242",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/11242",
+ "signature": "Petrovice-RA 01",
+ "parish": "Petrovice",
+ "records": {
+  "N": "1663–1715",
+  "O": "1663–1715",
+  "Z": "1663–1715"
+ },
+ "order": "chronological",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/11242/{scan}",
+ "places": [
+  "Petrovice",
+  "Příčina",
+  "Řeřichy",
+  "Rousínov",
+  "Šanov",
+  "Skupá",
+  "Nová Ves",
+  "Krakovec",
+  "Zhoř"
+ ],
+ "place_codes": {
+  "Petrovice": 119920,
+  "Příčina": 135828,
+  "Řeřichy": 145319,
+  "Rousínov": 141917,
+  "Šanov": 161951,
+  "Skupá": 149110,
+  "Nová Ves": 141909,
+  "Krakovec": 72362,
+  "Zhoř": 72371
+ },
+ "points": [
+  {
+   "scan": 117,
+   "type": "N",
+   "year": 1705,
+   "months": "X",
+   "page": "str. 110v–111",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 151,
+   "type": "N",
+   "year": 1715,
+   "note": "konec oddílu N (X 1715); O od sn. 153",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-27"
+  }
+ ]
+}
