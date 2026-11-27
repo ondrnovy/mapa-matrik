@@ -28,6 +28,22 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 14,
+   "type": "N",
+   "year": 1766,
+   "months": "VIII–XII",
+   "page": "20–21",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 21,
+   "type": "N",
+   "year": 1769,
+   "months": "II–V",
+   "page": "34–35",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 70,
    "type": "N",
    "year": 1781,
@@ -52,6 +68,15 @@
    "year_to": 1779,
    "letters": "M, N",
    "note": "odkazy na strany; B, C = sn. 90",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 96,
+   "type": "iN",
+   "year": 1763,
+   "year_to": 1779,
+   "letters": "O–P",
+   "note": "M–N = sn. 95, R–S = sn. 97; čísla = strany knihy (sn. ≈ str./2 + 4)",
    "by": "ondrnovy"
   },
   {
@@ -149,6 +174,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-26"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-27"
   }
  ]
 }
