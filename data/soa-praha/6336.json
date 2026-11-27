@@ -46,12 +46,35 @@
    "page": "2",
    "place": "Nová Ves",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 74,
+   "type": "Z",
+   "year": 1789,
+   "page": "1",
+   "place": "Nová Ves",
+   "note": "titulní list knihy zemřelých Nové Vsi 1789–1833 (do sn. 86 vlevo)",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 86,
+   "type": "iN",
+   "year": 1789,
+   "year_to": 1833,
+   "page": "24–25",
+   "place": "Nová Ves",
+   "note": "vpravo začátek abecedního rejstříku N/O/Z (A); D = sn. 88, T–W = sn. 93",
+   "by": "ondrnovy"
   }
  ],
  "sources": [
   {
    "by": "ondrnovy",
    "date": "2026-11-26"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-27"
   }
  ]
 }
