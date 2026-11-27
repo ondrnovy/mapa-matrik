@@ -1,0 +1,38 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "budetice-17",
+ "url": "https://www.portafontium.eu/register/soap-pn/budetice-17",
+ "signature": "Budětice 17",
+ "parish": "Budětice",
+ "district": "Klatovy",
+ "order": "by_village",
+ "records": {
+  "Z": "1801–1842"
+ },
+ "places": [
+  "Budětice",
+  "Bojanovice"
+ ],
+ "place_codes": {
+  "Budětice": 15300,
+  "Bojanovice": 137090
+ },
+ "points": [
+  {
+   "scan": 31,
+   "type": "Z",
+   "year": 1801,
+   "place": "Bojanovice",
+   "note": "začátek oddílu Bojanovice (sn. 33 = 1810–14, 34 = 1815–19)",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-27"
+  }
+ ]
+}
