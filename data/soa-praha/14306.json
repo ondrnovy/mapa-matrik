@@ -1,0 +1,61 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "14306",
+ "url": "https://ebadatelna.soapraha.cz/d/14306/1",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/14306/{scan}",
+ "signature": "Čistá 32",
+ "parish": "Čistá",
+ "district": "Rakovník",
+ "order": "by_village",
+ "records": {
+  "Z": "1869–1938"
+ },
+ "places": [
+  "Čistá",
+  "Břežany",
+  "Všesulov",
+  "Šipy",
+  "Křekovice",
+  "Krakov",
+  "Strachovice"
+ ],
+ "place_codes": {
+  "Čistá": 23965,
+  "Břežany": 14877,
+  "Všesulov": 187470,
+  "Šipy": 162612,
+  "Křekovice": 192341,
+  "Krakov": 72338,
+  "Strachovice": 23973
+ },
+ "points": [
+  {
+   "scan": 286,
+   "type": "Z",
+   "year": 1870,
+   "year_to": 1871,
+   "page": "fol. 281–282",
+   "place": "Všesulov",
+   "note": "začátek oddílu Všesulov 1870–1918 (do sn. 315)",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 315,
+   "type": "Z",
+   "year": 1917,
+   "year_to": 1918,
+   "page": "fol. 310–311",
+   "place": "Všesulov",
+   "note": "konec oddílu Všesulov, pokračování u Křekovic",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-27"
+  }
+ ]
+}
