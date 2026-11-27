@@ -1,0 +1,62 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "budetice-04",
+ "url": "https://www.portafontium.eu/register/soap-pn/budetice-04",
+ "signature": "Budětice 04",
+ "parish": "Budětice",
+ "district": "Klatovy",
+ "order": "chronological",
+ "records": {
+  "N": "1730–1760",
+  "O": "1730–1760",
+  "Z": "1730–1760"
+ },
+ "places": [
+  "Budětice",
+  "Bojanovice",
+  "Rabí",
+  "Čepice",
+  "Vlkonice"
+ ],
+ "place_codes": {
+  "Budětice": 15300,
+  "Bojanovice": 137090,
+  "Rabí": 137111,
+  "Čepice": 137103,
+  "Vlkonice": 184021
+ },
+ "points": [
+  {
+   "scan": 11,
+   "type": "N",
+   "year": 1734,
+   "months": "I–VII",
+   "page": "fol. 8",
+   "note": "budetice-04, pomocné foliace odpovídá rejstříku Bl.",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 86,
+   "type": "Z",
+   "year": 1751,
+   "year_to": 1752,
+   "page": "fol. 91",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 88,
+   "type": "Z",
+   "year": 1754,
+   "page": "fol. 93",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-27"
+  }
+ ]
+}
