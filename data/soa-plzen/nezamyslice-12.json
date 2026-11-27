@@ -1,0 +1,69 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "nezamyslice-12",
+ "url": "https://www.portafontium.eu/register/soap-pn/nezamyslice-12",
+ "signature": "Nezamyslice 12",
+ "parish": "Nezamyslice",
+ "district": "Klatovy",
+ "order": "by_village",
+ "records": {
+  "O": "1694–1746",
+  "Z": "1694–1746"
+ },
+ "places": [
+  "Čimice",
+  "Damětice",
+  "Domoraz",
+  "Frymburk",
+  "Kalenice",
+  "Kejnice",
+  "Nezamyslice",
+  "Žichovice"
+ ],
+ "place_codes": {
+  "Čimice": 23914,
+  "Damětice": 195944,
+  "Domoraz": 30970,
+  "Frymburk": 195952,
+  "Kejnice": 64726,
+  "Nezamyslice": 104388,
+  "Žichovice": 196932
+ },
+ "points": [
+  {
+   "scan": 3,
+   "type": "O",
+   "year": 1694,
+   "year_to": 1746,
+   "place": "Nezamyslice",
+   "note": "začátek oddaných Nezamyslic (sn. 3–25)",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 26,
+   "type": "O",
+   "year": 1695,
+   "year_to": 1745,
+   "place": "Kejnice",
+   "note": "začátek oddaných Kejnic (fol. 24–34 = sn. 26–37)",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 153,
+   "type": "Z",
+   "year": 1695,
+   "year_to": 1744,
+   "place": "Kejnice",
+   "note": "začátek zemřelých Kejnic (fol. 157–167 = sn. 153–162)",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-27"
+  }
+ ]
+}
