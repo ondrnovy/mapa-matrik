@@ -36,6 +36,14 @@
  "district": "Klatovy",
  "points": [
   {
+   "scan": 35,
+   "type": "O",
+   "year": 1775,
+   "page": "fol. 32",
+   "note": "oddaní celé fary chronologicky 1763–1783 (sn. ≈ fol. + 3)",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 44,
    "type": "O",
    "year": 1778,
@@ -71,6 +79,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-26"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-27"
   }
  ]
 }
