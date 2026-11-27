@@ -34,6 +34,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-12"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-27"
   }
  ],
  "points": [
@@ -83,6 +87,16 @@
    "place": "Liblín",
    "year": 1837,
    "page": "47",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 28,
+   "type": "Z",
+   "year": 1806,
+   "year_to": 1807,
+   "page": "str. 60",
+   "place": "Bujesily",
+   "note": "začátek oddílu vsi",
    "by": "ondrnovy"
   },
   {
