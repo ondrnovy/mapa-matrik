@@ -225,6 +225,15 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 89,
+   "type": "Z",
+   "year": 1859,
+   "year_to": 1860,
+   "page": "fol. 87",
+   "place": "Bohy",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 91,
    "type": "Z",
    "year": 1861,
@@ -258,6 +267,10 @@
   {
    "by": "matriky-index",
    "date": "2026-11-15"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-27"
   }
  ],
  "notes": [

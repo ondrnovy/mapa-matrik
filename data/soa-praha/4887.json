@@ -116,6 +116,15 @@
    "page": "59",
    "note": "nadpis „Letha 1704 Januarius“",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 128,
+   "type": "N",
+   "year": 1722,
+   "months": "I–V",
+   "page": "str. 124–125",
+   "note": "začátek roku 1722",
+   "by": "ondrnovy"
   }
  ],
  "sections": [],
@@ -134,6 +143,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-26"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-27"
   }
  ]
 }
