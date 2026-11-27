@@ -38,6 +38,14 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 11,
+   "type": "Z",
+   "year": 1901,
+   "months": "V–VI",
+   "page": "fol. 9",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 38,
    "type": "Z",
    "page": "fol. 36"
@@ -255,6 +263,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-26"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-27"
   }
  ]
 }

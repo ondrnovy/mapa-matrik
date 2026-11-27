@@ -40,6 +40,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-26"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-27"
   }
  ],
  "points": [
@@ -384,6 +388,14 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 190,
+   "type": "Z",
+   "year": 1888,
+   "months": "I–II",
+   "page": "str. 370–371",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 192,
    "type": "Z",
    "year": 1888,
@@ -458,6 +470,14 @@
    "type": "Z",
    "year": 1899,
    "page": "474",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 245,
+   "type": "Z",
+   "year": 1899,
+   "page": "str. 480",
+   "note": "poslední zápisy; vpravo začíná rejstřík (pokrývá jen asi do 1888)",
    "by": "ondrnovy"
   },
   {

@@ -39,6 +39,14 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 6,
+   "type": "O",
+   "year": 1896,
+   "months": "I–IV",
+   "page": "str. 4",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 7,
    "type": "O",
    "year": 1896,
@@ -184,6 +192,14 @@
    "type": "O",
    "year": 1906,
    "page": "58"
+  },
+  {
+   "scan": 60,
+   "type": "O",
+   "year": 1906,
+   "months": "I",
+   "page": "str. 58",
+   "by": "ondrnovy"
   },
   {
    "scan": 63,
@@ -395,6 +411,10 @@
   {
    "by": "matriky-index",
    "date": "2026-11-15"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-27"
   }
  ]
 }
