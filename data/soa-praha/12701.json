@@ -1,0 +1,33 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "12701",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/12701",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/12701/{scan}",
+ "signature": "Svaté Pole 13",
+ "parish": "Svaté Pole",
+ "district": "Příbram",
+ "records": {
+  "N": "1732–1757",
+  "O": "1732–1757",
+  "Z": "1732–1757"
+ },
+ "order": "chronological",
+ "points": [
+  {
+   "scan": 27,
+   "type": "N",
+   "year": 1736,
+   "months": "X–XI",
+   "page": "46–47",
+   "by": "xrojar-byte"
+  }
+ ],
+ "sources": [
+  {
+   "by": "xrojar-byte",
+   "date": "2026-11-28"
+  }
+ ]
+}

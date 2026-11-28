@@ -1,0 +1,38 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "12695",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/12695",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/12695/{scan}",
+ "signature": "Svaté Pole 07",
+ "parish": "Svaté Pole",
+ "district": "Příbram",
+ "records": {
+  "Z": "1785–1808"
+ },
+ "order": "by_village",
+ "points": [
+  {
+   "scan": 30,
+   "type": "Z",
+   "year": 1785,
+   "year_to": 1787,
+   "place": "Rybníky",
+   "by": "xrojar-byte"
+  },
+  {
+   "scan": 31,
+   "type": "Z",
+   "year": 1795,
+   "place": "Rybníky",
+   "by": "xrojar-byte"
+  }
+ ],
+ "sources": [
+  {
+   "by": "xrojar-byte",
+   "date": "2026-11-28"
+  }
+ ]
+}
