@@ -1,0 +1,56 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "12699",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/12699",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/12699/{scan}",
+ "signature": "Svaté Pole 14",
+ "parish": "Svaté Pole",
+ "district": "Příbram",
+ "records": {
+  "N": "1757–1771",
+  "O": "1757–1771",
+  "Z": "1757–1771"
+ },
+ "order": "chronological",
+ "points": [
+  {
+   "scan": 39,
+   "type": "N",
+   "year": 1760,
+   "page": "70",
+   "by": "xrojar-byte"
+  },
+  {
+   "scan": 65,
+   "type": "N",
+   "year": 1763,
+   "months": "VII",
+   "page": "123",
+   "by": "xrojar-byte"
+  },
+  {
+   "scan": 142,
+   "type": "N",
+   "year": 1769,
+   "months": "IX",
+   "page": "276",
+   "by": "xrojar-byte"
+  },
+  {
+   "scan": 177,
+   "type": "O",
+   "year": 1760,
+   "months": "XI",
+   "page": "23",
+   "by": "xrojar-byte"
+  }
+ ],
+ "sources": [
+  {
+   "by": "xrojar-byte",
+   "date": "2026-11-28"
+  }
+ ]
+}
