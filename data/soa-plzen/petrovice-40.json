@@ -1,0 +1,38 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "petrovice-40",
+ "url": "https://www.portafontium.eu/register/soap-pn/petrovice-40",
+ "signature": "Petrovice 40 (dříve Hlavňovice 12)",
+ "parish": "Petrovice u Sušice",
+ "places": [
+  "Zámyšl"
+ ],
+ "place_codes": {
+  "Zámyšl": 39152
+ },
+ "records": {
+  "N": "1784–1800",
+  "O": "1795–1800",
+  "Z": "1784–1800"
+ },
+ "order": "mixed",
+ "points": [
+  {
+   "scan": 4,
+   "type": "O",
+   "year": 1795,
+   "year_to": 1800,
+   "page": "2",
+   "place": "Zámyšl",
+   "by": "xrojar-byte"
+  }
+ ],
+ "sources": [
+  {
+   "by": "xrojar-byte",
+   "date": "2026-11-25"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "5771",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/5771",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/5771/{scan}",
+ "signature": "Hřiměždice 02",
+ "parish": "Hřiměždice",
+ "records": {
+  "N": "1788–1802",
+  "O": "1788–1800",
+  "Z": "1788–1801"
+ },
+ "order": "by_village",
+ "points": [
+  {
+   "scan": 5,
+   "type": "O",
+   "note": "oddíl oddaných první vsi",
+   "by": "xrojar-byte"
+  },
+  {
+   "scan": 62,
+   "type": "N",
+   "year": 1791,
+   "year_to": 1793,
+   "place": "Žebrák",
+   "by": "xrojar-byte"
+  }
+ ],
+ "sources": [
+  {
+   "by": "xrojar-byte",
+   "date": "2026-11-25"
+  }
+ ]
+}
