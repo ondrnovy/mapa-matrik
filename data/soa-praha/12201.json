@@ -1,0 +1,67 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "12201",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/12201",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/12201/{scan}",
+ "signature": "Sluštice 10",
+ "parish": "Sluštice",
+ "district": "Praha-východ",
+ "places": [
+  "Sibřina"
+ ],
+ "place_codes": {
+  "Sibřina": 147761
+ },
+ "records": {
+  "N": "1785–1832",
+  "O": "1785–1850",
+  "Z": "1785–1838"
+ },
+ "scans": 95,
+ "order": "chronological",
+ "points": [
+  {
+   "scan": 51,
+   "type": "Z",
+   "year": 1794,
+   "year_to": 1795,
+   "by": "xrojar-byte"
+  },
+  {
+   "scan": 62,
+   "type": "Z",
+   "year": 1811,
+   "year_to": 1813,
+   "by": "xrojar-byte"
+  },
+  {
+   "scan": 83,
+   "type": "O",
+   "year": 1825,
+   "year_to": 1827,
+   "by": "xrojar-byte"
+  },
+  {
+   "scan": 84,
+   "type": "O",
+   "year": 1828,
+   "year_to": 1834,
+   "by": "xrojar-byte"
+  },
+  {
+   "scan": 88,
+   "type": "O",
+   "year": 1849,
+   "note": "konec oddílu oddaných",
+   "by": "xrojar-byte"
+  }
+ ],
+ "sources": [
+  {
+   "by": "xrojar-byte",
+   "date": "2026-11-25"
+  }
+ ]
+}
