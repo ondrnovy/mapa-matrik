@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "12584",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/12584",
+ "signature": "Střezimíř 13, Z 1805–1833",
+ "parish": "Střezimíř",
+ "records": {
+  "Z": "1805–1833"
+ },
+ "points": [
+  {
+   "scan": 20,
+   "type": "Z",
+   "year": 1814,
+   "months": "II",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "4628",
+ "url": "https://digi.ceskearchivy.cz/4628",
+ "signature": "Kamenný Újezd 6",
+ "parish": "Kamenný Újezd",
+ "records": {
+  "N": "1784–1809"
+ },
+ "points": [
+  {
+   "scan": 147,
+   "type": "N",
+   "year": 1789,
+   "months": "V",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

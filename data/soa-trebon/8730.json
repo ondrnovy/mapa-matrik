@@ -1,0 +1,41 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "8730",
+ "url": "https://digi.ceskearchivy.cz/8730",
+ "signature": "Zálší 9 – narození 1787–1799",
+ "parish": "Zálší",
+ "records": {
+  "N": "1787–1799"
+ },
+ "points": [
+  {
+   "scan": 7,
+   "type": "N",
+   "year": 1792,
+   "months": "VI",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 10,
+   "type": "N",
+   "year": 1795,
+   "months": "X",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 12,
+   "type": "N",
+   "year": 1798,
+   "months": "VI",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

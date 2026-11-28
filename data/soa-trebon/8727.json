@@ -11,6 +11,20 @@
  },
  "points": [
   {
+   "scan": 19,
+   "type": "Z",
+   "year": 1768,
+   "months": "VIII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 26,
+   "type": "Z",
+   "year": 1771,
+   "months": "IV–V",
+   "by": "matriky-index"
+  },
+  {
    "scan": 35,
    "type": "Z",
    "year": 1772,
@@ -21,6 +35,10 @@
   {
    "by": "schranka",
    "date": "2026-11-16"
+  },
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
   }
  ]
 }

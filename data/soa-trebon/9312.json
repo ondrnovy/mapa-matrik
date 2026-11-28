@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "9312",
+ "url": "https://digi.ceskearchivy.cz/9312",
+ "signature": "Boršov nad Vltavou 24A 1922-1949",
+ "parish": "Boršov nad Vltavou 24A",
+ "records": {
+  "Z": "1922–1949"
+ },
+ "points": [
+  {
+   "scan": 90,
+   "type": "Z",
+   "year": 1938,
+   "months": "II",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

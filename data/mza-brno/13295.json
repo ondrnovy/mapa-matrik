@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "13295",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/13295",
+ "signature": "O Jámy 1926–1949, kniha č. 15667",
+ "parish": "Jámy",
+ "records": {
+  "O": "1926–1949"
+ },
+ "points": [
+  {
+   "scan": 71,
+   "type": "O",
+   "year": 1932,
+   "months": "XI",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

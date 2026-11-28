@@ -1,0 +1,41 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "7435",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/7435",
+ "signature": "Žďár nad Sázavou N 1795–1827, kniha 16600",
+ "parish": "Žďár nad Sázavou",
+ "records": {
+  "N": "1795–1827"
+ },
+ "points": [
+  {
+   "scan": 103,
+   "type": "N",
+   "year": 1816,
+   "months": "VI",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 125,
+   "type": "N",
+   "year": 1821,
+   "months": "V",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 146,
+   "type": "N",
+   "year": 1825,
+   "months": "III",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

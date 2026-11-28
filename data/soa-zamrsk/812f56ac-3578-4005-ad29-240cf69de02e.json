@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "812f56ac-3578-4005-ad29-240cf69de02e",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/812f56ac-3578-4005-ad29-240cf69de02e",
+ "signature": "6-2",
+ "parish": "Bílý Újezd",
+ "records": {
+  "N": "1746–1770"
+ },
+ "points": [
+  {
+   "scan": 54,
+   "type": "N",
+   "year": 1754,
+   "months": "V",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

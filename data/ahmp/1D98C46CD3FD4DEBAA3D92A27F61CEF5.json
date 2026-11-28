@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "1D98C46CD3FD4DEBAA3D92A27F61CEF5",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=1d98c46cd3fd4debaa3d92a27f61cef5",
+ "signature": "BŘV N19 1911–1917 – narození, Břevnov, kostel sv. Markéty",
+ "parish": "Břevnov – sv. Markéta",
+ "records": {
+  "N": "1911–1917"
+ },
+ "points": [
+  {
+   "scan": 67,
+   "type": "N",
+   "year": 1912,
+   "months": "X",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

@@ -96,19 +96,19 @@
   {
    "scan": 33,
    "type": "N",
-   "year": 1807,
-   "months": "IV",
-   "by": "matriky-index"
-  },
-  {
-   "scan": 33,
-   "type": "N",
    "year": 1806,
    "year_to": 1807,
    "months": "XI 1806 – VIII 1807",
    "page": "str. 61–62",
    "place": "Bujesily",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 33,
+   "type": "N",
+   "year": 1807,
+   "months": "IV",
+   "by": "matriky-index"
   },
   {
    "scan": 39,

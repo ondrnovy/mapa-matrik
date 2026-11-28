@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "D433BC7E76B8460EB44A230DABC9C75B",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=D433BC7E76B8460EB44A230DABC9C75B",
+ "signature": "BŘV O10 1916–1928 – oddaní, Břevnov, kostel sv. Markéty",
+ "parish": "Břevnov – sv. Markéta",
+ "records": {
+  "O": "1916–1928"
+ },
+ "points": [
+  {
+   "scan": 135,
+   "type": "O",
+   "year": 1921,
+   "months": "III",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

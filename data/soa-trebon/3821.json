@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "3821",
+ "url": "https://digi.ceskearchivy.cz/3821",
+ "signature": "O Přáslavice 1836–1914, fara Hořepník, kniha 41",
+ "parish": "Hořepník",
+ "records": {
+  "O": "1836–1914"
+ },
+ "points": [
+  {
+   "scan": 9,
+   "type": "O",
+   "year": 1870,
+   "months": "V",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

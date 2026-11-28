@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "5776",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/5776",
+ "signature": "Hřiměždice 07",
+ "parish": "Hřiměždice",
+ "records": {
+  "O": "1802–1859"
+ },
+ "points": [
+  {
+   "scan": 82,
+   "type": "O",
+   "year": 1809,
+   "months": "VI",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

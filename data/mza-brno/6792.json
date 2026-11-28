@@ -1,0 +1,41 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "6792",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/6792",
+ "signature": "N Nové Město na Moravě 1857–1877, kniha č. 15924",
+ "parish": "Nové Město na Moravě",
+ "records": {
+  "N": "1857–1877"
+ },
+ "points": [
+  {
+   "scan": 146,
+   "type": "N",
+   "year": 1859,
+   "months": "XI",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 220,
+   "type": "N",
+   "year": 1861,
+   "months": "VII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 319,
+   "type": "N",
+   "year": 1866,
+   "months": "VI",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

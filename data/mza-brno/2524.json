@@ -1,0 +1,33 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "2524",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/2524",
+ "signature": "Břeclav",
+ "parish": "Břeclav",
+ "records": {
+  "N": "1859–1889"
+ },
+ "points": [
+  {
+   "scan": 15,
+   "type": "N",
+   "year": 1861,
+   "months": "VIII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 37,
+   "type": "N",
+   "year": 1866,
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

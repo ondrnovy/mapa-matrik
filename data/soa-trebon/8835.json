@@ -1,0 +1,42 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "8835",
+ "url": "https://digi.ceskearchivy.cz/8835",
+ "signature": "Zhoř 30 – Zadní Střítež N/O/Z 1784–1836",
+ "parish": "Zhoř",
+ "records": {
+  "N": "1784–1836",
+  "O": "1784–1836"
+ },
+ "points": [
+  {
+   "scan": 7,
+   "type": "O",
+   "year": 1820,
+   "months": "II",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 25,
+   "type": "N",
+   "year": 1800,
+   "months": "XII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 41,
+   "type": "N",
+   "year": 1820,
+   "months": "X",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

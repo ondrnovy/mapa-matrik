@@ -1,0 +1,42 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "8739",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/8739",
+ "signature": "Mladá Boleslav 53 – N O Z Podvinec",
+ "parish": "Mladá Boleslav",
+ "records": {
+  "N": "1786–1817",
+  "O": "1786–1817"
+ },
+ "points": [
+  {
+   "scan": 3,
+   "type": "O",
+   "year": 1788,
+   "months": "XI",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 29,
+   "type": "N",
+   "year": 1791,
+   "months": "II",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 53,
+   "type": "N",
+   "year": 1804,
+   "months": "VIII",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

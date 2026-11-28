@@ -1,0 +1,41 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "12731",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/12731",
+ "signature": "Svatý Jan pod Skalou 05 – N 1816–1833",
+ "parish": "Svatý Jan pod Skalou",
+ "records": {
+  "N": "1816–1833"
+ },
+ "points": [
+  {
+   "scan": 33,
+   "type": "N",
+   "year": 1818,
+   "months": "X",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 61,
+   "type": "N",
+   "year": 1821,
+   "months": "I",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 224,
+   "type": "N",
+   "year": 1832,
+   "months": "X",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

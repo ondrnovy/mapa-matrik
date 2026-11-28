@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "3809",
+ "url": "https://digi.ceskearchivy.cz/3809",
+ "signature": "O Kyjov 1838–1913, fara Hořepník, kniha 29",
+ "parish": "Hořepník",
+ "records": {
+  "O": "1838–1913"
+ },
+ "points": [
+  {
+   "scan": 1,
+   "type": "O",
+   "year": 1842,
+   "months": "VII",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

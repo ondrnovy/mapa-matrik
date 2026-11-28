@@ -1,0 +1,139 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "mirosov-06",
+ "url": "https://www.portafontium.eu/register/soap-pn/mirosov-06",
+ "signature": "Mirošov 06",
+ "parish": "Mirošov",
+ "records": {
+  "N": "1765–1845"
+ },
+ "points": [
+  {
+   "scan": 46,
+   "type": "N",
+   "year": 1768,
+   "months": "II",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 90,
+   "type": "N",
+   "year": 1772,
+   "months": "II",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 99,
+   "type": "N",
+   "year": 1773,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 115,
+   "type": "N",
+   "year": 1775,
+   "year_to": 1776,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 119,
+   "type": "N",
+   "year": 1776,
+   "months": "V",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 135,
+   "type": "N",
+   "year": 1779,
+   "months": "V–VI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 140,
+   "type": "N",
+   "year": 1780,
+   "months": "IV",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 142,
+   "type": "N",
+   "year": 1780,
+   "months": "X",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 151,
+   "type": "N",
+   "year": 1782,
+   "months": "VIII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 306,
+   "type": "N",
+   "year": 1784,
+   "year_to": 1785,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 307,
+   "type": "N",
+   "year": 1786,
+   "year_to": 1788,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 308,
+   "type": "N",
+   "year": 1789,
+   "year_to": 1790,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 309,
+   "type": "N",
+   "year": 1793,
+   "months": "VII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 310,
+   "type": "N",
+   "year": 1797,
+   "months": "VIII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 311,
+   "type": "N",
+   "year": 1800,
+   "months": "VIII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 312,
+   "type": "N",
+   "year": 1801,
+   "months": "VIII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 315,
+   "type": "N",
+   "year": 1807,
+   "months": "VIII",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

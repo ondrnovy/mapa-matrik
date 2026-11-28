@@ -11,6 +11,13 @@
  },
  "points": [
   {
+   "scan": 4,
+   "type": "N",
+   "year": 1764,
+   "months": "V",
+   "by": "matriky-index"
+  },
+  {
    "scan": 7,
    "type": "N",
    "year": 1764,
@@ -27,6 +34,10 @@
   {
    "by": "schranka",
    "date": "2026-11-16"
+  },
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
   }
  ]
 }

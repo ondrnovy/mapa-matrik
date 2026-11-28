@@ -1,0 +1,55 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "11619",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/11619",
+ "signature": "N Nové Město na Moravě, evangelický sbor helvetského vyznání 1875–1919, kniha č. 16712",
+ "parish": "Nové Město na Moravě",
+ "records": {
+  "N": "1875–1919"
+ },
+ "points": [
+  {
+   "scan": 84,
+   "type": "N",
+   "year": 1886,
+   "months": "III",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 116,
+   "type": "N",
+   "year": 1890,
+   "months": "II",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 166,
+   "type": "N",
+   "year": 1896,
+   "months": "XII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 211,
+   "type": "N",
+   "year": 1903,
+   "months": "V",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 233,
+   "type": "N",
+   "year": 1906,
+   "months": "V",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

@@ -14,6 +14,13 @@
  "order": "by_village",
  "points": [
   {
+   "scan": 267,
+   "type": "Z",
+   "year": 1787,
+   "months": "I",
+   "by": "matriky-index"
+  },
+  {
    "scan": 273,
    "type": "Z",
    "year": 1809,
@@ -34,6 +41,10 @@
   {
    "by": "xrojar-byte",
    "date": "2026-11-24"
+  },
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
   }
  ]
 }

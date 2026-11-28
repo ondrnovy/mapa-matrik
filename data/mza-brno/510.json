@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "510",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/510",
+ "signature": "N Nové Veselí 1874–1906, kniha č. 15954",
+ "parish": "Nové Veselí",
+ "records": {
+  "N": "1874–1906"
+ },
+ "points": [
+  {
+   "scan": 11,
+   "type": "N",
+   "year": 1877,
+   "months": "X",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

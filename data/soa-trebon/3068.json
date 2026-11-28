@@ -21,12 +21,20 @@
  "records": {
   "iN": "1821–1873",
   "iO": "1821–1873",
-  "iZ": "1821–1873"
+  "iZ": "1821–1873",
+  "N": "1870"
  },
  "notes": [
   "Index po písmenech, uvnitř písmene po letech; odkaz na tom a stranu. Nemanželské děti pod příjmením matky."
  ],
  "points": [
+  {
+   "scan": 38,
+   "type": "N",
+   "year": 1870,
+   "months": "III",
+   "by": "matriky-index"
+  },
   {
    "scan": 38,
    "type": "iN",
@@ -44,6 +52,10 @@
   {
    "by": "FiikCz",
    "date": "2026-11-25"
+  },
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
   }
  ]
 }

@@ -1,0 +1,48 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "11724",
+ "url": "https://digi.ceskearchivy.cz/11724",
+ "signature": "Velešín 16A 1877-1932",
+ "parish": "Velešín 16A",
+ "records": {
+  "Z": "1877–1932"
+ },
+ "points": [
+  {
+   "scan": 20,
+   "type": "Z",
+   "year": 1879,
+   "months": "X",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 271,
+   "type": "Z",
+   "year": 1924,
+   "months": "XII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 276,
+   "type": "Z",
+   "year": 1926,
+   "months": "I",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 296,
+   "type": "Z",
+   "year": 1931,
+   "months": "I",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

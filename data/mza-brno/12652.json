@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "12652",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/12652",
+ "signature": "N Nové Město na Moravě 1900–1923, kniha č. 15926",
+ "parish": "Nové Město na Moravě",
+ "records": {
+  "N": "1900–1923"
+ },
+ "points": [
+  {
+   "scan": 158,
+   "type": "N",
+   "year": 1900,
+   "months": "V",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

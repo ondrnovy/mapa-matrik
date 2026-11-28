@@ -1,0 +1,280 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "mirosov-03",
+ "url": "https://www.portafontium.eu/register/soap-pn/mirosov-03",
+ "signature": "Mirošov 03",
+ "parish": "Mirošov",
+ "records": {
+  "N": "1736–1759",
+  "Z": "1736–1759"
+ },
+ "points": [
+  {
+   "scan": 14,
+   "type": "Z",
+   "year": 1738,
+   "months": "V",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 23,
+   "type": "Z",
+   "year": 1741,
+   "months": "III",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 40,
+   "type": "Z",
+   "year": 1743,
+   "months": "V",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 75,
+   "type": "Z",
+   "year": 1750,
+   "months": "X",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 96,
+   "type": "N",
+   "year": 1749,
+   "months": "VI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 105,
+   "type": "N",
+   "year": 1750,
+   "months": "IX",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 125,
+   "type": "N",
+   "year": 1739,
+   "months": "II",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 127,
+   "type": "N",
+   "year": 1739,
+   "months": "VII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 128,
+   "type": "N",
+   "year": 1739,
+   "months": "VII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 130,
+   "type": "N",
+   "year": 1739,
+   "months": "X",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 137,
+   "type": "N",
+   "year": 1740,
+   "months": "VIII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 142,
+   "type": "N",
+   "year": 1741,
+   "months": "V–VI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 148,
+   "type": "N",
+   "year": 1742,
+   "months": "III",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 150,
+   "type": "N",
+   "year": 1742,
+   "months": "V",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 153,
+   "type": "N",
+   "year": 1742,
+   "months": "VII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 154,
+   "type": "N",
+   "year": 1742,
+   "months": "VIII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 155,
+   "type": "N",
+   "year": 1742,
+   "months": "IX",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 156,
+   "type": "N",
+   "year": 1742,
+   "months": "IX",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 158,
+   "type": "N",
+   "year": 1742,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 160,
+   "type": "N",
+   "year": 1743,
+   "months": "II",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 162,
+   "type": "N",
+   "year": 1743,
+   "months": "V",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 168,
+   "type": "N",
+   "year": 1744,
+   "months": "I",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 170,
+   "type": "N",
+   "year": 1744,
+   "months": "III",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 172,
+   "type": "N",
+   "year": 1744,
+   "months": "IV",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 177,
+   "type": "N",
+   "year": 1744,
+   "months": "X",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 179,
+   "type": "N",
+   "year": 1744,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 180,
+   "type": "N",
+   "year": 1745,
+   "months": "I",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 181,
+   "type": "N",
+   "year": 1745,
+   "months": "I",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 183,
+   "type": "N",
+   "year": 1745,
+   "months": "III",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 185,
+   "type": "N",
+   "year": 1745,
+   "months": "VI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 186,
+   "type": "N",
+   "year": 1745,
+   "months": "VIII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 187,
+   "type": "N",
+   "year": 1745,
+   "months": "IX",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 189,
+   "type": "N",
+   "year": 1745,
+   "months": "XII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 193,
+   "type": "N",
+   "year": 1746,
+   "months": "VI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 198,
+   "type": "N",
+   "year": 1747,
+   "months": "V",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 204,
+   "type": "N",
+   "year": 1748,
+   "months": "III",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 222,
+   "type": "N",
+   "year": 1757,
+   "months": "IV",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

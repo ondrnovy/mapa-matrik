@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "231",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/231",
+ "signature": "Moravská Nová Ves",
+ "parish": "Moravská Nová Ves",
+ "records": {
+  "O": "1848–1928"
+ },
+ "points": [
+  {
+   "scan": 5,
+   "type": "O",
+   "year": 1850,
+   "months": "II",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

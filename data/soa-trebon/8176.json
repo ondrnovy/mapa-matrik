@@ -1,0 +1,62 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "8176",
+ "url": "https://digi.ceskearchivy.cz/8176",
+ "signature": "Velešín 4 1784-1815",
+ "parish": "Velešín 4",
+ "records": {
+  "N": "1784–1815",
+  "O": "1784–1815"
+ },
+ "points": [
+  {
+   "scan": 10,
+   "type": "O",
+   "year": 1800,
+   "months": "II",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 97,
+   "type": "N",
+   "year": 1787,
+   "months": "I",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 103,
+   "type": "N",
+   "year": 1789,
+   "months": "XI",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 111,
+   "type": "N",
+   "year": 1793,
+   "months": "VII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 245,
+   "type": "N",
+   "year": 1800,
+   "by": "matriky-index"
+  },
+  {
+   "scan": 258,
+   "type": "N",
+   "year": 1805,
+   "months": "VIII",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

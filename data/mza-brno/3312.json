@@ -1,0 +1,49 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "3312",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/3312",
+ "signature": "Šitbořice N 1679–1726, O 1679–1737, Z 1685–1737, kniha č. 3408",
+ "parish": "Šitbořice",
+ "records": {
+  "N": "1679–1737",
+  "Z": "1679–1737"
+ },
+ "points": [
+  {
+   "scan": 103,
+   "type": "N",
+   "year": 1721,
+   "months": "II",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 207,
+   "type": "Z",
+   "year": 1707,
+   "months": "IV",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 208,
+   "type": "Z",
+   "year": 1708,
+   "months": "VIII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 212,
+   "type": "Z",
+   "year": 1719,
+   "months": "IV",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

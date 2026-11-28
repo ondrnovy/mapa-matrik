@@ -7,15 +7,29 @@
  "signature": "N/O/Z Zálší 1718–1740",
  "parish": "N/O/Z Zálší 1718–1740",
  "records": {
-  "N": "1731–1735",
-  "O": "1728"
+  "N": "1725–1735",
+  "O": "1721–1730"
  },
  "points": [
+  {
+   "scan": 28,
+   "type": "N",
+   "year": 1725,
+   "months": "IV",
+   "by": "matriky-index"
+  },
   {
    "scan": 56,
    "type": "N",
    "year": 1731,
    "by": "schranka"
+  },
+  {
+   "scan": 58,
+   "type": "N",
+   "year": 1731,
+   "months": "VII",
+   "by": "matriky-index"
   },
   {
    "scan": 78,
@@ -24,16 +38,48 @@
    "by": "schranka"
   },
   {
+   "scan": 114,
+   "type": "O",
+   "year": 1721,
+   "months": "II",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 117,
+   "type": "O",
+   "year": 1723,
+   "months": "XI",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 120,
+   "type": "O",
+   "year": 1725,
+   "months": "II",
+   "by": "matriky-index"
+  },
+  {
    "scan": 129,
    "type": "O",
    "year": 1728,
    "by": "schranka"
+  },
+  {
+   "scan": 132,
+   "type": "O",
+   "year": 1730,
+   "months": "X",
+   "by": "matriky-index"
   }
  ],
  "sources": [
   {
    "by": "schranka",
    "date": "2026-11-25"
+  },
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
   }
  ]
 }

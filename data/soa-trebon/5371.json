@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "5371",
+ "url": "https://digi.ceskearchivy.cz/5371",
+ "signature": "Lukavec 16 – N 1812–1876",
+ "parish": "Lukavec 16 –",
+ "records": {
+  "N": "1812–1876"
+ },
+ "points": [
+  {
+   "scan": 32,
+   "type": "N",
+   "year": 1829,
+   "months": "IX",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

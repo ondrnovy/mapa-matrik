@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "7109",
+ "url": "https://digi.ceskearchivy.cz/7109",
+ "signature": "Římov 6 – zemřelí 1786–1826",
+ "parish": "Římov",
+ "records": {
+  "Z": "1786–1826"
+ },
+ "points": [
+  {
+   "scan": 39,
+   "type": "Z",
+   "year": 1804,
+   "months": "I",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

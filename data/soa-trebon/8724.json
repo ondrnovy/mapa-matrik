@@ -7,11 +7,32 @@
  "signature": "N/O/Z Zálší (Horní Bukovsko) 1740–1763",
  "parish": "N/O/Z Zálší (Horní Bukovsko) 1740–1763",
  "records": {
-  "N": "1760–1763",
-  "Z": "1751–1763",
-  "O": "1757–1763"
+  "N": "1755–1763",
+  "Z": "1749–1763",
+  "O": "1749–1763"
  },
  "points": [
+  {
+   "scan": 50,
+   "type": "N",
+   "year": 1755,
+   "months": "VII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 58,
+   "type": "N",
+   "year": 1757,
+   "months": "VIII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 67,
+   "type": "N",
+   "year": 1760,
+   "months": "IV",
+   "by": "matriky-index"
+  },
   {
    "scan": 68,
    "type": "N",
@@ -25,15 +46,36 @@
    "by": "schranka"
   },
   {
-   "scan": 106,
+   "scan": 98,
    "type": "O",
-   "year": 1758,
-   "by": "schranka"
+   "year": 1749,
+   "months": "IX",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 102,
+   "type": "O",
+   "year": 1755,
+   "months": "V",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 104,
+   "type": "O",
+   "year": 1756,
+   "months": "XI",
+   "by": "matriky-index"
   },
   {
    "scan": 106,
    "type": "O",
    "year": 1757,
+   "by": "schranka"
+  },
+  {
+   "scan": 106,
+   "type": "O",
+   "year": 1758,
    "by": "schranka"
   },
   {
@@ -43,10 +85,38 @@
    "by": "schranka"
   },
   {
+   "scan": 132,
+   "type": "Z",
+   "year": 1749,
+   "months": "III",
+   "by": "matriky-index"
+  },
+  {
    "scan": 135,
    "type": "Z",
    "year": 1751,
    "by": "schranka"
+  },
+  {
+   "scan": 141,
+   "type": "Z",
+   "year": 1756,
+   "months": "V",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 151,
+   "type": "Z",
+   "year": 1761,
+   "months": "VII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 153,
+   "type": "Z",
+   "year": 1762,
+   "months": "I",
+   "by": "matriky-index"
   },
   {
    "scan": 158,
@@ -69,6 +139,10 @@
   {
    "by": "schranka",
    "date": "2026-11-25"
+  },
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
   }
  ]
 }

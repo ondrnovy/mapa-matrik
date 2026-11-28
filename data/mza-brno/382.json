@@ -1,0 +1,34 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "382",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/382",
+ "signature": "Dubňany O 1856–1910, kniha č. 5292",
+ "parish": "Dubňany O",
+ "records": {
+  "O": "1856–1910"
+ },
+ "points": [
+  {
+   "scan": 81,
+   "type": "O",
+   "year": 1878,
+   "months": "VIII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 89,
+   "type": "O",
+   "year": 1881,
+   "months": "III",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

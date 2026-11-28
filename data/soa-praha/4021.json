@@ -1,0 +1,41 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "4021",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/4021",
+ "signature": "Bohdaneč 13, Z 1807–1889",
+ "parish": "Bohdaneč",
+ "records": {
+  "Z": "1807–1889"
+ },
+ "points": [
+  {
+   "scan": 284,
+   "type": "Z",
+   "year": 1816,
+   "months": "X",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 285,
+   "type": "Z",
+   "year": 1824,
+   "months": "V",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 289,
+   "type": "Z",
+   "year": 1843,
+   "months": "VI",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

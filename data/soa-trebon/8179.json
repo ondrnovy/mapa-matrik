@@ -1,0 +1,41 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "8179",
+ "url": "https://digi.ceskearchivy.cz/8179",
+ "signature": "Velešín 7 1846-1876",
+ "parish": "Velešín 7",
+ "records": {
+  "N": "1846–1876"
+ },
+ "points": [
+  {
+   "scan": 101,
+   "type": "N",
+   "year": 1854,
+   "months": "X",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 160,
+   "type": "N",
+   "year": 1865,
+   "months": "III",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 422,
+   "type": "N",
+   "year": 1872,
+   "months": "X",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

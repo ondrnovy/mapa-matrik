@@ -1,0 +1,35 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "3316",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/3316",
+ "signature": "Šitbořice N, O, D 1778–1786, kniha č. 3410",
+ "parish": "Šitbořice",
+ "records": {
+  "O": "1778–1786",
+  "Z": "1778–1786"
+ },
+ "points": [
+  {
+   "scan": 12,
+   "type": "O",
+   "year": 1781,
+   "months": "II",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 22,
+   "type": "Z",
+   "year": 1784,
+   "months": "IV",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

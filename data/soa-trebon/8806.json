@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "8806",
+ "url": "https://digi.ceskearchivy.cz/8806",
+ "signature": "Zhoř 1 – N/O/Z 1759–1817",
+ "parish": "Zhoř 1 –",
+ "records": {
+  "N": "1759–1817"
+ },
+ "points": [
+  {
+   "scan": 72,
+   "type": "N",
+   "year": 1780,
+   "months": "IV",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

@@ -7,7 +7,8 @@
  "signature": "2151",
  "parish": "Chroustovice + filiální obvody Radhošť a Uhersko",
  "records": {
-  "N": "1742–1778"
+  "N": "1742–1778",
+  "O": "1770"
  },
  "points": [
   {
@@ -21,24 +22,10 @@
    "scan": 67,
    "type": "N",
    "year": 1757,
-   "months": "VIII",
-   "by": "matriky-index"
-  },
-  {
-   "scan": 67,
-   "type": "N",
-   "year": 1757,
    "months": "VII–VIII",
    "page": "fol. 66",
    "note": "číslo listu = původní foliace nahoře (rejstřík ve sign. 2152 na ni odkazuje)",
    "by": "xrojar-byte"
-  },
-  {
-   "scan": 68,
-   "type": "N",
-   "year": 1757,
-   "months": "IX",
-   "by": "matriky-index"
   },
   {
    "scan": 68,
@@ -62,13 +49,6 @@
    "months": "V–IX",
    "page": "fol. 74",
    "by": "xrojar-byte"
-  },
-  {
-   "scan": 96,
-   "type": "N",
-   "year": 1763,
-   "months": "IV",
-   "by": "matriky-index"
   },
   {
    "scan": 96,

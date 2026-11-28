@@ -1,0 +1,41 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "8181",
+ "url": "https://digi.ceskearchivy.cz/8181",
+ "signature": "Velešín 9 1744-1784",
+ "parish": "Velešín 9",
+ "records": {
+  "O": "1744–1784"
+ },
+ "points": [
+  {
+   "scan": 5,
+   "type": "O",
+   "year": 1744,
+   "months": "VII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 19,
+   "type": "O",
+   "year": 1749,
+   "months": "II",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 85,
+   "type": "O",
+   "year": 1779,
+   "months": "I",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

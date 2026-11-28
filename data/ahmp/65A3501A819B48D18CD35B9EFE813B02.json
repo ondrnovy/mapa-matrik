@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "65A3501A819B48D18CD35B9EFE813B02",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=65A3501A819B48D18CD35B9EFE813B02",
+ "signature": "MAG O28 1924–1925 – kniha sňatků",
+ "parish": "Magistrát hl. m. Prahy",
+ "records": {
+  "O": "1924–1925"
+ },
+ "points": [
+  {
+   "scan": 244,
+   "type": "O",
+   "year": 1925,
+   "months": "IV",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

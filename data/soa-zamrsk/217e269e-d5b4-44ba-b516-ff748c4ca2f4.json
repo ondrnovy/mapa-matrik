@@ -16,6 +16,27 @@
    "year": 1830,
    "months": "I",
    "by": "pe-pan"
+  },
+  {
+   "scan": 95,
+   "type": "N",
+   "year": 1819,
+   "months": "VIII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 162,
+   "type": "N",
+   "year": 1813,
+   "months": "IX",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 165,
+   "type": "N",
+   "year": 1819,
+   "months": "XI",
+   "by": "matriky-index"
   }
  ],
  "sources": [

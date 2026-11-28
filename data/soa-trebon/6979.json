@@ -1,0 +1,56 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "6979",
+ "url": "https://digi.ceskearchivy.cz/6979",
+ "signature": "Rožmitál na Šumavě, matrika narozených",
+ "parish": "Rožmitál na Šumavě",
+ "records": {
+  "N": "1630–1720",
+  "Z": "1630–1720"
+ },
+ "points": [
+  {
+   "scan": 52,
+   "type": "N",
+   "year": 1686,
+   "months": "III",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 71,
+   "type": "N",
+   "year": 1698,
+   "months": "VIII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 76,
+   "type": "N",
+   "year": 1701,
+   "months": "VIII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 80,
+   "type": "N",
+   "year": 1703,
+   "months": "XII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 174,
+   "type": "Z",
+   "year": 1683,
+   "year_to": 1686,
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

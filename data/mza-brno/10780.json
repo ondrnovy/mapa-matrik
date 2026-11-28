@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "10780",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/10780",
+ "signature": "O Nové Veselí 1875–1936, kniha č. 15959",
+ "parish": "Nové Veselí",
+ "records": {
+  "O": "1875–1936"
+ },
+ "points": [
+  {
+   "scan": 17,
+   "type": "O",
+   "year": 1897,
+   "months": "II",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

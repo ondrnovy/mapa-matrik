@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "kralovice-11",
+ "url": "https://www.portafontium.eu/register/soap-pn/kralovice-11",
+ "signature": "Kralovice N 1830–1848",
+ "parish": "Kralovice",
+ "records": {
+  "N": "1830–1848"
+ },
+ "points": [
+  {
+   "scan": 59,
+   "type": "N",
+   "year": 1844,
+   "months": "VI",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

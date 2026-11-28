@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "6796",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/6796",
+ "signature": "O Nové Město na Moravě",
+ "parish": "Nové Město na Moravě",
+ "records": {
+  "O": "1784–1824"
+ },
+ "points": [
+  {
+   "scan": 29,
+   "type": "O",
+   "year": 1785,
+   "months": "VIII",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

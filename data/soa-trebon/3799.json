@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "3799",
+ "url": "https://digi.ceskearchivy.cz/3799",
+ "signature": "N Bořetice 1836–1914, fara Hořepník, kniha 19",
+ "parish": "Hořepník",
+ "records": {
+  "N": "1836–1914"
+ },
+ "points": [
+  {
+   "scan": 7,
+   "type": "N",
+   "year": 1845,
+   "months": "XII",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

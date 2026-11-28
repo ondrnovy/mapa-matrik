@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "4EA8DE93D6EB4902A994FDD62079CE28",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=4EA8DE93D6EB4902A994FDD62079CE28",
+ "signature": "STŘ N16 1892–1900 – narození, Střešovice, kostel sv. Norberta",
+ "parish": "Střešovice – sv.",
+ "records": {
+  "N": "1892–1900"
+ },
+ "points": [
+  {
+   "scan": 56,
+   "type": "N",
+   "year": 1893,
+   "months": "XII",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be932116-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be932116-f13c-102f-8255-0050568c0263",
+ "signature": "Šu XII 26",
+ "parish": "Rapotín",
+ "records": {
+  "Z": "1850–1886"
+ },
+ "points": [
+  {
+   "scan": 33,
+   "type": "Z",
+   "year": 1859,
+   "months": "V",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 47,
+   "type": "Z",
+   "year": 1863,
+   "months": "VII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 102,
+   "type": "Z",
+   "year": 1876,
+   "months": "II",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 103,
+   "type": "Z",
+   "year": 1876,
+   "months": "V",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 131,
+   "type": "Z",
+   "year": 1883,
+   "months": "VIII",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

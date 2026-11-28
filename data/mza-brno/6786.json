@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "6786",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/6786",
+ "signature": "N Nové Město na Moravě 1713–1760, kniha č. 15918",
+ "parish": "Nové Město na Moravě",
+ "records": {
+  "N": "1713–1760"
+ },
+ "points": [
+  {
+   "scan": 23,
+   "type": "N",
+   "year": 1716,
+   "months": "X",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

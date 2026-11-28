@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "5389",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/5389",
+ "signature": "Žarošice N 1784–1812, kniha č. 6020",
+ "parish": "Žarošice",
+ "records": {
+  "N": "1784–1812"
+ },
+ "points": [
+  {
+   "scan": 119,
+   "type": "N",
+   "year": 1808,
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

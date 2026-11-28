@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "7B65AAF2888E4597A4CA198FBBC4B903",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=7B65AAF2888E4597A4CA198FBBC4B903",
+ "signature": "BŘV O7 1867–1890 – oddaní, Břevnov, kostel sv. Markéty",
+ "parish": "Břevnov – sv. Markéta",
+ "records": {
+  "O": "1867–1890"
+ },
+ "points": [
+  {
+   "scan": 25,
+   "type": "O",
+   "year": 1869,
+   "months": "XI",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

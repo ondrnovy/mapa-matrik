@@ -11,11 +11,25 @@
  },
  "points": [
   {
+   "scan": 6,
+   "type": "O",
+   "year": 1809,
+   "months": "XI",
+   "by": "matriky-index"
+  },
+  {
    "scan": 20,
    "type": "O",
    "year": 1822,
    "months": "VI",
    "by": "pe-pan"
+  },
+  {
+   "scan": 35,
+   "type": "O",
+   "year": 1833,
+   "months": "II",
+   "by": "matriky-index"
   }
  ],
  "sources": [

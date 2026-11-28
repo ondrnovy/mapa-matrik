@@ -251,19 +251,19 @@
   {
    "scan": 120,
    "type": "O",
-   "year": 1809,
-   "months": "V",
-   "by": "matriky-index"
-  },
-  {
-   "scan": 120,
-   "type": "O",
    "year": 1808,
    "year_to": 1812,
    "page": "fol. 4v–5",
    "place": "Příčina",
    "note": "pokračování fol. 6 na sn. 211",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 120,
+   "type": "O",
+   "year": 1809,
+   "months": "V",
+   "by": "matriky-index"
   },
   {
    "scan": 127,
@@ -460,18 +460,18 @@
   {
    "scan": 244,
    "type": "Z",
-   "year": 1812,
-   "months": "I",
-   "by": "matriky-index"
-  },
-  {
-   "scan": 244,
-   "type": "Z",
    "year": 1811,
    "year_to": 1812,
    "page": "fol. 10v–11",
    "place": "Příčina",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 244,
+   "type": "Z",
+   "year": 1812,
+   "months": "I",
+   "by": "matriky-index"
   },
   {
    "scan": 248,

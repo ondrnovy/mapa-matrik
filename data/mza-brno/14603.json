@@ -1,0 +1,41 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "14603",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/14603",
+ "signature": "N Radešínská Svratka 1868–1924, kniha č. 16107",
+ "parish": "Radešínská Svratka",
+ "records": {
+  "N": "1868–1924"
+ },
+ "points": [
+  {
+   "scan": 12,
+   "type": "N",
+   "year": 1872,
+   "months": "V",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 43,
+   "type": "N",
+   "year": 1882,
+   "months": "IV",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 154,
+   "type": "N",
+   "year": 1910,
+   "months": "IX",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

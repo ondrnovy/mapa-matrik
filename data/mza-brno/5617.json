@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "5617",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/5617",
+ "signature": "NOZ Horní Bobrová 1690–1744, kniha č. 15601",
+ "parish": "Horní Bobrová",
+ "records": {
+  "O": "1690–1744"
+ },
+ "points": [
+  {
+   "scan": 379,
+   "type": "O",
+   "year": 1744,
+   "months": "V",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

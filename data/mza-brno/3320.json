@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "3320",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/3320",
+ "signature": "Šitbořice N 1838–1862, kniha č. 3412",
+ "parish": "Šitbořice",
+ "records": {
+  "N": "1838–1862"
+ },
+ "points": [
+  {
+   "scan": 11,
+   "type": "N",
+   "year": 1840,
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

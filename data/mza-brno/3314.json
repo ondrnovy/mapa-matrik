@@ -1,0 +1,176 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "3314",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/3314",
+ "signature": "Šitbořice N, O, D 1726–1777, kniha č. 3409",
+ "parish": "Šitbořice",
+ "records": {
+  "N": "1726–1777",
+  "O": "1726–1777",
+  "Z": "1726–1777"
+ },
+ "points": [
+  {
+   "scan": 6,
+   "type": "N",
+   "year": 1726,
+   "months": "XII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 14,
+   "type": "N",
+   "year": 1729,
+   "months": "III",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 17,
+   "type": "N",
+   "year": 1730,
+   "months": "II",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 31,
+   "type": "N",
+   "year": 1736,
+   "months": "II",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 53,
+   "type": "N",
+   "year": 1742,
+   "months": "X",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 65,
+   "type": "N",
+   "year": 1746,
+   "months": "VIII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 91,
+   "type": "N",
+   "year": 1754,
+   "months": "VI",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 96,
+   "type": "N",
+   "year": 1755,
+   "months": "X",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 115,
+   "type": "N",
+   "year": 1761,
+   "months": "VI",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 128,
+   "type": "N",
+   "year": 1767,
+   "months": "I",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 137,
+   "type": "N",
+   "year": 1769,
+   "months": "X",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 154,
+   "type": "N",
+   "year": 1777,
+   "months": "X",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 162,
+   "type": "O",
+   "year": 1740,
+   "months": "I",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 175,
+   "type": "O",
+   "year": 1751,
+   "months": "I",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 180,
+   "type": "O",
+   "year": 1754,
+   "months": "XI",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 189,
+   "type": "O",
+   "year": 1763,
+   "months": "I",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 191,
+   "type": "O",
+   "year": 1765,
+   "months": "VII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 194,
+   "type": "O",
+   "year": 1769,
+   "months": "I",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 255,
+   "type": "Z",
+   "year": 1763,
+   "months": "XII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 258,
+   "type": "Z",
+   "year": 1765,
+   "months": "V",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 269,
+   "type": "Z",
+   "year": 1768,
+   "months": "IV",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 274,
+   "type": "Z",
+   "year": 1770,
+   "months": "VI",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

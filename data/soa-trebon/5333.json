@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "5333",
+ "url": "https://digi.ceskearchivy.cz/5333",
+ "signature": "Lomnice nad Lužnicí 2 – narození 1697–1763, oddaní a zemřelí 1718–1763",
+ "parish": "Lomnice nad Lužnicí",
+ "records": {
+  "N": "1697–1763"
+ },
+ "points": [
+  {
+   "scan": 15,
+   "type": "N",
+   "year": 1699,
+   "months": "XI",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

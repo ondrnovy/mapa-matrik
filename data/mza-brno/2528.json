@@ -1,0 +1,33 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "2528",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/2528",
+ "signature": "Břeclav O",
+ "parish": "Břeclav",
+ "records": {
+  "O": "1826–1856"
+ },
+ "points": [
+  {
+   "scan": 4,
+   "type": "O",
+   "year": 1828,
+   "months": "I",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 51,
+   "type": "O",
+   "year": 1852,
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

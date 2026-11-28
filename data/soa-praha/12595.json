@@ -1,0 +1,48 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "12595",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/12595",
+ "signature": "Střezimíř 03, N 1760–1795",
+ "parish": "Střezimíř",
+ "records": {
+  "N": "1760–1795"
+ },
+ "points": [
+  {
+   "scan": 65,
+   "type": "N",
+   "year": 1774,
+   "months": "XII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 70,
+   "type": "N",
+   "year": 1778,
+   "months": "V",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 76,
+   "type": "N",
+   "year": 1781,
+   "months": "IV",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 123,
+   "type": "N",
+   "year": 1790,
+   "months": "V",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

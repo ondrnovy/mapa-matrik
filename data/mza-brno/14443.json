@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "14443",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/14443",
+ "signature": "O Nové Město na Moravě 1931–1949, kniha č. 15937",
+ "parish": "Nové Město na Moravě",
+ "records": {
+  "O": "1931–1949"
+ },
+ "points": [
+  {
+   "scan": 223,
+   "type": "O",
+   "year": 1945,
+   "months": "IX",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

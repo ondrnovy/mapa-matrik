@@ -1,0 +1,49 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "7436",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/7436",
+ "signature": "Žďár nad Sázavou N+O+Z 1828–1847, kniha 16601",
+ "parish": "Žďár nad Sázavou",
+ "records": {
+  "N": "1828–1847",
+  "Z": "1828–1847"
+ },
+ "points": [
+  {
+   "scan": 110,
+   "type": "N",
+   "year": 1841,
+   "months": "III",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 119,
+   "type": "N",
+   "year": 1842,
+   "months": "X",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 125,
+   "type": "N",
+   "year": 1843,
+   "months": "X",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 159,
+   "type": "Z",
+   "year": 1829,
+   "months": "VI",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

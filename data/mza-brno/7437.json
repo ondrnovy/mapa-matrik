@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "7437",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/7437",
+ "signature": "Žďár nad Sázavou N+O+Z 1848–1866, kniha 16602",
+ "parish": "Žďár nad Sázavou",
+ "records": {
+  "N": "1848–1866"
+ },
+ "points": [
+  {
+   "scan": 101,
+   "type": "N",
+   "year": 1851,
+   "months": "I",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

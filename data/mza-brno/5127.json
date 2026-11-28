@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "5127",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/5127",
+ "signature": "Mikulčice O 1793–1852, kniha č. 5617",
+ "parish": "Mikulčice O",
+ "records": {
+  "O": "1793–1852"
+ },
+ "points": [
+  {
+   "scan": 14,
+   "type": "O",
+   "year": 1808,
+   "months": "XI",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

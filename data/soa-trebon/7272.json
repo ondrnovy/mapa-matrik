@@ -1,0 +1,63 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "7272",
+ "url": "https://digi.ceskearchivy.cz/7272",
+ "signature": "Soběslav 1 – narození, oddaní, zemřelí 1639–1700",
+ "parish": "Soběslav",
+ "records": {
+  "N": "1639–1700",
+  "O": "1639–1700"
+ },
+ "points": [
+  {
+   "scan": 105,
+   "type": "N",
+   "year": 1663,
+   "months": "XII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 115,
+   "type": "N",
+   "year": 1666,
+   "months": "V",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 122,
+   "type": "N",
+   "year": 1668,
+   "months": "VII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 140,
+   "type": "N",
+   "year": 1672,
+   "months": "IV",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 274,
+   "type": "O",
+   "year": 1696,
+   "months": "XI",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 322,
+   "type": "N",
+   "year": 1699,
+   "months": "XII",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

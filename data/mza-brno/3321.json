@@ -1,0 +1,32 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "3321",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/3321",
+ "signature": "Šitbořice N 1863–1881, kniha č. 3413",
+ "parish": "Šitbořice",
+ "records": {
+  "N": "1863–1881"
+ },
+ "points": [
+  {
+   "scan": 33,
+   "type": "N",
+   "year": 1866,
+   "by": "matriky-index"
+  },
+  {
+   "scan": 70,
+   "type": "N",
+   "year": 1869,
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

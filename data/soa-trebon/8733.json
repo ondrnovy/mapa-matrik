@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "8733",
+ "url": "https://digi.ceskearchivy.cz/8733",
+ "signature": "Zálší 12 – narození 1799–1822",
+ "parish": "Zálší",
+ "records": {
+  "N": "1799–1822"
+ },
+ "points": [
+  {
+   "scan": 114,
+   "type": "N",
+   "year": 1807,
+   "months": "VI",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

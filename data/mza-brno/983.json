@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "983",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/983",
+ "signature": "O Jámy 1898–1925, kniha č. 15666",
+ "parish": "Jámy",
+ "records": {
+  "O": "1898–1925"
+ },
+ "points": [
+  {
+   "scan": 71,
+   "type": "O",
+   "year": 1920,
+   "months": "XI",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

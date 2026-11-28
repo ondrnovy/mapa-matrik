@@ -1,0 +1,55 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "mirosov-05",
+ "url": "https://www.portafontium.eu/register/soap-pn/mirosov-05",
+ "signature": "Mirošov 05",
+ "parish": "Mirošov",
+ "records": {
+  "O": "1740–1811"
+ },
+ "points": [
+  {
+   "scan": 13,
+   "type": "O",
+   "year": 1744,
+   "months": "V",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 34,
+   "type": "O",
+   "year": 1752,
+   "months": "X",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 36,
+   "type": "O",
+   "year": 1752,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 108,
+   "type": "O",
+   "year": 1778,
+   "months": "II",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 109,
+   "type": "O",
+   "year": 1779,
+   "months": "II",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

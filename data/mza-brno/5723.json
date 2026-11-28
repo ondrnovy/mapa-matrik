@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "5723",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/5723",
+ "signature": "Z Jámy 1784–1836, kniha č. 15668",
+ "parish": "Jámy",
+ "records": {
+  "Z": "1784–1836"
+ },
+ "points": [
+  {
+   "scan": 42,
+   "type": "Z",
+   "year": 1830,
+   "months": "XII",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

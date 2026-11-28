@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "4649",
+ "url": "https://digi.ceskearchivy.cz/4649",
+ "signature": "Kamenný Újezd 27 – oddaní 1784–1842",
+ "parish": "Kamenný Újezd",
+ "records": {
+  "O": "1784–1842"
+ },
+ "points": [
+  {
+   "scan": 118,
+   "type": "O",
+   "year": 1812,
+   "months": "II",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

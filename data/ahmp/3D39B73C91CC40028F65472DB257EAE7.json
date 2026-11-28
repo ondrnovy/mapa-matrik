@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "3D39B73C91CC40028F65472DB257EAE7",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=3D39B73C91CC40028F65472DB257EAE7",
+ "signature": "MAG O12 1921 – kniha sňatků",
+ "parish": "Magistrát hl. m. Prahy",
+ "records": {
+  "O": "1921"
+ },
+ "points": [
+  {
+   "scan": 198,
+   "type": "O",
+   "year": 1921,
+   "months": "V",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

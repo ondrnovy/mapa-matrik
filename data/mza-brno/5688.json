@@ -1,0 +1,41 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "5688",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/5688",
+ "signature": "N Jámy 1784–1821, kniha č. 15653",
+ "parish": "Jámy",
+ "records": {
+  "N": "1784–1821"
+ },
+ "points": [
+  {
+   "scan": 41,
+   "type": "N",
+   "year": 1790,
+   "months": "X",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 42,
+   "type": "N",
+   "year": 1792,
+   "months": "I",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 44,
+   "type": "N",
+   "year": 1794,
+   "months": "V",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

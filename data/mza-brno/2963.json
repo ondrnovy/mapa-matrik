@@ -1,0 +1,62 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "2963",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/2963",
+ "signature": "Moravská Nová Ves",
+ "parish": "Moravská Nová Ves",
+ "records": {
+  "Z": "1830–1898"
+ },
+ "points": [
+  {
+   "scan": 42,
+   "type": "Z",
+   "year": 1859,
+   "by": "matriky-index"
+  },
+  {
+   "scan": 44,
+   "type": "Z",
+   "year": 1861,
+   "by": "matriky-index"
+  },
+  {
+   "scan": 55,
+   "type": "Z",
+   "year": 1870,
+   "by": "matriky-index"
+  },
+  {
+   "scan": 66,
+   "type": "Z",
+   "year": 1880,
+   "by": "matriky-index"
+  },
+  {
+   "scan": 82,
+   "type": "Z",
+   "year": 1893,
+   "by": "matriky-index"
+  },
+  {
+   "scan": 88,
+   "type": "Z",
+   "year": 1897,
+   "by": "matriky-index"
+  },
+  {
+   "scan": 90,
+   "type": "Z",
+   "year": 1898,
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

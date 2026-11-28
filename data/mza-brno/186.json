@@ -1,0 +1,41 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "186",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/186",
+ "signature": "Břeclav O 1884–1907, kniha č. 2441",
+ "parish": "Břeclav O",
+ "records": {
+  "O": "1884–1907"
+ },
+ "points": [
+  {
+   "scan": 53,
+   "type": "O",
+   "year": 1890,
+   "months": "II",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 106,
+   "type": "O",
+   "year": 1896,
+   "months": "V",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 126,
+   "type": "O",
+   "year": 1898,
+   "months": "VII",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

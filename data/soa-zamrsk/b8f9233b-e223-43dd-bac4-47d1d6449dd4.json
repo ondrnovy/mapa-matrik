@@ -11,11 +11,25 @@
  },
  "points": [
   {
+   "scan": 12,
+   "type": "N",
+   "year": 1786,
+   "months": "VIII",
+   "by": "matriky-index"
+  },
+  {
    "scan": 233,
    "type": "N",
    "year": 1794,
    "months": "VII",
    "by": "pe-pan"
+  },
+  {
+   "scan": 253,
+   "type": "N",
+   "year": 1820,
+   "months": "IV",
+   "by": "matriky-index"
   },
   {
    "scan": 255,

@@ -1,0 +1,70 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "5927",
+ "url": "https://digi.ceskearchivy.cz/5927",
+ "signature": "NOZ Nová Cerekev 1758–1820, kniha 2",
+ "parish": "Nová Cerekev",
+ "records": {
+  "N": "1758–1820",
+  "O": "1758–1820"
+ },
+ "points": [
+  {
+   "scan": 149,
+   "type": "N",
+   "year": 1783,
+   "months": "VII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 267,
+   "type": "N",
+   "year": 1802,
+   "months": "VII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 328,
+   "type": "O",
+   "year": 1773,
+   "months": "XI",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 331,
+   "type": "O",
+   "year": 1775,
+   "months": "VI",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 345,
+   "type": "O",
+   "year": 1782,
+   "months": "VII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 372,
+   "type": "O",
+   "year": 1801,
+   "months": "I",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 380,
+   "type": "O",
+   "year": 1809,
+   "months": "I",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

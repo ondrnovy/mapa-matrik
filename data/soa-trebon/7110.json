@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "7110",
+ "url": "https://digi.ceskearchivy.cz/7110",
+ "signature": "Římov – zemřelí 1827–1859",
+ "parish": "Římov",
+ "records": {
+  "Z": "1827–1859"
+ },
+ "points": [
+  {
+   "scan": 59,
+   "type": "Z",
+   "year": 1831,
+   "months": "I",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

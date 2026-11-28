@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "aebcc952-6678-4eeb-b40a-ee55bf8a8fde",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/aebcc952-6678-4eeb-b40a-ee55bf8a8fde",
+ "signature": "114-4301",
+ "parish": "Nové Město nad Metují",
+ "records": {
+  "N": "1834–1855"
+ },
+ "points": [
+  {
+   "scan": 86,
+   "type": "N",
+   "year": 1851,
+   "months": "X",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}
