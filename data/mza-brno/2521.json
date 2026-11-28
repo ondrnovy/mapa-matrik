@@ -1,0 +1,60 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "2521",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/2521",
+ "signature": "Břeclav N 1889–1900, kniha č. 2426",
+ "parish": "Břeclav",
+ "records": {
+  "N": "1889–1900"
+ },
+ "points": [
+  {
+   "scan": 59,
+   "type": "N",
+   "year": 1891,
+   "months": "IX",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 130,
+   "type": "N",
+   "year": 1893,
+   "months": "XII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 218,
+   "type": "N",
+   "year": 1896,
+   "year_to": 1897,
+   "by": "matriky-index"
+  },
+  {
+   "scan": 256,
+   "type": "N",
+   "year": 1898,
+   "by": "matriky-index"
+  },
+  {
+   "scan": 287,
+   "type": "N",
+   "year": 1899,
+   "by": "matriky-index"
+  },
+  {
+   "scan": 296,
+   "type": "N",
+   "year": 1899,
+   "months": "VII",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

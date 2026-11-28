@@ -1,0 +1,40 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "2533",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/2533",
+ "signature": "Břeclav D 1884–1909, kniha č. 2453",
+ "parish": "Břeclav D",
+ "records": {
+  "Z": "1884–1909"
+ },
+ "points": [
+  {
+   "scan": 95,
+   "type": "Z",
+   "year": 1898,
+   "months": "III",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 113,
+   "type": "Z",
+   "year": 1900,
+   "by": "matriky-index"
+  },
+  {
+   "scan": 163,
+   "type": "Z",
+   "year": 1905,
+   "months": "I",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

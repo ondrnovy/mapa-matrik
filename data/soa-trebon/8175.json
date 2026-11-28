@@ -1,0 +1,83 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "8175",
+ "url": "https://digi.ceskearchivy.cz/8175",
+ "signature": "Velešín – narození 1744–1784",
+ "parish": "Velešín",
+ "records": {
+  "N": "1744–1784"
+ },
+ "points": [
+  {
+   "scan": 26,
+   "type": "N",
+   "year": 1747,
+   "months": "III",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 48,
+   "type": "N",
+   "year": 1750,
+   "months": "IX",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 51,
+   "type": "N",
+   "year": 1750,
+   "months": "VIII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 68,
+   "type": "N",
+   "year": 1752,
+   "months": "X",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 84,
+   "type": "N",
+   "year": 1755,
+   "months": "VII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 207,
+   "type": "N",
+   "year": 1777,
+   "months": "XI",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 221,
+   "type": "N",
+   "year": 1779,
+   "months": "VIII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 225,
+   "type": "N",
+   "year": 1780,
+   "months": "VIII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 239,
+   "type": "N",
+   "year": 1784,
+   "months": "I",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

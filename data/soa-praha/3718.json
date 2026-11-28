@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "3718",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/3718",
+ "signature": "Arnoštovice 04, N 1745–1762",
+ "parish": "Arnoštovice",
+ "records": {
+  "N": "1745–1762"
+ },
+ "points": [
+  {
+   "scan": 16,
+   "type": "N",
+   "year": 1746,
+   "months": "I",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

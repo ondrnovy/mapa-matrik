@@ -1,0 +1,41 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "6799",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/6799",
+ "signature": "O Nové Město na Moravě 1863–1895, kniha č. 15935",
+ "parish": "Nové Město na Moravě",
+ "records": {
+  "O": "1863–1895"
+ },
+ "points": [
+  {
+   "scan": 73,
+   "type": "O",
+   "year": 1883,
+   "months": "I",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 147,
+   "type": "O",
+   "year": 1888,
+   "months": "II",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 160,
+   "type": "O",
+   "year": 1883,
+   "months": "XI",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

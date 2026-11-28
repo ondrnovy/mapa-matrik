@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "11015",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/11015",
+ "signature": "Pertoltice 13, Z 1799–1836",
+ "parish": "Pertoltice",
+ "records": {
+  "Z": "1799–1836"
+ },
+ "points": [
+  {
+   "scan": 135,
+   "type": "Z",
+   "year": 1820,
+   "months": "XII",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

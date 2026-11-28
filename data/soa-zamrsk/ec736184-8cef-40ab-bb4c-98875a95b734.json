@@ -1,0 +1,50 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "ec736184-8cef-40ab-bb4c-98875a95b734",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/ec736184-8cef-40ab-bb4c-98875a95b734",
+ "signature": "114-3",
+ "parish": "Nové Město nad Metují",
+ "records": {
+  "N": "1695–1726",
+  "O": "1695–1726",
+  "Z": "1695–1726"
+ },
+ "points": [
+  {
+   "scan": 198,
+   "type": "N",
+   "year": 1720,
+   "months": "V",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 315,
+   "type": "O",
+   "year": 1712,
+   "months": "XI",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 317,
+   "type": "O",
+   "year": 1713,
+   "months": "XI",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 422,
+   "type": "Z",
+   "year": 1713,
+   "months": "V",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

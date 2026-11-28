@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "12983",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/12983",
+ "signature": "Velehrad Z 1908–1949, kniha č. 12324",
+ "parish": "Velehrad Z",
+ "records": {
+  "Z": "1908–1949"
+ },
+ "points": [
+  {
+   "scan": 70,
+   "type": "Z",
+   "year": 1943,
+   "months": "I",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

@@ -1,0 +1,112 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "8790",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/8790",
+ "signature": "Zbečno 01",
+ "parish": "Zbečno",
+ "records": {
+  "N": "1658–1714",
+  "O": "1658–1714"
+ },
+ "points": [
+  {
+   "scan": 8,
+   "type": "N",
+   "year": 1659,
+   "months": "II",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 29,
+   "type": "N",
+   "year": 1664,
+   "months": "II",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 30,
+   "type": "N",
+   "year": 1664,
+   "months": "II–III",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 36,
+   "type": "N",
+   "year": 1666,
+   "year_to": 1667,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 37,
+   "type": "N",
+   "year": 1666,
+   "year_to": 1667,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 163,
+   "type": "N",
+   "year": 1688,
+   "months": "III",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 199,
+   "type": "N",
+   "year": 1693,
+   "months": "III",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 203,
+   "type": "N",
+   "year": 1693,
+   "months": "VIII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 211,
+   "type": "N",
+   "year": 1694,
+   "months": "IX",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 225,
+   "type": "N",
+   "year": 1696,
+   "months": "VII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 226,
+   "type": "N",
+   "year": 1696,
+   "months": "IX",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 338,
+   "type": "O",
+   "year": 1678,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 362,
+   "type": "O",
+   "year": 1692,
+   "months": "XI",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

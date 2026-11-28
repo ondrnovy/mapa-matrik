@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "4969",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/4969",
+ "signature": "Dobrovice 23 – NOZ Sýčina 1807–1846",
+ "parish": "Dobrovice",
+ "records": {
+  "N": "1807–1846"
+ },
+ "points": [
+  {
+   "scan": 21,
+   "type": "N",
+   "year": 1834,
+   "months": "V",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

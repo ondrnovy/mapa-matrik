@@ -1,0 +1,48 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "8188",
+ "url": "https://digi.ceskearchivy.cz/8188",
+ "signature": "Velešín 16 1850-1876",
+ "parish": "Velešín 16",
+ "records": {
+  "Z": "1850–1876"
+ },
+ "points": [
+  {
+   "scan": 28,
+   "type": "Z",
+   "year": 1854,
+   "months": "XI",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 66,
+   "type": "Z",
+   "year": 1866,
+   "months": "II",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 68,
+   "type": "Z",
+   "year": 1866,
+   "months": "X",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 69,
+   "type": "Z",
+   "year": 1867,
+   "months": "III",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

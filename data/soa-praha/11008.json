@@ -1,0 +1,41 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "11008",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/11008",
+ "signature": "Pertoltice 06, N 1819–1845",
+ "parish": "Pertoltice",
+ "records": {
+  "N": "1819–1845"
+ },
+ "points": [
+  {
+   "scan": 333,
+   "type": "N",
+   "year": 1825,
+   "months": "X",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 336,
+   "type": "N",
+   "year": 1829,
+   "months": "III",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 346,
+   "type": "N",
+   "year": 1835,
+   "months": "II",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

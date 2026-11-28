@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "3464",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/3464",
+ "signature": "Matriky, kniha č. 592",
+ "parish": "Matriky",
+ "records": {
+  "O": "1868–1894"
+ },
+ "points": [
+  {
+   "scan": 94,
+   "type": "O",
+   "year": 1888,
+   "year_to": 1889,
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

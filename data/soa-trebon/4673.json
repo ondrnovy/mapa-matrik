@@ -1,0 +1,134 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "4673",
+ "url": "https://digi.ceskearchivy.cz/4673",
+ "signature": "Kaplice 2 – narození, sňatky, úmrtí 1667–1700",
+ "parish": "Kaplice",
+ "records": {
+  "N": "1667–1700",
+  "O": "1667–1700",
+  "Z": "1667–1700"
+ },
+ "points": [
+  {
+   "scan": 7,
+   "type": "N",
+   "year": 1667,
+   "months": "X",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 30,
+   "type": "N",
+   "year": 1669,
+   "months": "XII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 48,
+   "type": "N",
+   "year": 1671,
+   "months": "IV",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 60,
+   "type": "N",
+   "year": 1672,
+   "months": "V",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 77,
+   "type": "N",
+   "year": 1673,
+   "months": "XII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 111,
+   "type": "N",
+   "year": 1676,
+   "months": "VII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 139,
+   "type": "N",
+   "year": 1680,
+   "months": "II",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 170,
+   "type": "N",
+   "year": 1684,
+   "months": "III",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 197,
+   "type": "N",
+   "year": 1687,
+   "months": "IV",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 295,
+   "type": "N",
+   "year": 1699,
+   "months": "VI",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 355,
+   "type": "O",
+   "year": 1675,
+   "months": "VII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 405,
+   "type": "O",
+   "year": 1690,
+   "months": "I",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 430,
+   "type": "Z",
+   "year": 1673,
+   "months": "VII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 463,
+   "type": "Z",
+   "year": 1679,
+   "months": "X",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 467,
+   "type": "Z",
+   "year": 1680,
+   "months": "VIII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 486,
+   "type": "Z",
+   "year": 1685,
+   "months": "IX",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

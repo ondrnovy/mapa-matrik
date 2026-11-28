@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "2598",
+ "url": "https://digi.ceskearchivy.cz/2598",
+ "signature": "Zlatá Koruna, matrika narozených, oddaných, zemřelých",
+ "parish": "Zlatá Koruna",
+ "records": {
+  "N": "1736–1766"
+ },
+ "points": [
+  {
+   "scan": 226,
+   "type": "N",
+   "year": 1762,
+   "months": "III",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

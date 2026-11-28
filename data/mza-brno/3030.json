@@ -1,0 +1,97 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "3030",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/3030",
+ "signature": "Novosedly",
+ "parish": "Novosedly",
+ "records": {
+  "Z": "1838–1896"
+ },
+ "points": [
+  {
+   "scan": 20,
+   "type": "Z",
+   "year": 1846,
+   "months": "X",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 43,
+   "type": "Z",
+   "year": 1857,
+   "months": "III",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 46,
+   "type": "Z",
+   "year": 1858,
+   "months": "X",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 63,
+   "type": "Z",
+   "year": 1866,
+   "months": "III",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 79,
+   "type": "Z",
+   "year": 1873,
+   "months": "IV",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 81,
+   "type": "Z",
+   "year": 1874,
+   "months": "I",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 93,
+   "type": "Z",
+   "year": 1879,
+   "months": "XI",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 105,
+   "type": "Z",
+   "year": 1884,
+   "months": "XI–XII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 123,
+   "type": "Z",
+   "year": 1891,
+   "months": "X",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 136,
+   "type": "Z",
+   "year": 1895,
+   "months": "VII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 140,
+   "type": "Z",
+   "year": 1896,
+   "months": "IX",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

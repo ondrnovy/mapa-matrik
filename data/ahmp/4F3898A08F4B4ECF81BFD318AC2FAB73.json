@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "4F3898A08F4B4ECF81BFD318AC2FAB73",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=4f3898a08f4b4ecf81bfd318ac2fab73",
+ "signature": "LBŇ N22 1913–1916 – narození, Libeň, kostel Neposkvrněného početí P. Marie",
+ "parish": "Libeň – Neposkvrněné početí P. Marie",
+ "records": {
+  "N": "1913–1916"
+ },
+ "points": [
+  {
+   "scan": 85,
+   "type": "N",
+   "year": 1913,
+   "months": "IX",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

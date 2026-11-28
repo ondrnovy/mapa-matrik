@@ -1,0 +1,71 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "4674",
+ "url": "https://digi.ceskearchivy.cz/4674",
+ "signature": "Kaplice 3 1701-1723",
+ "parish": "Kaplice 3",
+ "records": {
+  "N": "1701–1723",
+  "O": "1701–1723",
+  "Z": "1701–1723"
+ },
+ "points": [
+  {
+   "scan": 14,
+   "type": "N",
+   "year": 1702,
+   "months": "VIII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 27,
+   "type": "N",
+   "year": 1704,
+   "months": "VII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 37,
+   "type": "N",
+   "year": 1705,
+   "months": "IX",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 139,
+   "type": "N",
+   "year": 1717,
+   "months": "III",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 175,
+   "type": "N",
+   "year": 1721,
+   "months": "IX",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 230,
+   "type": "O",
+   "year": 1715,
+   "months": "I",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 327,
+   "type": "Z",
+   "year": 1718,
+   "months": "III",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

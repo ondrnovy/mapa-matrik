@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "chric-02",
+ "url": "https://www.portafontium.eu/register/soap-pn/chric-02",
+ "signature": "Chříč",
+ "parish": "Chříč",
+ "records": {
+  "O": "1829–1848"
+ },
+ "points": [
+  {
+   "scan": 65,
+   "type": "O",
+   "year": 1838,
+   "months": "II",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

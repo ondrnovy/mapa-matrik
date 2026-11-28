@@ -1,0 +1,55 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "8836",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/8836",
+ "signature": "Chropyně",
+ "parish": "Chropyně",
+ "records": {
+  "N": "1784–1866"
+ },
+ "points": [
+  {
+   "scan": 6,
+   "type": "N",
+   "year": 1786,
+   "months": "VI",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 12,
+   "type": "N",
+   "year": 1788,
+   "months": "VII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 17,
+   "type": "N",
+   "year": 1790,
+   "months": "VI",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 19,
+   "type": "N",
+   "year": 1791,
+   "months": "VII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 29,
+   "type": "N",
+   "year": 1795,
+   "months": "II",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

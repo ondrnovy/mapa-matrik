@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "15108e38-a20d-4988-a1c0-465e70bfb012",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/15108e38-a20d-4988-a1c0-465e70bfb012",
+ "signature": "22-3852",
+ "parish": "České Meziříčí",
+ "records": {
+  "O": "1857–1882"
+ },
+ "points": [
+  {
+   "scan": 47,
+   "type": "O",
+   "year": 1875,
+   "months": "I",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

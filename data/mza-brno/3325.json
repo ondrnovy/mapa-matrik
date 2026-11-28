@@ -1,0 +1,97 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "3325",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/3325",
+ "signature": "Šitbořice D 1784–1866, kniha č. 3420",
+ "parish": "Šitbořice D",
+ "records": {
+  "Z": "1784–1866"
+ },
+ "points": [
+  {
+   "scan": 6,
+   "type": "Z",
+   "year": 1788,
+   "months": "III",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 18,
+   "type": "Z",
+   "year": 1795,
+   "months": "VI",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 33,
+   "type": "Z",
+   "year": 1803,
+   "months": "VIII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 35,
+   "type": "Z",
+   "year": 1805,
+   "months": "II–III",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 42,
+   "type": "Z",
+   "year": 1810,
+   "months": "III",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 63,
+   "type": "Z",
+   "year": 1827,
+   "months": "I",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 77,
+   "type": "Z",
+   "year": 1836,
+   "months": "IX",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 89,
+   "type": "Z",
+   "year": 1842,
+   "months": "XII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 119,
+   "type": "Z",
+   "year": 1856,
+   "months": "XI",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 132,
+   "type": "Z",
+   "year": 1860,
+   "months": "III",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 145,
+   "type": "Z",
+   "year": 1862,
+   "months": "VII",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

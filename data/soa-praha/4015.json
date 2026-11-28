@@ -1,0 +1,41 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "4015",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/4015",
+ "signature": "Bohdaneč 07, O 1807–1863",
+ "parish": "Bohdaneč",
+ "records": {
+  "O": "1807–1863"
+ },
+ "points": [
+  {
+   "scan": 219,
+   "type": "O",
+   "year": 1833,
+   "months": "VIII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 220,
+   "type": "O",
+   "year": 1841,
+   "months": "XI",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 225,
+   "type": "O",
+   "year": 1856,
+   "months": "VII",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

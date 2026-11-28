@@ -1,0 +1,41 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "8845",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/8845",
+ "signature": "Chropyně",
+ "parish": "Chropyně",
+ "records": {
+  "Z": "1784–1883"
+ },
+ "points": [
+  {
+   "scan": 15,
+   "type": "Z",
+   "year": 1790,
+   "months": "VIII–IX",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 41,
+   "type": "Z",
+   "year": 1805,
+   "months": "II",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 43,
+   "type": "Z",
+   "year": 1805,
+   "months": "XII",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

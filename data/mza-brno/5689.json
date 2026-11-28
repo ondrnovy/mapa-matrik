@@ -1,0 +1,33 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "5689",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/5689",
+ "signature": "N Jámy 1822–1836, kniha č. 15654",
+ "parish": "Jámy",
+ "records": {
+  "N": "1822–1836"
+ },
+ "points": [
+  {
+   "scan": 25,
+   "type": "N",
+   "year": 1823,
+   "by": "matriky-index"
+  },
+  {
+   "scan": 33,
+   "type": "N",
+   "year": 1830,
+   "months": "IV",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

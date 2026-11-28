@@ -1,0 +1,32 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "4977",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/4977",
+ "signature": "Dubňany N 1871–1887, kniha č. 5284",
+ "parish": "Dubňany",
+ "records": {
+  "N": "1871–1887"
+ },
+ "points": [
+  {
+   "scan": 87,
+   "type": "N",
+   "year": 1879,
+   "by": "matriky-index"
+  },
+  {
+   "scan": 107,
+   "type": "N",
+   "year": 1881,
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

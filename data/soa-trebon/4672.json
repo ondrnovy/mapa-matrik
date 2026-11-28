@@ -1,0 +1,49 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "4672",
+ "url": "https://digi.ceskearchivy.cz/4672",
+ "signature": "Kaplice 1 1642-1667",
+ "parish": "Kaplice 1",
+ "records": {
+  "N": "1642–1667",
+  "O": "1642–1667"
+ },
+ "points": [
+  {
+   "scan": 3,
+   "type": "N",
+   "year": 1642,
+   "months": "IX",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 25,
+   "type": "N",
+   "year": 1650,
+   "months": "XII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 207,
+   "type": "O",
+   "year": 1662,
+   "months": "XI",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 211,
+   "type": "O",
+   "year": 1664,
+   "months": "X",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

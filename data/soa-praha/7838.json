@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "7838",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/7838",
+ "signature": "Líšnice 12 – O 1777–1816",
+ "parish": "Líšnice",
+ "records": {
+  "O": "1777–1816"
+ },
+ "points": [
+  {
+   "scan": 56,
+   "type": "O",
+   "year": 1791,
+   "months": "IX",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

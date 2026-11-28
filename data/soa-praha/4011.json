@@ -1,0 +1,90 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "4011",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/4011",
+ "signature": "Bohdaneč 03, N 1807–1832",
+ "parish": "Bohdaneč",
+ "records": {
+  "N": "1807–1832"
+ },
+ "points": [
+  {
+   "scan": 162,
+   "type": "N",
+   "year": 1825,
+   "months": "V",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 164,
+   "type": "N",
+   "year": 1827,
+   "months": "VI",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 165,
+   "type": "N",
+   "year": 1828,
+   "months": "VIII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 166,
+   "type": "N",
+   "year": 1830,
+   "months": "III",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 167,
+   "type": "N",
+   "year": 1832,
+   "months": "V",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 304,
+   "type": "N",
+   "year": 1811,
+   "months": "XII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 307,
+   "type": "N",
+   "year": 1816,
+   "months": "X",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 308,
+   "type": "N",
+   "year": 1819,
+   "months": "I",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 309,
+   "type": "N",
+   "year": 1821,
+   "months": "II",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 311,
+   "type": "N",
+   "year": 1822,
+   "months": "XI",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

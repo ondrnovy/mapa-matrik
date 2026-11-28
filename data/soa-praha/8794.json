@@ -7,8 +7,9 @@
  "signature": "Zbečno 03",
  "parish": "Zbečno",
  "records": {
-  "N": "1731–1746",
-  "O": "1731–1746"
+  "N": "1725–1746",
+  "O": "1731–1746",
+  "Z": "1725–1753"
  },
  "points": [
   {
@@ -16,6 +17,20 @@
    "type": "N",
    "year": 1731,
    "months": "VIII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 141,
+   "type": "N",
+   "year": 1725,
+   "year_to": 1742,
+   "by": "pe-pan"
+  },
+  {
+   "scan": 161,
+   "type": "N",
+   "year": 1725,
+   "year_to": 1742,
    "by": "pe-pan"
   },
   {
@@ -37,6 +52,125 @@
    "type": "O",
    "year": 1746,
    "months": "V",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 234,
+   "type": "Z",
+   "year": 1725,
+   "months": "IV",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 235,
+   "type": "Z",
+   "year": 1725,
+   "months": "IX",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 240,
+   "type": "Z",
+   "year": 1727,
+   "months": "II",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 247,
+   "type": "Z",
+   "year": 1728,
+   "months": "IV",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 254,
+   "type": "Z",
+   "year": 1729,
+   "months": "IV",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 255,
+   "type": "Z",
+   "year": 1729,
+   "months": "X–XII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 280,
+   "type": "Z",
+   "year": 1736,
+   "months": "V",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 281,
+   "type": "Z",
+   "year": 1736,
+   "months": "VII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 293,
+   "type": "Z",
+   "year": 1741,
+   "months": "XII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 296,
+   "type": "Z",
+   "year": 1743,
+   "months": "II",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 300,
+   "type": "Z",
+   "year": 1743,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 306,
+   "type": "Z",
+   "year": 1745,
+   "months": "III",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 307,
+   "type": "Z",
+   "year": 1745,
+   "months": "VI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 312,
+   "type": "Z",
+   "year": 1746,
+   "months": "VIII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 329,
+   "type": "Z",
+   "year": 1749,
+   "months": "VI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 337,
+   "type": "Z",
+   "year": 1751,
+   "months": "III",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 348,
+   "type": "Z",
+   "year": 1753,
+   "months": "VI",
    "by": "pe-pan"
   }
  ],

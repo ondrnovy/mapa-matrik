@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "3455",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/3455",
+ "signature": "Matriky, kniha č. 579",
+ "parish": "Matriky",
+ "records": {
+  "N": "1866–1878"
+ },
+ "points": [
+  {
+   "scan": 199,
+   "type": "N",
+   "year": 1878,
+   "months": "IV–X",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

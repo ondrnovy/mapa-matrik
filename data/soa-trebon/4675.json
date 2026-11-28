@@ -1,0 +1,63 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "4675",
+ "url": "https://digi.ceskearchivy.cz/4675",
+ "signature": "Kaplice 4 1724-1760",
+ "parish": "Kaplice 4",
+ "records": {
+  "O": "1724–1760",
+  "Z": "1724–1760"
+ },
+ "points": [
+  {
+   "scan": 351,
+   "type": "O",
+   "year": 1736,
+   "months": "I",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 449,
+   "type": "Z",
+   "year": 1725,
+   "months": "IV",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 495,
+   "type": "Z",
+   "year": 1735,
+   "months": "VI",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 542,
+   "type": "Z",
+   "year": 1744,
+   "months": "III",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 550,
+   "type": "Z",
+   "year": 1746,
+   "months": "VIII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 565,
+   "type": "Z",
+   "year": 1752,
+   "months": "IX",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

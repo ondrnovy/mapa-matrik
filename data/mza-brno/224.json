@@ -1,0 +1,34 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "224",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/224",
+ "signature": "Dubňany Z 1893–1931, kniha č. 5296",
+ "parish": "Dubňany Z",
+ "records": {
+  "Z": "1893–1931"
+ },
+ "points": [
+  {
+   "scan": 112,
+   "type": "Z",
+   "year": 1914,
+   "months": "IX",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 128,
+   "type": "Z",
+   "year": 1917,
+   "months": "XI",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

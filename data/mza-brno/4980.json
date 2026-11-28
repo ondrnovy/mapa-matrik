@@ -1,0 +1,40 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "4980",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/4980",
+ "signature": "Dubňany Z 1800–1892, kniha č. 5295",
+ "parish": "Dubňany Z",
+ "records": {
+  "Z": "1800–1892"
+ },
+ "points": [
+  {
+   "scan": 214,
+   "type": "Z",
+   "year": 1884,
+   "months": "VI–VII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 220,
+   "type": "Z",
+   "year": 1886,
+   "months": "IV",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 230,
+   "type": "Z",
+   "year": 1889,
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

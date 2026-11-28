@@ -1,0 +1,34 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "7111",
+ "url": "https://digi.ceskearchivy.cz/7111",
+ "signature": "Římov 8 – zemřelí 1860–1912",
+ "parish": "Římov",
+ "records": {
+  "Z": "1860–1912"
+ },
+ "points": [
+  {
+   "scan": 35,
+   "type": "Z",
+   "year": 1872,
+   "months": "X",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 62,
+   "type": "Z",
+   "year": 1883,
+   "months": "V",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

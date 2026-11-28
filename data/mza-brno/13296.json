@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "13296",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/13296",
+ "signature": "Z Jámy 1903–1943, kniha č. 15671",
+ "parish": "Jámy",
+ "records": {
+  "Z": "1903–1943"
+ },
+ "points": [
+  {
+   "scan": 107,
+   "type": "Z",
+   "year": 1939,
+   "months": "XI",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

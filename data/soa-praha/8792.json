@@ -1,0 +1,78 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "8792",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/8792",
+ "signature": "Zbečno 02",
+ "parish": "Zbečno",
+ "records": {
+  "N": "1715–1724",
+  "O": "1715–1724",
+  "Z": "1715–1724"
+ },
+ "points": [
+  {
+   "scan": 71,
+   "type": "N",
+   "year": 1721,
+   "months": "X",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 90,
+   "type": "O",
+   "year": 1715,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 102,
+   "type": "O",
+   "year": 1719,
+   "months": "XI",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 106,
+   "type": "O",
+   "year": 1721,
+   "months": "X",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 133,
+   "type": "N",
+   "year": 1724,
+   "months": "XII",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 142,
+   "type": "Z",
+   "year": 1718,
+   "months": "IV",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 148,
+   "type": "Z",
+   "year": 1720,
+   "months": "IV",
+   "by": "pe-pan"
+  },
+  {
+   "scan": 162,
+   "type": "Z",
+   "year": 1724,
+   "months": "VII",
+   "by": "pe-pan"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

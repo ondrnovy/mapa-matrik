@@ -1,0 +1,49 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "2951",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/2951",
+ "signature": "Moravská Nová Ves",
+ "parish": "Moravská Nová Ves",
+ "records": {
+  "N": "1745–1785",
+  "O": "1745–1785"
+ },
+ "points": [
+  {
+   "scan": 123,
+   "type": "N",
+   "year": 1764,
+   "months": "XI",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 309,
+   "type": "O",
+   "year": 1752,
+   "months": "XI",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 329,
+   "type": "O",
+   "year": 1763,
+   "months": "XI",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 365,
+   "type": "O",
+   "year": 1780,
+   "months": "XI",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

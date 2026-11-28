@@ -1,0 +1,61 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "3323",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/3323",
+ "signature": "Šitbořice O 1784–1861, kniha č. 3416",
+ "parish": "Šitbořice O",
+ "records": {
+  "O": "1784–1861"
+ },
+ "points": [
+  {
+   "scan": 3,
+   "type": "O",
+   "year": 1785,
+   "months": "IV",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 5,
+   "type": "O",
+   "year": 1790,
+   "months": "I",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 13,
+   "type": "O",
+   "year": 1797,
+   "months": "VI–VIII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 24,
+   "type": "O",
+   "year": 1817,
+   "months": "II",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 31,
+   "type": "O",
+   "year": 1824,
+   "by": "matriky-index"
+  },
+  {
+   "scan": 47,
+   "type": "O",
+   "year": 1829,
+   "months": "VIII",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

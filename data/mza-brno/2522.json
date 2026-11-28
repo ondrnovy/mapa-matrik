@@ -1,0 +1,33 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "2522",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/2522",
+ "signature": "Břeclav N",
+ "parish": "Břeclav",
+ "records": {
+  "N": "1808–1839"
+ },
+ "points": [
+  {
+   "scan": 53,
+   "type": "N",
+   "year": 1829,
+   "by": "matriky-index"
+  },
+  {
+   "scan": 60,
+   "type": "N",
+   "year": 1832,
+   "months": "XII",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

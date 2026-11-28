@@ -1,0 +1,78 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "13008",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/13008",
+ "signature": "Týnec nad Sázavou 01",
+ "parish": "Týnec nad Sázavou",
+ "records": {
+  "N": "1722–1762",
+  "O": "1722–1762",
+  "Z": "1722–1762"
+ },
+ "points": [
+  {
+   "scan": 6,
+   "type": "N",
+   "year": 1723,
+   "months": "III",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 124,
+   "type": "N",
+   "year": 1747,
+   "months": "III",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 144,
+   "type": "N",
+   "year": 1752,
+   "months": "VII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 171,
+   "type": "N",
+   "year": 1758,
+   "months": "IV",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 237,
+   "type": "O",
+   "year": 1734,
+   "months": "XI",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 318,
+   "type": "Z",
+   "year": 1732,
+   "months": "XII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 321,
+   "type": "Z",
+   "year": 1734,
+   "months": "III",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 413,
+   "type": "Z",
+   "year": 1762,
+   "months": "VI",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

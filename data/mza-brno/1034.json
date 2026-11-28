@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "1034",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/1034",
+ "signature": "Žďár nad Sázavou O 1867–1894, kniha 16603",
+ "parish": "Žďár nad Sázavou",
+ "records": {
+  "O": "1867–1894"
+ },
+ "points": [
+  {
+   "scan": 23,
+   "type": "O",
+   "year": 1874,
+   "months": "IV",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

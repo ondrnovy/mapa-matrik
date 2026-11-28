@@ -1,0 +1,41 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "9412",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/9412",
+ "signature": "Načeradec 18, Z 1842–1875",
+ "parish": "Načeradec",
+ "records": {
+  "Z": "1842–1875"
+ },
+ "points": [
+  {
+   "scan": 37,
+   "type": "Z",
+   "year": 1846,
+   "months": "XI",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 52,
+   "type": "Z",
+   "year": 1848,
+   "months": "V",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 109,
+   "type": "Z",
+   "year": 1857,
+   "months": "IX",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

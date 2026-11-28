@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "2738",
+ "url": "https://digi.ceskearchivy.cz/2738",
+ "signature": "České Budějovice",
+ "parish": "České Budějovice",
+ "records": {
+  "N": "1872–1875"
+ },
+ "points": [
+  {
+   "scan": 426,
+   "type": "N",
+   "year": 1875,
+   "months": "I",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

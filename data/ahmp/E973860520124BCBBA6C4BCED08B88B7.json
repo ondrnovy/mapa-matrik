@@ -1,0 +1,35 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "E973860520124BCBBA6C4BCED08B88B7",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=E973860520124BCBBA6C4BCED08B88B7",
+ "signature": "BBČ N15 O13 1827–1847 – narození a oddaní, Malé Holešovice",
+ "parish": "Bubeneč",
+ "records": {
+  "N": "1827–1847",
+  "O": "1827–1847"
+ },
+ "points": [
+  {
+   "scan": 4,
+   "type": "O",
+   "year": 1828,
+   "months": "VI",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 26,
+   "type": "N",
+   "year": 1829,
+   "months": "IX",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

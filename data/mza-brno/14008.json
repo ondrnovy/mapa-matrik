@@ -1,0 +1,34 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "14008",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/14008",
+ "signature": "Matriky, kniha č. 604",
+ "parish": "Matriky",
+ "records": {
+  "Z": "1916–1949"
+ },
+ "points": [
+  {
+   "scan": 132,
+   "type": "Z",
+   "year": 1930,
+   "year_to": 1931,
+   "by": "matriky-index"
+  },
+  {
+   "scan": 141,
+   "type": "Z",
+   "year": 1946,
+   "year_to": 1947,
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

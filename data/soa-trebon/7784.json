@@ -1,0 +1,50 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "7784",
+ "url": "https://digi.ceskearchivy.cz/7784",
+ "signature": "Ševětín 1 – narození, oddaní, zemřelí 1705–1763",
+ "parish": "Ševětín",
+ "records": {
+  "N": "1705–1763",
+  "O": "1705–1763",
+  "Z": "1705–1763"
+ },
+ "points": [
+  {
+   "scan": 110,
+   "type": "N",
+   "year": 1734,
+   "months": "VII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 146,
+   "type": "O",
+   "year": 1722,
+   "months": "V",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 207,
+   "type": "Z",
+   "year": 1723,
+   "months": "VIII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 226,
+   "type": "Z",
+   "year": 1739,
+   "months": "I",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "3828",
+ "url": "https://digi.ceskearchivy.cz/3828",
+ "signature": "O Vítovice 1836–1912, fara Hořepník, kniha 48",
+ "parish": "Hořepník",
+ "records": {
+  "O": "1836–1912"
+ },
+ "points": [
+  {
+   "scan": 1,
+   "type": "O",
+   "year": 1836,
+   "months": "XI",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

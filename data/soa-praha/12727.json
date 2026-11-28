@@ -1,0 +1,30 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "12727",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/12727",
+ "signature": "Svatý Jan pod Skalou 13 – O",
+ "parish": "Svatý Jan pod Skalou",
+ "records": {
+  "O": "1825"
+ },
+ "points": [
+  {
+   "scan": 44,
+   "type": "O",
+   "year": 1825,
+   "months": "V",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ],
+ "notes": [
+  "Roky v records jen podle zápisů přečtených v indexu matrik; kniha může být širší."
+ ]
+}

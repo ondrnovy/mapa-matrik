@@ -7,9 +7,18 @@
  "signature": "N/O/Z Zálší 1669–1717",
  "parish": "N/O/Z Zálší 1669–1717",
  "records": {
-  "N": "1697–1702"
+  "N": "1695–1707",
+  "O": "1697–1701",
+  "Z": "1700"
  },
  "points": [
+  {
+   "scan": 50,
+   "type": "N",
+   "year": 1695,
+   "months": "I",
+   "by": "matriky-index"
+  },
   {
    "scan": 54,
    "type": "N",
@@ -17,16 +26,76 @@
    "by": "schranka"
   },
   {
+   "scan": 56,
+   "type": "N",
+   "year": 1697,
+   "months": "X",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 63,
+   "type": "N",
+   "year": 1702,
+   "months": "IV",
+   "by": "matriky-index"
+  },
+  {
    "scan": 65,
    "type": "N",
    "year": 1702,
    "by": "schranka"
+  },
+  {
+   "scan": 66,
+   "type": "N",
+   "year": 1703,
+   "months": "IV",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 70,
+   "type": "N",
+   "year": 1705,
+   "months": "VI",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 74,
+   "type": "N",
+   "year": 1707,
+   "months": "II",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 120,
+   "type": "O",
+   "year": 1697,
+   "months": "I",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 124,
+   "type": "O",
+   "year": 1701,
+   "months": "V",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 151,
+   "type": "Z",
+   "year": 1700,
+   "months": "IX",
+   "by": "matriky-index"
   }
  ],
  "sources": [
   {
    "by": "schranka",
    "date": "2026-11-25"
+  },
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
   }
  ]
 }

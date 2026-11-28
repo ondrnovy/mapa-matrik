@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "7433",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/7433",
+ "signature": "Žďár nad Sázavou N+O+Z 1720–1770, kniha 16598",
+ "parish": "Žďár nad Sázavou",
+ "records": {
+  "N": "1720–1770"
+ },
+ "points": [
+  {
+   "scan": 291,
+   "type": "N",
+   "year": 1768,
+   "months": "VI",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

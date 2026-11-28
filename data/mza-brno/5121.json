@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "5121",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/5121",
+ "signature": "Mikulčice N 1728–1792, O 1722–1792, Z 1722–1792, kniha č. 5608",
+ "parish": "Mikulčice",
+ "records": {
+  "N": "1722–1792"
+ },
+ "points": [
+  {
+   "scan": 171,
+   "type": "N",
+   "year": 1786,
+   "months": "X",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

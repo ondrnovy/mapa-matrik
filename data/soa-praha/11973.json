@@ -58,18 +58,18 @@
   {
    "scan": 15,
    "type": "N",
-   "year": 1801,
-   "months": "IV",
-   "by": "matriky-index"
-  },
-  {
-   "scan": 15,
-   "type": "N",
    "year": 1800,
    "year_to": 1801,
    "page": "24–25 (fol. 12–13)",
    "place": "Modřejovice",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 15,
+   "type": "N",
+   "year": 1801,
+   "months": "IV",
+   "by": "matriky-index"
   },
   {
    "scan": 16,
@@ -201,6 +201,16 @@
   {
    "scan": 54,
    "type": "O",
+   "year": 1794,
+   "year_to": 1801,
+   "page": "4–5 (fol. 31–32)",
+   "place": "Modřejovice",
+   "note": "1795–97 bez sňatků; 1799 nic",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 54,
+   "type": "O",
    "year": 1797,
    "year_to": 1802,
    "page": "4–5",
@@ -212,16 +222,6 @@
    "year": 1801,
    "months": "X",
    "by": "matriky-index"
-  },
-  {
-   "scan": 54,
-   "type": "O",
-   "year": 1794,
-   "year_to": 1801,
-   "page": "4–5 (fol. 31–32)",
-   "place": "Modřejovice",
-   "note": "1795–97 bez sňatků; 1799 nic",
-   "by": "ondrnovy"
   },
   {
    "scan": 55,

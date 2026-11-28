@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "6798",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/6798",
+ "signature": "O Nové Město na Moravě 1825–1862, kniha č. 15934",
+ "parish": "Nové Město na Moravě",
+ "records": {
+  "O": "1825–1862"
+ },
+ "points": [
+  {
+   "scan": 92,
+   "type": "O",
+   "year": 1834,
+   "months": "II",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

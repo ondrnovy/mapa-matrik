@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "11661",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/11661",
+ "signature": "Břeclav N 1909–1920, kniha č. 2428",
+ "parish": "Břeclav",
+ "records": {
+  "N": "1909–1920"
+ },
+ "points": [
+  {
+   "scan": 101,
+   "type": "N",
+   "year": 1912,
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

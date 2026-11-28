@@ -1,0 +1,35 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "6980",
+ "url": "https://digi.ceskearchivy.cz/6980",
+ "signature": "Rožmitál na Šumavě, matrika BMD 1722–1770",
+ "parish": "Rožmitál na Šumavě",
+ "records": {
+  "N": "1722–1770",
+  "Z": "1722–1770"
+ },
+ "points": [
+  {
+   "scan": 20,
+   "type": "N",
+   "year": 1726,
+   "months": "XII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 295,
+   "type": "Z",
+   "year": 1761,
+   "months": "I",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

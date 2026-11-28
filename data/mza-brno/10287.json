@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "10287",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/10287",
+ "signature": "Břeclav",
+ "parish": "Břeclav",
+ "records": {
+  "O": "1913–1933"
+ },
+ "points": [
+  {
+   "scan": 46,
+   "type": "O",
+   "year": 1920,
+   "months": "IV",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

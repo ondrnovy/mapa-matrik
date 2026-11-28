@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "4694",
+ "url": "https://digi.ceskearchivy.cz/4694",
+ "signature": "Kaplice 23",
+ "parish": "Kaplice",
+ "records": {
+  "Z": "1761–1811"
+ },
+ "points": [
+  {
+   "scan": 40,
+   "type": "Z",
+   "year": 1770,
+   "months": "III",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

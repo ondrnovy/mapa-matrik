@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "B622FAF8618B42C4BD87E4B6B375DDD9",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=B622FAF8618B42C4BD87E4B6B375DDD9",
+ "signature": "STR O7 1865–1895 – oddaní, Strahov, kostel Nanebevzetí P. Marie",
+ "parish": "Strahov – Nanebevzetí P. Marie",
+ "records": {
+  "O": "1865–1895"
+ },
+ "points": [
+  {
+   "scan": 16,
+   "type": "O",
+   "year": 1867,
+   "months": "II",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

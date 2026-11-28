@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "9490",
+ "url": "https://digi.ceskearchivy.cz/9490",
+ "signature": "České Budějovice",
+ "parish": "České Budějovice",
+ "records": {
+  "N": "1848–1920"
+ },
+ "points": [
+  {
+   "scan": 224,
+   "type": "N",
+   "year": 1899,
+   "months": "VI",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

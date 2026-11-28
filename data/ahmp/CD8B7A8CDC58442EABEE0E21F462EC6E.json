@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "CD8B7A8CDC58442EABEE0E21F462EC6E",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=CD8B7A8CDC58442EABEE0E21F462EC6E",
+ "signature": "BŘV N9 1842–1856 – narození, Břevnov, kostel sv. Markéty",
+ "parish": "Břevnov – sv. Markéta",
+ "records": {
+  "N": "1842–1856"
+ },
+ "points": [
+  {
+   "scan": 51,
+   "type": "N",
+   "year": 1846,
+   "months": "VI",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "9405",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/9405",
+ "signature": "Načeradec 11, O 1784–1818",
+ "parish": "Načeradec",
+ "records": {
+  "O": "1784–1818"
+ },
+ "points": [
+  {
+   "scan": 49,
+   "type": "O",
+   "year": 1807,
+   "months": "V",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

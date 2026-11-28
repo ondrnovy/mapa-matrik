@@ -17,6 +17,13 @@
  ],
  "points": [
   {
+   "scan": 7,
+   "type": "N",
+   "year": 1778,
+   "months": "VIII",
+   "by": "matriky-index"
+  },
+  {
    "scan": 135,
    "type": "iN",
    "letters": "S",
@@ -37,6 +44,10 @@
   {
    "by": "xrojar-byte",
    "date": "2026-11-24"
+  },
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
   }
  ]
 }

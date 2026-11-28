@@ -1,0 +1,63 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "6345",
+ "url": "https://digi.ceskearchivy.cz/6345",
+ "signature": "NOZ Vlásenice 1787–1863, fara Pelhřimov, kniha 37",
+ "parish": "Pelhřimov",
+ "records": {
+  "N": "1787–1863",
+  "O": "1787–1863"
+ },
+ "points": [
+  {
+   "scan": 4,
+   "type": "N",
+   "year": 1791,
+   "months": "II",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 11,
+   "type": "N",
+   "year": 1799,
+   "months": "III",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 47,
+   "type": "N",
+   "year": 1840,
+   "months": "VII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 65,
+   "type": "O",
+   "year": 1790,
+   "months": "II",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 72,
+   "type": "O",
+   "year": 1822,
+   "months": "II",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 79,
+   "type": "O",
+   "year": 1850,
+   "months": "VIII",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

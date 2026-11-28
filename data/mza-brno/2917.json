@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "2917",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/2917",
+ "signature": "N Boskovice 1894–1906, kniha č. 178",
+ "parish": "Boskovice",
+ "records": {
+  "N": "1894–1906"
+ },
+ "points": [
+  {
+   "scan": 131,
+   "type": "N",
+   "year": 1901,
+   "months": "IV",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

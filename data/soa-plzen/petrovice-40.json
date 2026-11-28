@@ -27,12 +27,23 @@
    "page": "2",
    "place": "Zámyšl",
    "by": "xrojar-byte"
+  },
+  {
+   "scan": 4,
+   "type": "O",
+   "year": 1796,
+   "months": "I",
+   "by": "matriky-index"
   }
  ],
  "sources": [
   {
    "by": "xrojar-byte",
    "date": "2026-11-25"
+  },
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
   }
  ]
 }

@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "8824",
+ "url": "https://digi.ceskearchivy.cz/8824",
+ "signature": "Zhoř 19 – Těchobuz N/O/Z 1784–1822",
+ "parish": "Zhoř",
+ "records": {
+  "N": "1784–1822"
+ },
+ "points": [
+  {
+   "scan": 35,
+   "type": "N",
+   "year": 1809,
+   "months": "IX",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

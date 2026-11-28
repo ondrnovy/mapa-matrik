@@ -1,0 +1,62 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "12789",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/12789",
+ "signature": "Novosedly",
+ "parish": "Novosedly",
+ "records": {
+  "Z": "1897–1949"
+ },
+ "points": [
+  {
+   "scan": 5,
+   "type": "Z",
+   "year": 1898,
+   "months": "V",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 37,
+   "type": "Z",
+   "year": 1911,
+   "months": "III",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 40,
+   "type": "Z",
+   "year": 1912,
+   "months": "IV",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 73,
+   "type": "Z",
+   "year": 1926,
+   "months": "V",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 93,
+   "type": "Z",
+   "year": 1935,
+   "months": "I",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 100,
+   "type": "Z",
+   "year": 1938,
+   "months": "VI",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

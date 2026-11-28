@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "14366",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/14366",
+ "signature": "O Radešínská Svratka 1936–1949, kniha č. 16113",
+ "parish": "Radešínská Svratka",
+ "records": {
+  "O": "1936–1949"
+ },
+ "points": [
+  {
+   "scan": 78,
+   "type": "O",
+   "year": 1947,
+   "months": "V",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

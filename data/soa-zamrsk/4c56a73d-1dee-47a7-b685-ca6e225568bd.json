@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "4c56a73d-1dee-47a7-b685-ca6e225568bd",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/4c56a73d-1dee-47a7-b685-ca6e225568bd",
+ "signature": "22-8",
+ "parish": "České Meziříčí",
+ "records": {
+  "O": "1793–1856"
+ },
+ "points": [
+  {
+   "scan": 113,
+   "type": "O",
+   "year": 1819,
+   "months": "II",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

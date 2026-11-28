@@ -1,0 +1,62 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "8180",
+ "url": "https://digi.ceskearchivy.cz/8180",
+ "signature": "Velešín 8 – narození 1877–1908",
+ "parish": "Velešín",
+ "records": {
+  "N": "1877–1908"
+ },
+ "points": [
+  {
+   "scan": 175,
+   "type": "N",
+   "year": 1895,
+   "months": "XII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 188,
+   "type": "N",
+   "year": 1897,
+   "months": "II",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 199,
+   "type": "N",
+   "year": 1898,
+   "months": "II",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 235,
+   "type": "N",
+   "year": 1901,
+   "months": "VI",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 252,
+   "type": "N",
+   "year": 1902,
+   "months": "VIII",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 274,
+   "type": "N",
+   "year": 1904,
+   "months": "II",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

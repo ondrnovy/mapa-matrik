@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "5722",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/5722",
+ "signature": "O Jámy 1871–1897, kniha č. 15665",
+ "parish": "Jámy",
+ "records": {
+  "O": "1871–1897"
+ },
+ "points": [
+  {
+   "scan": 54,
+   "type": "O",
+   "year": 1894,
+   "months": "X",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "2599",
+ "url": "https://digi.ceskearchivy.cz/2599",
+ "signature": "Zlatá Koruna, matrika narozených 1767–1786",
+ "parish": "Zlatá Koruna",
+ "records": {
+  "N": "1767–1786"
+ },
+ "points": [
+  {
+   "scan": 67,
+   "type": "N",
+   "year": 1784,
+   "months": "V",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

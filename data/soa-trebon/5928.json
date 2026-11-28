@@ -1,0 +1,41 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "5928",
+ "url": "https://digi.ceskearchivy.cz/5928",
+ "signature": "N Nová Cerekev 1784–1835, kniha 3",
+ "parish": "Nová Cerekev",
+ "records": {
+  "N": "1784–1835"
+ },
+ "points": [
+  {
+   "scan": 101,
+   "type": "N",
+   "year": 1786,
+   "year_to": 1789,
+   "by": "matriky-index"
+  },
+  {
+   "scan": 109,
+   "type": "N",
+   "year": 1819,
+   "months": "III",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 394,
+   "type": "N",
+   "year": 1799,
+   "months": "XII",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

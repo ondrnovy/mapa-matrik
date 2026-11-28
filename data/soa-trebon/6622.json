@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "6622",
+ "url": "https://digi.ceskearchivy.cz/6622",
+ "signature": "O Pošná 1788–1813, kniha 8",
+ "parish": "Pošná",
+ "records": {
+  "O": "1788–1813"
+ },
+ "points": [
+  {
+   "scan": 25,
+   "type": "O",
+   "year": 1788,
+   "months": "XI",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

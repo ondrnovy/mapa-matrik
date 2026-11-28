@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "5935",
+ "url": "https://digi.ceskearchivy.cz/5935",
+ "signature": "O Nová Cerekev 1864–1920, kniha 10",
+ "parish": "Nová Cerekev",
+ "records": {
+  "O": "1864–1920"
+ },
+ "points": [
+  {
+   "scan": 232,
+   "type": "O",
+   "year": 1897,
+   "months": "XI",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

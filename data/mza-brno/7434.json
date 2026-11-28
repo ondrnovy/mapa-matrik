@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "7434",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/7434",
+ "signature": "Žďár nad Sázavou N 1771–1794, kniha 16599",
+ "parish": "Žďár nad Sázavou",
+ "records": {
+  "N": "1771–1794"
+ },
+ "points": [
+  {
+   "scan": 108,
+   "type": "N",
+   "year": 1792,
+   "months": "XII",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

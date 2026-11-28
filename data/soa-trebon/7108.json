@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "7108",
+ "url": "https://digi.ceskearchivy.cz/7108",
+ "signature": "Římov – oddaní 1853–1912",
+ "parish": "Římov",
+ "records": {
+  "O": "1853–1912"
+ },
+ "points": [
+  {
+   "scan": 46,
+   "type": "O",
+   "year": 1874,
+   "months": "II",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

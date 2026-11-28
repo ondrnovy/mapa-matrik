@@ -1,0 +1,50 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "18c2143e-deb3-42ce-8c93-918c0ba4599d",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/18c2143e-deb3-42ce-8c93-918c0ba4599d",
+ "signature": "8-1",
+ "parish": "Bohuslavice",
+ "records": {
+  "N": "1742–1784",
+  "O": "1742–1784",
+  "Z": "1742–1784"
+ },
+ "points": [
+  {
+   "scan": 48,
+   "type": "N",
+   "year": 1755,
+   "months": "V",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 53,
+   "type": "N",
+   "year": 1756,
+   "months": "IX",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 202,
+   "type": "O",
+   "year": 1779,
+   "months": "I",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 245,
+   "type": "Z",
+   "year": 1750,
+   "months": "XII",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}

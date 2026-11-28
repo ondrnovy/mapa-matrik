@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "6346",
+ "url": "https://digi.ceskearchivy.cz/6346",
+ "signature": "NOZ Vlásenice 1862–1915, fara Pelhřimov, kniha 38",
+ "parish": "Pelhřimov",
+ "records": {
+  "O": "1862–1915"
+ },
+ "points": [
+  {
+   "scan": 74,
+   "type": "O",
+   "year": 1864,
+   "months": "II",
+   "by": "matriky-index"
+  }
+ ],
+ "sources": [
+  {
+   "by": "matriky-index",
+   "date": "2026-11-28"
+  }
+ ]
+}
